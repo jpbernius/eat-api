@@ -9,22 +9,22 @@
                     "name": "Kartoffelröstis mit Kräutersahnequark",
                     "price": 2.4,
                     "ingredients": [
-                        "Mi",
-                        "Kn"
+                        "Kn",
+                        "Mi"
                     ]
                 },
                 {
                     "name": "Rindfleischstreifen Spicy Ginger mit Bambussprossen",
                     "price": 3.0,
                     "ingredients": [
-                        "GlW",
-                        "R",
-                        "Mi",
+                        "2",
                         "Gl",
-                        "So",
                         "GlG",
+                        "GlW",
                         "Kn",
-                        "2"
+                        "Mi",
+                        "R",
+                        "So"
                     ]
                 }
             ]
@@ -36,25 +36,25 @@
                     "name": "Chop Suey vom Schweinefleisch",
                     "price": 2.4,
                     "ingredients": [
-                        "GlW",
-                        "Gl",
                         "3",
+                        "5",
+                        "Gl",
+                        "GlW",
+                        "Kn",
                         "S",
                         "So",
-                        "Sw",
-                        "5",
-                        "Kn"
+                        "Sw"
                     ]
                 },
                 {
                     "name": "Couscousbratling mit Paprika-Hummus (Kichererbsenmus)",
                     "price": 3.0,
                     "ingredients": [
-                        "GlW",
-                        "Gl",
+                        "2",
                         "Ei",
-                        "Kn",
-                        "2"
+                        "Gl",
+                        "GlW",
+                        "Kn"
                     ]
                 }
             ]
@@ -66,25 +66,25 @@
                     "name": "Kartoffel-Zucchini-Auflauf mit Paprikasauce",
                     "price": 2.4,
                     "ingredients": [
-                        "GlW",
-                        "Mi",
-                        "Gl",
-                        "Ei",
                         "1",
+                        "2",
+                        "Ei",
+                        "Gl",
+                        "GlW",
                         "Kn",
-                        "2"
+                        "Mi"
                     ]
                 },
                 {
                     "name": "Münchner Gulasch vom Rind",
                     "price": 3.2,
                     "ingredients": [
-                        "GlW",
-                        "R",
-                        "Mi",
                         "Gl",
                         "GlG",
-                        "Kn"
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R"
                     ]
                 }
             ]
@@ -96,19 +96,19 @@
                     "name": "Penne mit Tomaten-Frischkäse-Sauce",
                     "price": 1.9,
                     "ingredients": [
+                        "Gl",
                         "GlW",
-                        "Mi",
                         "Kn",
-                        "Gl"
+                        "Mi"
                     ]
                 },
                 {
                     "name": "Tandoori Chicken in Joghurtmarinade und Gurken-Minz-Dip",
                     "price": 2.4,
                     "ingredients": [
-                        "Sf",
+                        "Kn",
                         "Mi",
-                        "Kn"
+                        "Sf"
                     ]
                 }
             ]
@@ -121,20 +121,20 @@
                     "price": 2.8,
                     "ingredients": [
                         "Ei",
-                        "Mi",
+                        "Gl",
                         "GlW",
-                        "Gl"
+                        "Mi"
                     ]
                 },
                 {
                     "name": "Kabeljaufilet (MSC) mit einer Gurken-Senfsauce",
                     "price": 3.5,
                     "ingredients": [
+                        "Ei",
+                        "Fi",
+                        "Gl",
                         "GlW",
                         "Mi",
-                        "Gl",
-                        "Fi",
-                        "Ei",
                         "Sf",
                         "Sl"
                     ]

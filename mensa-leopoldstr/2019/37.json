@@ -9,10 +9,10 @@
                     "name": "Kalbsrahmgulasch mit Champignons und Weißwein",
                     "price": "N/A",
                     "ingredients": [
-                        "Mi",
                         "99",
                         "Gl",
                         "GlW",
+                        "Mi",
                         "Sw"
                     ]
                 },
@@ -20,25 +20,25 @@
                     "name": "Fleischpflanzerl mit Kümmelsauce",
                     "price": "0.75€ / 100g",
                     "ingredients": [
-                        "Mi",
-                        "Kn",
-                        "Sf",
                         "Ei",
-                        "S",
                         "Gl",
                         "GlG",
                         "GlW",
-                        "R"
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "S",
+                        "Sf"
                     ]
                 },
                 {
                     "name": "Falafel mit Joghurt-Gurken-Minz Dip",
                     "price": "N/A",
                     "ingredients": [
-                        "Mi",
-                        "Kn",
                         "Gl",
-                        "GlW"
+                        "GlW",
+                        "Kn",
+                        "Mi"
                     ]
                 },
                 {
@@ -57,37 +57,37 @@
                     "name": "Spaghetti al olio",
                     "price": "individual",
                     "ingredients": [
-                        "Kn",
                         "Gl",
-                        "GlW"
+                        "GlW",
+                        "Kn"
                     ]
                 },
                 {
                     "name": "Seelachsfilet (MSC) nach Müllerin Art",
                     "price": "N/A",
                     "ingredients": [
-                        "Mi",
-                        "Sf",
-                        "Fi",
                         "1",
+                        "Fi",
                         "Gl",
-                        "GlW"
+                        "GlW",
+                        "Mi",
+                        "Sf"
                     ]
                 },
                 {
                     "name": "Sweet & Sour mit Schweinefleisch",
                     "price": "0.75€ / 100g",
                     "ingredients": [
-                        "Kn",
-                        "Sf",
-                        "2",
                         "11",
+                        "2",
+                        "3",
+                        "5",
+                        "Kn",
+                        "S",
+                        "Sf",
                         "Sl",
                         "So",
-                        "S",
-                        "Sw",
-                        "5",
-                        "3"
+                        "Sw"
                     ]
                 },
                 {
@@ -131,20 +131,20 @@
                     "name": "Gefüllte Paprikaschote mit Tomatensauce",
                     "price": "N/A",
                     "ingredients": [
-                        "Mi",
-                        "Kn",
                         "2",
                         "Gl",
+                        "GlD",
                         "GlW",
-                        "GlD"
+                        "Kn",
+                        "Mi"
                     ]
                 },
                 {
                     "name": "Buntes Gemüse in scharfer Kokosmilch",
                     "price": "0.33€ / 100g",
                     "ingredients": [
-                        "Kn",
                         "2",
+                        "Kn",
                         "Sf"
                     ]
                 }
@@ -164,27 +164,27 @@
                     "name": "Bio-Tortelloni all'arrabiata",
                     "price": "0.75€ / 100g",
                     "ingredients": [
-                        "Kn",
                         "Gl",
-                        "GlW"
+                        "GlW",
+                        "Kn"
                     ]
                 },
                 {
                     "name": "Fränkische Bratwurst",
                     "price": "N/A",
                     "ingredients": [
-                        "S",
+                        "8",
                         "R",
-                        "8"
+                        "S"
                     ]
                 },
                 {
                     "name": "Bulgur mit Zucchini und Tomaten",
                     "price": "0.33€ / 100g",
                     "ingredients": [
-                        "Kn",
                         "Gl",
-                        "GlW"
+                        "GlW",
+                        "Kn"
                     ]
                 }
             ]
@@ -196,22 +196,22 @@
                     "name": "Forelle Müllerin Art mit Zitronenbutter",
                     "price": "N/A",
                     "ingredients": [
-                        "Mi",
-                        "Sf",
-                        "Fi",
                         "1",
+                        "Fi",
                         "Gl",
-                        "GlW"
+                        "GlW",
+                        "Mi",
+                        "Sf"
                     ]
                 },
                 {
                     "name": "Gebratene Hähnchenkeule mit Barbecuesauce",
                     "price": "0.75€ / 100g",
                     "ingredients": [
-                        "Kn",
-                        "Sf",
                         "10",
                         "11",
+                        "Kn",
+                        "Sf",
                         "Sl"
                     ]
                 },
@@ -219,19 +219,19 @@
                     "name": "Pfannkuchen mit Heidelbeerfüllung und Vanillesauce",
                     "price": "N/A",
                     "ingredients": [
-                        "Mi",
                         "Ei",
                         "Gl",
-                        "GlW"
+                        "GlW",
+                        "Mi"
                     ]
                 },
                 {
                     "name": "Karibische Reispfanne mit Kokos, Erdnüssen, Ananas und Paprika",
                     "price": "0.33€ / 100g",
                     "ingredients": [
-                        "Kn",
                         "2",
-                        "En"
+                        "En",
+                        "Kn"
                     ]
                 }
             ]

@@ -9,26 +9,26 @@
                     "name": "Chinapfanne mit Putenfleisch",
                     "price": 2.4,
                     "ingredients": [
-                        "GlW",
+                        "2",
                         "Gl",
-                        "So",
-                        "Sf",
+                        "GlW",
                         "Kn",
-                        "2"
+                        "Sf",
+                        "So"
                     ]
                 },
                 {
                     "name": "Cannelloni mit Ricotta-Spinat-Füllung und Tomatensauce",
                     "price": 2.6,
                     "ingredients": [
-                        "GlW",
-                        "Mi",
-                        "Gl",
-                        "Ei",
-                        "Sl",
                         "1",
+                        "2",
+                        "Ei",
+                        "Gl",
+                        "GlW",
                         "Kn",
-                        "2"
+                        "Mi",
+                        "Sl"
                     ]
                 }
             ]
@@ -40,18 +40,18 @@
                     "name": "Kartoffeltaschen mit Kräuterfrischkäse",
                     "price": 2.4,
                     "ingredients": [
+                        "Gl",
                         "GlW",
-                        "Mi",
                         "Kn",
-                        "Gl"
+                        "Mi"
                     ]
                 },
                 {
                     "name": "Bratwurstschnecke",
                     "price": 2.4,
                     "ingredients": [
-                        "S",
                         "8",
+                        "S",
                         "Sl"
                     ]
                 }
@@ -64,9 +64,9 @@
                     "name": "Apfelstrudel mit Vanillesauce",
                     "price": 2.4,
                     "ingredients": [
+                        "Gl",
                         "GlW",
-                        "Mi",
-                        "Gl"
+                        "Mi"
                     ]
                 },
                 {
@@ -87,16 +87,16 @@
                     "price": 2.4,
                     "ingredients": [
                         "1",
-                        "Mi",
-                        "2"
+                        "2",
+                        "Mi"
                     ]
                 },
                 {
                     "name": "Rendang - Indonesisches Rindergulasch (GQB)",
                     "price": 3.2,
                     "ingredients": [
-                        "R",
-                        "2"
+                        "2",
+                        "R"
                     ]
                 }
             ]
@@ -109,21 +109,21 @@
                     "price": 1.9,
                     "ingredients": [
                         "Ei",
-                        "Mi",
+                        "Gl",
                         "GlW",
-                        "Gl"
+                        "Mi"
                     ]
                 },
                 {
                     "name": "Massaman Curry (mit Hähnchen)",
                     "price": 2.6,
                     "ingredients": [
-                        "GlW",
-                        "Gl",
                         "En",
+                        "Gl",
+                        "GlW",
+                        "Kn",
                         "Sf",
-                        "Sl",
-                        "Kn"
+                        "Sl"
                     ]
                 }
             ]

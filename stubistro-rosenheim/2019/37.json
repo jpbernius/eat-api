@@ -10,22 +10,22 @@
                     "price": "0.68€ / 100g",
                     "ingredients": [
                         "10",
-                        "Kn",
-                        "Sl",
-                        "2",
                         "11",
+                        "2",
+                        "4",
+                        "Kn",
                         "Sf",
-                        "4"
+                        "Sl"
                     ]
                 },
                 {
                     "name": "Pasta in Tomaten-Oliven-Sauce",
                     "price": "N/A",
                     "ingredients": [
-                        "Kn",
                         "3",
+                        "Gl",
                         "GlW",
-                        "Gl"
+                        "Kn"
                     ]
                 },
                 {
@@ -64,25 +64,25 @@
                     "name": "Currywurst mit Honig-Ingwer-Ketchup",
                     "price": "0.68€ / 100g",
                     "ingredients": [
-                        "8",
+                        "11",
                         "2",
                         "3",
-                        "11",
-                        "Sf",
+                        "8",
                         "R",
-                        "S"
+                        "S",
+                        "Sf"
                     ]
                 },
                 {
                     "name": "Spinatknödel Tiroler Art mit Bergkäse und Salbeibutter",
                     "price": "N/A",
                     "ingredients": [
-                        "Ei",
-                        "Sl",
                         "2",
-                        "Mi",
+                        "Ei",
                         "Gl",
-                        "GlW"
+                        "GlW",
+                        "Mi",
+                        "Sl"
                     ]
                 },
                 {
@@ -99,9 +99,9 @@
                     "name": "Countrykartoffeln",
                     "price": "N/A",
                     "ingredients": [
-                        "Kn",
+                        "Gl",
                         "GlW",
-                        "Gl"
+                        "Kn"
                     ]
                 },
                 {
@@ -131,13 +131,13 @@
                     "name": "Käsespätzle mit Röstzwiebeln",
                     "price": "N/A",
                     "ingredients": [
-                        "Ei",
                         "1",
-                        "GlD",
                         "2",
-                        "Mi",
+                        "Ei",
                         "Gl",
-                        "GlW"
+                        "GlD",
+                        "GlW",
+                        "Mi"
                     ]
                 },
                 {
@@ -154,12 +154,12 @@
                     "name": "Gemüsecouscous",
                     "price": "N/A",
                     "ingredients": [
-                        "Kn",
                         "2",
+                        "4",
                         "Gl",
                         "GlW",
-                        "Sf",
-                        "4"
+                        "Kn",
+                        "Sf"
                     ]
                 },
                 {
@@ -189,9 +189,9 @@
                     "name": "Pasta all'arrabiata",
                     "price": "N/A",
                     "ingredients": [
-                        "Kn",
+                        "Gl",
                         "GlW",
-                        "Gl"
+                        "Kn"
                     ]
                 },
                 {
@@ -232,12 +232,12 @@
                     "name": "Gebackenes Seelachsfilet mit Remouladensauce",
                     "price": "0.68€ / 100g",
                     "ingredients": [
+                        "11",
                         "Ei",
                         "Fi",
-                        "Mi",
                         "Gl",
-                        "11",
                         "GlW",
+                        "Mi",
                         "Sf",
                         "Sw"
                     ]
@@ -246,11 +246,11 @@
                     "name": "Kaiserschmarrn mit Apfelmus",
                     "price": "N/A",
                     "ingredients": [
-                        "Ei",
-                        "Mi",
-                        "Gl",
                         "3",
-                        "GlW"
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi"
                     ]
                 },
                 {

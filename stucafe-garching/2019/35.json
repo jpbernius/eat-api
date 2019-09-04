@@ -10,8 +10,8 @@
                     "price": 2.6,
                     "ingredients": [
                         "10",
-                        "Kn",
                         "11",
+                        "Kn",
                         "Sf",
                         "Sl"
                     ]
@@ -25,16 +25,16 @@
                     "name": "Schweinesteak mit Schinken und Käse überbacken",
                     "price": 2.8,
                     "ingredients": [
-                        "Kn",
-                        "2",
-                        "8",
-                        "3",
-                        "GlG",
-                        "S",
-                        "GlW",
-                        "Mi",
                         "1",
-                        "Gl"
+                        "2",
+                        "3",
+                        "8",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S"
                     ]
                 }
             ]
@@ -47,9 +47,9 @@
                     "price": 1.9,
                     "ingredients": [
                         "2",
-                        "Kn",
                         "Gl",
-                        "GlW"
+                        "GlW",
+                        "Kn"
                     ]
                 }
             ]
@@ -61,10 +61,10 @@
                     "name": "Jambalaya Louisiana mit Shrimps und Hähnchenbrustfilet",
                     "price": 2.8,
                     "ingredients": [
-                        "Kn",
-                        "Sl",
                         "1",
-                        "Kr"
+                        "Kn",
+                        "Kr",
+                        "Sl"
                     ]
                 }
             ]

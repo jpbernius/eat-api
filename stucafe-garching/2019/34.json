@@ -9,13 +9,13 @@
                     "name": "Esterhazygulasch vom Rind (GQB)",
                     "price": 2.8,
                     "ingredients": [
-                        "Kn",
+                        "Gl",
                         "GlG",
                         "GlW",
-                        "Sl",
-                        "R",
+                        "Kn",
                         "Mi",
-                        "Gl"
+                        "R",
+                        "Sl"
                     ]
                 }
             ]
@@ -42,12 +42,12 @@
                     "price": 2.8,
                     "ingredients": [
                         "99",
-                        "Sw",
-                        "Kn",
+                        "Gl",
                         "GlG",
                         "GlW",
+                        "Kn",
                         "Mi",
-                        "Gl"
+                        "Sw"
                     ]
                 }
             ]
@@ -59,12 +59,12 @@
                     "name": "Kabeljaufilet (MSC) mit Sauce Hollandaise",
                     "price": 3.5,
                     "ingredients": [
-                        "Fi",
                         "Ei",
+                        "Fi",
+                        "Gl",
                         "GlW",
-                        "Sl",
                         "Mi",
-                        "Gl"
+                        "Sl"
                     ]
                 }
             ]

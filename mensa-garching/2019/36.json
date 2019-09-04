@@ -16,9 +16,9 @@
                     "name": "Penne all'arrabiata",
                     "price": 1.55,
                     "ingredients": [
-                        "GlW",
-                        "Gl",
                         "2",
+                        "Gl",
+                        "GlW",
                         "Kn"
                     ]
                 },
@@ -26,15 +26,15 @@
                     "name": "Rindergeschnetzeltes (GQB) Stroganoff",
                     "price": 3.2,
                     "ingredients": [
-                        "GlG",
-                        "Gl",
-                        "R",
-                        "Sf",
-                        "Kn",
-                        "GlW",
-                        "Mi",
                         "2",
-                        "9"
+                        "9",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "Sf"
                     ]
                 }
             ]
@@ -46,8 +46,8 @@
                     "name": "Indisches Linsencurry",
                     "price": 1.0,
                     "ingredients": [
-                        "Sf",
                         "Kn",
+                        "Sf",
                         "Sl"
                     ]
                 },
@@ -55,8 +55,8 @@
                     "name": "Pasta mit Gorgonzolasauce",
                     "price": 1.9,
                     "ingredients": [
-                        "GlW",
                         "Gl",
+                        "GlW",
                         "Mi"
                     ]
                 },
@@ -64,13 +64,13 @@
                     "name": "Hähnchenknusperfilet mit Mango-Chili-Dip",
                     "price": 2.4,
                     "ingredients": [
-                        "Gl",
                         "1",
-                        "Sf",
+                        "2",
                         "Ei",
+                        "Gl",
                         "GlW",
                         "Mi",
-                        "2"
+                        "Sf"
                     ]
                 }
             ]
@@ -90,14 +90,14 @@
                     "price": 1.9,
                     "ingredients": [
                         "11",
-                        "So",
-                        "Gl",
+                        "3",
                         "5",
                         "Ei",
-                        "3",
-                        "Sl",
+                        "Gl",
                         "GlW",
                         "Mi",
+                        "Sl",
+                        "So",
                         "Sw"
                     ]
                 },
@@ -105,12 +105,12 @@
                     "name": "Gebratenes Truthahnsteak",
                     "price": 2.6,
                     "ingredients": [
-                        "GlG",
                         "Gl",
-                        "Kn",
-                        "Sl",
+                        "GlG",
                         "GlW",
-                        "Mi"
+                        "Kn",
+                        "Mi",
+                        "Sl"
                     ]
                 }
             ]
@@ -122,8 +122,8 @@
                     "name": "Couscous mit mediterranem Gemüse",
                     "price": 1.0,
                     "ingredients": [
-                        "GlW",
                         "Gl",
+                        "GlW",
                         "Kn"
                     ]
                 },
@@ -133,9 +133,9 @@
                     "ingredients": [
                         "11",
                         "8",
-                        "Sf",
+                        "R",
                         "S",
-                        "R"
+                        "Sf"
                     ]
                 },
                 {
@@ -143,11 +143,11 @@
                     "price": 3.2,
                     "ingredients": [
                         "Gl",
-                        "R",
-                        "S",
-                        "Kn",
                         "GlW",
-                        "Mi"
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "S"
                     ]
                 }
             ]
@@ -159,8 +159,8 @@
                     "name": "Bauerneintopf",
                     "price": 1.0,
                     "ingredients": [
-                        "GlW",
                         "Gl",
+                        "GlW",
                         "Sl"
                     ]
                 },
@@ -168,9 +168,9 @@
                     "name": "Kaiserschmarrn mit Apfelmus",
                     "price": 2.6,
                     "ingredients": [
-                        "Gl",
-                        "Ei",
                         "3",
+                        "Ei",
+                        "Gl",
                         "GlW",
                         "Mi"
                     ]
@@ -179,14 +179,14 @@
                     "name": "Schollenfilet (MSC) paniert mit Remouladensauce",
                     "price": 2.6,
                     "ingredients": [
+                        "1",
+                        "2",
+                        "9",
+                        "Ei",
                         "Fi",
                         "Gl",
-                        "1",
-                        "Ei",
                         "GlW",
-                        "Mi",
-                        "2",
-                        "9"
+                        "Mi"
                     ]
                 }
             ]

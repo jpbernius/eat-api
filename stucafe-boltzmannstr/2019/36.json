@@ -9,15 +9,15 @@
                     "name": "Rindergeschnetzeltes (GQB) Stroganoff",
                     "price": 3.2,
                     "ingredients": [
-                        "Mi",
+                        "2",
                         "9",
-                        "GlW",
-                        "R",
-                        "Kn",
-                        "Sf",
-                        "GlG",
                         "Gl",
-                        "2"
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "Sf"
                     ]
                 }
             ]
@@ -37,11 +37,11 @@
                     "name": "Currywurst mit Honig-Ingwer-Ketchup",
                     "price": 1.9,
                     "ingredients": [
-                        "R",
+                        "11",
                         "8",
-                        "Sf",
+                        "R",
                         "S",
-                        "11"
+                        "Sf"
                     ]
                 }
             ]
@@ -53,11 +53,11 @@
                     "name": "Kaiserschmarrn mit Apfelmus",
                     "price": 2.6,
                     "ingredients": [
-                        "Mi",
-                        "GlW",
-                        "Gl",
                         "3",
-                        "Ei"
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi"
                     ]
                 }
             ]

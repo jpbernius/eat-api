@@ -10,24 +10,24 @@
                     "price": 1.9,
                     "ingredients": [
                         "Ei",
-                        "Mi",
+                        "Gl",
                         "GlW",
-                        "Gl"
+                        "Mi"
                     ]
                 },
                 {
                     "name": "Rindergeschnetzeltes Stroganoff",
                     "price": 3.2,
                     "ingredients": [
-                        "GlW",
-                        "R",
-                        "Mi",
+                        "2",
                         "9",
                         "Gl",
                         "GlG",
-                        "Sf",
+                        "GlW",
                         "Kn",
-                        "2"
+                        "Mi",
+                        "R",
+                        "Sf"
                     ]
                 }
             ]
@@ -39,26 +39,26 @@
                     "name": "Allgäuer Käsespätzle mit Röstzwiebeln",
                     "price": 2.4,
                     "ingredients": [
-                        "GlW",
-                        "Mi",
+                        "1",
+                        "2",
+                        "Ei",
                         "Gl",
                         "GlD",
-                        "Ei",
-                        "1",
-                        "2"
+                        "GlW",
+                        "Mi"
                     ]
                 },
                 {
                     "name": "Hähnchenknusperfilet mit Mango-Chili-Dip",
                     "price": 2.4,
                     "ingredients": [
+                        "1",
+                        "2",
+                        "Ei",
+                        "Gl",
                         "GlW",
                         "Mi",
-                        "Gl",
-                        "Ei",
-                        "Sf",
-                        "1",
-                        "2"
+                        "Sf"
                     ]
                 }
             ]
@@ -70,28 +70,28 @@
                     "name": "Frühlingsrolle mit süßsaurer Sauce",
                     "price": 1.9,
                     "ingredients": [
+                        "11",
+                        "3",
+                        "5",
+                        "Ei",
+                        "Gl",
                         "GlW",
                         "Mi",
-                        "Gl",
-                        "3",
-                        "So",
-                        "11",
-                        "Ei",
-                        "Sw",
                         "Sl",
-                        "5"
+                        "So",
+                        "Sw"
                     ]
                 },
                 {
                     "name": "Gebratenes Truthahnsteak",
                     "price": 2.6,
                     "ingredients": [
-                        "GlW",
-                        "Mi",
                         "Gl",
                         "GlG",
-                        "Sl",
-                        "Kn"
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "Sl"
                     ]
                 }
             ]
@@ -103,21 +103,21 @@
                     "name": "Frische Rahmschwammerl",
                     "price": 1.9,
                     "ingredients": [
+                        "Gl",
                         "GlW",
-                        "Mi",
                         "Kn",
-                        "Gl"
+                        "Mi"
                     ]
                 },
                 {
                     "name": "Überbackenes Putenschnitzel Toskana",
                     "price": 2.8,
                     "ingredients": [
-                        "GlW",
-                        "Mi",
-                        "Gl",
                         "1",
-                        "Kn"
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi"
                     ]
                 }
             ]
@@ -129,25 +129,25 @@
                     "name": "Kaiserschmarrn mit Apfelmus",
                     "price": 2.6,
                     "ingredients": [
-                        "GlW",
-                        "Mi",
-                        "Gl",
                         "3",
-                        "Ei"
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi"
                     ]
                 },
                 {
                     "name": "Schollenfilet (MSC) paniert mit Remouladensauce",
                     "price": 2.6,
                     "ingredients": [
-                        "GlW",
-                        "Mi",
-                        "9",
-                        "Gl",
-                        "Fi",
-                        "Ei",
                         "1",
-                        "2"
+                        "2",
+                        "9",
+                        "Ei",
+                        "Fi",
+                        "Gl",
+                        "GlW",
+                        "Mi"
                     ]
                 }
             ]

@@ -9,8 +9,8 @@
                     "name": "Brokkolicremesuppe",
                     "price": "N/A",
                     "ingredients": [
-                        "Mi",
-                        "Gl"
+                        "Gl",
+                        "Mi"
                     ]
                 },
                 {
@@ -26,26 +26,26 @@
                     "name": "Käseküchle mit Bergkäse",
                     "price": "N/A",
                     "ingredients": [
-                        "Mi",
-                        "Ei",
-                        "3",
                         "1",
+                        "2",
+                        "3",
                         "5",
-                        "Sw",
-                        "2"
+                        "Ei",
+                        "Mi",
+                        "Sw"
                     ]
                 },
                 {
                     "name": "Grüne Bandnudeln mit Gemüse-Basilikum-Soße und Salatmischung",
                     "price": 2.35,
                     "ingredients": [
-                        "Sl",
-                        "Mi",
-                        "Ei",
                         "9",
+                        "Ei",
                         "Gl",
-                        "Sw",
-                        "Sf"
+                        "Mi",
+                        "Sf",
+                        "Sl",
+                        "Sw"
                     ]
                 }
             ]
@@ -57,8 +57,8 @@
                     "name": "Gelbe Paprikasuppe",
                     "price": "N/A",
                     "ingredients": [
-                        "Mi",
-                        "Gl"
+                        "Gl",
+                        "Mi"
                     ]
                 },
                 {
@@ -72,20 +72,20 @@
                     "name": "Eieromelette",
                     "price": "N/A",
                     "ingredients": [
-                        "Mi",
                         "Ei",
-                        "Gl"
+                        "Gl",
+                        "Mi"
                     ]
                 },
                 {
                     "name": "Kräuter-Risotto mit gehobeltem Parmesan, dazu einen gemischten Salat",
                     "price": 2.3,
                     "ingredients": [
-                        "Mi",
-                        "9",
-                        "Sf",
                         "1",
                         "2",
+                        "9",
+                        "Mi",
+                        "Sf",
                         "Sw"
                     ]
                 }
@@ -105,13 +105,13 @@
                     "name": "Spaghetti \"Carbonara\"",
                     "price": "N/A",
                     "ingredients": [
-                        "Mi",
+                        "2",
+                        "3",
                         "4",
+                        "8",
                         "Ei",
                         "Gl",
-                        "3",
-                        "2",
-                        "8",
+                        "Mi",
                         "S"
                     ]
                 },
@@ -119,8 +119,8 @@
                     "name": "Kartoffelpuffer mit Apfelkompott",
                     "price": "N/A",
                     "ingredients": [
-                        "9",
                         "3",
+                        "9",
                         "Ei",
                         "Gl"
                     ]
@@ -129,10 +129,10 @@
                     "name": "Gegrillte Hähnchenkeule mit buntem Nudelsalat",
                     "price": 3.6,
                     "ingredients": [
-                        "Sw",
-                        "G",
                         "Ei",
-                        "Gl"
+                        "G",
+                        "Gl",
+                        "Sw"
                     ]
                 }
             ]
@@ -144,36 +144,36 @@
                     "name": "Knoblauchsuppe",
                     "price": "N/A",
                     "ingredients": [
-                        "Mi",
-                        "Gl"
+                        "Gl",
+                        "Mi"
                     ]
                 },
                 {
                     "name": "Putenschnitzel in Tomaten-Gemüsesoße",
                     "price": "N/A",
                     "ingredients": [
-                        "Sl",
                         "G",
-                        "Gl"
+                        "Gl",
+                        "Sl"
                     ]
                 },
                 {
                     "name": "Erbsen-Minz-Küchlein mit Paprikagemüse",
                     "price": "N/A",
                     "ingredients": [
-                        "So",
-                        "Mi",
                         "Ei",
-                        "Gl"
+                        "Gl",
+                        "Mi",
+                        "So"
                     ]
                 },
                 {
                     "name": "Vegetarische asiatische Gemüsepfanne mit Basmatireis",
                     "price": 3.35,
                     "ingredients": [
-                        "So",
+                        "Gl",
                         "Mi",
-                        "Gl"
+                        "So"
                     ]
                 }
             ]
@@ -190,9 +190,9 @@
                     "name": "Königsberger Klopse mit Karpernsoße",
                     "price": "N/A",
                     "ingredients": [
-                        "Mi",
                         "Ei",
                         "Gl",
+                        "Mi",
                         "R",
                         "S"
                     ]
@@ -209,8 +209,8 @@
                     "name": "Seelachs in Röstipanade mit Zitronenecke,",
                     "price": "N/A",
                     "ingredients": [
-                        "Fi",
                         "Ei",
+                        "Fi",
                         "Gl"
                     ]
                 },
@@ -218,13 +218,13 @@
                     "name": "Kartoffelsalat und Remoulade",
                     "price": 3.45,
                     "ingredients": [
-                        "Sl",
-                        "Mi",
+                        "2",
                         "Ei",
                         "Gl",
-                        "Sw",
+                        "Mi",
                         "Sf",
-                        "2"
+                        "Sl",
+                        "Sw"
                     ]
                 }
             ]
@@ -236,18 +236,18 @@
                     "name": "Spinatsuppe",
                     "price": "N/A",
                     "ingredients": [
-                        "Mi",
-                        "Gl"
+                        "Gl",
+                        "Mi"
                     ]
                 },
                 {
                     "name": "Überbackenes Grillsteak",
                     "price": "N/A",
                     "ingredients": [
-                        "Mi",
-                        "Gl",
                         "1",
                         "2",
+                        "Gl",
+                        "Mi",
                         "S"
                     ]
                 },
@@ -272,17 +272,17 @@
                     "name": "Kalbsbraten mit Koriander",
                     "price": "N/A",
                     "ingredients": [
+                        "Gl",
                         "K",
-                        "Mi",
-                        "Gl"
+                        "Mi"
                     ]
                 },
                 {
                     "name": "Marinierte Fetawürfel auf Mangoldbulbur",
                     "price": "N/A",
                     "ingredients": [
-                        "Mi",
-                        "Gl"
+                        "Gl",
+                        "Mi"
                     ]
                 }
             ]

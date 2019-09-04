@@ -9,11 +9,11 @@
                     "name": "Schweinelachssteak mit Pfeffersauce",
                     "price": "0.68€ / 100g",
                     "ingredients": [
+                        "Gl",
+                        "GlG",
+                        "GlW",
                         "Kn",
                         "Mi",
-                        "Gl",
-                        "GlW",
-                        "GlG",
                         "S"
                     ]
                 },
@@ -41,9 +41,9 @@
                     "price": "N/A",
                     "ingredients": [
                         "Ei",
-                        "GlW",
                         "Gl",
-                        "GlD"
+                        "GlD",
+                        "GlW"
                     ]
                 },
                 {
@@ -65,18 +65,18 @@
                     "name": "Vogtländische Rinderroulade mit Pilz-Senfsauce",
                     "price": "0.68€ / 100g",
                     "ingredients": [
-                        "Kn",
-                        "Sl",
                         "2",
-                        "Mi",
-                        "Gl",
                         "3",
                         "99",
-                        "GlW",
+                        "Gl",
                         "GlG",
-                        "Sf",
+                        "GlW",
+                        "Kn",
+                        "Mi",
                         "R",
                         "S",
+                        "Sf",
+                        "Sl",
                         "Sw"
                     ]
                 },
@@ -84,9 +84,9 @@
                     "name": "Mediterrane Gnocchi-Gemüse-Pfanne in Tomatensauce",
                     "price": "N/A",
                     "ingredients": [
-                        "Kn",
+                        "Gl",
                         "GlW",
-                        "Gl"
+                        "Kn"
                     ]
                 },
                 {
@@ -132,8 +132,8 @@
                     "name": "Kartoffeltaschen mit Kräuterfrischkäse und Paprikasauce",
                     "price": "N/A",
                     "ingredients": [
-                        "GlW",
                         "Gl",
+                        "GlW",
                         "Mi"
                     ]
                 },
@@ -172,9 +172,9 @@
                     "price": "0.68€ / 100g",
                     "ingredients": [
                         "Ei",
-                        "Mi",
                         "Gl",
                         "GlW",
+                        "Mi",
                         "Sf"
                     ]
                 },
@@ -183,11 +183,11 @@
                     "price": "N/A",
                     "ingredients": [
                         "Ei",
-                        "Kn",
-                        "Sl",
-                        "Mi",
                         "Gl",
-                        "GlW"
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "Sl"
                     ]
                 },
                 {
@@ -226,16 +226,16 @@
                     "name": "Frikadelle mit Speck-Zwiebel-Sauce",
                     "price": "0.68€ / 100g",
                     "ingredients": [
-                        "Ei",
-                        "Kn",
                         "2",
-                        "Mi",
-                        "Gl",
                         "3",
-                        "GlW",
+                        "Ei",
+                        "Gl",
                         "GlG",
-                        "Sf",
-                        "S"
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S",
+                        "Sf"
                     ]
                 },
                 {
@@ -243,8 +243,8 @@
                     "price": "N/A",
                     "ingredients": [
                         "Ei",
-                        "GlW",
                         "Gl",
+                        "GlW",
                         "Mi"
                     ]
                 },

@@ -9,23 +9,23 @@
                     "name": "Rindergeschnetzeltes (GQB) Stroganoff",
                     "price": "N/A",
                     "ingredients": [
-                        "Mi",
-                        "Kn",
-                        "Sf",
                         "2",
                         "9",
                         "Gl",
                         "GlG",
                         "GlW",
-                        "R"
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "Sf"
                     ]
                 },
                 {
                     "name": "Schweinehalssteak mit Kräuterbutter",
                     "price": "0.75€ / 100g",
                     "ingredients": [
-                        "Mi",
                         "Kn",
+                        "Mi",
                         "S"
                     ]
                 },
@@ -33,10 +33,10 @@
                     "name": "Pfannkuchen mit Kirschfüllung dazu Vanillesauce",
                     "price": "N/A",
                     "ingredients": [
-                        "Mi",
                         "Ei",
                         "Gl",
-                        "GlW"
+                        "GlW",
+                        "Mi"
                     ]
                 },
                 {
@@ -55,35 +55,35 @@
                     "name": "Pasta mit Gorgonzolasauce",
                     "price": "individual",
                     "ingredients": [
-                        "Mi",
                         "Gl",
-                        "GlW"
+                        "GlW",
+                        "Mi"
                     ]
                 },
                 {
                     "name": "Hähnchenknusperfilet mit Mango-Chili-Dip",
                     "price": "N/A",
                     "ingredients": [
-                        "Mi",
-                        "Sf",
+                        "1",
                         "2",
                         "Ei",
-                        "1",
                         "Gl",
-                        "GlW"
+                        "GlW",
+                        "Mi",
+                        "Sf"
                     ]
                 },
                 {
                     "name": "Allgäuer Käsespätzle mit Röstzwiebeln",
                     "price": "0.75€ / 100g",
                     "ingredients": [
-                        "Mi",
+                        "1",
                         "2",
                         "Ei",
-                        "1",
                         "Gl",
+                        "GlD",
                         "GlW",
-                        "GlD"
+                        "Mi"
                     ]
                 },
                 {
@@ -104,49 +104,49 @@
                     "name": "Farfalle mit Tomaten-Frischkäse-Sauce",
                     "price": "individual",
                     "ingredients": [
-                        "Mi",
-                        "Kn",
                         "Gl",
-                        "GlW"
+                        "GlW",
+                        "Kn",
+                        "Mi"
                     ]
                 },
                 {
                     "name": "Halbe Schweinshaxe mit Biersauce",
                     "price": "N/A",
                     "ingredients": [
-                        "Mi",
-                        "Kn",
                         "99",
-                        "S",
                         "Gl",
                         "GlG",
-                        "GlW"
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S"
                     ]
                 },
                 {
                     "name": "Gebratenes Truthahnsteak",
                     "price": "0.75€ / 100g",
                     "ingredients": [
-                        "Mi",
-                        "Kn",
-                        "Sl",
                         "Gl",
                         "GlG",
-                        "GlW"
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "Sl"
                     ]
                 },
                 {
                     "name": "Thailändische Frühlingsrolle mit Sweet-Chilisauce",
                     "price": "N/A",
                     "ingredients": [
-                        "Mi",
-                        "Kn",
-                        "Ei",
                         "11",
-                        "Sl",
-                        "So",
+                        "Ei",
                         "Gl",
-                        "GlW"
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "Sl",
+                        "So"
                     ]
                 },
                 {
@@ -165,42 +165,42 @@
                     "name": "Currywurst mit Honig-Ingwer-Ketchup",
                     "price": "N/A",
                     "ingredients": [
-                        "Sf",
-                        "8",
                         "11",
+                        "8",
+                        "R",
                         "S",
-                        "R"
+                        "Sf"
                     ]
                 },
                 {
                     "name": "Frische Rahmschwammerl",
                     "price": "0.75€ / 100g",
                     "ingredients": [
-                        "Mi",
-                        "Kn",
                         "Gl",
-                        "GlW"
+                        "GlW",
+                        "Kn",
+                        "Mi"
                     ]
                 },
                 {
                     "name": "Bio-Spaghetti bolognese",
                     "price": "N/A",
                     "ingredients": [
-                        "Mi",
-                        "Kn",
-                        "S",
                         "Gl",
                         "GlW",
-                        "R"
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "S"
                     ]
                 },
                 {
                     "name": "Couscous mit mediterranem Gemüse",
                     "price": "0.33€ / 100g",
                     "ingredients": [
-                        "Kn",
                         "Gl",
-                        "GlW"
+                        "GlW",
+                        "Kn"
                     ]
                 }
             ]
@@ -212,49 +212,49 @@
                     "name": "Bauerneintopf mit Wiener",
                     "price": "individual",
                     "ingredients": [
-                        "8",
                         "2",
-                        "Sl",
-                        "S",
+                        "3",
+                        "8",
                         "Gl",
                         "GlW",
-                        "3",
-                        "R"
+                        "R",
+                        "S",
+                        "Sl"
                     ]
                 },
                 {
                     "name": "Schollenfilet (MSC) paniert mit Remouladensauce",
                     "price": "N/A",
                     "ingredients": [
-                        "Mi",
+                        "1",
                         "2",
+                        "9",
                         "Ei",
                         "Fi",
-                        "9",
-                        "1",
                         "Gl",
-                        "GlW"
+                        "GlW",
+                        "Mi"
                     ]
                 },
                 {
                     "name": "Kaiserschmarrn mit Apfelmus",
                     "price": "0.75€ / 100g",
                     "ingredients": [
-                        "Mi",
+                        "3",
                         "Ei",
                         "Gl",
                         "GlW",
-                        "3"
+                        "Mi"
                     ]
                 },
                 {
                     "name": "Schweinerückensteak mit Pfifferlingen und Steinpilzen in Rahm",
                     "price": "N/A",
                     "ingredients": [
-                        "Mi",
-                        "S",
                         "Gl",
-                        "GlW"
+                        "GlW",
+                        "Mi",
+                        "S"
                     ]
                 },
                 {

@@ -9,25 +9,25 @@
                     "name": "Ravioli mit Pilzfüllung in pikanter Kräutersauce",
                     "price": 2.4,
                     "ingredients": [
-                        "GlW",
-                        "Mi",
-                        "Gl",
                         "Ei",
-                        "Sl",
-                        "Kn"
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "Sl"
                     ]
                 },
                 {
                     "name": "Rotes Thaicurry mit Hackbällchen, Zucchini und Basmatireis",
                     "price": 2.4,
                     "ingredients": [
-                        "GlW",
-                        "R",
-                        "Mi",
-                        "Gl",
-                        "S",
                         "Ei",
-                        "Kn"
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "S"
                     ]
                 }
             ]
@@ -39,28 +39,28 @@
                     "name": "Mediterraner Nudel-Gemüse-Auflauf",
                     "price": 2.4,
                     "ingredients": [
-                        "GlW",
-                        "Mi",
-                        "Gl",
-                        "Ei",
                         "1",
+                        "2",
+                        "Ei",
+                        "Gl",
+                        "GlW",
                         "Kn",
-                        "2"
+                        "Mi"
                     ]
                 },
                 {
                     "name": "Rinderbraten (GQB) mit Rotweinsauce",
                     "price": 3.2,
                     "ingredients": [
-                        "GlW",
-                        "R",
-                        "Mi",
-                        "Gl",
-                        "Sw",
-                        "GlG",
                         "99",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R",
                         "Sl",
-                        "Kn"
+                        "Sw"
                     ]
                 }
             ]
@@ -72,10 +72,10 @@
                     "name": "Knöpflepfanne mit Gemüse und Pilzen",
                     "price": 1.9,
                     "ingredients": [
-                        "GlW",
+                        "Ei",
                         "Gl",
                         "GlD",
-                        "Ei",
+                        "GlW",
                         "Sl"
                     ]
                 },
@@ -83,11 +83,11 @@
                     "name": "Grünes Hähnchen-Curry mit Wokgemüse und Basmatireis",
                     "price": 3.2,
                     "ingredients": [
-                        "GlW",
-                        "Gl",
-                        "So",
                         "En",
-                        "Kn"
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "So"
                     ]
                 }
             ]
@@ -99,25 +99,25 @@
                     "name": "Hähnchenkeule mexikanische Art",
                     "price": 1.9,
                     "ingredients": [
-                        "GlW",
-                        "Kn",
                         "2",
-                        "Gl"
+                        "Gl",
+                        "GlW",
+                        "Kn"
                     ]
                 },
                 {
                     "name": "Blumenkohlauflauf mit Käsesauce",
                     "price": 2.4,
                     "ingredients": [
-                        "GlW",
-                        "Mi",
-                        "Gl",
-                        "Ei",
-                        "Sw",
-                        "99",
                         "1",
+                        "2",
+                        "99",
+                        "Ei",
+                        "Gl",
+                        "GlW",
                         "Kn",
-                        "2"
+                        "Mi",
+                        "Sw"
                     ]
                 }
             ]
@@ -129,14 +129,14 @@
                     "name": "Hähnchenschnitzel mit Tomate und Mozzarella überbacken",
                     "price": 2.8,
                     "ingredients": [
-                        "GlW",
-                        "Mi",
-                        "Gl",
                         "3",
-                        "Sc",
                         "Ei",
-                        "ScC",
-                        "Kn"
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "Sc",
+                        "ScC"
                     ]
                 },
                 {
@@ -144,9 +144,9 @@
                     "price": 3.0,
                     "ingredients": [
                         "1",
-                        "Mi",
+                        "Gl",
                         "GlW",
-                        "Gl"
+                        "Mi"
                     ]
                 }
             ]

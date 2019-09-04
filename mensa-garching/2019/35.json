@@ -9,9 +9,9 @@
                     "name": "Arabischer Couscous mit Karotten und Kichererbsen",
                     "price": 1.0,
                     "ingredients": [
-                        "GlW",
-                        "Gl",
                         "2",
+                        "Gl",
+                        "GlW",
                         "Kn"
                     ]
                 },
@@ -19,22 +19,22 @@
                     "name": "Ravioli mit Pilzfüllung in pikanter Kräutersauce",
                     "price": 2.4,
                     "ingredients": [
-                        "Gl",
                         "Ei",
-                        "Kn",
-                        "Sl",
+                        "Gl",
                         "GlW",
-                        "Mi"
+                        "Kn",
+                        "Mi",
+                        "Sl"
                     ]
                 },
                 {
                     "name": "Pikante Chickenwings mit Barbecuesauce",
                     "price": 2.6,
                     "ingredients": [
-                        "11",
-                        "Sf",
                         "10",
+                        "11",
                         "Kn",
+                        "Sf",
                         "Sl"
                     ]
                 }
@@ -52,28 +52,28 @@
                     "name": "Mediterraner Nudel-Gemüse-Auflauf",
                     "price": 2.4,
                     "ingredients": [
-                        "Gl",
                         "1",
+                        "2",
                         "Ei",
+                        "Gl",
                         "GlW",
-                        "Mi",
-                        "2"
+                        "Mi"
                     ]
                 },
                 {
                     "name": "Schweinesteak mit Schinken und Käse überbacken",
                     "price": 2.8,
                     "ingredients": [
-                        "GlG",
-                        "Gl",
                         "1",
-                        "8",
-                        "S",
+                        "2",
                         "3",
-                        "Kn",
+                        "8",
+                        "Gl",
+                        "GlG",
                         "GlW",
+                        "Kn",
                         "Mi",
-                        "2"
+                        "S"
                     ]
                 }
             ]
@@ -85,34 +85,34 @@
                     "name": "Gemüsecurry mit roten Linsen, Spinat und Kokosmilch",
                     "price": 1.0,
                     "ingredients": [
-                        "So",
-                        "GlW",
                         "Gl",
-                        "Kn"
+                        "GlW",
+                        "Kn",
+                        "So"
                     ]
                 },
                 {
                     "name": "Knöpflepfanne mit Gemüse und Pilzen",
                     "price": 1.9,
                     "ingredients": [
-                        "GlD",
-                        "Gl",
                         "Ei",
-                        "Sl",
-                        "GlW"
+                        "Gl",
+                        "GlD",
+                        "GlW",
+                        "Sl"
                     ]
                 },
                 {
                     "name": "Pizza Speciale mit Salami, Hinterschinken und Champignons",
                     "price": 2.6,
                     "ingredients": [
-                        "Gl",
-                        "Sf",
-                        "S",
+                        "2",
                         "3",
+                        "Gl",
                         "GlW",
                         "Mi",
-                        "2"
+                        "S",
+                        "Sf"
                     ]
                 }
             ]
@@ -132,9 +132,9 @@
                     "name": "Hähnchenkeule mexikanische Art",
                     "price": 1.9,
                     "ingredients": [
-                        "GlW",
-                        "Gl",
                         "2",
+                        "Gl",
+                        "GlW",
                         "Kn"
                     ]
                 },
@@ -142,14 +142,14 @@
                     "name": "Blumenkohlauflauf mit Käsesauce",
                     "price": 2.4,
                     "ingredients": [
-                        "Gl",
                         "1",
-                        "Ei",
-                        "99",
-                        "Kn",
-                        "GlW",
-                        "Mi",
                         "2",
+                        "99",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
                         "Sw"
                     ]
                 }
@@ -171,8 +171,8 @@
                     "price": 2.8,
                     "ingredients": [
                         "1",
-                        "Kr",
                         "Kn",
+                        "Kr",
                         "Sl"
                     ]
                 },
@@ -180,9 +180,9 @@
                     "name": "Millirahmstrudel mit Äpfeln und Vanillesauce",
                     "price": 3.0,
                     "ingredients": [
-                        "GlW",
-                        "Gl",
                         "1",
+                        "Gl",
+                        "GlW",
                         "Mi"
                     ]
                 },
@@ -192,8 +192,8 @@
                     "ingredients": [
                         "Fi",
                         "Gl",
-                        "Kn",
                         "GlW",
+                        "Kn",
                         "Mi"
                     ]
                 }

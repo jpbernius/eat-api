@@ -16,29 +16,29 @@
                     "name": "Pasta Emiliana mit (Vorder-)Schinken und Erbsen",
                     "price": 1.9,
                     "ingredients": [
-                        "Gl",
-                        "8",
-                        "S",
+                        "2",
                         "3",
-                        "Kn",
+                        "8",
+                        "Gl",
                         "GlW",
+                        "Kn",
                         "Mi",
-                        "2"
+                        "S"
                     ]
                 },
                 {
                     "name": "Fleischpflanzerl mit Kümmelsauce",
                     "price": 1.9,
                     "ingredients": [
-                        "GlG",
-                        "Gl",
-                        "R",
-                        "Sf",
-                        "S",
                         "Ei",
-                        "Kn",
+                        "Gl",
+                        "GlG",
                         "GlW",
-                        "Mi"
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "S",
+                        "Sf"
                     ]
                 }
             ]
@@ -57,9 +57,9 @@
                     "name": "Cevapcici mit Ajvar",
                     "price": 2.4,
                     "ingredients": [
+                        "Kn",
                         "S",
                         "Sf",
-                        "Kn",
                         "Sl"
                     ]
                 },
@@ -67,13 +67,13 @@
                     "name": "Pizza Speciale mit Salami, Hinterschinken und Champignons",
                     "price": 2.6,
                     "ingredients": [
-                        "Gl",
-                        "Sf",
-                        "S",
+                        "2",
                         "3",
+                        "Gl",
                         "GlW",
                         "Mi",
-                        "2"
+                        "S",
+                        "Sf"
                     ]
                 }
             ]
@@ -85,8 +85,8 @@
                     "name": "Bio-Tortelloni all'arrabiata",
                     "price": "N/A",
                     "ingredients": [
-                        "GlW",
                         "Gl",
+                        "GlW",
                         "Kn"
                     ]
                 },
@@ -94,8 +94,8 @@
                     "name": "Fränkische Bratwurst",
                     "price": "N/A",
                     "ingredients": [
-                        "R",
                         "8",
+                        "R",
                         "S"
                     ]
                 },
@@ -104,12 +104,12 @@
                     "price": "N/A",
                     "ingredients": [
                         "11",
-                        "So",
-                        "Gl",
-                        "5",
                         "3",
-                        "Sl",
+                        "5",
+                        "Gl",
                         "GlW",
+                        "Sl",
+                        "So",
                         "Sw"
                     ]
                 },
@@ -117,8 +117,8 @@
                     "name": "Bulgur mit Zucchini und Tomaten",
                     "price": "N/A",
                     "ingredients": [
-                        "GlW",
                         "Gl",
+                        "GlW",
                         "Kn"
                     ]
                 },
@@ -136,8 +136,8 @@
                     "name": "Penne mit Austernpilzen und Babyspinat",
                     "price": "N/A",
                     "ingredients": [
-                        "GlW",
                         "Gl",
+                        "GlW",
                         "Kn"
                     ]
                 },
@@ -145,12 +145,12 @@
                     "name": "Forelle Müllerin Art mit Zitronenbutter",
                     "price": "N/A",
                     "ingredients": [
+                        "1",
                         "Fi",
                         "Gl",
-                        "1",
-                        "Sf",
                         "GlW",
-                        "Mi"
+                        "Mi",
+                        "Sf"
                     ]
                 },
                 {
@@ -169,10 +169,10 @@
                     "name": "Gebratene Hähnchenkeule mit Barbecuesauce",
                     "price": "N/A",
                     "ingredients": [
-                        "11",
-                        "Sf",
                         "10",
+                        "11",
                         "Kn",
+                        "Sf",
                         "Sl"
                     ]
                 },
@@ -180,10 +180,10 @@
                     "name": "Pfannkuchen mit Heidelbeerfüllung und Vanillesauce",
                     "price": "N/A",
                     "ingredients": [
-                        "GlW",
+                        "Ei",
                         "Gl",
-                        "Mi",
-                        "Ei"
+                        "GlW",
+                        "Mi"
                     ]
                 }
             ]

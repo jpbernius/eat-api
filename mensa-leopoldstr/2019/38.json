@@ -9,43 +9,43 @@
                     "name": "Pasta mit Broccoli-Sahne-Sauce",
                     "price": "individual",
                     "ingredients": [
-                        "Mi",
-                        "Kn",
                         "Gl",
-                        "GlW"
+                        "GlW",
+                        "Kn",
+                        "Mi"
                     ]
                 },
                 {
                     "name": "Paniertes Truthahnschnitzel mit Salsa",
                     "price": "N/A",
                     "ingredients": [
-                        "2",
                         "11",
-                        "So",
+                        "2",
                         "Gl",
-                        "GlW"
+                        "GlW",
+                        "So"
                     ]
                 },
                 {
                     "name": "Rindfleischstreifen (GQB) Spicy Ginger mit Bambussprossen",
                     "price": "0.75€ / 100g",
                     "ingredients": [
-                        "Mi",
-                        "Kn",
                         "2",
-                        "So",
                         "Gl",
                         "GlG",
                         "GlW",
-                        "R"
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "So"
                     ]
                 },
                 {
                     "name": "Kartoffelröstis mit Kräutersahnequark",
                     "price": "N/A",
                     "ingredients": [
-                        "Mi",
-                        "Kn"
+                        "Kn",
+                        "Mi"
                     ]
                 },
                 {
@@ -64,48 +64,48 @@
                     "name": "Gebackene Calamari-Ringe mit Zitronen-Knoblauch-Dip",
                     "price": "N/A",
                     "ingredients": [
-                        "Mi",
-                        "Kn",
-                        "Wt",
-                        "Ei",
                         "1",
+                        "Ei",
                         "Gl",
-                        "GlW"
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "Wt"
                     ]
                 },
                 {
                     "name": "Couscousbratling mit Paprika-Hummus (Kichererbsenmus)",
                     "price": "0.75€ / 100g",
                     "ingredients": [
-                        "Kn",
                         "2",
                         "Ei",
                         "Gl",
-                        "GlW"
+                        "GlW",
+                        "Kn"
                     ]
                 },
                 {
                     "name": "Chop Suey vom Schweinefleisch",
                     "price": "N/A",
                     "ingredients": [
-                        "Kn",
-                        "So",
-                        "S",
+                        "3",
+                        "5",
                         "Gl",
                         "GlW",
-                        "Sw",
-                        "5",
-                        "3"
+                        "Kn",
+                        "S",
+                        "So",
+                        "Sw"
                     ]
                 },
                 {
                     "name": "Linseneintopf mit Gemüse",
                     "price": "0.33€ / 100g",
                     "ingredients": [
-                        "Sw",
-                        "5",
                         "3",
-                        "Sl"
+                        "5",
+                        "Sl",
+                        "Sw"
                     ]
                 }
             ]
@@ -117,11 +117,11 @@
                     "name": "Münchner Gulasch vom Rind (GQB)",
                     "price": "N/A",
                     "ingredients": [
-                        "Mi",
-                        "Kn",
                         "Gl",
                         "GlG",
                         "GlW",
+                        "Kn",
+                        "Mi",
                         "R"
                     ]
                 },
@@ -129,31 +129,31 @@
                     "name": "Nürnberger Würstchen",
                     "price": "0.75€ / 100g",
                     "ingredients": [
-                        "S",
-                        "R"
+                        "R",
+                        "S"
                     ]
                 },
                 {
                     "name": "Kartoffel-Zucchini-Auflauf mit Paprikasauce",
                     "price": "N/A",
                     "ingredients": [
-                        "Mi",
-                        "Kn",
+                        "1",
                         "2",
                         "Ei",
-                        "1",
                         "Gl",
-                        "GlW"
+                        "GlW",
+                        "Kn",
+                        "Mi"
                     ]
                 },
                 {
                     "name": "Reis mit asiatischem Gemüse und Koriander",
                     "price": "0.33€ / 100g",
                     "ingredients": [
-                        "So",
-                        "Kn",
                         "2",
-                        "Sf"
+                        "Kn",
+                        "Sf",
+                        "So"
                     ]
                 }
             ]
@@ -165,20 +165,20 @@
                     "name": "Schweinerückensteak mit grünem Pfeffer",
                     "price": "N/A",
                     "ingredients": [
-                        "Mi",
-                        "Kn",
-                        "S",
                         "Gl",
                         "GlG",
-                        "GlW"
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S"
                     ]
                 },
                 {
                     "name": "Tandoori Chicken in Joghurtmarinade und Gurken-Minz-Dip",
                     "price": "0.75€ / 100g",
                     "ingredients": [
-                        "Mi",
                         "Kn",
+                        "Mi",
                         "Sf"
                     ]
                 },
@@ -186,19 +186,19 @@
                     "name": "Pfannkuchen mit Schokosauce",
                     "price": "N/A",
                     "ingredients": [
-                        "Mi",
                         "Ei",
                         "Gl",
-                        "GlW"
+                        "GlW",
+                        "Mi"
                     ]
                 },
                 {
                     "name": "Couscous mit Pilzen, Tomaten und Mangold",
                     "price": "0.33€ / 100g",
                     "ingredients": [
-                        "Kn",
                         "Gl",
-                        "GlW"
+                        "GlW",
+                        "Kn"
                     ]
                 }
             ]
@@ -210,37 +210,37 @@
                     "name": "Kabeljaufilet (MSC) mit einer Gurken-Senfsauce",
                     "price": "N/A",
                     "ingredients": [
-                        "Mi",
-                        "Sf",
                         "Ei",
                         "Fi",
-                        "Sl",
                         "Gl",
-                        "GlW"
+                        "GlW",
+                        "Mi",
+                        "Sf",
+                        "Sl"
                     ]
                 },
                 {
                     "name": "Pfannkuchen mit Mascarpone-Erdbeerfüllung und Vanillesauce",
                     "price": "0.75€ / 100g",
                     "ingredients": [
-                        "Mi",
                         "Ei",
                         "Gl",
-                        "GlW"
+                        "GlW",
+                        "Mi"
                     ]
                 },
                 {
                     "name": "Krautwickerl mit Speck-Zwiebel-Sauce",
                     "price": "N/A",
                     "ingredients": [
-                        "Mi",
-                        "Kn",
                         "2",
-                        "S",
+                        "3",
                         "Gl",
                         "GlG",
                         "GlW",
-                        "3"
+                        "Kn",
+                        "Mi",
+                        "S"
                     ]
                 },
                 {

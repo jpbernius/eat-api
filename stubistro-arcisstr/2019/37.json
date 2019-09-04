@@ -9,22 +9,22 @@
                     "name": "Falafel mit Joghurt-Gurken-Minz Dip",
                     "price": "N/A",
                     "ingredients": [
-                        "Mi",
-                        "Kn",
                         "Gl",
-                        "GlW"
+                        "GlW",
+                        "Kn",
+                        "Mi"
                     ]
                 },
                 {
                     "name": "Kalbsrahmgulasch mit Pilzen und Weißwein",
                     "price": "N/A",
                     "ingredients": [
+                        "99",
                         "Gl",
                         "GlW",
-                        "Mi",
                         "Kn",
+                        "Mi",
                         "R",
-                        "99",
                         "Sw"
                     ]
                 }
@@ -37,25 +37,25 @@
                     "name": "Moussaka mit Gemüse und Schafskäse",
                     "price": "N/A",
                     "ingredients": [
-                        "Sf",
+                        "1",
+                        "Ei",
                         "Gl",
                         "GlW",
-                        "Mi",
                         "Kn",
-                        "1",
-                        "Ei"
+                        "Mi",
+                        "Sf"
                     ]
                 },
                 {
                     "name": "Seelachsfilet (MSC) nach Müllerin Art",
                     "price": "N/A",
                     "ingredients": [
-                        "Sf",
+                        "1",
+                        "Fi",
                         "Gl",
                         "GlW",
                         "Mi",
-                        "Fi",
-                        "1"
+                        "Sf"
                     ]
                 }
             ]
@@ -67,12 +67,12 @@
                     "name": "Gefüllte Paprikaschote mit Tomatensauce",
                     "price": "N/A",
                     "ingredients": [
+                        "2",
                         "Gl",
-                        "GlW",
                         "GlD",
-                        "Mi",
+                        "GlW",
                         "Kn",
-                        "2"
+                        "Mi"
                     ]
                 },
                 {
@@ -89,21 +89,21 @@
                     "name": "Tortelloni all'arrabiata",
                     "price": "N/A",
                     "ingredients": [
-                        "Kn",
                         "Gl",
-                        "GlW"
+                        "GlW",
+                        "Kn"
                     ]
                 },
                 {
                     "name": "Spanferkelrollbraten mit Biersauce",
                     "price": "N/A",
                     "ingredients": [
-                        "S",
                         "Gl",
+                        "GlG",
                         "GlW",
-                        "Mi",
                         "Kn",
-                        "GlG"
+                        "Mi",
+                        "S"
                     ]
                 }
             ]
@@ -115,20 +115,20 @@
                     "name": "Penne mit Austernpilzen und Babyspinat",
                     "price": "N/A",
                     "ingredients": [
-                        "Kn",
                         "Gl",
-                        "GlW"
+                        "GlW",
+                        "Kn"
                     ]
                 },
                 {
                     "name": "Gebratene Hähnchenkeule mit Barbecuesauce",
                     "price": "N/A",
                     "ingredients": [
-                        "Sf",
+                        "10",
                         "11",
-                        "Sl",
                         "Kn",
-                        "10"
+                        "Sf",
+                        "Sl"
                     ]
                 }
             ]

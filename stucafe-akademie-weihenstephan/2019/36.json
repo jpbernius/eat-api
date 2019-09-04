@@ -9,15 +9,15 @@
                     "name": "Rindergeschnetzeltes Stroganoff",
                     "price": 3.2,
                     "ingredients": [
-                        "GlG",
+                        "2",
+                        "9",
                         "Gl",
-                        "Sf",
-                        "R",
-                        "Mi",
+                        "GlG",
                         "GlW",
                         "Kn",
-                        "2",
-                        "9"
+                        "Mi",
+                        "R",
+                        "Sf"
                     ]
                 }
             ]
@@ -29,13 +29,13 @@
                     "name": "Allgäuer Käsespätzle mit Röstzwiebeln",
                     "price": 2.4,
                     "ingredients": [
-                        "GlD",
-                        "Gl",
                         "1",
-                        "Mi",
-                        "GlW",
+                        "2",
                         "Ei",
-                        "2"
+                        "Gl",
+                        "GlD",
+                        "GlW",
+                        "Mi"
                     ]
                 }
             ]
@@ -47,11 +47,11 @@
                     "name": "Halbe Schweinshaxe mit Biersauce",
                     "price": 3.0,
                     "ingredients": [
-                        "GlG",
                         "Gl",
-                        "Mi",
+                        "GlG",
                         "GlW",
                         "Kn",
+                        "Mi",
                         "S"
                     ]
                 }
@@ -65,10 +65,10 @@
                     "price": 1.9,
                     "ingredients": [
                         "11",
-                        "Sf",
-                        "R",
                         "8",
-                        "S"
+                        "R",
+                        "S",
+                        "Sf"
                     ]
                 }
             ]
@@ -80,14 +80,14 @@
                     "name": "Schollenfilet (MSC) paniert mit Remouladensauce",
                     "price": 2.6,
                     "ingredients": [
-                        "Gl",
                         "1",
-                        "Fi",
-                        "Mi",
-                        "GlW",
-                        "Ei",
                         "2",
-                        "9"
+                        "9",
+                        "Ei",
+                        "Fi",
+                        "Gl",
+                        "GlW",
+                        "Mi"
                     ]
                 }
             ]

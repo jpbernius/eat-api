@@ -9,21 +9,21 @@
                     "name": "Spinatspätzlepfanne mit Bergkäse und abgeschmelzten Zwiebeln",
                     "price": "N/A",
                     "ingredients": [
-                        "Mi",
                         "Ei",
                         "Gl",
-                        "GlW"
+                        "GlW",
+                        "Mi"
                     ]
                 },
                 {
                     "name": "Chili con Carne",
                     "price": "N/A",
                     "ingredients": [
+                        "2",
                         "Gl",
                         "GlW",
                         "Kn",
-                        "R",
-                        "2"
+                        "R"
                     ]
                 }
             ]
@@ -35,14 +35,14 @@
                     "name": "Kartoffel-Pilz-Auflauf mit frischem Lauch und Dip",
                     "price": "N/A",
                     "ingredients": [
-                        "Sf",
+                        "1",
+                        "2",
+                        "Ei",
                         "Gl",
                         "GlW",
-                        "Mi",
                         "Kn",
-                        "2",
-                        "1",
-                        "Ei"
+                        "Mi",
+                        "Sf"
                     ]
                 },
                 {
@@ -50,10 +50,10 @@
                     "price": "N/A",
                     "ingredients": [
                         "Gl",
+                        "GlG",
                         "GlW",
-                        "Mi",
                         "Kn",
-                        "GlG"
+                        "Mi"
                     ]
                 }
             ]
@@ -65,13 +65,13 @@
                     "name": "Spinatknödel mit Bouillongemüse",
                     "price": "N/A",
                     "ingredients": [
+                        "2",
+                        "Ei",
                         "Gl",
+                        "GlG",
                         "GlW",
                         "Mi",
                         "Sl",
-                        "2",
-                        "Ei",
-                        "GlG",
                         "So"
                     ]
                 },
@@ -79,10 +79,10 @@
                     "name": "Pasta mit Putenbolognese",
                     "price": "N/A",
                     "ingredients": [
-                        "Kn",
                         "Gl",
-                        "Sl",
-                        "GlW"
+                        "GlW",
+                        "Kn",
+                        "Sl"
                     ]
                 }
             ]
@@ -94,23 +94,23 @@
                     "name": "Dinkelnudelpfanne Griechische Art mit Oliven,Schafskäse und Knoblauch",
                     "price": "N/A",
                     "ingredients": [
-                        "Gl",
-                        "GlD",
                         "3",
                         "6",
-                        "Mi",
-                        "Kn"
+                        "Gl",
+                        "GlD",
+                        "Kn",
+                        "Mi"
                     ]
                 },
                 {
                     "name": "Pfannengyros vom Schwein mit Tsatsiki",
                     "price": "N/A",
                     "ingredients": [
-                        "S",
-                        "5",
-                        "Mi",
                         "3",
+                        "5",
                         "Kn",
+                        "Mi",
+                        "S",
                         "Sw"
                     ]
                 }
@@ -123,23 +123,23 @@
                     "name": "Germknödel gefüllt mit Pflaumenmus dazu Vanillesauce",
                     "price": "N/A",
                     "ingredients": [
-                        "Mi",
                         "Ei",
                         "Gl",
-                        "GlW"
+                        "GlW",
+                        "Mi"
                     ]
                 },
                 {
                     "name": "Gebratenes Seelachsfilet (MSC) kreolische Art mit Salsa",
                     "price": "N/A",
                     "ingredients": [
+                        "11",
+                        "2",
+                        "Fi",
                         "Gl",
                         "GlW",
-                        "11",
-                        "Sl",
                         "Kn",
-                        "Fi",
-                        "2",
+                        "Sl",
                         "So"
                     ]
                 }

@@ -9,11 +9,11 @@
                     "name": "Paniertes Truthahnschnitzel mit Salsa",
                     "price": 2.4,
                     "ingredients": [
-                        "Gl",
                         "11",
-                        "So",
+                        "2",
+                        "Gl",
                         "GlW",
-                        "2"
+                        "So"
                     ]
                 },
                 {
@@ -33,8 +33,8 @@
                     "name": "Pasta Pomodoro mit Tomaten und Basilikum",
                     "price": 1.9,
                     "ingredients": [
-                        "GlW",
                         "Gl",
+                        "GlW",
                         "Kn"
                     ]
                 }
@@ -47,21 +47,21 @@
                     "name": "Nürnberger Würstchen",
                     "price": 2.4,
                     "ingredients": [
-                        "S",
-                        "R"
+                        "R",
+                        "S"
                     ]
                 },
                 {
                     "name": "Kartoffel-Zucchini-Auflauf mit Paprikasauce",
                     "price": 2.4,
                     "ingredients": [
-                        "Kn",
-                        "Gl",
                         "1",
-                        "Mi",
-                        "GlW",
+                        "2",
                         "Ei",
-                        "2"
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi"
                     ]
                 }
             ]
@@ -73,26 +73,26 @@
                     "name": "Schwarzwurzel-Knusperecke mit Kräuterdip",
                     "price": 2.6,
                     "ingredients": [
-                        "Gl",
                         "1",
-                        "Sf",
-                        "Se",
+                        "Gl",
+                        "GlW",
                         "Mi",
-                        "Sl",
-                        "GlW"
+                        "Se",
+                        "Sf",
+                        "Sl"
                     ]
                 },
                 {
                     "name": "Putengeschnetzeltes Züricher Art",
                     "price": 2.8,
                     "ingredients": [
-                        "Kn",
-                        "GlG",
+                        "99",
                         "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
                         "Mi",
                         "Sl",
-                        "GlW",
-                        "99",
                         "Sw"
                     ]
                 }
@@ -105,9 +105,9 @@
                     "name": "Pfannkuchen mit Mascarpone-Erdbeerfüllung und Vanillesauce",
                     "price": 2.8,
                     "ingredients": [
-                        "GlW",
-                        "Gl",
                         "Ei",
+                        "Gl",
+                        "GlW",
                         "Mi"
                     ]
                 },
@@ -115,13 +115,13 @@
                     "name": "Kabeljaufilet (MSC) mit einer Gurken-Senfsauce",
                     "price": 3.5,
                     "ingredients": [
-                        "Gl",
+                        "Ei",
                         "Fi",
-                        "Sf",
-                        "Mi",
-                        "Sl",
+                        "Gl",
                         "GlW",
-                        "Ei"
+                        "Mi",
+                        "Sf",
+                        "Sl"
                     ]
                 }
             ]
