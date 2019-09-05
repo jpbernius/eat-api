@@ -11,8 +11,10 @@
                     "ingredients": [
                         "11",
                         "2",
+                        "En",
                         "Gl",
                         "GlW",
+                        "Se",
                         "So"
                     ]
                 },
@@ -44,14 +46,6 @@
             "date": "2019-09-18",
             "dishes": [
                 {
-                    "name": "Nürnberger Würstchen",
-                    "price": 2.4,
-                    "ingredients": [
-                        "R",
-                        "S"
-                    ]
-                },
-                {
                     "name": "Kartoffel-Zucchini-Auflauf mit Paprikasauce",
                     "price": 2.4,
                     "ingredients": [
@@ -62,6 +56,14 @@
                         "GlW",
                         "Kn",
                         "Mi"
+                    ]
+                },
+                {
+                    "name": "Nürnberger Würstchen",
+                    "price": 2.4,
+                    "ingredients": [
+                        "R",
+                        "S"
                     ]
                 }
             ]

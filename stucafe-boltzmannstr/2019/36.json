@@ -34,14 +34,17 @@
             "date": "2019-09-05",
             "dishes": [
                 {
-                    "name": "Currywurst mit Honig-Ingwer-Ketchup",
+                    "name": "Fleischpflanzerl mit Kümmelsauce",
                     "price": 1.9,
                     "ingredients": [
-                        "11",
-                        "8",
+                        "Ei",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
                         "R",
-                        "S",
-                        "Sf"
+                        "S"
                     ]
                 }
             ]

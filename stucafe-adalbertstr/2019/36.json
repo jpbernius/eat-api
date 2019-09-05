@@ -36,19 +36,6 @@
             "date": "2019-09-03",
             "dishes": [
                 {
-                    "name": "Allgäuer Käsespätzle mit Röstzwiebeln",
-                    "price": 2.4,
-                    "ingredients": [
-                        "1",
-                        "2",
-                        "Ei",
-                        "Gl",
-                        "GlD",
-                        "GlW",
-                        "Mi"
-                    ]
-                },
-                {
                     "name": "Hähnchenknusperfilet mit Mango-Chili-Dip",
                     "price": 2.4,
                     "ingredients": [
@@ -59,6 +46,19 @@
                         "GlW",
                         "Mi",
                         "Sf"
+                    ]
+                },
+                {
+                    "name": "Allgäuer Käsespätzle mit Röstzwiebeln",
+                    "price": 2.4,
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "Ei",
+                        "Gl",
+                        "GlD",
+                        "GlW",
+                        "Mi"
                     ]
                 }
             ]

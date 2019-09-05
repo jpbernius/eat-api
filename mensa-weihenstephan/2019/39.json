@@ -92,15 +92,6 @@
                     ]
                 },
                 {
-                    "name": "Hähnchenbrustfilet mit warmer Gemüsesalsa (scharf)",
-                    "price": 2.4,
-                    "ingredients": [
-                        "2",
-                        "4",
-                        "Kn"
-                    ]
-                },
-                {
                     "name": "Apfelkücherl mit Vanillesauce",
                     "price": 2.4,
                     "ingredients": [
@@ -108,6 +99,15 @@
                         "Gl",
                         "GlW",
                         "Mi"
+                    ]
+                },
+                {
+                    "name": "Hähnchenbrustfilet mit warmer Gemüsesalsa (scharf)",
+                    "price": 2.4,
+                    "ingredients": [
+                        "2",
+                        "4",
+                        "Kn"
                     ]
                 }
             ]

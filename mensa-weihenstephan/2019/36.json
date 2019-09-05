@@ -9,7 +9,24 @@
                     "name": "Gemüsegulasch",
                     "price": 1.0,
                     "ingredients": [
-                        "Kn"
+                        "En",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Se",
+                        "So"
+                    ]
+                },
+                {
+                    "name": "Schweinegeschnetzeltes in Pfefferrahmsauce",
+                    "price": 2.4,
+                    "ingredients": [
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S"
                     ]
                 },
                 {
@@ -50,6 +67,7 @@
                         "Ei",
                         "Gl",
                         "GlW",
+                        "Kn",
                         "Mi",
                         "Sf"
                     ]
@@ -63,7 +81,12 @@
                     "name": "Spanischer Gemüseeintopf",
                     "price": 1.0,
                     "ingredients": [
-                        "Kn"
+                        "En",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Se",
+                        "So"
                     ]
                 },
                 {
@@ -88,9 +111,12 @@
                     "name": "Couscous mit mediterranem Gemüse",
                     "price": 1.0,
                     "ingredients": [
+                        "En",
                         "Gl",
                         "GlW",
-                        "Kn"
+                        "Kn",
+                        "Se",
+                        "So"
                     ]
                 },
                 {

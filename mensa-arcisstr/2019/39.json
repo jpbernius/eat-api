@@ -27,6 +27,21 @@
                     ]
                 },
                 {
+                    "name": "Täglich frische Salatbar",
+                    "price": "0.68€ / 100g",
+                    "ingredients": [
+                        "3",
+                        "Fi",
+                        "Mi",
+                        "So"
+                    ]
+                },
+                {
+                    "name": "Saisonale Beilagensalate",
+                    "price": "N/A",
+                    "ingredients": []
+                },
+                {
                     "name": "Reis",
                     "price": "0.68€ / 100g",
                     "ingredients": []
@@ -52,17 +67,6 @@
                     ]
                 },
                 {
-                    "name": "Chili con Carne",
-                    "price": "0.68€ / 100g",
-                    "ingredients": [
-                        "2",
-                        "Gl",
-                        "GlW",
-                        "Kn",
-                        "R"
-                    ]
-                },
-                {
                     "name": "Gnocchi mit Schafskäse und frischem Basilikum",
                     "price": "0.68€ / 100g",
                     "ingredients": [
@@ -75,27 +79,23 @@
                     ]
                 },
                 {
+                    "name": "Chili con Carne",
+                    "price": "0.68€ / 100g",
+                    "ingredients": [
+                        "2",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "R"
+                    ]
+                },
+                {
                     "name": "Green-Thai-Curry vom Rind (GQB)",
                     "price": "0.68€ / 100g",
                     "ingredients": [
                         "Kn",
                         "R"
                     ]
-                },
-                {
-                    "name": "Täglich frische Salatbar",
-                    "price": "0.68€ / 100g",
-                    "ingredients": [
-                        "3",
-                        "Fi",
-                        "Mi",
-                        "So"
-                    ]
-                },
-                {
-                    "name": "Saisonale Beilagensalate",
-                    "price": "N/A",
-                    "ingredients": []
                 },
                 {
                     "name": "Lammgulasch nach Art der Provence",
@@ -147,61 +147,6 @@
                     ]
                 },
                 {
-                    "name": "Zwiebelrostbraten mit Rotweinsauce",
-                    "price": "0.68€ / 100g",
-                    "ingredients": [
-                        "99",
-                        "Gl",
-                        "GlG",
-                        "GlW",
-                        "Kn",
-                        "Mi",
-                        "R",
-                        "Sw"
-                    ]
-                },
-                {
-                    "name": "Bio-Penne mit Bio-Soja-Bolognese (dazu Hartkäse)",
-                    "price": "0.68€ / 100g",
-                    "ingredients": [
-                        "Gl",
-                        "GlW",
-                        "Kn",
-                        "Mi",
-                        "So"
-                    ]
-                },
-                {
-                    "name": "Schinkennudeln (Vorderschinken) mit Zwiebeln und Ei",
-                    "price": "0.68€ / 100g",
-                    "ingredients": [
-                        "2",
-                        "3",
-                        "8",
-                        "Ei",
-                        "Gl",
-                        "GlW",
-                        "Kn",
-                        "Mi",
-                        "S"
-                    ]
-                },
-                {
-                    "name": "Seelachsfilet (MSC) Florentiner Art mit Blattspinat und Hollandaise überbacken",
-                    "price": "0.68€ / 100g",
-                    "ingredients": [
-                        "99",
-                        "Ei",
-                        "Fi",
-                        "Gl",
-                        "GlW",
-                        "Kn",
-                        "Mi",
-                        "Sl",
-                        "Sw"
-                    ]
-                },
-                {
                     "name": "Fritierte Waffelkartoffeln",
                     "price": "0.68€ / 100g",
                     "ingredients": [
@@ -223,6 +168,46 @@
                     "ingredients": []
                 },
                 {
+                    "name": "Bio-Penne mit Bio-Soja-Bolognese (dazu Hartkäse)",
+                    "price": "0.68€ / 100g",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "So"
+                    ]
+                },
+                {
+                    "name": "Zwiebelrostbraten mit Rotweinsauce",
+                    "price": "0.68€ / 100g",
+                    "ingredients": [
+                        "99",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "Sw"
+                    ]
+                },
+                {
+                    "name": "Schinkennudeln (Vorderschinken) mit Zwiebeln und Ei",
+                    "price": "0.68€ / 100g",
+                    "ingredients": [
+                        "2",
+                        "3",
+                        "8",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S"
+                    ]
+                },
+                {
                     "name": "Täglich frische Salatbar",
                     "price": "0.68€ / 100g",
                     "ingredients": [
@@ -236,6 +221,21 @@
                     "name": "Saisonale Beilagensalate",
                     "price": "N/A",
                     "ingredients": []
+                },
+                {
+                    "name": "Seelachsfilet (MSC) Florentiner Art mit Blattspinat und Hollandaise überbacken",
+                    "price": "0.68€ / 100g",
+                    "ingredients": [
+                        "99",
+                        "Ei",
+                        "Fi",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "Sl",
+                        "Sw"
+                    ]
                 },
                 {
                     "name": "Jägerschnitzel mit Knöpfle",
@@ -281,6 +281,27 @@
                     ]
                 },
                 {
+                    "name": "Garnelen mit Zitronen-Kokos-Dip",
+                    "price": "0.68€ / 100g",
+                    "ingredients": [
+                        "1",
+                        "8",
+                        "Ei",
+                        "Kr",
+                        "Mi"
+                    ]
+                },
+                {
+                    "name": "Pasta mit Putenbolognese",
+                    "price": "0.68€ / 100g",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Sl"
+                    ]
+                },
+                {
                     "name": "Rosmarinkartoffeln",
                     "price": "0.68€ / 100g",
                     "ingredients": []
@@ -298,14 +319,19 @@
                     "ingredients": []
                 },
                 {
-                    "name": "Pasta mit Putenbolognese",
+                    "name": "Täglich frische Salatbar",
                     "price": "0.68€ / 100g",
                     "ingredients": [
-                        "Gl",
-                        "GlW",
-                        "Kn",
-                        "Sl"
+                        "3",
+                        "Fi",
+                        "Mi",
+                        "So"
                     ]
+                },
+                {
+                    "name": "Saisonale Beilagensalate",
+                    "price": "N/A",
+                    "ingredients": []
                 },
                 {
                     "name": "Kleine Dampfnudel mit Vanillesauce",
@@ -329,32 +355,6 @@
                         "GlW",
                         "Mi"
                     ]
-                },
-                {
-                    "name": "Garnelen mit Zitronen-Kokos-Dip",
-                    "price": "0.68€ / 100g",
-                    "ingredients": [
-                        "1",
-                        "8",
-                        "Ei",
-                        "Kr",
-                        "Mi"
-                    ]
-                },
-                {
-                    "name": "Täglich frische Salatbar",
-                    "price": "0.68€ / 100g",
-                    "ingredients": [
-                        "3",
-                        "Fi",
-                        "Mi",
-                        "So"
-                    ]
-                },
-                {
-                    "name": "Saisonale Beilagensalate",
-                    "price": "N/A",
-                    "ingredients": []
                 },
                 {
                     "name": "Andalusisches Rinderragout (GQB)",
@@ -406,6 +406,31 @@
                     ]
                 },
                 {
+                    "name": "Gnocchi auf Hirtenart",
+                    "price": "0.68€ / 100g",
+                    "ingredients": [
+                        "2",
+                        "3",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S"
+                    ]
+                },
+                {
+                    "name": "Dinkelnudelpfanne Griechische Art mit Oliven,Schafskäse und Knoblauch",
+                    "price": "0.68€ / 100g",
+                    "ingredients": [
+                        "3",
+                        "6",
+                        "Gl",
+                        "GlD",
+                        "Kn",
+                        "Mi"
+                    ]
+                },
+                {
                     "name": "Pommes frites",
                     "price": "0.68€ / 100g",
                     "ingredients": []
@@ -424,16 +449,19 @@
                     ]
                 },
                 {
-                    "name": "Dinkelnudelpfanne Griechische Art mit Oliven,Schafskäse und Knoblauch",
+                    "name": "Täglich frische Salatbar",
                     "price": "0.68€ / 100g",
                     "ingredients": [
                         "3",
-                        "6",
-                        "Gl",
-                        "GlD",
-                        "Kn",
-                        "Mi"
+                        "Fi",
+                        "Mi",
+                        "So"
                     ]
+                },
+                {
+                    "name": "Saisonale Beilagensalate",
+                    "price": "N/A",
+                    "ingredients": []
                 },
                 {
                     "name": "Gebackenes Seelachsfilet (MSC) mit Remouladensauce",
@@ -460,34 +488,6 @@
                         "Kn",
                         "So"
                     ]
-                },
-                {
-                    "name": "Gnocchi auf Hirtenart",
-                    "price": "0.68€ / 100g",
-                    "ingredients": [
-                        "2",
-                        "3",
-                        "Gl",
-                        "GlW",
-                        "Kn",
-                        "Mi",
-                        "S"
-                    ]
-                },
-                {
-                    "name": "Täglich frische Salatbar",
-                    "price": "0.68€ / 100g",
-                    "ingredients": [
-                        "3",
-                        "Fi",
-                        "Mi",
-                        "So"
-                    ]
-                },
-                {
-                    "name": "Saisonale Beilagensalate",
-                    "price": "N/A",
-                    "ingredients": []
                 },
                 {
                     "name": "Pfannengyros vom Schwein mit Tsatsiki",
@@ -533,50 +533,6 @@
                     ]
                 },
                 {
-                    "name": "Salzkartoffeln",
-                    "price": "0.68€ / 100g",
-                    "ingredients": []
-                },
-                {
-                    "name": "Reis-Wildreis-Pilaw",
-                    "price": "N/A",
-                    "ingredients": []
-                },
-                {
-                    "name": "Rahmspinat",
-                    "price": "N/A",
-                    "ingredients": [
-                        "Gl",
-                        "GlW",
-                        "Kn",
-                        "Mi"
-                    ]
-                },
-                {
-                    "name": "Pasta Frutti di Mare",
-                    "price": "0.68€ / 100g",
-                    "ingredients": [
-                        "2",
-                        "Ei",
-                        "Gl",
-                        "GlW",
-                        "Kn",
-                        "Kr",
-                        "Mi",
-                        "Wt"
-                    ]
-                },
-                {
-                    "name": "Germknödel gefüllt mit Pflaumenmus dazu Vanillesauce",
-                    "price": "0.68€ / 100g",
-                    "ingredients": [
-                        "Ei",
-                        "Gl",
-                        "GlW",
-                        "Mi"
-                    ]
-                },
-                {
                     "name": "Tortellini (Käsefüllung) mit Käse-Sahne-Sauce",
                     "price": "0.68€ / 100g",
                     "ingredients": [
@@ -600,6 +556,50 @@
                         "Kn",
                         "Sf",
                         "So"
+                    ]
+                },
+                {
+                    "name": "Pasta Frutti di Mare",
+                    "price": "0.68€ / 100g",
+                    "ingredients": [
+                        "2",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Kr",
+                        "Mi",
+                        "Wt"
+                    ]
+                },
+                {
+                    "name": "Salzkartoffeln",
+                    "price": "0.68€ / 100g",
+                    "ingredients": []
+                },
+                {
+                    "name": "Reis-Wildreis-Pilaw",
+                    "price": "N/A",
+                    "ingredients": []
+                },
+                {
+                    "name": "Rahmspinat",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi"
+                    ]
+                },
+                {
+                    "name": "Germknödel gefüllt mit Pflaumenmus dazu Vanillesauce",
+                    "price": "0.68€ / 100g",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi"
                     ]
                 },
                 {

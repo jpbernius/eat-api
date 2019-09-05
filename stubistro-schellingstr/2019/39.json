@@ -6,16 +6,6 @@
             "date": "2019-09-23",
             "dishes": [
                 {
-                    "name": "Spinatspätzlepfanne mit Bergkäse und abgeschmelzten Zwiebeln",
-                    "price": "N/A",
-                    "ingredients": [
-                        "Ei",
-                        "Gl",
-                        "GlW",
-                        "Mi"
-                    ]
-                },
-                {
                     "name": "Chili con Carne",
                     "price": "N/A",
                     "ingredients": [
@@ -25,25 +15,22 @@
                         "Kn",
                         "R"
                     ]
+                },
+                {
+                    "name": "Spinatspätzlepfanne mit Bergkäse und abgeschmelzten Zwiebeln",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi"
+                    ]
                 }
             ]
         },
         {
             "date": "2019-09-24",
             "dishes": [
-                {
-                    "name": "Jägerschnitzel von der Pute mit Waldpilzen",
-                    "price": "N/A",
-                    "ingredients": [
-                        "2",
-                        "3",
-                        "Gl",
-                        "GlG",
-                        "GlW",
-                        "Kn",
-                        "Mi"
-                    ]
-                },
                 {
                     "name": "Kartoffel-Pilz-Auflauf mit frischem Lauch und Dip",
                     "price": "N/A",
@@ -57,12 +44,35 @@
                         "Mi",
                         "Sf"
                     ]
+                },
+                {
+                    "name": "Jägerschnitzel von der Pute mit Waldpilzen",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "3",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi"
+                    ]
                 }
             ]
         },
         {
             "date": "2019-09-25",
             "dishes": [
+                {
+                    "name": "Pasta mit Putenbolognese",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Sl"
+                    ]
+                },
                 {
                     "name": "Spinatknödel mit Bouillongemüse",
                     "price": "N/A",
@@ -76,34 +86,12 @@
                         "Sl",
                         "So"
                     ]
-                },
-                {
-                    "name": "Pasta mit Putenbolognese",
-                    "price": "N/A",
-                    "ingredients": [
-                        "Gl",
-                        "GlW",
-                        "Kn",
-                        "Sl"
-                    ]
                 }
             ]
         },
         {
             "date": "2019-09-26",
             "dishes": [
-                {
-                    "name": "Dinkelnudelpfanne Griechische Art mit Oliven,Schafskäse und Knoblauch",
-                    "price": "N/A",
-                    "ingredients": [
-                        "3",
-                        "6",
-                        "Gl",
-                        "GlD",
-                        "Kn",
-                        "Mi"
-                    ]
-                },
                 {
                     "name": "Pfannengyros vom Schwein mit Tsatsiki",
                     "price": "N/A",
@@ -115,22 +103,24 @@
                         "S",
                         "Sw"
                     ]
+                },
+                {
+                    "name": "Dinkelnudelpfanne Griechische Art mit Oliven,Schafskäse und Knoblauch",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "6",
+                        "Gl",
+                        "GlD",
+                        "Kn",
+                        "Mi"
+                    ]
                 }
             ]
         },
         {
             "date": "2019-09-27",
             "dishes": [
-                {
-                    "name": "Germknödel gefüllt mit Pflaumenmus dazu Vanillesauce",
-                    "price": "N/A",
-                    "ingredients": [
-                        "Ei",
-                        "Gl",
-                        "GlW",
-                        "Mi"
-                    ]
-                },
                 {
                     "name": "Gebratenes Seelachsfilet (MSC) kreolische Art mit Salsa",
                     "price": "N/A",
@@ -143,6 +133,16 @@
                         "Kn",
                         "Sl",
                         "So"
+                    ]
+                },
+                {
+                    "name": "Germknödel gefüllt mit Pflaumenmus dazu Vanillesauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi"
                     ]
                 }
             ]

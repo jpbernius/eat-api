@@ -13,9 +13,23 @@
                     ]
                 },
                 {
-                    "name": "Tagessuppe",
+                    "name": "Gemüse-Kartoffelsuppe",
                     "price": "N/A",
-                    "ingredients": []
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Sl",
+                        "So"
+                    ]
+                },
+                {
+                    "name": "Bulgur-Gemüse-Pfanne",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ]
                 },
                 {
                     "name": "Spinatknödel Tiroler Art mit Bergkäse",
@@ -27,6 +41,11 @@
                         "Mi",
                         "Sl"
                     ]
+                },
+                {
+                    "name": "Kartoffelrösti mit Sauerrahmdip",
+                    "price": "N/A",
+                    "ingredients": []
                 },
                 {
                     "name": "Rindergeschnetzeltes (GQB) Stroganoff",
@@ -41,6 +60,18 @@
                         "Mi",
                         "R",
                         "Sf"
+                    ]
+                },
+                {
+                    "name": "Hähnchenschnitzel Rahmsauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "Sl"
                     ]
                 }
             ]
@@ -123,9 +154,16 @@
                     ]
                 },
                 {
-                    "name": "Tagessuppe",
+                    "name": "Champignoncremesuppe",
                     "price": "N/A",
-                    "ingredients": []
+                    "ingredients": [
+                        "99",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "Sw"
+                    ]
                 },
                 {
                     "name": "Halbe Schweinshaxe mit Biersauce",
@@ -138,6 +176,19 @@
                         "Kn",
                         "Mi",
                         "S"
+                    ]
+                },
+                {
+                    "name": "Hähnchenknusperfilet mit Sweet Chili Sauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sf"
                     ]
                 },
                 {
@@ -167,6 +218,31 @@
                     ]
                 },
                 {
+                    "name": "Pikante Chickenwings mit Barbecuesauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "10",
+                        "11",
+                        "Kn",
+                        "Sf",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Fleischpflanzerl mit BBQ Sauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "S"
+                    ]
+                },
+                {
                     "name": "Couscous mit mediterranem Gemüse",
                     "price": "N/A",
                     "ingredients": [
@@ -176,9 +252,12 @@
                     ]
                 },
                 {
-                    "name": "Tagessuppe",
+                    "name": "Karotten-Ingwer-Suppe",
                     "price": "N/A",
-                    "ingredients": []
+                    "ingredients": [
+                        "Gl",
+                        "GlW"
+                    ]
                 },
                 {
                     "name": "Gefüllte Paprikaschote mit Tomatensauce",

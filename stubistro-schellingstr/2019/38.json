@@ -6,14 +6,6 @@
             "date": "2019-09-16",
             "dishes": [
                 {
-                    "name": "Kartoffelröstis mit Kräutersahnequark",
-                    "price": "N/A",
-                    "ingredients": [
-                        "Kn",
-                        "Mi"
-                    ]
-                },
-                {
                     "name": "Rindfleischstreifen (GQB) Spicy Ginger mit Bambussprossen",
                     "price": "N/A",
                     "ingredients": [
@@ -26,23 +18,20 @@
                         "R",
                         "So"
                     ]
+                },
+                {
+                    "name": "Kartoffelröstis mit Kräutersahnequark",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Kn",
+                        "Mi"
+                    ]
                 }
             ]
         },
         {
             "date": "2019-09-17",
             "dishes": [
-                {
-                    "name": "Couscousbratling mit Paprika-Hummus (Kichererbsenmus)",
-                    "price": "N/A",
-                    "ingredients": [
-                        "2",
-                        "Ei",
-                        "Gl",
-                        "GlW",
-                        "Kn"
-                    ]
-                },
                 {
                     "name": "Chop Suey vom Schweinefleisch",
                     "price": "N/A",
@@ -56,12 +45,35 @@
                         "So",
                         "Sw"
                     ]
+                },
+                {
+                    "name": "Couscousbratling mit Paprika-Hummus (Kichererbsenmus)",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ]
                 }
             ]
         },
         {
             "date": "2019-09-18",
             "dishes": [
+                {
+                    "name": "Münchner Gulasch vom Rind (GQB)",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R"
+                    ]
+                },
                 {
                     "name": "Kartoffel-Zucchini-Auflauf mit Paprikasauce",
                     "price": "N/A",
@@ -74,33 +86,12 @@
                         "Kn",
                         "Mi"
                     ]
-                },
-                {
-                    "name": "Münchner Gulasch vom Rind (GQB)",
-                    "price": "N/A",
-                    "ingredients": [
-                        "Gl",
-                        "GlG",
-                        "GlW",
-                        "Kn",
-                        "Mi",
-                        "R"
-                    ]
                 }
             ]
         },
         {
             "date": "2019-09-19",
             "dishes": [
-                {
-                    "name": "Tandoori Chicken in Joghurtmarinade und Gurken-Minz-Dip",
-                    "price": "N/A",
-                    "ingredients": [
-                        "Kn",
-                        "Mi",
-                        "Sf"
-                    ]
-                },
                 {
                     "name": "Penne mit Tomaten-Frischkäse-Sauce",
                     "price": "N/A",
@@ -110,12 +101,31 @@
                         "Kn",
                         "Mi"
                     ]
+                },
+                {
+                    "name": "Tandoori Chicken in Joghurtmarinade und Gurken-Minz-Dip",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Kn",
+                        "Mi",
+                        "Sf"
+                    ]
                 }
             ]
         },
         {
             "date": "2019-09-20",
             "dishes": [
+                {
+                    "name": "Pfannkuchen mit Mascarpone-Erdbeerfüllung und Vanillesauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi"
+                    ]
+                },
                 {
                     "name": "Kabeljaufilet (MSC) mit einer Gurken-Senfsauce",
                     "price": "N/A",
@@ -127,16 +137,6 @@
                         "Mi",
                         "Sf",
                         "Sl"
-                    ]
-                },
-                {
-                    "name": "Pfannkuchen mit Mascarpone-Erdbeerfüllung und Vanillesauce",
-                    "price": "N/A",
-                    "ingredients": [
-                        "Ei",
-                        "Gl",
-                        "GlW",
-                        "Mi"
                     ]
                 }
             ]
