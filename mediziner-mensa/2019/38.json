@@ -1,0 +1,293 @@
+{
+    "number": 38,
+    "year": 2019,
+    "days": [
+        {
+            "date": "2019-09-16",
+            "dishes": [
+                {
+                    "name": "Spinatcremesuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "Mi"
+                    ]
+                },
+                {
+                    "name": "Paniertes Schollenfilet",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Fi",
+                        "Gl"
+                    ]
+                },
+                {
+                    "name": "Apfelstrudel mit Vanille-Zimt-Soße",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "9",
+                        "Ei",
+                        "Gl",
+                        "Mi"
+                    ]
+                },
+                {
+                    "name": "Bulgur-Gemüse-Pfanne mit Zitronengras und Orangen-Minz-Joghurt",
+                    "price": 2.9,
+                    "ingredients": [
+                        "Gl",
+                        "Mi",
+                        "Sl"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-09-17",
+            "dishes": [
+                {
+                    "name": "Selleriecremesuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "Mi",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Gebratener Kasselerhals",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "4",
+                        "8",
+                        "Gl",
+                        "S"
+                    ]
+                },
+                {
+                    "name": "Indisches Kürbisragout mit Kichererbsen",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Mi"
+                    ]
+                },
+                {
+                    "name": "Currywurst mit Kartoffelwedges und Mayonnaise",
+                    "price": 3.05,
+                    "ingredients": [
+                        "2",
+                        "3",
+                        "4",
+                        "8",
+                        "9",
+                        "Ei",
+                        "Gl",
+                        "R",
+                        "S",
+                        "Sf"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-09-18",
+            "dishes": [
+                {
+                    "name": "Französische Zwiebelsuppe",
+                    "price": "N/A",
+                    "ingredients": []
+                },
+                {
+                    "name": "Pikante Hähnchenkeule",
+                    "price": "N/A",
+                    "ingredients": [
+                        "G"
+                    ]
+                },
+                {
+                    "name": "Gegrillter Halloumikäse",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Mi"
+                    ]
+                },
+                {
+                    "name": "Strozzapreti mit Tomatensoße B,",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl"
+                    ]
+                },
+                {
+                    "name": "Grana Pandano und gemischter Salat",
+                    "price": 2.45,
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "9",
+                        "Mi",
+                        "Sf",
+                        "Sw"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-09-19",
+            "dishes": [
+                {
+                    "name": "Süßkartoffelcremesuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "Mi"
+                    ]
+                },
+                {
+                    "name": "Rinderhacksteak",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "Mi",
+                        "R",
+                        "Sf",
+                        "So"
+                    ]
+                },
+                {
+                    "name": "Quinoa-Pilzpfanne",
+                    "price": "N/A",
+                    "ingredients": []
+                },
+                {
+                    "name": "Hühnerbrust mit Majoranjus B, dazu Pariser Karotten und Gnocchi",
+                    "price": 3.65,
+                    "ingredients": [
+                        "Ei",
+                        "G",
+                        "Gl"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-09-20",
+            "dishes": [
+                {
+                    "name": "Brokkolicremesuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "Mi"
+                    ]
+                },
+                {
+                    "name": "Bayerische Mini Haxe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "Gl",
+                        "S",
+                        "So"
+                    ]
+                },
+                {
+                    "name": "Spanisches Bohnenragout mit geräuchertem",
+                    "price": "N/A",
+                    "ingredients": []
+                },
+                {
+                    "name": "Tofu",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "9",
+                        "Gl",
+                        "So"
+                    ]
+                },
+                {
+                    "name": "ünstetes Seelachsfischfilet mit Estragonsoße B,N, buntem Hebstgemüse und Kartoffeln",
+                    "price": 3.7,
+                    "ingredients": [
+                        "9",
+                        "Fi"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-09-21",
+            "dishes": [
+                {
+                    "name": "Bratspätzlesuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "R",
+                        "S",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Kartoffelsuppe mit Putenwiener und einer Semmel",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "3",
+                        "4",
+                        "8",
+                        "G",
+                        "Gl",
+                        "Sf",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Vegetarische Maultaschen mit Zwiebelschmelze",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "Mi",
+                        "Sl"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-09-22",
+            "dishes": [
+                {
+                    "name": "Käsecremesuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "Gl",
+                        "Mi"
+                    ]
+                },
+                {
+                    "name": "Lammbraten in Rosmarinsoße",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "Mi"
+                    ]
+                },
+                {
+                    "name": "eispfanne mit Paprika, Karotten, Zwiebel und Zucchini",
+                    "price": "N/A",
+                    "ingredients": []
+                }
+            ]
+        }
+    ]
+}
