@@ -19,14 +19,20 @@
                     "ingredients": [
                         "Gl",
                         "GlG",
+                        "GlW",
                         "Kn",
                         "Sl"
                     ]
                 },
                 {
-                    "name": "Tagessuppe",
+                    "name": "Kartoffelsuppe mit Paprika",
                     "price": "N/A",
-                    "ingredients": []
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi"
+                    ]
                 },
                 {
                     "name": "Spinatspätzlepfanne mit Bergkäse und abgeschmelzten Zwiebeln",
@@ -54,6 +60,19 @@
         {
             "date": "2019-09-24",
             "dishes": [
+                {
+                    "name": "Pizza mit Thunfisch, Oliven und roten Zwiebeln",
+                    "price": "N/A",
+                    "ingredients": [
+                        "6",
+                        "Fi",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Mi",
+                        "So"
+                    ]
+                },
                 {
                     "name": "Zwiebelrostbraten mit Rotweinsauce",
                     "price": "N/A",
@@ -91,9 +110,15 @@
                     ]
                 },
                 {
-                    "name": "Tagessuppe",
+                    "name": "Backerbsensuppe",
                     "price": "N/A",
-                    "ingredients": []
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sl"
+                    ]
                 },
                 {
                     "name": "Kartoffel-Pilz-Auflauf mit frischem Lauch und Dip",
@@ -181,6 +206,19 @@
                         "GlD",
                         "Kn",
                         "Mi"
+                    ]
+                },
+                {
+                    "name": "Pizza Quattro Formaggi",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Mi",
+                        "So"
                     ]
                 },
                 {

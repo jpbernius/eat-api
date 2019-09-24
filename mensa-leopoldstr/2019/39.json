@@ -4,44 +4,7 @@
     "days": [
         {
             "date": "2019-09-23",
-            "dishes": [
-                {
-                    "name": "Putensteak mit Kräuterbutter",
-                    "price": "N/A",
-                    "ingredients": [
-                        "Kn",
-                        "Mi"
-                    ]
-                },
-                {
-                    "name": "Spinatspätzlepfanne mit Bergkäse und abgeschmelzten Zwiebeln",
-                    "price": "0.75€ / 100g",
-                    "ingredients": [
-                        "Ei",
-                        "Gl",
-                        "GlW",
-                        "Mi"
-                    ]
-                },
-                {
-                    "name": "Green-Thai-Curry vom Rind (GQB)",
-                    "price": "N/A",
-                    "ingredients": [
-                        "Kn",
-                        "R"
-                    ]
-                },
-                {
-                    "name": "Graupen-Gemüse-Pfanne",
-                    "price": "0.33€ / 100g",
-                    "ingredients": [
-                        "Gl",
-                        "GlG",
-                        "Kn",
-                        "Sl"
-                    ]
-                }
-            ]
+            "dishes": []
         },
         {
             "date": "2019-09-24",

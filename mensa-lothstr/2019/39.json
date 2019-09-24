@@ -20,6 +20,8 @@
                     "name": "Spinatspätzlepfanne mit Bergkäse und abgeschmelzten Zwiebeln",
                     "price": 2.6,
                     "ingredients": [
+                        "1",
+                        "2",
                         "Ei",
                         "Gl",
                         "GlW",
@@ -78,6 +80,20 @@
                         "GlW",
                         "Kn",
                         "Sl"
+                    ]
+                },
+                {
+                    "name": "Spinatknödel Tiroler Art mit Bergkäse",
+                    "price": 2.6,
+                    "ingredients": [
+                        "11",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sf",
+                        "Sl",
+                        "Sw"
                     ]
                 }
             ]

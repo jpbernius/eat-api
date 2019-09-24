@@ -1,0 +1,252 @@
+{
+    "number": 40,
+    "year": 2019,
+    "days": [
+        {
+            "date": "2019-09-30",
+            "dishes": [
+                {
+                    "name": "Penne mit Bolognese-Sauce",
+                    "price": "0.68€ / 100g",
+                    "ingredients": [
+                        "2",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Falafel mit Gemüsecouscous",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ]
+                },
+                {
+                    "name": "Tagessuppe",
+                    "price": "N/A",
+                    "ingredients": []
+                },
+                {
+                    "name": "Tagesgemüse",
+                    "price": "N/A",
+                    "ingredients": []
+                },
+                {
+                    "name": "Aktionsdessert",
+                    "price": "N/A",
+                    "ingredients": []
+                },
+                {
+                    "name": "Tagesdessert",
+                    "price": "N/A",
+                    "ingredients": []
+                }
+            ]
+        },
+        {
+            "date": "2019-10-01",
+            "dishes": [
+                {
+                    "name": "Kürbiskernschnitzel (G)",
+                    "price": "0.68€ / 100g",
+                    "ingredients": [
+                        "Ei",
+                        "Gl"
+                    ]
+                },
+                {
+                    "name": "Chili con carne",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "R"
+                    ]
+                },
+                {
+                    "name": "Gemüseeintopf Pichelsteiner Art",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Tagessuppe",
+                    "price": "N/A",
+                    "ingredients": []
+                },
+                {
+                    "name": "Tagesgemüse",
+                    "price": "N/A",
+                    "ingredients": []
+                },
+                {
+                    "name": "Kartoffel-Gurken-Salat",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "5",
+                        "Sw"
+                    ]
+                },
+                {
+                    "name": "Reis",
+                    "price": "N/A",
+                    "ingredients": []
+                },
+                {
+                    "name": "Aktionsdessert",
+                    "price": "N/A",
+                    "ingredients": []
+                },
+                {
+                    "name": "Tagesdessert",
+                    "price": "N/A",
+                    "ingredients": []
+                }
+            ]
+        },
+        {
+            "date": "2019-10-02",
+            "dishes": [
+                {
+                    "name": "Schweinelende mit Rahmsauce",
+                    "price": "0.68€ / 100g",
+                    "ingredients": [
+                        "2",
+                        "9",
+                        "Mi",
+                        "S",
+                        "Sf"
+                    ]
+                },
+                {
+                    "name": "Hähnchenschnitzel mit Mango-Chili-Dip",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi"
+                    ]
+                },
+                {
+                    "name": "Pasta mit Broccoli-Sahne-Sauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi"
+                    ]
+                },
+                {
+                    "name": "Tagessuppe",
+                    "price": "N/A",
+                    "ingredients": []
+                },
+                {
+                    "name": "Tagesgemüse",
+                    "price": "N/A",
+                    "ingredients": []
+                },
+                {
+                    "name": "Kartoffelpüree",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Mi"
+                    ]
+                },
+                {
+                    "name": "Zartweizen",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW"
+                    ]
+                },
+                {
+                    "name": "Aktionsdessert",
+                    "price": "N/A",
+                    "ingredients": []
+                },
+                {
+                    "name": "Tagesdessert",
+                    "price": "N/A",
+                    "ingredients": []
+                }
+            ]
+        },
+        {
+            "date": "2019-10-04",
+            "dishes": [
+                {
+                    "name": "Zanderfilet gebraten mit Dillsauce (F)",
+                    "price": "0.68€ / 100g",
+                    "ingredients": [
+                        "Fi",
+                        "Gl",
+                        "Mi"
+                    ]
+                },
+                {
+                    "name": "Pasta mit Sauce Bolognese",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "R",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Apfelkücherl mit Vanillesauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi"
+                    ]
+                },
+                {
+                    "name": "Tagessuppe",
+                    "price": "N/A",
+                    "ingredients": []
+                },
+                {
+                    "name": "Tagesgemüse",
+                    "price": "N/A",
+                    "ingredients": []
+                },
+                {
+                    "name": "Salzkartoffeln",
+                    "price": "N/A",
+                    "ingredients": []
+                },
+                {
+                    "name": "Aktionsdessert",
+                    "price": "N/A",
+                    "ingredients": []
+                },
+                {
+                    "name": "Tagesdessert",
+                    "price": "N/A",
+                    "ingredients": []
+                }
+            ]
+        }
+    ]
+}

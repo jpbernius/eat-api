@@ -1,0 +1,217 @@
+{
+    "number": 40,
+    "year": 2019,
+    "days": [
+        {
+            "date": "2019-09-30",
+            "dishes": [
+                {
+                    "name": "Alm Cordon bleu gefüllt mit Bergkäse und rohem Schinken",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "Ei",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S"
+                    ]
+                },
+                {
+                    "name": "Esterhazygulasch vom Rind (GQB)",
+                    "price": "0.75€ / 100g",
+                    "ingredients": [
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Cannelloni mit Ricotta-Spinat-Füllung und Tomatensauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Bulgur mit Karotten, Fenchel und Sellerie",
+                    "price": "0.33€ / 100g",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Sl"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-10-01",
+            "dishes": [
+                {
+                    "name": "Seelachsfilet Lemon Koriander mit Buttersauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "99",
+                        "Ei",
+                        "Fi",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sf",
+                        "Sw"
+                    ]
+                },
+                {
+                    "name": "Bio-Pasta Napoli (Bio-Tomaten-Basilikumsauce)",
+                    "price": "0.75€ / 100g",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ]
+                },
+                {
+                    "name": "Wiesn-Bratwurstschnecke",
+                    "price": "N/A",
+                    "ingredients": [
+                        "8",
+                        "S",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Grüne Bohnen mit Basmatireis in Kokos-Zitronensauce",
+                    "price": "0.33€ / 100g",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Sf"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-10-02",
+            "dishes": [
+                {
+                    "name": "Wiesn - Münchner Schnitzel (Senf-Meerrettichkruste)",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "S",
+                        "Sf",
+                        "Sw"
+                    ]
+                },
+                {
+                    "name": "Hähnchenspieß mit fruchtiger Sauce",
+                    "price": "0.75€ / 100g",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "So"
+                    ]
+                },
+                {
+                    "name": "Wiesn - Apfelstrudel mit Vanillesauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Mi"
+                    ]
+                },
+                {
+                    "name": "Mexikanisches Chili",
+                    "price": "0.33€ / 100g",
+                    "ingredients": [
+                        "Kn",
+                        "So"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-10-04",
+            "dishes": [
+                {
+                    "name": "Kartoffeleintopf mit ein Paar Wiener",
+                    "price": "individual",
+                    "ingredients": [
+                        "2",
+                        "3",
+                        "8",
+                        "R",
+                        "S",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Massaman Curry (mit Hähnchen)",
+                    "price": "N/A",
+                    "ingredients": [
+                        "En",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Sf",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Schupfnudeln mit Sauerkraut und Kümmel",
+                    "price": "0.75€ / 100g",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Hackbraten mit Rahmsauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "S",
+                        "Sf",
+                        "So"
+                    ]
+                },
+                {
+                    "name": "Kartoffeleintopf mit Majoran",
+                    "price": "0.33€ / 100g",
+                    "ingredients": [
+                        "Sl"
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "number": 40,
+    "year": 2019,
+    "days": [
+        {
+            "date": "2019-09-30",
+            "dishes": [
+                {
+                    "name": "Tagessuppe",
+                    "price": 1.0,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "Mi",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Rahmwirsing mit Semmelknödel",
+                    "price": 4.5,
+                    "ingredients": [
+                        "Gl",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Pasta Front-Cooking (*) Pasta mit Linsen- Bolognese",
+                    "price": 4.9,
+                    "ingredients": [
+                        "Gl",
+                        "Sl"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-10-01",
+            "dishes": [
+                {
+                    "name": "Tagessuppe",
+                    "price": 1.0,
+                    "ingredients": [
+                        "Gl",
+                        "Mi",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Gnocchi mit Broccoli in Zitronensoße dazu Peccorino",
+                    "price": 4.5,
+                    "ingredients": [
+                        "Ei",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Frisch vom Grill Leberkäse mit Spiegelei und Kartoffelsalat",
+                    "price": 4.6,
+                    "ingredients": [
+                        "Mi",
+                        "Sl"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-10-02",
+            "dishes": [
+                {
+                    "name": "Tagessuppe",
+                    "price": 1.0,
+                    "ingredients": [
+                        "Gl",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "(*) Spinat- Kicherbsencurry mit Duftreis",
+                    "price": 4.5,
+                    "ingredients": [
+                        "Gl",
+                        "Mi",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Pasta Front-Cooking Pasta mit Kürbis-Sahnesoße",
+                    "price": 4.9,
+                    "ingredients": [
+                        "Gl",
+                        "Mi",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Züricher Putengeschnetzeltes mit Reiberdatschi und Karottengemüse",
+                    "price": 6.2,
+                    "ingredients": [
+                        "Gl"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-10-03",
+            "dishes": []
+        },
+        {
+            "date": "2019-10-04",
+            "dishes": [
+                {
+                    "name": "Tagessuppe",
+                    "price": 1.0,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "Mi"
+                    ]
+                },
+                {
+                    "name": "1 x Rosinen-Rohrnudel mit Vanillesoße",
+                    "price": 2.8,
+                    "ingredients": [
+                        "Gl",
+                        "Si",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Pasta Front-Cooking Pasta al Tonno mit Oliven und Kapern",
+                    "price": 4.9,
+                    "ingredients": [
+                        "Si",
+                        "Sl"
+                    ]
+                }
+            ]
+        }
+    ]
+}

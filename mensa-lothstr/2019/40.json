@@ -1,0 +1,213 @@
+{
+    "number": 40,
+    "year": 2019,
+    "days": [
+        {
+            "date": "2019-09-30",
+            "dishes": [
+                {
+                    "name": "Bulgur mit Karotten, Fenchel und Sellerie",
+                    "price": 1.0,
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Cannelloni mit Ricotta-Spinat-Füllung und Tomatensauce",
+                    "price": 2.6,
+                    "ingredients": [
+                        "1",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Esterhazygulasch vom Rind (GQB)",
+                    "price": 2.8,
+                    "ingredients": [
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Alm Cordon bleu gefüllt mit Bergkäse und rohem Schinken",
+                    "price": 4.0,
+                    "ingredients": [
+                        "2",
+                        "Ei",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-10-01",
+            "dishes": [
+                {
+                    "name": "Grüne Bohnen mit Basmatireis in Kokos-Zitronensauce",
+                    "price": 1.0,
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Sf"
+                    ]
+                },
+                {
+                    "name": "Kartoffeltaschen mit Kräuterfrischkäse",
+                    "price": 2.4,
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi"
+                    ]
+                },
+                {
+                    "name": "Wiesn-Bratwurstschnecke",
+                    "price": 2.4,
+                    "ingredients": [
+                        "8",
+                        "S",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Kalbsrahmgulasch mit Champignons und Weißwein",
+                    "price": 3.0,
+                    "ingredients": [
+                        "5",
+                        "99",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sw"
+                    ]
+                },
+                {
+                    "name": "Bio-Pasta Napoli (Bio-Tomaten-Basilikumsauce)",
+                    "price": 1.9,
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-10-02",
+            "dishes": [
+                {
+                    "name": "Mexikanisches Chili",
+                    "price": 1.0,
+                    "ingredients": [
+                        "Kn",
+                        "So"
+                    ]
+                },
+                {
+                    "name": "Pasta mit Champignonrahmsauce",
+                    "price": 1.9,
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi"
+                    ]
+                },
+                {
+                    "name": "Hähnchenspieß mit fruchtiger Sauce",
+                    "price": 2.4,
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "So"
+                    ]
+                },
+                {
+                    "name": "Wiesn - Münchner Schnitzel (Senf-Meerrettichkruste)",
+                    "price": 2.4,
+                    "ingredients": [
+                        "3",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S",
+                        "Sf",
+                        "Sw"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-10-04",
+            "dishes": [
+                {
+                    "name": "Kartoffeleintopf mit Majoran",
+                    "price": 1.0,
+                    "ingredients": [
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Spaghetti Carbonara",
+                    "price": 1.9,
+                    "ingredients": [
+                        "2",
+                        "3",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Kleine Dampfnudel mit Vanillesauce",
+                    "price": 2.4,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi"
+                    ]
+                },
+                {
+                    "name": "Kabeljaufilet (MSC) mit Sauce Hollandaise",
+                    "price": 3.5,
+                    "ingredients": [
+                        "Ei",
+                        "Fi",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sl"
+                    ]
+                }
+            ]
+        }
+    ]
+}

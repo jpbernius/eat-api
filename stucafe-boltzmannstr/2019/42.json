@@ -1,0 +1,66 @@
+{
+    "number": 42,
+    "year": 2019,
+    "days": [
+        {
+            "date": "2019-10-14",
+            "dishes": [
+                {
+                    "name": "Spinatknödel Tiroler Art mit Bergkäse",
+                    "price": 3.0,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sl"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-10-15",
+            "dishes": []
+        },
+        {
+            "date": "2019-10-16",
+            "dishes": []
+        },
+        {
+            "date": "2019-10-17",
+            "dishes": [
+                {
+                    "name": "Frische Rahmschwammerl",
+                    "price": 1.9,
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-10-18",
+            "dishes": [
+                {
+                    "name": "Schollenfilet (MSC) paniert mit Remouladensauce",
+                    "price": 2.6,
+                    "ingredients": [
+                        "1",
+                        "11",
+                        "2",
+                        "9",
+                        "Ei",
+                        "Fi",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sf"
+                    ]
+                }
+            ]
+        }
+    ]
+}

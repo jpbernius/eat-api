@@ -62,13 +62,15 @@
                     "price": 4.0,
                     "ingredients": [
                         "1",
+                        "11",
                         "2",
                         "9",
                         "Ei",
                         "Fi",
                         "Gl",
                         "GlW",
-                        "Mi"
+                        "Mi",
+                        "Sf"
                     ]
                 }
             ]

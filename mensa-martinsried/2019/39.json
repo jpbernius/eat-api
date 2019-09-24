@@ -24,9 +24,25 @@
                     ]
                 },
                 {
-                    "name": "Tagessuppe",
+                    "name": "Grießnockerlsuppe",
                     "price": "N/A",
-                    "ingredients": []
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Chili sin Carne",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "So"
+                    ]
                 },
                 {
                     "name": "Spinatspätzlepfanne mit Bergkäse und abgeschmelzten Zwiebeln",
@@ -39,14 +55,17 @@
                     ]
                 },
                 {
-                    "name": "Chili con Carne",
+                    "name": "Krautwickerl mit Speck-Zwiebel-Sauce",
                     "price": "N/A",
                     "ingredients": [
                         "2",
+                        "3",
                         "Gl",
+                        "GlG",
                         "GlW",
                         "Kn",
-                        "R"
+                        "Mi",
+                        "S"
                     ]
                 }
             ]
@@ -79,9 +98,33 @@
                     ]
                 },
                 {
-                    "name": "Tagessuppe",
+                    "name": "Karotten-Ingwer-Suppe",
                     "price": "N/A",
-                    "ingredients": []
+                    "ingredients": [
+                        "Gl",
+                        "GlW"
+                    ]
+                },
+                {
+                    "name": "Chili sin Carne",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "So"
+                    ]
+                },
+                {
+                    "name": "Graupen-Gemüse-Pfanne",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlG",
+                        "Kn",
+                        "Sl"
+                    ]
                 },
                 {
                     "name": "Kartoffel-Pilz-Auflauf mit frischem Lauch und Dip",

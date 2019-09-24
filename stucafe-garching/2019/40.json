@@ -1,0 +1,62 @@
+{
+    "number": 40,
+    "year": 2019,
+    "days": [
+        {
+            "date": "2019-09-30",
+            "dishes": [
+                {
+                    "name": "Esterhazygulasch vom Rind (GQB)",
+                    "price": 2.8,
+                    "ingredients": [
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "Sl"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-10-01",
+            "dishes": [
+                {
+                    "name": "Kalbsrahmgulasch mit Champignons und Weißwein",
+                    "price": 3.0,
+                    "ingredients": [
+                        "5",
+                        "99",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sw"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-10-04",
+            "dishes": [
+                {
+                    "name": "Hackbraten mit Rahmsauce",
+                    "price": 2.8,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "S",
+                        "Sf",
+                        "So"
+                    ]
+                }
+            ]
+        }
+    ]
+}

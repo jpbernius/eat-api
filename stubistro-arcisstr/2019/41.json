@@ -1,0 +1,144 @@
+{
+    "number": 41,
+    "year": 2019,
+    "days": [
+        {
+            "date": "2019-10-07",
+            "dishes": [
+                {
+                    "name": "Rougaille Soja von Mauritius (Soja in würziger Tomatensauce)",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Kn",
+                        "Sf",
+                        "So"
+                    ]
+                },
+                {
+                    "name": "Pikante Chickenwings mit Barbecuesauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "10",
+                        "11",
+                        "Kn",
+                        "Sf",
+                        "Sl"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-10-08",
+            "dishes": [
+                {
+                    "name": "Mediterraner Nudel-Gemüse-Auflauf",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi"
+                    ]
+                },
+                {
+                    "name": "Rinderbraten (GQB) mit Rotweinsauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "99",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "Sl",
+                        "Sw"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-10-09",
+            "dishes": [
+                {
+                    "name": "Knöpflepfanne mit Gemüse und Pilzen",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlD",
+                        "GlW",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Schweinesteak Strindberg (Senf-Zwiebelkruste)",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sf",
+                        "Sl"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-10-10",
+            "dishes": [
+                {
+                    "name": "Gebratene Currynudeln mit Gemüsestreifen",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Se",
+                        "Sf",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Hähnchenkeule mexikanische Art",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-10-11",
+            "dishes": [
+                {
+                    "name": "Millirahmstrudel mit Äpfeln und Vanillesauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "Gl",
+                        "GlW",
+                        "Mi"
+                    ]
+                },
+                {
+                    "name": "Wildlachs (MSC) auf Blattspinat",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Fi",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi"
+                    ]
+                }
+            ]
+        }
+    ]
+}

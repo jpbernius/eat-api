@@ -74,17 +74,14 @@
                     ]
                 },
                 {
-                    "name": "Spinatknödel mit Bouillongemüse",
+                    "name": "Spinatknödel Tiroler Art mit Bergkäse",
                     "price": "N/A",
                     "ingredients": [
-                        "2",
                         "Ei",
                         "Gl",
-                        "GlG",
                         "GlW",
                         "Mi",
-                        "Sl",
-                        "So"
+                        "Sl"
                     ]
                 }
             ]
@@ -92,18 +89,6 @@
         {
             "date": "2019-09-26",
             "dishes": [
-                {
-                    "name": "Pfannengyros vom Schwein mit Tsatsiki",
-                    "price": "N/A",
-                    "ingredients": [
-                        "3",
-                        "5",
-                        "Kn",
-                        "Mi",
-                        "S",
-                        "Sw"
-                    ]
-                },
                 {
                     "name": "Dinkelnudelpfanne Griechische Art mit Oliven,Schafskäse und Knoblauch",
                     "price": "N/A",
@@ -114,6 +99,18 @@
                         "GlD",
                         "Kn",
                         "Mi"
+                    ]
+                },
+                {
+                    "name": "Pfannengyros vom Schwein mit Tsatsiki",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "5",
+                        "Kn",
+                        "Mi",
+                        "S",
+                        "Sw"
                     ]
                 }
             ]

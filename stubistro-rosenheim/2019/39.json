@@ -9,32 +9,36 @@
                     "name": "Schweinelachssteak mit Pfeffersauce",
                     "price": "0.68€ / 100g",
                     "ingredients": [
+                        "1",
                         "Gl",
-                        "GlG",
                         "GlW",
-                        "Kn",
                         "Mi",
-                        "S"
+                        "S",
+                        "Sf"
                     ]
                 },
                 {
-                    "name": "Orientalische Reispfanne mit Sojahack, Sesam und Gemüse",
+                    "name": "Orientalische Reispfanne mit Sesam und Gemüse",
                     "price": "N/A",
                     "ingredients": [
                         "Kn",
-                        "Se",
-                        "So"
+                        "Se"
                     ]
                 },
                 {
-                    "name": "Tagessuppe",
+                    "name": "Kartoffelsuppe",
                     "price": "N/A",
-                    "ingredients": []
+                    "ingredients": [
+                        "Mi",
+                        "Sl"
+                    ]
                 },
                 {
-                    "name": "Tagesgemüse",
+                    "name": "Pfannengemüse",
                     "price": "N/A",
-                    "ingredients": []
+                    "ingredients": [
+                        "Sl"
+                    ]
                 },
                 {
                     "name": "Knöpfle",
@@ -47,14 +51,11 @@
                     ]
                 },
                 {
-                    "name": "Aktionsdessert",
+                    "name": "Joghurt mit Ananas und Mandarinen",
                     "price": "N/A",
-                    "ingredients": []
-                },
-                {
-                    "name": "Tagesdessert",
-                    "price": "N/A",
-                    "ingredients": []
+                    "ingredients": [
+                        "Mi"
+                    ]
                 }
             ]
         },

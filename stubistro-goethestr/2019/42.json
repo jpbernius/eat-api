@@ -1,0 +1,77 @@
+{
+    "number": 42,
+    "year": 2019,
+    "days": [
+        {
+            "date": "2019-10-14",
+            "dishes": [
+                {
+                    "name": "Penne all'arrabiata",
+                    "price": 1.55,
+                    "ingredients": [
+                        "2",
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-10-15",
+            "dishes": [
+                {
+                    "name": "Hähnchenknusperfilet mit Mango-Chili-Dip",
+                    "price": 2.4,
+                    "ingredients": [
+                        "1",
+                        "11",
+                        "2",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sf"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-10-16",
+            "dishes": [
+                {
+                    "name": "Frühlingsrolle mit süßsaurer Sauce",
+                    "price": 1.9,
+                    "ingredients": [
+                        "11",
+                        "3",
+                        "5",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sl",
+                        "So",
+                        "Sw"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-10-17",
+            "dishes": [
+                {
+                    "name": "Spenden - Currywurst",
+                    "price": 1.9,
+                    "ingredients": [
+                        "11",
+                        "8",
+                        "R",
+                        "S",
+                        "Sf"
+                    ]
+                }
+            ]
+        }
+    ]
+}
