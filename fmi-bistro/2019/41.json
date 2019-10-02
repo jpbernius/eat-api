@@ -1,0 +1,177 @@
+{
+    "number": 41,
+    "year": 2019,
+    "days": [
+        {
+            "date": "2019-10-07",
+            "dishes": [
+                {
+                    "name": "Tagessuppe",
+                    "price": 1.0,
+                    "ingredients": [
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "(*)Süßkartoffeln mit Andalusiengemüse",
+                    "price": 4.5,
+                    "ingredients": [
+                        "Gl",
+                        "Mi",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Pasta Front-Cooking Pasta mit Austernpilzrahm",
+                    "price": 4.9,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "Mi",
+                        "Sl"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-10-08",
+            "dishes": [
+                {
+                    "name": "Tagessuppe",
+                    "price": 1.0,
+                    "ingredients": [
+                        "Gl",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "(*) One Pot Pasta in Red- Currypaste mit Kokosmilch und Gemüse",
+                    "price": 4.5,
+                    "ingredients": [
+                        "Ei",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Frisch vom Grill Leberkäse mit Spiegelei und Kartoffelsalat",
+                    "price": 4.6,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "Sf",
+                        "Sl"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-10-09",
+            "dishes": [
+                {
+                    "name": "Tagessuppe",
+                    "price": 1.0,
+                    "ingredients": [
+                        "Gl",
+                        "Sc",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "(*)Kartoffel-Gemüsepfanne in Kokos- Erdnußsoße",
+                    "price": 4.5,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "Mi",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Pasta Front-Cooking Pasta alla Carbonara",
+                    "price": 4.9,
+                    "ingredients": [
+                        "Gl",
+                        "Mi",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Pulled Turkey mit Mango- Chutney Karottenstifte im Brioche- Brötchen",
+                    "price": 5.5,
+                    "ingredients": [
+                        "Sl"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-10-10",
+            "dishes": [
+                {
+                    "name": "Tagessuppe",
+                    "price": 1.0,
+                    "ingredients": [
+                        "Gl",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "(*)Tofu-Gulasch mit Pastinaken",
+                    "price": 4.5,
+                    "ingredients": [
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Frisch vom Grill Currywurst mit Pommes Frites",
+                    "price": 5.5,
+                    "ingredients": [
+                        "Ei",
+                        "Mi",
+                        "Se",
+                        "Sf",
+                        "Sl",
+                        "So",
+                        "Wt"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-10-11",
+            "dishes": [
+                {
+                    "name": "Tagessuppe",
+                    "price": 1.0,
+                    "ingredients": [
+                        "Gl",
+                        "Mi"
+                    ]
+                },
+                {
+                    "name": "Milchreis mit Zimt- Zucker",
+                    "price": 4.3,
+                    "ingredients": [
+                        "Gl",
+                        "Mi",
+                        "Si",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Pasta Front-Cooking (*)Pasta mit Räucherlachs",
+                    "price": 4.5,
+                    "ingredients": [
+                        "Ei",
+                        "En",
+                        "Gl",
+                        "Mi",
+                        "Sc",
+                        "Si",
+                        "Sl"
+                    ]
+                }
+            ]
+        }
+    ]
+}
