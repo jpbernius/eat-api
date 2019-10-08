@@ -1,0 +1,164 @@
+{
+    "number": 42,
+    "year": 2019,
+    "days": [
+        {
+            "date": "2019-10-14",
+            "dishes": [
+                {
+                    "name": "Tagessuppe",
+                    "price": 1.0,
+                    "ingredients": [
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "(*)Süßkartoffel- Gemüsepfanne mit Kokosmilch",
+                    "price": 4.5,
+                    "ingredients": [
+                        "Gl",
+                        "Mi",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Pasta Front-Cooking (*)Pasta mit Fenchel- Kapernsoße",
+                    "price": 4.9,
+                    "ingredients": [
+                        "Mi",
+                        "Sl"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-10-15",
+            "dishes": [
+                {
+                    "name": "Tagessuppe",
+                    "price": 1.0,
+                    "ingredients": [
+                        "Gl",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "(*) Mienudeln mit Wokgemüse und Muerrpilzen",
+                    "price": 4.5,
+                    "ingredients": [
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Frisch vom Grill Leberkäse mit Kartoffelsalat",
+                    "price": 4.6,
+                    "ingredients": [
+                        "Mi",
+                        "Sf",
+                        "Sl"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-10-16",
+            "dishes": [
+                {
+                    "name": "Tagessuppe",
+                    "price": 1.0,
+                    "ingredients": [
+                        "Gl",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "(*) Gemüsespieß auf Wildreis mit Kurkuma-Sojasoße",
+                    "price": 4.5,
+                    "ingredients": [
+                        "Gl",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Pasta Front-Cooking Pasta mit Paprika- Chorizosugo",
+                    "price": 4.9,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "Mi",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Putenschnitzel “Wiener Art“ mit Pommes Frites",
+                    "price": 5.5,
+                    "ingredients": [
+                        "Mi",
+                        "Sl"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-10-17",
+            "dishes": [
+                {
+                    "name": "Tagessuppe",
+                    "price": 1.0,
+                    "ingredients": [
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "(*)Paprika-Tofu- Reispfanne",
+                    "price": 4.5,
+                    "ingredients": [
+                        "Gl",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Frisch vom Grill Currywurst mit Pommes",
+                    "price": 5.5,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "Mi",
+                        "Sl"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-10-18",
+            "dishes": [
+                {
+                    "name": "Tagessuppe",
+                    "price": 1.0,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "Mi"
+                    ]
+                },
+                {
+                    "name": "Grießschmarrn mit Apfelmus",
+                    "price": 4.3,
+                    "ingredients": [
+                        "Gl",
+                        "Mi",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Pasta Front-Cooking (*)Pasta mit Lachs- Dillsoße",
+                    "price": 4.9,
+                    "ingredients": [
+                        "Si",
+                        "Sl"
+                    ]
+                }
+            ]
+        }
+    ]
+}
