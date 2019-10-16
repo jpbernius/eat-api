@@ -1,0 +1,171 @@
+{
+    "number": 43,
+    "year": 2019,
+    "days": [
+        {
+            "date": "2019-10-21",
+            "dishes": [
+                {
+                    "name": "Tagessuppe",
+                    "price": 1.0,
+                    "ingredients": [
+                        "Gl",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "(*) Kraut Schupfnudeln",
+                    "price": 4.5,
+                    "ingredients": [
+                        "Gl",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Pasta Front-Cooking Pasta mit Peperonata",
+                    "price": 4.9,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "Mi",
+                        "Sl"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-10-22",
+            "dishes": [
+                {
+                    "name": "Tagessuppe",
+                    "price": 1.0,
+                    "ingredients": [
+                        "Gl",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "(*) Veganer Burger mit Salat Tomate und Avocadodip",
+                    "price": 4.5,
+                    "ingredients": [
+                        "Ei",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Frisch vom Grill Leberkäse mit Spiegelei und Kartoffelsalat",
+                    "price": 4.6,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "Mi",
+                        "Sl"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-10-23",
+            "dishes": [
+                {
+                    "name": "Tagessuppe",
+                    "price": 1.0,
+                    "ingredients": [
+                        "Gl",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "(*) 2 Stück Vegane Kartoffelknödel mit Gemüse- Sojasahne",
+                    "price": 4.5,
+                    "ingredients": [
+                        "Gl",
+                        "Mi",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Pasta Front-Cooking Pasta mit Schinken-Erbsen- Champignon- Sahnesoße",
+                    "price": 4.9,
+                    "ingredients": [
+                        "Gl",
+                        "Mi",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Chili con Carne vom Rind mit Sauerrahmdip und Baguette",
+                    "price": 5.5,
+                    "ingredients": [
+                        "Sl"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-10-24",
+            "dishes": [
+                {
+                    "name": "Tagessuppe",
+                    "price": 1.0,
+                    "ingredients": [
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "(*)Winterliches Schmorgemüse mit Backkartoffeln",
+                    "price": 4.5,
+                    "ingredients": [
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Frisch vom Grill Currywurst mit Pommes Frites",
+                    "price": 5.5,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "Mi",
+                        "Se",
+                        "Sf",
+                        "Sl",
+                        "Wt"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-10-25",
+            "dishes": [
+                {
+                    "name": "Tagessuppe",
+                    "price": 1.0,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "Mi"
+                    ]
+                },
+                {
+                    "name": "Milirahmstrudel mit Zwetschgen",
+                    "price": 4.3,
+                    "ingredients": [
+                        "Gl",
+                        "Mi",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Pasta Front-Cooking Pasta mit Kürbis- Maroni-Sugo",
+                    "price": 4.9,
+                    "ingredients": [
+                        "En",
+                        "Sc",
+                        "Sl",
+                        "So"
+                    ]
+                }
+            ]
+        }
+    ]
+}
