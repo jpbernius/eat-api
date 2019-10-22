@@ -1,0 +1,141 @@
+{
+    "number": 44,
+    "year": 2019,
+    "days": [
+        {
+            "date": "2019-10-28",
+            "dishes": [
+                {
+                    "name": "Tagessuppe",
+                    "price": 1.0,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "Mi",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Wirsing-Kürbis-Quiche",
+                    "price": 4.5,
+                    "ingredients": [
+                        "Gl",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Pasta Front-Cooking (*)Pasta mit Tomaten- Basilikumsoße",
+                    "price": 4.9,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "Mi",
+                        "Sl"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-10-29",
+            "dishes": [
+                {
+                    "name": "Tagessuppe",
+                    "price": 1.0,
+                    "ingredients": [
+                        "Gl",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "(*) Rosenkohl-Curry mit Rote Linsen und Basmatireis",
+                    "price": 4.5,
+                    "ingredients": [
+                        "Ei",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Frisch vom Grill Leberkäse mit Spiegelei und Kartoffelsalat",
+                    "price": 4.6,
+                    "ingredients": [
+                        "Sl"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-10-30",
+            "dishes": [
+                {
+                    "name": "Tagessuppe",
+                    "price": 1.0,
+                    "ingredients": [
+                        "Gl",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "(*) Kürbis - Schupfnudelpfanne mit Salbeidip",
+                    "price": 4.5,
+                    "ingredients": [
+                        "Gl",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Pasta Front-Cooking Pasta al la Bolognese ( Rind )",
+                    "price": 4.9,
+                    "ingredients": [
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Griechisches Hähnchenschenkel mit Hirtenkäse und Oliven- Paprika- Reis",
+                    "price": 5.5,
+                    "ingredients": [
+                        "Gl",
+                        "Sl"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-10-31",
+            "dishes": [
+                {
+                    "name": "Tagessuppe",
+                    "price": 1.0,
+                    "ingredients": [
+                        "Gl",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "(*) Romanesco -Pfanne mit Kidneybohnen dazu Quinoa",
+                    "price": 4.5,
+                    "ingredients": [
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Frisch vom Grill Currywurst mit Pommes Frites",
+                    "price": 5.5,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "Mi",
+                        "Se",
+                        "Sf",
+                        "Sl",
+                        "So",
+                        "Wt"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-11-01",
+            "dishes": []
+        }
+    ]
+}
