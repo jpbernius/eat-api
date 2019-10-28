@@ -1,0 +1,174 @@
+{
+    "number": 45,
+    "year": 2019,
+    "days": [
+        {
+            "date": "2019-11-04",
+            "dishes": [
+                {
+                    "name": "Tagessuppe",
+                    "price": 1.0,
+                    "ingredients": [
+                        "Gl",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "(*) Paprikaschote Bollywood auf Gelben Reis",
+                    "price": 4.5,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "Mi",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Pasta Front-Cooking Käsespätzle mit Röstzwiebeln",
+                    "price": 4.5,
+                    "ingredients": [
+                        "Gl",
+                        "Mi",
+                        "Sl"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-11-05",
+            "dishes": [
+                {
+                    "name": "Tagessuppe",
+                    "price": 1.0,
+                    "ingredients": [
+                        "Gl",
+                        "Sc",
+                        "Sl",
+                        "So"
+                    ]
+                },
+                {
+                    "name": "(*) Pasta mit Mandel- Wirsing- Sojasahne",
+                    "price": 4.5,
+                    "ingredients": [
+                        "Ei",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Frisch vom Grill Leberkäse mit Spiegelei und Kartoffelsalat",
+                    "price": 4.6,
+                    "ingredients": [
+                        "Gl",
+                        "Sl"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-11-06",
+            "dishes": [
+                {
+                    "name": "Tagessuppe",
+                    "price": 1.0,
+                    "ingredients": [
+                        "Gl",
+                        "Sl",
+                        "So"
+                    ]
+                },
+                {
+                    "name": "(*) Butternut Kürbis gebraten auf Mais-CousCous und Soja- Minze-Joghurt",
+                    "price": 4.5,
+                    "ingredients": [
+                        "Gl",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Pasta Front-Cooking Schinkennudeln ( Pute) mit Tomatensugo",
+                    "price": 4.9,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "Mi",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Puten- Orangenbraten mit Petersilienspätzle und Karotten",
+                    "price": 6.2,
+                    "ingredients": [
+                        "Gl"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-11-07",
+            "dishes": [
+                {
+                    "name": "Tagessuppe",
+                    "price": 1.0,
+                    "ingredients": [
+                        "Gl",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "(*) Wraps gefüllt mit Spinat Avocado und Linsenreis dazu Salateck",
+                    "price": 4.5,
+                    "ingredients": [
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Frisch vom Grill Currywurst mit Pommes Frites",
+                    "price": 5.5,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "Mi",
+                        "Se",
+                        "Sf",
+                        "Sl",
+                        "So",
+                        "Wt"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-11-08",
+            "dishes": [
+                {
+                    "name": "Tagessuppe",
+                    "price": 1.0,
+                    "ingredients": [
+                        "Gl"
+                    ]
+                },
+                {
+                    "name": "3 Stück warme Waffeln mit 1 Kugel Eis",
+                    "price": 3.8,
+                    "ingredients": [
+                        "Gl",
+                        "Mi",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "laktose Ei Pasta Front-Cooking Pasta mit Broccoli- Zitronensoße",
+                    "price": 4.9,
+                    "ingredients": [
+                        "En",
+                        "Gl",
+                        "Mi",
+                        "Sc",
+                        "Sl"
+                    ]
+                }
+            ]
+        }
+    ]
+}
