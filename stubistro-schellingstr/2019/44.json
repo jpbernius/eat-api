@@ -68,6 +68,18 @@
             "date": "2019-10-30",
             "dishes": [
                 {
+                    "name": "Münchner Gulasch vom Rind",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R"
+                    ]
+                },
+                {
                     "name": "Kartoffel-Zucchini-Auflauf mit Paprikasauce",
                     "price": "N/A",
                     "ingredients": [
@@ -79,34 +91,12 @@
                         "Kn",
                         "Mi"
                     ]
-                },
-                {
-                    "name": "Münchner Gulasch vom Rind",
-                    "price": "N/A",
-                    "ingredients": [
-                        "Gl",
-                        "GlG",
-                        "GlW",
-                        "Kn",
-                        "Mi",
-                        "R"
-                    ]
                 }
             ]
         },
         {
             "date": "2019-10-31",
             "dishes": [
-                {
-                    "name": "Penne mit Tomaten-Frischkäse-Sauce",
-                    "price": "N/A",
-                    "ingredients": [
-                        "Gl",
-                        "GlW",
-                        "Kn",
-                        "Mi"
-                    ]
-                },
                 {
                     "name": "Schweinerückensteak mit grünem Pfeffer",
                     "price": "N/A",
@@ -117,6 +107,16 @@
                         "Kn",
                         "Mi",
                         "S"
+                    ]
+                },
+                {
+                    "name": "Penne mit Tomaten-Frischkäse-Sauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi"
                     ]
                 }
             ]

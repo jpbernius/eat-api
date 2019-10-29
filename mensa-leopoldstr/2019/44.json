@@ -4,60 +4,7 @@
     "days": [
         {
             "date": "2019-10-28",
-            "dishes": [
-                {
-                    "name": "Pasta mit Broccoli-Sahne-Sauce",
-                    "price": "individual",
-                    "ingredients": [
-                        "Gl",
-                        "GlW",
-                        "Kn",
-                        "Mi"
-                    ]
-                },
-                {
-                    "name": "Paniertes Truthahnschnitzel mit Salsa",
-                    "price": "N/A",
-                    "ingredients": [
-                        "11",
-                        "2",
-                        "En",
-                        "Gl",
-                        "GlW",
-                        "Se",
-                        "So"
-                    ]
-                },
-                {
-                    "name": "Holzfällersteak vom Schwein",
-                    "price": "0.75€ / 100g",
-                    "ingredients": [
-                        "2",
-                        "3",
-                        "Gl",
-                        "GlG",
-                        "GlW",
-                        "Kn",
-                        "Mi",
-                        "S"
-                    ]
-                },
-                {
-                    "name": "Kartoffelröstis mit Kräutersahnequark",
-                    "price": "N/A",
-                    "ingredients": [
-                        "Kn",
-                        "Mi"
-                    ]
-                },
-                {
-                    "name": "Mexikanischer Reistopf mit Bohnen, Paprika und Mais",
-                    "price": "0.33€ / 100g",
-                    "ingredients": [
-                        "Kn"
-                    ]
-                }
-            ]
+            "dishes": []
         },
         {
             "date": "2019-10-29",
@@ -76,11 +23,15 @@
                     "price": "N/A",
                     "ingredients": [
                         "1",
+                        "11",
                         "Ei",
+                        "Fi",
                         "Gl",
                         "GlW",
                         "Kn",
+                        "Kr",
                         "Mi",
+                        "Sf",
                         "Wt"
                     ]
                 },

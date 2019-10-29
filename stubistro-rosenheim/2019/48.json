@@ -1,27 +1,27 @@
 {
-    "number": 44,
+    "number": 48,
     "year": 2019,
     "days": [
         {
-            "date": "2019-10-28",
+            "date": "2019-11-25",
             "dishes": [
                 {
-                    "name": "Schaschlikpfanne",
+                    "name": "Schweinelende mit Champignonsauce",
                     "price": "0.68€ / 100g",
                     "ingredients": [
-                        "S"
+                        "2",
+                        "9",
+                        "S",
+                        "Sf",
+                        "Sl"
                     ]
                 },
                 {
-                    "name": "Gelbes Curry vom Rind",
+                    "name": "Rindfleischstreifen China Town mit Bambussprossen",
                     "price": "N/A",
                     "ingredients": [
-                        "2",
-                        "Gl",
-                        "GlW",
                         "Kn",
-                        "R",
-                        "Sf"
+                        "R"
                     ]
                 },
                 {
@@ -34,23 +34,12 @@
                     ]
                 },
                 {
-                    "name": "Gurken-Minz-Joghurt-Dip",
+                    "name": "Tagessuppe",
                     "price": "N/A",
-                    "ingredients": [
-                        "2",
-                        "Kn",
-                        "Mi"
-                    ]
+                    "ingredients": []
                 },
                 {
-                    "name": "Karotte-Paprika-Cream-Suppe",
-                    "price": "N/A",
-                    "ingredients": [
-                        "Mi"
-                    ]
-                },
-                {
-                    "name": "Mediterranes Gemüse",
+                    "name": "Tagesgemüse",
                     "price": "N/A",
                     "ingredients": []
                 },
@@ -65,37 +54,25 @@
                     ]
                 },
                 {
-                    "name": "Reis",
+                    "name": "Aktionsdessert",
                     "price": "N/A",
                     "ingredients": []
                 },
                 {
-                    "name": "Mousse Bourbon-Vanille mit Himbeeren",
-                    "price": "N/A",
-                    "ingredients": [
-                        "14",
-                        "Mi"
-                    ]
-                },
-                {
-                    "name": "Joghurt mit Mandarinen",
+                    "name": "Tagesdessert",
                     "price": "N/A",
                     "ingredients": []
                 }
             ]
         },
         {
-            "date": "2019-10-29",
+            "date": "2019-11-26",
             "dishes": [
                 {
-                    "name": "Hähnchen-Cordon-bleu (G)",
+                    "name": "Putengulasch (G)",
                     "price": "0.68€ / 100g",
                     "ingredients": [
-                        "2",
-                        "3",
-                        "8",
-                        "Ei",
-                        "Gl",
+                        "4",
                         "Mi"
                     ]
                 },
@@ -123,96 +100,6 @@
                     ]
                 },
                 {
-                    "name": "Paprikasauce",
-                    "price": "N/A",
-                    "ingredients": [
-                        "Gl",
-                        "GlW",
-                        "Mi"
-                    ]
-                },
-                {
-                    "name": "Leberspätzlesuppe",
-                    "price": "N/A",
-                    "ingredients": [
-                        "Ei",
-                        "Gl",
-                        "GlW",
-                        "R",
-                        "S",
-                        "Sl"
-                    ]
-                },
-                {
-                    "name": "Mischgemüse (Karotten, Bohnen, Zucchini, Sellerie)",
-                    "price": "N/A",
-                    "ingredients": [
-                        "Sl"
-                    ]
-                },
-                {
-                    "name": "Kartoffelsalat",
-                    "price": "N/A",
-                    "ingredients": []
-                },
-                {
-                    "name": "Reis",
-                    "price": "N/A",
-                    "ingredients": []
-                },
-                {
-                    "name": "Aktionsdessert",
-                    "price": "N/A",
-                    "ingredients": []
-                },
-                {
-                    "name": "Pfirsichquark",
-                    "price": "N/A",
-                    "ingredients": [
-                        "Mi"
-                    ]
-                }
-            ]
-        },
-        {
-            "date": "2019-10-30",
-            "dishes": [
-                {
-                    "name": "Wollwürste mit Bratensauce",
-                    "price": "0.68€ / 100g",
-                    "ingredients": [
-                        "2",
-                        "8",
-                        "9",
-                        "S",
-                        "Sf",
-                        "Sl"
-                    ]
-                },
-                {
-                    "name": "Hähnchenschnitzel mit Mango-Chili-Dip",
-                    "price": "N/A",
-                    "ingredients": [
-                        "1",
-                        "Ei",
-                        "Gl",
-                        "GlW",
-                        "Kn",
-                        "Mi"
-                    ]
-                },
-                {
-                    "name": "Wokgemüse in scharfer Kokosmilch",
-                    "price": "N/A",
-                    "ingredients": [
-                        "Gl",
-                        "GlW",
-                        "Kn",
-                        "Sf",
-                        "So"
-                    ]
-                },
-                {
                     "name": "Tagessuppe",
                     "price": "N/A",
                     "ingredients": []
@@ -223,23 +110,15 @@
                     "ingredients": []
                 },
                 {
-                    "name": "Kartoffelpüree",
-                    "price": "N/A",
-                    "ingredients": [
-                        "Mi"
-                    ]
-                },
-                {
-                    "name": "Countrykartoffeln",
+                    "name": "Nudeln",
                     "price": "N/A",
                     "ingredients": [
                         "Gl",
-                        "GlW",
-                        "Kn"
+                        "GlW"
                     ]
                 },
                 {
-                    "name": "Basmatireis",
+                    "name": "Reis",
                     "price": "N/A",
                     "ingredients": []
                 },
@@ -256,18 +135,85 @@
             ]
         },
         {
-            "date": "2019-10-31",
+            "date": "2019-11-27",
             "dishes": [
                 {
-                    "name": "Lasagne",
+                    "name": "Gebratenes Zanderfilet mit flüssiger Butter (F)",
                     "price": "0.68€ / 100g",
                     "ingredients": [
+                        "Fi",
+                        "Gl",
+                        "Mi"
+                    ]
+                },
+                {
+                    "name": "Hähnchenschnitzel mit Mango-Chili-Dip",
+                    "price": "N/A",
+                    "ingredients": [
+                        "11",
                         "Ei",
                         "Gl",
+                        "GlW",
+                        "Kn",
                         "Mi",
-                        "R",
-                        "S",
-                        "Sl"
+                        "Sf"
+                    ]
+                },
+                {
+                    "name": "Fusilli mit Knoblauch-Sahne-Sauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi"
+                    ]
+                },
+                {
+                    "name": "Tagessuppe",
+                    "price": "N/A",
+                    "ingredients": []
+                },
+                {
+                    "name": "Tagesgemüse",
+                    "price": "N/A",
+                    "ingredients": []
+                },
+                {
+                    "name": "Salzkartoffeln",
+                    "price": "N/A",
+                    "ingredients": []
+                },
+                {
+                    "name": "Countrykartoffeln",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ]
+                },
+                {
+                    "name": "Aktionsdessert",
+                    "price": "N/A",
+                    "ingredients": []
+                },
+                {
+                    "name": "Tagesdessert",
+                    "price": "N/A",
+                    "ingredients": []
+                }
+            ]
+        },
+        {
+            "date": "2019-11-28",
+            "dishes": [
+                {
+                    "name": "Gulasch vom Rind mit Johannisbeeren",
+                    "price": "0.68€ / 100g",
+                    "ingredients": [
+                        "Mi",
+                        "R"
                     ]
                 },
                 {
@@ -311,6 +257,79 @@
                     "price": "N/A",
                     "ingredients": [
                         "Mi"
+                    ]
+                },
+                {
+                    "name": "Semmelknödel",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi"
+                    ]
+                },
+                {
+                    "name": "Aktionsdessert",
+                    "price": "N/A",
+                    "ingredients": []
+                },
+                {
+                    "name": "Tagesdessert",
+                    "price": "N/A",
+                    "ingredients": []
+                }
+            ]
+        },
+        {
+            "date": "2019-11-29",
+            "dishes": [
+                {
+                    "name": "Pangasiusfilet \"Pariser Art\" (F)",
+                    "price": "0.68€ / 100g",
+                    "ingredients": [
+                        "Fi",
+                        "Gl",
+                        "Mi"
+                    ]
+                },
+                {
+                    "name": "Pasta mit Sauce Bolognese",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "R",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Apfelkücherl mit Vanillesauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi"
+                    ]
+                },
+                {
+                    "name": "Tagessuppe",
+                    "price": "N/A",
+                    "ingredients": []
+                },
+                {
+                    "name": "Tagesgemüse",
+                    "price": "N/A",
+                    "ingredients": []
+                },
+                {
+                    "name": "Mediterraner Reis mit frischen Kräutern",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Kn"
                     ]
                 },
                 {

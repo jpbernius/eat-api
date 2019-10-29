@@ -1,0 +1,71 @@
+{
+    "number": 48,
+    "year": 2019,
+    "days": [
+        {
+            "date": "2019-11-25",
+            "dishes": [
+                {
+                    "name": "Spinatknödel Tiroler Art mit Bergkäse",
+                    "price": 3.0,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sl"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-11-26",
+            "dishes": []
+        },
+        {
+            "date": "2019-11-27",
+            "dishes": []
+        },
+        {
+            "date": "2019-11-28",
+            "dishes": [
+                {
+                    "name": "Cevapcici mit Ajvar",
+                    "price": 2.4,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "Kn",
+                        "Mi",
+                        "S",
+                        "Se",
+                        "Sf",
+                        "Sl",
+                        "So"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-11-29",
+            "dishes": [
+                {
+                    "name": "Fischstäbchen (MSC) mit Remouladensauce",
+                    "price": 2.6,
+                    "ingredients": [
+                        "1",
+                        "11",
+                        "2",
+                        "9",
+                        "Ei",
+                        "Fi",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sf"
+                    ]
+                }
+            ]
+        }
+    ]
+}

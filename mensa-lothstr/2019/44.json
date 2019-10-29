@@ -9,6 +9,7 @@
                     "name": "Mexikanischer Reistopf mit Bohnen, Paprika und Mais",
                     "price": 1.0,
                     "ingredients": [
+                        "2",
                         "Kn"
                     ]
                 },
@@ -33,6 +34,21 @@
                         "GlW",
                         "Se",
                         "So"
+                    ]
+                },
+                {
+                    "name": "Rindergeschnetzeltes (GQB) mit Kartoffeln und Kichererbsen",
+                    "price": 2.8,
+                    "ingredients": [
+                        "2",
+                        "3",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "Sf"
                     ]
                 },
                 {
@@ -79,26 +95,45 @@
                     ]
                 },
                 {
+                    "name": "Paniertes Truthahnschnitzel mit Salsa",
+                    "price": 2.4,
+                    "ingredients": [
+                        "11",
+                        "2",
+                        "En",
+                        "Gl",
+                        "GlW",
+                        "Se",
+                        "So"
+                    ]
+                },
+                {
                     "name": "Cordon bleu vom Schwein (mit Formfleisch-Kochschinken)",
                     "price": 2.4,
                     "ingredients": [
                         "2",
+                        "3",
+                        "8",
                         "Ei",
                         "Gl",
                         "GlG",
                         "GlW",
                         "Kn",
                         "Mi",
-                        "S"
+                        "S",
+                        "Sf",
+                        "Sl"
                     ]
                 },
                 {
-                    "name": "Rinderlende mit Kräuterbutter",
+                    "name": "Rinderlende mit Kräuterbutter und Rotweinzwiebel",
                     "price": 4.5,
                     "ingredients": [
+                        "99",
                         "Kn",
                         "Mi",
-                        "R"
+                        "R",
+                        "Sw"
                     ]
                 }
             ]
@@ -113,15 +148,8 @@
                         "2",
                         "Kn",
                         "Sf",
+                        "Sl",
                         "So"
-                    ]
-                },
-                {
-                    "name": "Nürnberger Würstchen",
-                    "price": 2.4,
-                    "ingredients": [
-                        "R",
-                        "S"
                     ]
                 },
                 {
@@ -135,6 +163,14 @@
                         "GlW",
                         "Kn",
                         "Mi"
+                    ]
+                },
+                {
+                    "name": "Nürnberger Würstchen",
+                    "price": 2.4,
+                    "ingredients": [
+                        "R",
+                        "S"
                     ]
                 },
                 {

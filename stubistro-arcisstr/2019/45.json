@@ -1,0 +1,144 @@
+{
+    "number": 45,
+    "year": 2019,
+    "days": [
+        {
+            "date": "2019-11-04",
+            "dishes": [
+                {
+                    "name": "Spinatspätzlepfanne mit Bergkäse und abgeschmelzten Zwiebeln",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi"
+                    ]
+                },
+                {
+                    "name": "Green-Thai-Curry vom Rind",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Kn",
+                        "R"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-11-05",
+            "dishes": [
+                {
+                    "name": "Tortellini (Käsefüllung) mit Kürbis-Tomatensauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Jägerschnitzel von der Pute mit Waldpilzen",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-11-06",
+            "dishes": [
+                {
+                    "name": "Kartoffeltaschen mit Kräuterfrischkäse",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi"
+                    ]
+                },
+                {
+                    "name": "Pasta mit Putenbolognese",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Sl"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-11-07",
+            "dishes": [
+                {
+                    "name": "Dinkelnudelpfanne Griechische Art mit Oliven,Schafskäse und Knoblauch",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "6",
+                        "Gl",
+                        "GlD",
+                        "Kn",
+                        "Mi"
+                    ]
+                },
+                {
+                    "name": "Pfannengyros vom Schwein mit Tsatsiki",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "5",
+                        "Kn",
+                        "Mi",
+                        "S",
+                        "Sw"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-11-08",
+            "dishes": [
+                {
+                    "name": "Süßer Kürbisstrudel mit Vanillesauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sc",
+                        "ScH"
+                    ]
+                },
+                {
+                    "name": "Gebratenes Seelachsfilet (MSC) kreolische Art mit Salsa",
+                    "price": "N/A",
+                    "ingredients": [
+                        "11",
+                        "2",
+                        "En",
+                        "Fi",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Se",
+                        "Sl",
+                        "So"
+                    ]
+                }
+            ]
+        }
+    ]
+}

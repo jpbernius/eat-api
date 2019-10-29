@@ -6,7 +6,7 @@
             "date": "2019-10-28",
             "dishes": [
                 {
-                    "name": "Pasta mit Broccoli-Sahne-Sauce",
+                    "name": "Pasta mit Broccoli",
                     "price": "N/A",
                     "ingredients": [
                         "Gl",
@@ -67,9 +67,14 @@
                     ]
                 },
                 {
-                    "name": "Tagessuppe",
+                    "name": "Gemüsecremesuppe",
                     "price": "N/A",
-                    "ingredients": []
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sl"
+                    ]
                 },
                 {
                     "name": "Kartoffelröstis mit Kräutersahnequark",
@@ -85,6 +90,7 @@
                     "ingredients": [
                         "11",
                         "2",
+                        "Ei",
                         "En",
                         "Gl",
                         "GlW",
@@ -141,9 +147,11 @@
                     "name": "Rinderlende mit Kräuterbutter",
                     "price": "N/A",
                     "ingredients": [
+                        "99",
                         "Kn",
                         "Mi",
-                        "R"
+                        "R",
+                        "Sw"
                     ]
                 },
                 {
@@ -171,12 +179,26 @@
                     ]
                 },
                 {
-                    "name": "Tagessuppe",
+                    "name": "Nudelsuppe",
                     "price": "N/A",
-                    "ingredients": []
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Sl"
+                    ]
                 },
                 {
-                    "name": "Couscousbratling mit Paprika-Hummus (Kichererbsenmus)",
+                    "name": "Couscous mit Gemüse",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ]
+                },
+                {
+                    "name": "Falafel mit Paprika-Hummus (Kichererbsenmus)",
                     "price": "N/A",
                     "ingredients": [
                         "2",
@@ -191,13 +213,17 @@
                     "price": "N/A",
                     "ingredients": [
                         "2",
+                        "3",
+                        "8",
                         "Ei",
                         "Gl",
                         "GlG",
                         "GlW",
                         "Kn",
                         "Mi",
-                        "S"
+                        "S",
+                        "Sf",
+                        "Sl"
                     ]
                 },
                 {
@@ -279,7 +305,7 @@
                     "ingredients": []
                 },
                 {
-                    "name": "Kartoffel-Zucchini-Auflauf mit Paprikasauce",
+                    "name": "Gemüseauflauf mit Paprikasoße",
                     "price": "N/A",
                     "ingredients": [
                         "1",
@@ -385,15 +411,6 @@
                     ]
                 },
                 {
-                    "name": "Tandoori Chicken in Joghurtmarinade und Gurken-Minz-Dip",
-                    "price": "N/A",
-                    "ingredients": [
-                        "Kn",
-                        "Mi",
-                        "Sf"
-                    ]
-                },
-                {
                     "name": "Putengeschnetzeltes Züricher Art",
                     "price": "N/A",
                     "ingredients": [
@@ -405,6 +422,15 @@
                         "Mi",
                         "Sl",
                         "Sw"
+                    ]
+                },
+                {
+                    "name": "Tandoori Chicken in Joghurtmarinade und Gurken-Minz-Dip",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Kn",
+                        "Mi",
+                        "Sf"
                     ]
                 }
             ]

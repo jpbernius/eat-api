@@ -1,0 +1,92 @@
+{
+    "number": 48,
+    "year": 2019,
+    "days": [
+        {
+            "date": "2019-11-25",
+            "dishes": [
+                {
+                    "name": "Penne all'arrabiata",
+                    "price": 1.55,
+                    "ingredients": [
+                        "2",
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-11-26",
+            "dishes": [
+                {
+                    "name": "Allgäuer Käsespätzle mit Röstzwiebeln",
+                    "price": 2.4,
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "Ei",
+                        "Gl",
+                        "GlD",
+                        "GlW",
+                        "Mi"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-11-27",
+            "dishes": [
+                {
+                    "name": "Frühlingsrolle mit süßsaurer Sauce",
+                    "price": 1.9,
+                    "ingredients": [
+                        "11",
+                        "3",
+                        "5",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "Sl",
+                        "So",
+                        "Sw"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-11-28",
+            "dishes": [
+                {
+                    "name": "Frische Rahmschwammerl",
+                    "price": 1.9,
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-11-29",
+            "dishes": [
+                {
+                    "name": "Kaiserschmarrn mit Apfelmus",
+                    "price": 2.6,
+                    "ingredients": [
+                        "3",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi"
+                    ]
+                }
+            ]
+        }
+    ]
+}

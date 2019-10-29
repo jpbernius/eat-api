@@ -1,0 +1,948 @@
+{
+    "number": 47,
+    "year": 2019,
+    "days": [
+        {
+            "date": "2019-11-18",
+            "dishes": [
+                {
+                    "name": "Pasta mit Champignonrahmsauce",
+                    "price": "individual",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi"
+                    ]
+                },
+                {
+                    "name": "Pasta mit Champignonrahmsauce (2)",
+                    "price": "individual",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi"
+                    ]
+                },
+                {
+                    "name": "Pikante Chickenwings mit Barbecuesauce und Countrykartoffeln",
+                    "price": "N/A",
+                    "ingredients": [
+                        "10",
+                        "11",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Sf",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Kartoffelsalat",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "5",
+                        "Sw"
+                    ]
+                },
+                {
+                    "name": "Pikante Chickenwings mit Barbecuesauce und Countrykartoffeln (2)",
+                    "price": "N/A",
+                    "ingredients": [
+                        "10",
+                        "11",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Sf",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Countrykartoffeln",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW"
+                    ]
+                },
+                {
+                    "name": "Täglich frische Salatbar",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "Fi",
+                        "Mi",
+                        "So"
+                    ]
+                },
+                {
+                    "name": "Gurkensalat",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "5",
+                        "Sw"
+                    ]
+                },
+                {
+                    "name": "Gurkensalat (2)",
+                    "price": "0.75€ / 100g",
+                    "ingredients": [
+                        "3",
+                        "5",
+                        "Sw"
+                    ]
+                },
+                {
+                    "name": "Kartoffelsalat (2)",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "5",
+                        "Sw"
+                    ]
+                },
+                {
+                    "name": "Gulasch vom Schwein mit Knöpfle",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlD",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S"
+                    ]
+                },
+                {
+                    "name": "Knöpfle",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlD",
+                        "GlW"
+                    ]
+                },
+                {
+                    "name": "Rougaille Soja von Mauritius (Soja in würziger Tomatensauce) und Basmatireis",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Kn",
+                        "Sf",
+                        "So"
+                    ]
+                },
+                {
+                    "name": "Täglich frische Salatbar (2)",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "Fi",
+                        "Mi",
+                        "So"
+                    ]
+                },
+                {
+                    "name": "Gulasch vom Schwein mit Knöpfle (2)",
+                    "price": "0.75€ / 100g",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlD",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S"
+                    ]
+                },
+                {
+                    "name": "Rougaille Soja von Mauritius (Soja in würziger Tomatensauce) und Basmatireis (2)",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Kn",
+                        "Sf",
+                        "So"
+                    ]
+                },
+                {
+                    "name": "Couscous mit Kürbis",
+                    "price": "0.33€ / 100g",
+                    "ingredients": [
+                        "Gl",
+                        "GlW"
+                    ]
+                },
+                {
+                    "name": "Couscous mit Kürbis (2)",
+                    "price": "0.33€ / 100g",
+                    "ingredients": [
+                        "Gl",
+                        "GlW"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-11-19",
+            "dishes": [
+                {
+                    "name": "Pasta mit Kürbis-Carbonara-Sauce",
+                    "price": "individual",
+                    "ingredients": [
+                        "2",
+                        "3",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S"
+                    ]
+                },
+                {
+                    "name": "Pasta mit Kürbis-Carbonara-Sauce (2)",
+                    "price": "individual",
+                    "ingredients": [
+                        "2",
+                        "3",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S"
+                    ]
+                },
+                {
+                    "name": "Tomatensalat",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "5",
+                        "Sw"
+                    ]
+                },
+                {
+                    "name": "Frischer Karottensalat",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "5",
+                        "Sw"
+                    ]
+                },
+                {
+                    "name": "Rinderbraten (GQB) mit Rotweinsauce und Kartoffelknödel",
+                    "price": "N/A",
+                    "ingredients": [
+                        "99",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "Sl",
+                        "Sw"
+                    ]
+                },
+                {
+                    "name": "Kleiner Kartoffelknödel",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "3",
+                        "5",
+                        "Sw"
+                    ]
+                },
+                {
+                    "name": "Täglich frische Salatbar",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "Fi",
+                        "Mi",
+                        "So"
+                    ]
+                },
+                {
+                    "name": "Rinderbraten (GQB) mit Rotweinsauce und Kartoffelknödel (2)",
+                    "price": "N/A",
+                    "ingredients": [
+                        "99",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "Sl",
+                        "Sw"
+                    ]
+                },
+                {
+                    "name": "Tomatensalat (2)",
+                    "price": "0.75€ / 100g",
+                    "ingredients": [
+                        "3",
+                        "5",
+                        "Sw"
+                    ]
+                },
+                {
+                    "name": "Frischer Karottensalat (2)",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "5",
+                        "Sw"
+                    ]
+                },
+                {
+                    "name": "Pfannengyros von der Pute mit Tsatsiki und Reis",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "5",
+                        "Kn",
+                        "Mi",
+                        "Sw"
+                    ]
+                },
+                {
+                    "name": "Reis",
+                    "price": "N/A",
+                    "ingredients": []
+                },
+                {
+                    "name": "Libanesischer Gemüseauflauf mit Salzkartoffeln",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "En",
+                        "Mi",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Salzkartoffeln",
+                    "price": "N/A",
+                    "ingredients": []
+                },
+                {
+                    "name": "Täglich frische Salatbar (2)",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "Fi",
+                        "Mi",
+                        "So"
+                    ]
+                },
+                {
+                    "name": "Pfannengyros von der Pute mit Tsatsiki und Reis (2)",
+                    "price": "0.75€ / 100g",
+                    "ingredients": [
+                        "3",
+                        "5",
+                        "Kn",
+                        "Mi",
+                        "Sw"
+                    ]
+                },
+                {
+                    "name": "Libanesischer Gemüseauflauf mit Salzkartoffeln (2)",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "En",
+                        "Mi",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Frisches Gemüse aus der Pfanne mit Reis",
+                    "price": "0.33€ / 100g",
+                    "ingredients": []
+                },
+                {
+                    "name": "Frisches Gemüse aus der Pfanne mit Reis (2)",
+                    "price": "0.33€ / 100g",
+                    "ingredients": []
+                }
+            ]
+        },
+        {
+            "date": "2019-11-20",
+            "dishes": [
+                {
+                    "name": "Pasta di Manzo mit Rindfleischstreifen (GQB) in Balsamico",
+                    "price": "individual",
+                    "ingredients": [
+                        "1",
+                        "3",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "R",
+                        "Sw"
+                    ]
+                },
+                {
+                    "name": "Pasta di Manzo mit Rindfleischstreifen (GQB) in Balsamico (2)",
+                    "price": "individual",
+                    "ingredients": [
+                        "1",
+                        "3",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "R",
+                        "Sw"
+                    ]
+                },
+                {
+                    "name": "Grünes Hähnchen-Curry mit Wokgemüse und Basmatireis",
+                    "price": "N/A",
+                    "ingredients": [
+                        "En",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "So"
+                    ]
+                },
+                {
+                    "name": "Gartensalat",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "5",
+                        "Sw"
+                    ]
+                },
+                {
+                    "name": "Kartoffelsalat",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "5",
+                        "Sw"
+                    ]
+                },
+                {
+                    "name": "Grünes Hähnchen-Curry mit Wokgemüse und Basmatireis (2)",
+                    "price": "N/A",
+                    "ingredients": [
+                        "En",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "So"
+                    ]
+                },
+                {
+                    "name": "Mini-Frühlingsrollen",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Se",
+                        "So"
+                    ]
+                },
+                {
+                    "name": "Täglich frische Salatbar",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "Fi",
+                        "Mi",
+                        "So"
+                    ]
+                },
+                {
+                    "name": "Schweinesteak Strindberg (Senf-Zwiebelkruste) und Rosmarinkartoffeln",
+                    "price": "0.75€ / 100g",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sf",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Topfenpalatschinken",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sc",
+                        "ScM"
+                    ]
+                },
+                {
+                    "name": "Gartensalat (2)",
+                    "price": "0.75€ / 100g",
+                    "ingredients": [
+                        "3",
+                        "5",
+                        "Sw"
+                    ]
+                },
+                {
+                    "name": "Kartoffelsalat (2)",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "5",
+                        "Sw"
+                    ]
+                },
+                {
+                    "name": "Schweinesteak Strindberg (Senf-Zwiebelkruste) und Rosmarinkartoffeln (2)",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sf",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Rosmarinkartoffeln",
+                    "price": "N/A",
+                    "ingredients": []
+                },
+                {
+                    "name": "Topfenpalatschinken (2)",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sc",
+                        "ScM"
+                    ]
+                },
+                {
+                    "name": "Täglich frische Salatbar (2)",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "Fi",
+                        "Mi",
+                        "So"
+                    ]
+                },
+                {
+                    "name": "Afrikanischer Süßkartoffeltopf mit Blumenkohl und Erdnüssen und Basmatireis",
+                    "price": "0.33€ / 100g",
+                    "ingredients": [
+                        "2",
+                        "En",
+                        "Kn"
+                    ]
+                },
+                {
+                    "name": "Afrikanischer Süßkartoffeltopf mit Blumenkohl und Erdnüssen und Basmatireis (2)",
+                    "price": "0.33€ / 100g",
+                    "ingredients": [
+                        "2",
+                        "En",
+                        "Kn"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-11-21",
+            "dishes": [
+                {
+                    "name": "Gebratene Currynudeln mit Gemüsestreifen",
+                    "price": "individual",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Se",
+                        "Sf",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Gebratene Currynudeln mit Gemüsestreifen (2)",
+                    "price": "individual",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Se",
+                        "Sf",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Hähnchenkeule mexikanische Art mit Reis",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ]
+                },
+                {
+                    "name": "Tomatensalat",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "5",
+                        "Sw"
+                    ]
+                },
+                {
+                    "name": "Rote Rüben",
+                    "price": "N/A",
+                    "ingredients": [
+                        "9"
+                    ]
+                },
+                {
+                    "name": "Hähnchenkeule mexikanische Art mit Reis (2)",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ]
+                },
+                {
+                    "name": "Reis",
+                    "price": "N/A",
+                    "ingredients": []
+                },
+                {
+                    "name": "Täglich frische Salatbar",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "Fi",
+                        "Mi",
+                        "So"
+                    ]
+                },
+                {
+                    "name": "Tomatensalat (2)",
+                    "price": "0.75€ / 100g",
+                    "ingredients": [
+                        "3",
+                        "5",
+                        "Sw"
+                    ]
+                },
+                {
+                    "name": "Rote Rüben (2)",
+                    "price": "N/A",
+                    "ingredients": [
+                        "9"
+                    ]
+                },
+                {
+                    "name": "Türkisches Auberginen-Kartoffel-Gratin mit Schafmilchskäse und Knoblauch-Dip",
+                    "price": "N/A",
+                    "ingredients": [
+                        "11",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "Sf"
+                    ]
+                },
+                {
+                    "name": "Garlic Dip",
+                    "price": "N/A",
+                    "ingredients": [
+                        "11",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "Sf"
+                    ]
+                },
+                {
+                    "name": "Käsekrainer mit Bratensauce und Kartoffelpürre",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "3",
+                        "8",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "S",
+                        "Sf"
+                    ]
+                },
+                {
+                    "name": "Kartoffelpüree",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Mi"
+                    ]
+                },
+                {
+                    "name": "Täglich frische Salatbar (2)",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "Fi",
+                        "Mi",
+                        "So"
+                    ]
+                },
+                {
+                    "name": "Türkisches Auberginen-Kartoffel-Gratin mit Schafmilchskäse und Knoblauch-Dip (2)",
+                    "price": "0.75€ / 100g",
+                    "ingredients": [
+                        "11",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "Sf"
+                    ]
+                },
+                {
+                    "name": "Käsekrainer mit Bratensauce und Kartoffelpürre (2)",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "3",
+                        "8",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "S",
+                        "Sf"
+                    ]
+                },
+                {
+                    "name": "Pikante Hirse mit Gemüse",
+                    "price": "0.33€ / 100g",
+                    "ingredients": [
+                        "2",
+                        "Kn"
+                    ]
+                },
+                {
+                    "name": "Pikante Hirse mit Gemüse (2)",
+                    "price": "0.33€ / 100g",
+                    "ingredients": [
+                        "2",
+                        "Kn"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-11-22",
+            "dishes": [
+                {
+                    "name": "Gnocchi mit frischem Kürbis und Kräutern",
+                    "price": "individual",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "So"
+                    ]
+                },
+                {
+                    "name": "Gnocchi mit frischem Kürbis und Kräutern (2)",
+                    "price": "individual",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "So"
+                    ]
+                },
+                {
+                    "name": "Wildlachs (MSC) auf Blattspinat Dillkartoffeln",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Fi",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi"
+                    ]
+                },
+                {
+                    "name": "Blumenkohlsalat",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "5",
+                        "Sw"
+                    ]
+                },
+                {
+                    "name": "Gurkensalat mit Sauerrahm",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "5",
+                        "Mi",
+                        "Sw"
+                    ]
+                },
+                {
+                    "name": "Wildlachs (MSC) auf Blattspinat Dillkartoffeln (2)",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Fi",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi"
+                    ]
+                },
+                {
+                    "name": "Dillkartoffeln",
+                    "price": "N/A",
+                    "ingredients": []
+                },
+                {
+                    "name": "Täglich frische Salatbar",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "Fi",
+                        "Mi",
+                        "So"
+                    ]
+                },
+                {
+                    "name": "Blumenkohlsalat (2)",
+                    "price": "0.75€ / 100g",
+                    "ingredients": [
+                        "3",
+                        "5",
+                        "Sw"
+                    ]
+                },
+                {
+                    "name": "Gurkensalat mit Sauerrahm (2)",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "5",
+                        "Mi",
+                        "Sw"
+                    ]
+                },
+                {
+                    "name": "Mediterrane Schupfnudelpfanne mit Weisskäse",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Jambalaya Louisiana mit Shrimps und Hähnchenbrustfilet",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "Kn",
+                        "Kr",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Täglich frische Salatbar (2)",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "Fi",
+                        "Mi",
+                        "So"
+                    ]
+                },
+                {
+                    "name": "Mediterrane Schupfnudelpfanne mit Weisskäse (2)",
+                    "price": "0.75€ / 100g",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Jambalaya Louisiana mit Shrimps und Hähnchenbrustfilet (2)",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "Kn",
+                        "Kr",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Italienischer Bohneneintopf",
+                    "price": "0.33€ / 100g",
+                    "ingredients": [
+                        "Kn",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Italienischer Bohneneintopf (2)",
+                    "price": "0.33€ / 100g",
+                    "ingredients": [
+                        "Kn",
+                        "Sl"
+                    ]
+                }
+            ]
+        }
+    ]
+}

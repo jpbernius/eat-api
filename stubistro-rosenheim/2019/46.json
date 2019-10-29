@@ -1,31 +1,51 @@
 {
-    "number": 44,
+    "number": 46,
     "year": 2019,
     "days": [
         {
-            "date": "2019-10-28",
+            "date": "2019-11-11",
             "dishes": [
                 {
-                    "name": "Schaschlikpfanne",
+                    "name": "Reisfleisch vom Kalb mit Tomatensauce",
                     "price": "0.68€ / 100g",
                     "ingredients": [
-                        "S"
+                        "R",
+                        "Sf",
+                        "Sl"
                     ]
                 },
                 {
-                    "name": "Gelbes Curry vom Rind",
+                    "name": "Putensteak mit Kräuterbutter",
                     "price": "N/A",
                     "ingredients": [
-                        "2",
+                        "Kn",
+                        "Mi"
+                    ]
+                },
+                {
+                    "name": "Rahmchampignons mit Semmelknödel",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "Ei",
                         "Gl",
                         "GlW",
                         "Kn",
-                        "R",
-                        "Sf"
+                        "Mi"
                     ]
                 },
                 {
-                    "name": "Falafel mit Gemüsecouscous",
+                    "name": "Tagessuppe",
+                    "price": "N/A",
+                    "ingredients": []
+                },
+                {
+                    "name": "Tagesgemüse",
+                    "price": "N/A",
+                    "ingredients": []
+                },
+                {
+                    "name": "Countrykartoffeln",
                     "price": "N/A",
                     "ingredients": [
                         "Gl",
@@ -34,181 +54,51 @@
                     ]
                 },
                 {
-                    "name": "Gurken-Minz-Joghurt-Dip",
-                    "price": "N/A",
-                    "ingredients": [
-                        "2",
-                        "Kn",
-                        "Mi"
-                    ]
-                },
-                {
-                    "name": "Karotte-Paprika-Cream-Suppe",
-                    "price": "N/A",
-                    "ingredients": [
-                        "Mi"
-                    ]
-                },
-                {
-                    "name": "Mediterranes Gemüse",
-                    "price": "N/A",
-                    "ingredients": []
-                },
-                {
-                    "name": "Knöpfle",
-                    "price": "N/A",
-                    "ingredients": [
-                        "Ei",
-                        "Gl",
-                        "GlD",
-                        "GlW"
-                    ]
-                },
-                {
-                    "name": "Reis",
-                    "price": "N/A",
-                    "ingredients": []
-                },
-                {
-                    "name": "Mousse Bourbon-Vanille mit Himbeeren",
-                    "price": "N/A",
-                    "ingredients": [
-                        "14",
-                        "Mi"
-                    ]
-                },
-                {
-                    "name": "Joghurt mit Mandarinen",
-                    "price": "N/A",
-                    "ingredients": []
-                }
-            ]
-        },
-        {
-            "date": "2019-10-29",
-            "dishes": [
-                {
-                    "name": "Hähnchen-Cordon-bleu (G)",
-                    "price": "0.68€ / 100g",
-                    "ingredients": [
-                        "2",
-                        "3",
-                        "8",
-                        "Ei",
-                        "Gl",
-                        "Mi"
-                    ]
-                },
-                {
-                    "name": "Chili con carne",
-                    "price": "N/A",
-                    "ingredients": [
-                        "2",
-                        "Gl",
-                        "GlW",
-                        "Kn",
-                        "R"
-                    ]
-                },
-                {
-                    "name": "Mediterraner Nudel-Gemüse-Auflauf",
-                    "price": "N/A",
-                    "ingredients": [
-                        "1",
-                        "2",
-                        "Ei",
-                        "Gl",
-                        "GlW",
-                        "Mi"
-                    ]
-                },
-                {
-                    "name": "Paprikasauce",
-                    "price": "N/A",
-                    "ingredients": [
-                        "Gl",
-                        "GlW",
-                        "Mi"
-                    ]
-                },
-                {
-                    "name": "Leberspätzlesuppe",
-                    "price": "N/A",
-                    "ingredients": [
-                        "Ei",
-                        "Gl",
-                        "GlW",
-                        "R",
-                        "S",
-                        "Sl"
-                    ]
-                },
-                {
-                    "name": "Mischgemüse (Karotten, Bohnen, Zucchini, Sellerie)",
-                    "price": "N/A",
-                    "ingredients": [
-                        "Sl"
-                    ]
-                },
-                {
-                    "name": "Kartoffelsalat",
-                    "price": "N/A",
-                    "ingredients": []
-                },
-                {
-                    "name": "Reis",
-                    "price": "N/A",
-                    "ingredients": []
-                },
-                {
                     "name": "Aktionsdessert",
                     "price": "N/A",
                     "ingredients": []
                 },
                 {
-                    "name": "Pfirsichquark",
+                    "name": "Tagesdessert",
                     "price": "N/A",
-                    "ingredients": [
-                        "Mi"
-                    ]
+                    "ingredients": []
                 }
             ]
         },
         {
-            "date": "2019-10-30",
+            "date": "2019-11-12",
             "dishes": [
                 {
-                    "name": "Wollwürste mit Bratensauce",
+                    "name": "Rosenheimer Bratwurst",
                     "price": "0.68€ / 100g",
                     "ingredients": [
-                        "2",
                         "8",
-                        "9",
-                        "S",
-                        "Sf",
-                        "Sl"
+                        "Mi",
+                        "S"
                     ]
                 },
                 {
-                    "name": "Hähnchenschnitzel mit Mango-Chili-Dip",
+                    "name": "Gulasch vom Schwein",
                     "price": "N/A",
                     "ingredients": [
-                        "1",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S"
+                    ]
+                },
+                {
+                    "name": "Frühlingsrolle mit süßer Chilisauce",
+                    "price": "N/A",
+                    "ingredients": [
                         "Ei",
                         "Gl",
                         "GlW",
                         "Kn",
-                        "Mi"
-                    ]
-                },
-                {
-                    "name": "Wokgemüse in scharfer Kokosmilch",
-                    "price": "N/A",
-                    "ingredients": [
-                        "Gl",
-                        "GlW",
-                        "Kn",
-                        "Sf",
+                        "Mi",
+                        "Sl",
                         "So"
                     ]
                 },
@@ -230,12 +120,80 @@
                     ]
                 },
                 {
-                    "name": "Countrykartoffeln",
+                    "name": "Knöpfle",
                     "price": "N/A",
                     "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlD",
+                        "GlW"
+                    ]
+                },
+                {
+                    "name": "Aktionsdessert",
+                    "price": "N/A",
+                    "ingredients": []
+                },
+                {
+                    "name": "Tagesdessert",
+                    "price": "N/A",
+                    "ingredients": []
+                }
+            ]
+        },
+        {
+            "date": "2019-11-13",
+            "dishes": [
+                {
+                    "name": "Sauerbraten mit Sauce",
+                    "price": "0.68€ / 100g",
+                    "ingredients": [
+                        "R",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Hähnchenbrustfilet Art Hawaii mit Currysauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
                         "Gl",
                         "GlW",
-                        "Kn"
+                        "Mi",
+                        "Sf"
+                    ]
+                },
+                {
+                    "name": "Gnocchi mit Gorgonzola-Sauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Tagessuppe",
+                    "price": "N/A",
+                    "ingredients": []
+                },
+                {
+                    "name": "Tagesgemüse",
+                    "price": "N/A",
+                    "ingredients": []
+                },
+                {
+                    "name": "Kartoffelknödel",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "3",
+                        "5",
+                        "Sw"
                     ]
                 },
                 {
@@ -256,43 +214,116 @@
             ]
         },
         {
-            "date": "2019-10-31",
+            "date": "2019-11-14",
             "dishes": [
                 {
-                    "name": "Lasagne",
+                    "name": "Schweineschnitzel \"Wiener Art\"",
                     "price": "0.68€ / 100g",
                     "ingredients": [
                         "Ei",
                         "Gl",
-                        "Mi",
-                        "R",
-                        "S",
-                        "Sl"
+                        "S"
                     ]
                 },
                 {
-                    "name": "Schwäbische Maultaschen mit Zwiebelsauce",
+                    "name": "Esterhazygulasch vom Rind (GQB)",
                     "price": "N/A",
                     "ingredients": [
-                        "Ei",
                         "Gl",
                         "GlG",
                         "GlW",
                         "Kn",
                         "Mi",
-                        "S",
+                        "R",
                         "Sl"
                     ]
                 },
                 {
-                    "name": "Gefüllte Paprikaschotenhälfte mit Tomatensauce",
+                    "name": "Asiatische Nudel-Gemüse-Pfanne",
                     "price": "N/A",
                     "ingredients": [
                         "2",
+                        "4",
                         "Gl",
-                        "GlD",
                         "GlW",
                         "Kn",
+                        "Se",
+                        "So"
+                    ]
+                },
+                {
+                    "name": "Tagessuppe",
+                    "price": "N/A",
+                    "ingredients": []
+                },
+                {
+                    "name": "Tagesgemüse",
+                    "price": "N/A",
+                    "ingredients": []
+                },
+                {
+                    "name": "Kartoffel-Endivien-Salat",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "5",
+                        "Sf",
+                        "Sw"
+                    ]
+                },
+                {
+                    "name": "Kroketten",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Mi"
+                    ]
+                },
+                {
+                    "name": "Aktionsdessert",
+                    "price": "N/A",
+                    "ingredients": []
+                },
+                {
+                    "name": "Tagesdessert",
+                    "price": "N/A",
+                    "ingredients": []
+                }
+            ]
+        },
+        {
+            "date": "2019-11-15",
+            "dishes": [
+                {
+                    "name": "Gebackenes Seelachsfilet mit Remouladensauce (F)",
+                    "price": "0.68€ / 100g",
+                    "ingredients": [
+                        "Ei",
+                        "Fi",
+                        "Gl",
+                        "Mi",
+                        "Sf"
+                    ]
+                },
+                {
+                    "name": "Hackbällchen Balkan Art",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "S"
+                    ]
+                },
+                {
+                    "name": "Pfannkuchen mit Kirschfüllung dazu Vanillesauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
                         "Mi"
                     ]
                 },
@@ -307,10 +338,15 @@
                     "ingredients": []
                 },
                 {
-                    "name": "Kartoffelpüree",
+                    "name": "Petersilienkartoffeln",
+                    "price": "N/A",
+                    "ingredients": []
+                },
+                {
+                    "name": "Djuvecreis",
                     "price": "N/A",
                     "ingredients": [
-                        "Mi"
+                        "Kn"
                     ]
                 },
                 {

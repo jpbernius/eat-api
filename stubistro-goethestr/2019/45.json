@@ -1,0 +1,67 @@
+{
+    "number": 45,
+    "year": 2019,
+    "days": [
+        {
+            "date": "2019-11-04",
+            "dishes": [
+                {
+                    "name": "Green-Thai-Curry vom Rind",
+                    "price": 3.0,
+                    "ingredients": [
+                        "Kn",
+                        "R"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-11-05",
+            "dishes": [
+                {
+                    "name": "Tortellini (Käsefüllung) mit Kürbis-Tomatensauce",
+                    "price": 1.9,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sl"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-11-06",
+            "dishes": [
+                {
+                    "name": "Pasta mit Putenbolognese",
+                    "price": 2.4,
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Sl"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-11-07",
+            "dishes": [
+                {
+                    "name": "Dinkelnudelpfanne Griechische Art mit Oliven,Schafskäse und Knoblauch",
+                    "price": 1.9,
+                    "ingredients": [
+                        "3",
+                        "6",
+                        "Gl",
+                        "GlD",
+                        "Kn",
+                        "Mi"
+                    ]
+                }
+            ]
+        }
+    ]
+}
