@@ -1,0 +1,174 @@
+{
+    "number": 46,
+    "year": 2019,
+    "days": [
+        {
+            "date": "2019-11-11",
+            "dishes": [
+                {
+                    "name": "Tagessuppe",
+                    "price": 1.0,
+                    "ingredients": [
+                        "Gl",
+                        "Mi",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Spinat-Hirtenkäse-Strudel auf Schnittlauch- CousCous",
+                    "price": 4.5,
+                    "ingredients": [
+                        "Gl",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Pasta Front-Cooking (*)Pasta mit Auberginen- Linsenragout",
+                    "price": 4.5,
+                    "ingredients": [
+                        "Gl",
+                        "Mi",
+                        "Sl"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-11-12",
+            "dishes": [
+                {
+                    "name": "Tagessuppe",
+                    "price": 1.0,
+                    "ingredients": [
+                        "Gl",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "(*)Linseneintopf mit Gemüse und Kartoffeln",
+                    "price": 4.0,
+                    "ingredients": [
+                        "Ei",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Frisch vom Grill Leberkäse mit Spiegelei und Kartoffelsalat",
+                    "price": 4.6,
+                    "ingredients": [
+                        "Gl",
+                        "Sl"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-11-13",
+            "dishes": [
+                {
+                    "name": "Tagessuppe",
+                    "price": 1.0,
+                    "ingredients": [
+                        "Gl",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "(*) Herzhafte Champignonragout mit Reis",
+                    "price": 4.5,
+                    "ingredients": [
+                        "Gl",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Pasta Front-Cooking Pasta mit Wirsing-Rinderhack",
+                    "price": 4.9,
+                    "ingredients": [
+                        "Gl",
+                        "Mi",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Rindergeschnetzeltes in Zwiebel-Senfsoße dazu Spätzle und Mischgemüse",
+                    "price": 6.2,
+                    "ingredients": []
+                }
+            ]
+        },
+        {
+            "date": "2019-11-14",
+            "dishes": [
+                {
+                    "name": "Tagessuppe",
+                    "price": 1.0,
+                    "ingredients": [
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "(*) Bayrisch Kraut mit Tofu und Karotten",
+                    "price": 4.5,
+                    "ingredients": [
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Frisch vom Grill Currywurst mit Pommes Frites",
+                    "price": 5.5,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "Mi",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Braumeister Schnitzel vom Schwein mit rohem Schinken und Bavaria Blue gefüllt dazu Wedjeskartoffeln",
+                    "price": 5.8,
+                    "ingredients": [
+                        "Gl",
+                        "Mi",
+                        "Sl"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-11-15",
+            "dishes": [
+                {
+                    "name": "Tagessuppe",
+                    "price": 1.0,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "Mi"
+                    ]
+                },
+                {
+                    "name": "Kaiserschmarrn mit Apfelmus",
+                    "price": 4.5,
+                    "ingredients": [
+                        "Gl",
+                        "Mi",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Pasta Front-Cooking Pasta mit Karotten- Ruccolasoße",
+                    "price": 4.9,
+                    "ingredients": [
+                        "Ei",
+                        "En",
+                        "Gl",
+                        "Mi",
+                        "Sc",
+                        "Sl"
+                    ]
+                }
+            ]
+        }
+    ]
+}
