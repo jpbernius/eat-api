@@ -1,0 +1,81 @@
+{
+    "number": 49,
+    "year": 2019,
+    "days": [
+        {
+            "date": "2019-12-02",
+            "dishes": [
+                {
+                    "name": "Falafel mit Joghurt-Gurken-Minz Dip",
+                    "price": 2.4,
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-12-03",
+            "dishes": [
+                {
+                    "name": "Pasta mit Tomaten-Zucchini-Sauce",
+                    "price": 1.9,
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-12-04",
+            "dishes": [
+                {
+                    "name": "Gefüllte Paprikaschote mit Tomatensauce",
+                    "price": 2.6,
+                    "ingredients": [
+                        "2",
+                        "Gl",
+                        "GlD",
+                        "GlW",
+                        "Kn",
+                        "Mi"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-12-05",
+            "dishes": [
+                {
+                    "name": "Tortelloni all'arrabiata",
+                    "price": 2.6,
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-12-06",
+            "dishes": [
+                {
+                    "name": "Pfannkuchen mit Heidelbeerfüllung und Vanillesauce",
+                    "price": 2.4,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi"
+                    ]
+                }
+            ]
+        }
+    ]
+}

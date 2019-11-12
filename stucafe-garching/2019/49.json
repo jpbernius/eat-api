@@ -1,0 +1,84 @@
+{
+    "number": 49,
+    "year": 2019,
+    "days": [
+        {
+            "date": "2019-12-02",
+            "dishes": [
+                {
+                    "name": "Fleischpflanzerl mit Kümmelsauce",
+                    "price": 1.9,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "S"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-12-03",
+            "dishes": [
+                {
+                    "name": "Sweet & Sour mit Schweinefleisch",
+                    "price": 2.4,
+                    "ingredients": [
+                        "11",
+                        "2",
+                        "3",
+                        "5",
+                        "Kn",
+                        "S",
+                        "Sf",
+                        "Sl",
+                        "So",
+                        "Sw"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-12-05",
+            "dishes": [
+                {
+                    "name": "Geschmorter Rinderbraten (GQB) mit weihnachtlicher Sauce",
+                    "price": 3.0,
+                    "ingredients": [
+                        "5",
+                        "99",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "Sl",
+                        "Sw"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-12-06",
+            "dishes": [
+                {
+                    "name": "Forelle Müllerin Art mit Zitronenbutter",
+                    "price": 3.5,
+                    "ingredients": [
+                        "1",
+                        "Fi",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sf"
+                    ]
+                }
+            ]
+        }
+    ]
+}

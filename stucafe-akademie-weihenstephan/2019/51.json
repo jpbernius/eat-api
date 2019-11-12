@@ -1,0 +1,97 @@
+{
+    "number": 51,
+    "year": 2019,
+    "days": [
+        {
+            "date": "2019-12-16",
+            "dishes": [
+                {
+                    "name": "Chili con Carne",
+                    "price": 1.9,
+                    "ingredients": [
+                        "2",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "R"
+                    ]
+                },
+                {
+                    "name": "Spinatspätzlepfanne mit Bergkäse und abgeschmelzten Zwiebeln",
+                    "price": 2.6,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-12-17",
+            "dishes": [
+                {
+                    "name": "Kartoffel-Pilz-Auflauf mit frischem Lauch und Dip",
+                    "price": 2.4,
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "Sf"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-12-18",
+            "dishes": [
+                {
+                    "name": "Pasta mit Putenbolognese",
+                    "price": 2.4,
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Sl"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-12-19",
+            "dishes": [
+                {
+                    "name": "Linsen mit Spätzle",
+                    "price": 2.4,
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Sl",
+                        "So"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-12-20",
+            "dishes": [
+                {
+                    "name": "Gnocchi mit Tomatensauce",
+                    "price": 1.9,
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "So"
+                    ]
+                }
+            ]
+        }
+    ]
+}

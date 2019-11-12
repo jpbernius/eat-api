@@ -1,0 +1,425 @@
+{
+    "number": 51,
+    "year": 2019,
+    "days": [
+        {
+            "date": "2019-12-16",
+            "dishes": [
+                {
+                    "name": "Gnocchi mit Schafskäse und frischem Basilikum",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Pizza mit Gorgonzola",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Mi",
+                        "So"
+                    ]
+                },
+                {
+                    "name": "Putensteak mit Kräuterbutter",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Kn",
+                        "Mi"
+                    ]
+                },
+                {
+                    "name": "Blumenkohl-Kartoffel-Curry",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Kn",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Tagessuppe",
+                    "price": "N/A",
+                    "ingredients": []
+                },
+                {
+                    "name": "Spinatspätzlepfanne mit Bergkäse und abgeschmelzten Zwiebeln",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi"
+                    ]
+                },
+                {
+                    "name": "Schweinerahmgeschnetzeltes mit Pfifferlingen und Steinpilzen",
+                    "price": "N/A",
+                    "ingredients": [
+                        "5",
+                        "99",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S",
+                        "Sw"
+                    ]
+                },
+                {
+                    "name": "Chili con Carne",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "R"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-12-17",
+            "dishes": [
+                {
+                    "name": "Schinkennudeln (Vorderschinken) mit Zwiebeln und Ei",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "3",
+                        "8",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S"
+                    ]
+                },
+                {
+                    "name": "Pizza Regina mit (Vorder-)Schinken und Champignons",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "3",
+                        "8",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Mi",
+                        "S",
+                        "So"
+                    ]
+                },
+                {
+                    "name": "Zwiebelrostbraten mit Rotweinsauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "99",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "Sw"
+                    ]
+                },
+                {
+                    "name": "Phad Thai - Thailändisches Nudelgericht",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "En",
+                        "Fi",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "So"
+                    ]
+                },
+                {
+                    "name": "Kräuterpolenta mit Tomatenragout",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ]
+                },
+                {
+                    "name": "Tagessuppe",
+                    "price": "N/A",
+                    "ingredients": []
+                },
+                {
+                    "name": "Kartoffel-Pilz-Auflauf mit frischem Lauch und Dip",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "Sf"
+                    ]
+                },
+                {
+                    "name": "Seelachsfilet (MSC) Lemon Koriander mit Buttersauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "5",
+                        "99",
+                        "Ei",
+                        "Fi",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sf",
+                        "Sw"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-12-18",
+            "dishes": [
+                {
+                    "name": "Pasta mit Putenbolognese",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Garnelen mit Zitronen-Kokos-Dip",
+                    "price": "N/A",
+                    "ingredients": [
+                        "11",
+                        "8",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kr",
+                        "Mi",
+                        "Sf"
+                    ]
+                },
+                {
+                    "name": "Pikantes Kartoffelchili",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Kn"
+                    ]
+                },
+                {
+                    "name": "Tagessuppe",
+                    "price": "N/A",
+                    "ingredients": []
+                },
+                {
+                    "name": "Boeuf à la mode aus dem Rinderbug (GQB)",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "5",
+                        "99",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "Sl",
+                        "Sw"
+                    ]
+                },
+                {
+                    "name": "Hähnchenknusperfilet mit Mango-Chili-Dip",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "11",
+                        "2",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sf"
+                    ]
+                },
+                {
+                    "name": "Apfelkücherl mit Vanillesauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-12-19",
+            "dishes": [
+                {
+                    "name": "Dinkelnudelpfanne Griechische Art mit Oliven,Schafskäse und Knoblauch",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "6",
+                        "Gl",
+                        "GlD",
+                        "Kn",
+                        "Mi"
+                    ]
+                },
+                {
+                    "name": "Schweinefilet mit Chimichuri",
+                    "price": "N/A",
+                    "ingredients": [
+                        "En",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "S",
+                        "Se",
+                        "So"
+                    ]
+                },
+                {
+                    "name": "Gemüseeintopf Pichelsteiner Art",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Tagessuppe",
+                    "price": "N/A",
+                    "ingredients": []
+                },
+                {
+                    "name": "Bio-Linsen mit Bio-Spätzle",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Sl",
+                        "So"
+                    ]
+                },
+                {
+                    "name": "Pfannengyros vom Schwein mit Tsatsiki",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "5",
+                        "Kn",
+                        "Mi",
+                        "S",
+                        "Sw"
+                    ]
+                },
+                {
+                    "name": "Panierter Seelachs (MSC) mit Kartoffel-Gurken-Salat",
+                    "price": "N/A",
+                    "ingredients": [
+                        "11",
+                        "2",
+                        "9",
+                        "Ei",
+                        "Fi",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sf"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-12-20",
+            "dishes": [
+                {
+                    "name": "Gnocchi mit Tomatensauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "So"
+                    ]
+                },
+                {
+                    "name": "Nasi Goreng (mit Hähnchenfleisch)",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Sf",
+                        "So"
+                    ]
+                },
+                {
+                    "name": "Zartweizen mit Gemüse",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ]
+                },
+                {
+                    "name": "Tagessuppe",
+                    "price": "N/A",
+                    "ingredients": []
+                },
+                {
+                    "name": "Schweineschnitzel Wiener Art",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S",
+                        "Sf",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Germknödel gefüllt mit Pflaumenmus dazu Vanillesauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi"
+                    ]
+                }
+            ]
+        }
+    ]
+}

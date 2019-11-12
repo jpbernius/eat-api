@@ -224,17 +224,6 @@
                     ]
                 },
                 {
-                    "name": "Kaiserschmarrn mit Apfelmus",
-                    "price": 2.6,
-                    "ingredients": [
-                        "3",
-                        "Ei",
-                        "Gl",
-                        "GlW",
-                        "Mi"
-                    ]
-                },
-                {
                     "name": "Schollenfilet (MSC) paniert mit Remouladensauce",
                     "price": 2.6,
                     "ingredients": [
@@ -247,6 +236,17 @@
                         "GlW",
                         "Mi",
                         "Sf"
+                    ]
+                },
+                {
+                    "name": "Kaiserschmarrn mit Apfelmus",
+                    "price": 2.6,
+                    "ingredients": [
+                        "3",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi"
                     ]
                 },
                 {

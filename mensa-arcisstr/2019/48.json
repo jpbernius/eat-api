@@ -381,6 +381,17 @@
                     ]
                 },
                 {
+                    "name": "Überbackenes Putenschnitzel Toskana",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi"
+                    ]
+                },
+                {
                     "name": "Cevapcici mit Ajvar",
                     "price": "N/A",
                     "ingredients": [
@@ -393,17 +404,6 @@
                         "Sf",
                         "Sl",
                         "So"
-                    ]
-                },
-                {
-                    "name": "Überbackenes Putenschnitzel Toskana",
-                    "price": "N/A",
-                    "ingredients": [
-                        "1",
-                        "Gl",
-                        "GlW",
-                        "Kn",
-                        "Mi"
                     ]
                 }
             ]

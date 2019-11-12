@@ -29,6 +29,18 @@
                     ]
                 },
                 {
+                    "name": "Nasi Goreng (mit Hähnchenfleisch)",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Sf",
+                        "So"
+                    ]
+                },
+                {
                     "name": "Bulgur mit Karotten, Fenchel und Sellerie",
                     "price": "N/A",
                     "ingredients": [
@@ -39,9 +51,22 @@
                     ]
                 },
                 {
-                    "name": "Tagessuppe",
+                    "name": "Kürbis-Maronensuppe",
                     "price": "N/A",
-                    "ingredients": []
+                    "ingredients": [
+                        "Kn",
+                        "Mi"
+                    ]
+                },
+                {
+                    "name": "Graupen-Gemüse-Pfanne",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlG",
+                        "Kn",
+                        "Sl"
+                    ]
                 },
                 {
                     "name": "Kartoffeltaschen mit Kräuterfrischkäse",
@@ -49,7 +74,6 @@
                     "ingredients": [
                         "Gl",
                         "GlW",
-                        "Kn",
                         "Mi"
                     ]
                 }
@@ -68,6 +92,18 @@
                     ]
                 },
                 {
+                    "name": "Cannelloni mit Ricotta-Spinat-Füllung und Tomatensauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "Sl"
+                    ]
+                },
+                {
                     "name": "Bratwurstschnecke",
                     "price": "N/A",
                     "ingredients": [
@@ -77,7 +113,7 @@
                     ]
                 },
                 {
-                    "name": "Grüne Bohnen mit Basmatireis in Kokos-Zitronensauce",
+                    "name": "Grüne Bohnen in Kokos-Zitronensauce",
                     "price": "N/A",
                     "ingredients": [
                         "Gl",
@@ -87,9 +123,24 @@
                     ]
                 },
                 {
-                    "name": "Tagessuppe",
+                    "name": "Leberspätzlesuppe",
                     "price": "N/A",
-                    "ingredients": []
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "S",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Kartoffeltaschen mit Kräuterfrischkäse",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Mi"
+                    ]
                 },
                 {
                     "name": "Kalbsrahmgulasch mit Champignons und Weißwein",
@@ -150,6 +201,7 @@
                     "ingredients": [
                         "3",
                         "5",
+                        "Ei",
                         "Gl",
                         "GlG",
                         "GlW",
@@ -157,6 +209,7 @@
                         "Mi",
                         "S",
                         "Sf",
+                        "Sl",
                         "Sw"
                     ]
                 }

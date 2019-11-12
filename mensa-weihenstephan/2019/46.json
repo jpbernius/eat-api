@@ -70,8 +70,12 @@
                     "name": "Kürbis-Kartoffel-Gratin mit frischen Salbeiblättern",
                     "price": 2.6,
                     "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
                         "Kn",
-                        "Mi"
+                        "Mi",
+                        "Sl"
                     ]
                 },
                 {
@@ -87,7 +91,7 @@
                     ]
                 },
                 {
-                    "name": "Pizza Romana mit Salami, Sardellen und Kapern",
+                    "name": "Pizza mit Salami,",
                     "price": 3.5,
                     "ingredients": [
                         "1",
@@ -99,7 +103,6 @@
                         "GlW",
                         "Mi",
                         "S",
-                        "Sf",
                         "So"
                     ]
                 }

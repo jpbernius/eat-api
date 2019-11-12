@@ -15,6 +15,25 @@
                     ]
                 },
                 {
+                    "name": "Paprikasauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ]
+                },
+                {
+                    "name": "Rahmchampignons",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi"
+                    ]
+                },
+                {
                     "name": "Putensteak mit Kräuterbutter",
                     "price": "N/A",
                     "ingredients": [
@@ -35,12 +54,19 @@
                     ]
                 },
                 {
-                    "name": "Tagessuppe",
+                    "name": "Maultaschensuppe",
                     "price": "N/A",
-                    "ingredients": []
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "S",
+                        "Sl"
+                    ]
                 },
                 {
-                    "name": "Tagesgemüse",
+                    "name": "Erbsen, natur",
                     "price": "N/A",
                     "ingredients": []
                 },
@@ -49,8 +75,7 @@
                     "price": "N/A",
                     "ingredients": [
                         "Gl",
-                        "GlW",
-                        "Kn"
+                        "GlW"
                     ]
                 },
                 {

@@ -52,6 +52,31 @@
                         "R",
                         "Sl"
                     ]
+                },
+                {
+                    "name": "Schweinebraten mit Biersauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "99",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S"
+                    ]
+                },
+                {
+                    "name": "Forelle Müllerin Art mit Zitronenbutter",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "Fi",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sf"
+                    ]
                 }
             ]
         },

@@ -6,6 +6,16 @@
             "date": "2019-11-25",
             "dishes": [
                 {
+                    "name": "Penne all'arrabiata",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ]
+                },
+                {
                     "name": "Rindergeschnetzeltes Stroganoff",
                     "price": "N/A",
                     "ingredients": [
@@ -19,22 +29,25 @@
                         "R",
                         "Sf"
                     ]
-                },
-                {
-                    "name": "Penne all'arrabiata",
-                    "price": "N/A",
-                    "ingredients": [
-                        "2",
-                        "Gl",
-                        "GlW",
-                        "Kn"
-                    ]
                 }
             ]
         },
         {
             "date": "2019-11-26",
             "dishes": [
+                {
+                    "name": "Allgäuer Käsespätzle mit Röstzwiebeln",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "Ei",
+                        "Gl",
+                        "GlD",
+                        "GlW",
+                        "Mi"
+                    ]
+                },
                 {
                     "name": "Hähnchenknusperfilet mit Mango-Chili-Dip",
                     "price": "N/A",
@@ -48,37 +61,12 @@
                         "Mi",
                         "Sf"
                     ]
-                },
-                {
-                    "name": "Allgäuer Käsespätzle mit Röstzwiebeln",
-                    "price": "N/A",
-                    "ingredients": [
-                        "1",
-                        "2",
-                        "Ei",
-                        "Gl",
-                        "GlD",
-                        "GlW",
-                        "Mi"
-                    ]
                 }
             ]
         },
         {
             "date": "2019-11-27",
             "dishes": [
-                {
-                    "name": "Halbe Schweinshaxe mit Biersauce",
-                    "price": "N/A",
-                    "ingredients": [
-                        "Gl",
-                        "GlG",
-                        "GlW",
-                        "Kn",
-                        "Mi",
-                        "S"
-                    ]
-                },
                 {
                     "name": "Frühlingsrolle mit süßsaurer Sauce",
                     "price": "N/A",
@@ -93,6 +81,18 @@
                         "Sl",
                         "So",
                         "Sw"
+                    ]
+                },
+                {
+                    "name": "Halbe Schweinshaxe mit Biersauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S"
                     ]
                 }
             ]
@@ -127,6 +127,17 @@
             "date": "2019-11-29",
             "dishes": [
                 {
+                    "name": "Kaiserschmarrn mit Apfelmus",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi"
+                    ]
+                },
+                {
                     "name": "Schollenfilet (MSC) paniert mit Remouladensauce",
                     "price": "N/A",
                     "ingredients": [
@@ -139,17 +150,6 @@
                         "GlW",
                         "Mi",
                         "Sf"
-                    ]
-                },
-                {
-                    "name": "Kaiserschmarrn mit Apfelmus",
-                    "price": "N/A",
-                    "ingredients": [
-                        "3",
-                        "Ei",
-                        "Gl",
-                        "GlW",
-                        "Mi"
                     ]
                 }
             ]

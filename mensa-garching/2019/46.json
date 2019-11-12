@@ -34,12 +34,13 @@
                     "ingredients": [
                         "Gl",
                         "GlW",
+                        "Kn",
                         "Mi",
                         "S"
                     ]
                 },
                 {
-                    "name": "Bulgur mit Karotten, Fenchel und Sellerie",
+                    "name": "Couscous mit Karotten, Fenchel und Sellerie",
                     "price": "N/A",
                     "ingredients": [
                         "Gl",
@@ -49,15 +50,20 @@
                     ]
                 },
                 {
-                    "name": "Tagessuppe",
-                    "price": "N/A",
-                    "ingredients": []
-                },
-                {
-                    "name": "Kartoffeltaschen mit Kräuterfrischkäse",
+                    "name": "Pikante Kürbiscremesuppe mit Ingwer",
                     "price": "N/A",
                     "ingredients": [
+                        "Kn",
+                        "Mi"
+                    ]
+                },
+                {
+                    "name": "Gefüllte Paprikaschote mit Tomatensauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
                         "Gl",
+                        "GlD",
                         "GlW",
                         "Kn",
                         "Mi"
@@ -110,28 +116,22 @@
                     ]
                 },
                 {
-                    "name": "Tagessuppe",
+                    "name": "Blumenkohlcremesuppe",
                     "price": "N/A",
-                    "ingredients": []
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Mi"
+                    ]
                 },
                 {
                     "name": "Kürbis-Kartoffel-Gratin mit Salbei",
                     "price": "N/A",
                     "ingredients": [
-                        "Kn",
-                        "Mi"
-                    ]
-                },
-                {
-                    "name": "Kalbsrahmgulasch mit Champignons und Weißwein",
-                    "price": "N/A",
-                    "ingredients": [
-                        "5",
-                        "99",
                         "Gl",
                         "GlW",
-                        "Mi",
-                        "Sw"
+                        "Kn",
+                        "Mi"
                     ]
                 },
                 {
@@ -146,6 +146,18 @@
                         "Kn",
                         "Mi",
                         "S"
+                    ]
+                },
+                {
+                    "name": "Kalbsrahmgulasch mit Champignons und Weißwein",
+                    "price": "N/A",
+                    "ingredients": [
+                        "5",
+                        "99",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sw"
                     ]
                 }
             ]
@@ -242,12 +254,11 @@
                     ]
                 },
                 {
-                    "name": "Pizza mit Artischocken und Shrimps",
+                    "name": "Pizza mit getrockneten Tomaten und Shrimps",
                     "price": "N/A",
                     "ingredients": [
                         "1",
                         "2",
-                        "3",
                         "Gl",
                         "GlG",
                         "GlW",
@@ -275,12 +286,10 @@
                     "ingredients": []
                 },
                 {
-                    "name": "Gefüllte Paprikaschote mit Tomatensauce",
+                    "name": "Kartoffeltaschen mit Kräuterfrischkäse",
                     "price": "N/A",
                     "ingredients": [
-                        "2",
                         "Gl",
-                        "GlD",
                         "GlW",
                         "Kn",
                         "Mi"

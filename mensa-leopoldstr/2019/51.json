@@ -1,0 +1,272 @@
+{
+    "number": 51,
+    "year": 2019,
+    "days": [
+        {
+            "date": "2019-12-16",
+            "dishes": [
+                {
+                    "name": "Gnocchi mit Schafskäse und frischem Basilikum",
+                    "price": "individual",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Schweinerahmgeschnetzeltes mit Pfifferlingen, Steinpilzen und Knöpfle",
+                    "price": "N/A",
+                    "ingredients": [
+                        "5",
+                        "99",
+                        "Ei",
+                        "Gl",
+                        "GlD",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S",
+                        "Sw"
+                    ]
+                },
+                {
+                    "name": "Putensteak mit Kräuterbutter und Rosmarinkartoffeln",
+                    "price": "0.75€ / 100g",
+                    "ingredients": [
+                        "Kn",
+                        "Mi"
+                    ]
+                },
+                {
+                    "name": "Spinatspätzlepfanne mit Bergkäse und abgeschmelzten Zwiebeln",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi"
+                    ]
+                },
+                {
+                    "name": "Blumenkohl-Kartoffel-Curry",
+                    "price": "0.33€ / 100g",
+                    "ingredients": [
+                        "Kn",
+                        "Sl"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-12-17",
+            "dishes": [
+                {
+                    "name": "Schinkennudeln (Vorderschinken) mit Zwiebeln , Ei und Tomatensauce",
+                    "price": "individual",
+                    "ingredients": [
+                        "2",
+                        "3",
+                        "8",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S"
+                    ]
+                },
+                {
+                    "name": "Seelachsfilet (MSC) Florentiner Art mit Blattspinat und Hollandaise überbacken",
+                    "price": "N/A",
+                    "ingredients": [
+                        "5",
+                        "99",
+                        "Ei",
+                        "Fi",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "Sl",
+                        "Sw"
+                    ]
+                },
+                {
+                    "name": "Kartoffel-Pilz-Auflauf mit frischem Lauch und Dip",
+                    "price": "0.75€ / 100g",
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "Sf"
+                    ]
+                },
+                {
+                    "name": "Schweineschnitzel, natur mit Jägersauce und Kroketten",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "3",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S"
+                    ]
+                },
+                {
+                    "name": "Kräuterpolenta mit Tomatenragout",
+                    "price": "0.33€ / 100g",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-12-18",
+            "dishes": [
+                {
+                    "name": "Mediterrane Gnocchi-Gemüse-Pfanne in Tomatensauce",
+                    "price": "individual",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "So"
+                    ]
+                },
+                {
+                    "name": "Boeuf à la mode aus dem Rinderbug (GQB) mit Kartoffelknödel",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "3",
+                        "5",
+                        "99",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "Sl",
+                        "Sw"
+                    ]
+                },
+                {
+                    "name": "Hähnchenbrustfilet mit warmer Gemüsesalsa (scharf) und Röstkartoffeln",
+                    "price": "0.75€ / 100g",
+                    "ingredients": [
+                        "2",
+                        "4",
+                        "Kn"
+                    ]
+                },
+                {
+                    "name": "Apfelkücherl mit Vanillesauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi"
+                    ]
+                },
+                {
+                    "name": "Pikantes Kartoffelchili",
+                    "price": "0.33€ / 100g",
+                    "ingredients": [
+                        "Kn"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-12-19",
+            "dishes": [
+                {
+                    "name": "Bio-Linsen mit Bio-Spätzle",
+                    "price": "0.75€ / 100g",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Sl",
+                        "So"
+                    ]
+                },
+                {
+                    "name": "Pfannengyros vom Schwein mit Tsatsiki und Reis",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "5",
+                        "Kn",
+                        "Mi",
+                        "S",
+                        "Sw"
+                    ]
+                },
+                {
+                    "name": "Gemüseeintopf Pichelsteiner Art",
+                    "price": "0.33€ / 100g",
+                    "ingredients": [
+                        "Sl"
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2019-12-20",
+            "dishes": [
+                {
+                    "name": "Schweineschnitzel Wiener Art mit Röstkartoffeln",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S",
+                        "Sf",
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Germknödel gefüllt mit Pflaumenmus dazu Vanillesauce",
+                    "price": "0.75€ / 100g",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi"
+                    ]
+                },
+                {
+                    "name": "Zartweizen mit Gemüse",
+                    "price": "0.33€ / 100g",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ]
+                }
+            ]
+        }
+    ]
+}

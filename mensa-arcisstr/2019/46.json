@@ -6,10 +6,9 @@
             "date": "2019-11-11",
             "dishes": [
                 {
-                    "name": "Cannelloni mit Ricotta-Spinat-Füllung und Tomatensauce",
+                    "name": "Cannelloni mit Ricotta-Spinat-Füllung und Tomaten- Hirtenkäsesauce",
                     "price": "N/A",
                     "ingredients": [
-                        "1",
                         "Ei",
                         "Gl",
                         "GlW",
@@ -19,7 +18,7 @@
                     ]
                 },
                 {
-                    "name": "Pizza Margherita mit Mozzarella und frischem Basilikum",
+                    "name": "Pizza Margherita mit Mozzarella",
                     "price": "N/A",
                     "ingredients": [
                         "Gl",
@@ -61,9 +60,14 @@
                     ]
                 },
                 {
-                    "name": "Tagessuppe",
+                    "name": "Grießnockerlsuppe",
                     "price": "N/A",
-                    "ingredients": []
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Sl"
+                    ]
                 },
                 {
                     "name": "Kartoffeltaschen mit Kräuterfrischkäse",
@@ -93,13 +97,17 @@
                     "price": "N/A",
                     "ingredients": [
                         "2",
+                        "3",
+                        "8",
                         "Ei",
                         "Gl",
                         "GlG",
                         "GlW",
                         "Kn",
                         "Mi",
-                        "S"
+                        "S",
+                        "Sf",
+                        "Sl"
                     ]
                 }
             ]
@@ -117,7 +125,18 @@
                     ]
                 },
                 {
-                    "name": "Türkische Pizza mit Chili und Kalbfleisch",
+                    "name": "Pasta mit Räucherlachs und frischem Dill",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Fi",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi"
+                    ]
+                },
+                {
+                    "name": "Türkische Pizza mit Chili und Rindfleisch",
                     "price": "N/A",
                     "ingredients": [
                         "Gl",
@@ -149,7 +168,6 @@
                         "S",
                         "Sf",
                         "Sl",
-                        "So",
                         "Sw"
                     ]
                 },
@@ -164,9 +182,14 @@
                     ]
                 },
                 {
-                    "name": "Tagessuppe",
+                    "name": "Tomaten-Kokos-Suppe",
                     "price": "N/A",
-                    "ingredients": []
+                    "ingredients": [
+                        "2",
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ]
                 },
                 {
                     "name": "Kürbis-Kartoffel-Gratin mit frischen Salbeiblättern",
@@ -189,19 +212,28 @@
                     ]
                 },
                 {
-                    "name": "Seelachsfilet (MSC) Lemon Koriander mit Buttersauce",
+                    "name": "Kabeljaufilet (MSC) gebacken",
                     "price": "N/A",
                     "ingredients": [
-                        "1",
-                        "5",
-                        "99",
                         "Ei",
                         "Fi",
                         "Gl",
                         "GlW",
                         "Mi",
                         "Sf",
-                        "Sw"
+                        "Sl"
+                    ]
+                },
+                {
+                    "name": "Ganze gebratene Forelle",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "Fi",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sf"
                     ]
                 }
             ]
@@ -242,6 +274,18 @@
                     ]
                 },
                 {
+                    "name": "Chilileberkäse mit Kartoffelsalat",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "3",
+                        "8",
+                        "R",
+                        "S",
+                        "Sl"
+                    ]
+                },
+                {
                     "name": "Rindfleischstreifen (GQB) Spicy Ginger mit Bambussprossen",
                     "price": "N/A",
                     "ingredients": [
@@ -279,7 +323,7 @@
                     "ingredients": []
                 },
                 {
-                    "name": "Geröstete Maultaschen mit Lauchzwiebeln und Ei",
+                    "name": "Geröstete Maultaschen mit Ei",
                     "price": "N/A",
                     "ingredients": [
                         "Ei",
@@ -302,6 +346,21 @@
                         "S",
                         "Sf",
                         "Sw"
+                    ]
+                },
+                {
+                    "name": "Schweineschnitzel Wiener Art",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S",
+                        "Sf",
+                        "Sl"
                     ]
                 },
                 {
@@ -378,6 +437,16 @@
                     ]
                 },
                 {
+                    "name": "Schaschlik",
+                    "price": "N/A",
+                    "ingredients": [
+                        "11",
+                        "Kn",
+                        "S",
+                        "Sf"
+                    ]
+                },
+                {
                     "name": "Arista al fiorentina - Schweinebraten toskanische Art",
                     "price": "N/A",
                     "ingredients": [
@@ -389,15 +458,6 @@
                         "Kn",
                         "Mi",
                         "Sw"
-                    ]
-                },
-                {
-                    "name": "Schaschlik",
-                    "price": "N/A",
-                    "ingredients": [
-                        "11",
-                        "S",
-                        "Sf"
                     ]
                 }
             ]
@@ -421,7 +481,7 @@
                     ]
                 },
                 {
-                    "name": "Pizza Scampi mit Cocktailtomaten und Scampis",
+                    "name": "Pizza Parma e Rucola",
                     "price": "N/A",
                     "ingredients": [
                         "1",
@@ -429,9 +489,8 @@
                         "Gl",
                         "GlG",
                         "GlW",
-                        "Kn",
-                        "Kr",
                         "Mi",
+                        "S",
                         "So"
                     ]
                 },

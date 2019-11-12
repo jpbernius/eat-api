@@ -308,16 +308,6 @@
                     ]
                 },
                 {
-                    "name": "Hähnchenkeule mexikanische Art",
-                    "price": "N/A",
-                    "ingredients": [
-                        "2",
-                        "Gl",
-                        "GlW",
-                        "Kn"
-                    ]
-                },
-                {
                     "name": "Surbraten vom Schweinehals mit Rosmarinjus",
                     "price": "N/A",
                     "ingredients": [
@@ -329,6 +319,16 @@
                         "Kn",
                         "Mi",
                         "S"
+                    ]
+                },
+                {
+                    "name": "Hähnchenkeule mexikanische Art",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "Gl",
+                        "GlW",
+                        "Kn"
                     ]
                 }
             ]

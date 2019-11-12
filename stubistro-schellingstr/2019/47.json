@@ -35,6 +35,16 @@
             "date": "2019-11-19",
             "dishes": [
                 {
+                    "name": "Libanesischer Gemüseauflauf",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "En",
+                        "Mi",
+                        "Sl"
+                    ]
+                },
+                {
                     "name": "Rinderbraten mit Rotweinsauce",
                     "price": "N/A",
                     "ingredients": [
@@ -48,22 +58,21 @@
                         "Sl",
                         "Sw"
                     ]
-                },
-                {
-                    "name": "Libanesischer Gemüseauflauf",
-                    "price": "N/A",
-                    "ingredients": [
-                        "Ei",
-                        "En",
-                        "Mi",
-                        "Sl"
-                    ]
                 }
             ]
         },
         {
             "date": "2019-11-20",
             "dishes": [
+                {
+                    "name": "Afrikanischer Süßkartoffeltopf mit Blumenkohl und Erdnüssen",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "En",
+                        "Kn"
+                    ]
+                },
                 {
                     "name": "Schweinesteak Strindberg (Senf-Zwiebelkruste)",
                     "price": "N/A",
@@ -75,31 +84,12 @@
                         "Sf",
                         "Sl"
                     ]
-                },
-                {
-                    "name": "Afrikanischer Süßkartoffeltopf mit Blumenkohl und Erdnüssen",
-                    "price": "N/A",
-                    "ingredients": [
-                        "2",
-                        "En",
-                        "Kn"
-                    ]
                 }
             ]
         },
         {
             "date": "2019-11-21",
             "dishes": [
-                {
-                    "name": "Hähnchenkeule mexikanische Art",
-                    "price": "N/A",
-                    "ingredients": [
-                        "2",
-                        "Gl",
-                        "GlW",
-                        "Kn"
-                    ]
-                },
                 {
                     "name": "Pasta mit Gemüsebolognese",
                     "price": "N/A",
@@ -109,12 +99,31 @@
                         "Kn",
                         "Sl"
                     ]
+                },
+                {
+                    "name": "Hähnchenkeule mexikanische Art",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ]
                 }
             ]
         },
         {
             "date": "2019-11-22",
             "dishes": [
+                {
+                    "name": "Apfelstrudel mit Vanillesauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Mi"
+                    ]
+                },
                 {
                     "name": "Wildlachs (MSC) auf Blattspinat",
                     "price": "N/A",
@@ -123,15 +132,6 @@
                         "Gl",
                         "GlW",
                         "Kn",
-                        "Mi"
-                    ]
-                },
-                {
-                    "name": "Apfelstrudel mit Vanillesauce",
-                    "price": "N/A",
-                    "ingredients": [
-                        "Gl",
-                        "GlW",
                         "Mi"
                     ]
                 }
