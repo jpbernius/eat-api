@@ -13,7 +13,8 @@
                         "Gl",
                         "GlW",
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht 2"
                 },
                 {
                     "name": "Rindergeschnetzeltes Stroganoff",
@@ -28,7 +29,8 @@
                         "Mi",
                         "R",
                         "Sf"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 7"
                 }
             ]
         },
@@ -46,7 +48,8 @@
                         "GlD",
                         "GlW",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht 4"
                 },
                 {
                     "name": "Hähnchenknusperfilet mit Mango-Chili-Dip",
@@ -60,7 +63,8 @@
                         "GlW",
                         "Mi",
                         "Sf"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 3"
                 }
             ]
         },
@@ -82,7 +86,8 @@
                         "Sl",
                         "So",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht 3"
                 },
                 {
                     "name": "Halbe Schweinshaxe mit Biersauce",
@@ -94,7 +99,8 @@
                         "Kn",
                         "Mi",
                         "S"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 6"
                 }
             ]
         },
@@ -110,7 +116,8 @@
                         "R",
                         "S",
                         "Sf"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht 3"
                 },
                 {
                     "name": "Frische Rahmschwammerl",
@@ -120,7 +127,8 @@
                         "GlW",
                         "Kn",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 2"
                 }
             ]
         },
@@ -136,7 +144,8 @@
                         "Gl",
                         "GlW",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 4"
                 },
                 {
                     "name": "Schollenfilet (MSC) paniert mit Remouladensauce",
@@ -151,7 +160,8 @@
                         "GlW",
                         "Mi",
                         "Sf"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 4"
                 }
             ]
         }

@@ -13,7 +13,8 @@
                         "GlW",
                         "Kn",
                         "Sf"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht 1"
                 },
                 {
                     "name": "Penne all'arrabiata",
@@ -23,7 +24,8 @@
                         "Gl",
                         "GlW",
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht 2"
                 },
                 {
                     "name": "Schweinehalssteak mit Kräuterbutter",
@@ -32,7 +34,8 @@
                         "Kn",
                         "Mi",
                         "S"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 4"
                 },
                 {
                     "name": "Rindergeschnetzeltes (GQB) Stroganoff",
@@ -47,7 +50,8 @@
                         "Mi",
                         "R",
                         "Sf"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 7"
                 }
             ]
         },
@@ -62,7 +66,8 @@
                         "Gl",
                         "GlW",
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht 1"
                 },
                 {
                     "name": "Hähnchenknusperfilet mit Mango-Chili-Dip",
@@ -76,7 +81,8 @@
                         "GlW",
                         "Mi",
                         "Sf"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht 4"
                 },
                 {
                     "name": "Allgäuer Käsespätzle mit Röstzwiebeln",
@@ -89,7 +95,8 @@
                         "GlD",
                         "GlW",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 3"
                 },
                 {
                     "name": "Pizza mit grünem Spargel, Cocktailtomaten und Mozzarella",
@@ -100,7 +107,8 @@
                         "GlW",
                         "Mi",
                         "So"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 8"
                 }
             ]
         },
@@ -110,7 +118,8 @@
                 {
                     "name": "Kürbistopf mit Paprika und Bohnen",
                     "price": 1.0,
-                    "ingredients": []
+                    "ingredients": [],
+                    "dish_type": "Tagesgericht 1"
                 },
                 {
                     "name": "Pasta mit Gorgonzolasauce",
@@ -119,7 +128,8 @@
                         "Gl",
                         "GlW",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht 3"
                 },
                 {
                     "name": "Millirahmstrudel mit Äpfeln und Vanillesauce",
@@ -129,7 +139,8 @@
                         "Gl",
                         "GlW",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 6"
                 },
                 {
                     "name": "Halbe Schweinshaxe mit Biersauce",
@@ -142,7 +153,8 @@
                         "Kn",
                         "Mi",
                         "S"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 6"
                 }
             ]
         },
@@ -155,7 +167,8 @@
                     "ingredients": [
                         "Kn",
                         "Sf"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht 1"
                 },
                 {
                     "name": "Spenden - Currywurst",
@@ -166,7 +179,8 @@
                         "R",
                         "S",
                         "Sf"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht 3"
                 },
                 {
                     "name": "Pizza Quattro Stagioni mit (Vorder-)Schinken, Paprika, Champignons und Oliven",
@@ -182,7 +196,8 @@
                         "Mi",
                         "S",
                         "So"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 8"
                 },
                 {
                     "name": "Bio-Spaghetti bolognese",
@@ -194,7 +209,8 @@
                         "Mi",
                         "R",
                         "S"
-                    ]
+                    ],
+                    "dish_type": "Biogericht 7"
                 }
             ]
         },
@@ -208,7 +224,8 @@
                         "Gl",
                         "GlW",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht 1"
                 },
                 {
                     "name": "Kaiserschmarrn mit Apfelmus",
@@ -219,7 +236,8 @@
                         "Gl",
                         "GlW",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 4"
                 },
                 {
                     "name": "Schollenfilet (MSC) paniert mit Remouladensauce",
@@ -234,7 +252,8 @@
                         "GlW",
                         "Mi",
                         "Sf"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 4"
                 }
             ]
         }

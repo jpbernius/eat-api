@@ -13,7 +13,8 @@
                         "Gl",
                         "GlW",
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht 2"
                 },
                 {
                     "name": "Rindergeschnetzeltes Stroganoff",
@@ -28,7 +29,8 @@
                         "Mi",
                         "R",
                         "Sf"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 7"
                 }
             ]
         },
@@ -46,7 +48,8 @@
                         "GlD",
                         "GlW",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht 4"
                 }
             ]
         },
@@ -60,7 +63,8 @@
                         "Gl",
                         "GlW",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht 3"
                 },
                 {
                     "name": "Halbe Schweinshaxe mit Biersauce",
@@ -72,7 +76,8 @@
                         "Kn",
                         "Mi",
                         "S"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 6"
                 }
             ]
         },
@@ -87,7 +92,8 @@
                         "GlW",
                         "Kn",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht 3"
                 },
                 {
                     "name": "Spenden - Currywurst",
@@ -98,7 +104,8 @@
                         "R",
                         "S",
                         "Sf"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht 3"
                 }
             ]
         },
@@ -114,7 +121,8 @@
                         "Gl",
                         "GlW",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 4"
                 },
                 {
                     "name": "Schollenfilet (MSC) paniert mit Remouladensauce",
@@ -129,7 +137,8 @@
                         "GlW",
                         "Mi",
                         "Sf"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 4"
                 }
             ]
         }

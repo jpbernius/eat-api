@@ -13,7 +13,8 @@
                         "GlW",
                         "Kn",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Pasta"
                 },
                 {
                     "name": "Holzfällersteak vom Schwein",
@@ -27,7 +28,8 @@
                         "Kn",
                         "Mi",
                         "S"
-                    ]
+                    ],
+                    "dish_type": "Grill"
                 },
                 {
                     "name": "Rindfleischstreifen (GQB) Spicy Ginger mit Bambussprossen",
@@ -42,19 +44,22 @@
                         "R",
                         "Sl",
                         "So"
-                    ]
+                    ],
+                    "dish_type": "Wok"
                 },
                 {
                     "name": "Mexikanischer Reistopf mit Bohnen, Paprika und Mais",
                     "price": "N/A",
                     "ingredients": [
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": "Vegan, Eintopf, Suppe"
                 },
                 {
                     "name": "Tagessuppe",
                     "price": "N/A",
-                    "ingredients": []
+                    "ingredients": [],
+                    "dish_type": ""
                 },
                 {
                     "name": "Kartoffelröstis mit Kräutersahnequark",
@@ -62,7 +67,8 @@
                     "ingredients": [
                         "Kn",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Vegetarisch"
                 },
                 {
                     "name": "Klassische Rinderroulade mit Senf-Gemüse-Sauce",
@@ -81,7 +87,8 @@
                         "Sf",
                         "Sl",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "Fleisch"
                 }
             ]
         },
@@ -95,7 +102,8 @@
                         "Gl",
                         "GlW",
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": "Pasta"
                 },
                 {
                     "name": "Pizza Contadina mit Tomate, Spinat und Ricotta",
@@ -107,7 +115,8 @@
                         "Kn",
                         "Mi",
                         "So"
-                    ]
+                    ],
+                    "dish_type": "Pizza"
                 },
                 {
                     "name": "Chop Suey vom Schweinefleisch",
@@ -121,7 +130,8 @@
                         "S",
                         "So",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "Wok"
                 },
                 {
                     "name": "Linseneintopf mit Gemüse",
@@ -131,12 +141,14 @@
                         "5",
                         "Sl",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "Vegan, Eintopf, Suppe"
                 },
                 {
                     "name": "Tagessuppe",
                     "price": "N/A",
-                    "ingredients": []
+                    "ingredients": [],
+                    "dish_type": ""
                 },
                 {
                     "name": "Schwarzwurzel-Knusperecke mit Kräuterdip",
@@ -152,7 +164,8 @@
                         "Sf",
                         "Sl",
                         "So"
-                    ]
+                    ],
+                    "dish_type": "Vegetarisch"
                 },
                 {
                     "name": "Entenkeule mit Glühwein-Orangensauce",
@@ -167,7 +180,8 @@
                         "Mi",
                         "Sl",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "Fleisch"
                 },
                 {
                     "name": "Schollenfilet (MSC) paniert mit Remouladensauce",
@@ -182,7 +196,8 @@
                         "GlW",
                         "Mi",
                         "Sf"
-                    ]
+                    ],
+                    "dish_type": "Fisch"
                 }
             ]
         },
@@ -198,7 +213,8 @@
                         "Kn",
                         "Mi",
                         "S"
-                    ]
+                    ],
+                    "dish_type": "Pasta"
                 },
                 {
                     "name": "Pizza Salami",
@@ -214,7 +230,8 @@
                         "Mi",
                         "S",
                         "So"
-                    ]
+                    ],
+                    "dish_type": "Pizza"
                 },
                 {
                     "name": "Nürnberger Würstchen",
@@ -222,7 +239,8 @@
                     "ingredients": [
                         "R",
                         "S"
-                    ]
+                    ],
+                    "dish_type": "Grill"
                 },
                 {
                     "name": "Green Thai Curry von der Hühnerbrust",
@@ -231,7 +249,8 @@
                         "Gl",
                         "GlW",
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": "Wok"
                 },
                 {
                     "name": "Reis mit asiatischem Gemüse und Koriander",
@@ -242,12 +261,14 @@
                         "Sf",
                         "Sl",
                         "So"
-                    ]
+                    ],
+                    "dish_type": "Vegan, Eintopf, Suppe"
                 },
                 {
                     "name": "Tagessuppe",
                     "price": "N/A",
-                    "ingredients": []
+                    "ingredients": [],
+                    "dish_type": ""
                 },
                 {
                     "name": "Münchner Gulasch vom Rind (GQB)",
@@ -259,7 +280,8 @@
                         "Kn",
                         "Mi",
                         "R"
-                    ]
+                    ],
+                    "dish_type": "Fleisch"
                 },
                 {
                     "name": "Topfen-Birnenstrudel mit Mandel-Vanillesaue",
@@ -272,7 +294,8 @@
                         "Mi",
                         "Sc",
                         "ScM"
-                    ]
+                    ],
+                    "dish_type": "Süßspeise"
                 }
             ]
         },
@@ -287,7 +310,8 @@
                         "GlW",
                         "Kn",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Pasta"
                 },
                 {
                     "name": "Schweinerückensteak mit grünem Pfeffer",
@@ -299,7 +323,8 @@
                         "Kn",
                         "Mi",
                         "S"
-                    ]
+                    ],
+                    "dish_type": "Grill"
                 },
                 {
                     "name": "Couscous mit Pilzen, Tomaten und Mangold",
@@ -308,12 +333,14 @@
                         "Gl",
                         "GlW",
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": "Vegan, Eintopf, Suppe"
                 },
                 {
                     "name": "Tagessuppe",
                     "price": "N/A",
-                    "ingredients": []
+                    "ingredients": [],
+                    "dish_type": ""
                 },
                 {
                     "name": "Südtiroler Schlutzkrapfen auf Schwarzwurzeln mit Grana Padano",
@@ -326,7 +353,8 @@
                         "GlW",
                         "Kn",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Vegetarisch"
                 },
                 {
                     "name": "Tandoori Chicken in Joghurtmarinade und Gurken-Minz-Dip",
@@ -336,7 +364,8 @@
                         "Kn",
                         "Mi",
                         "Sf"
-                    ]
+                    ],
+                    "dish_type": "Fleisch"
                 },
                 {
                     "name": "Hirschgulasch in Preiselbeersauce",
@@ -350,7 +379,8 @@
                         "Mi",
                         "Sl",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "Fleisch"
                 }
             ]
         },
@@ -366,7 +396,8 @@
                         "GlW",
                         "Kn",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Pasta"
                 },
                 {
                     "name": "Kabeljaufilet (MSC) mit einer Gurken-Senfsauce",
@@ -379,7 +410,8 @@
                         "Mi",
                         "Sf",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Grill"
                 },
                 {
                     "name": "Hähnchen Machbous auf würzigem Biriyanireis",
@@ -394,7 +426,8 @@
                         "Sf",
                         "Sl",
                         "So"
-                    ]
+                    ],
+                    "dish_type": "Wok"
                 },
                 {
                     "name": "Graupen-Gemüse-Pfanne",
@@ -404,12 +437,14 @@
                         "GlG",
                         "Kn",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Vegan, Eintopf, Suppe"
                 },
                 {
                     "name": "Tagessuppe",
                     "price": "N/A",
-                    "ingredients": []
+                    "ingredients": [],
+                    "dish_type": ""
                 },
                 {
                     "name": "Krautwickerl mit Speck-Zwiebel-Sauce",
@@ -423,7 +458,8 @@
                         "Kn",
                         "Mi",
                         "S"
-                    ]
+                    ],
+                    "dish_type": "Fleisch"
                 },
                 {
                     "name": "Apfelstrudel mit Vanillesauce",
@@ -432,7 +468,8 @@
                         "Gl",
                         "GlW",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Süßspeise"
                 }
             ]
         }

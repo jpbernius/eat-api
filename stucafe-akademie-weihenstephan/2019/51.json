@@ -14,7 +14,8 @@
                         "GlW",
                         "Kn",
                         "R"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht 3"
                 },
                 {
                     "name": "Spinatspätzlepfanne mit Bergkäse und abgeschmelzten Zwiebeln",
@@ -24,7 +25,8 @@
                         "Gl",
                         "GlW",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 4"
                 }
             ]
         },
@@ -43,7 +45,8 @@
                         "Kn",
                         "Mi",
                         "Sf"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht 4"
                 }
             ]
         },
@@ -58,7 +61,8 @@
                         "GlW",
                         "Kn",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht 4"
                 }
             ]
         },
@@ -74,7 +78,8 @@
                         "Kn",
                         "Sl",
                         "So"
-                    ]
+                    ],
+                    "dish_type": "Biogericht 3"
                 }
             ]
         },
@@ -89,7 +94,8 @@
                         "GlW",
                         "Kn",
                         "So"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht 3"
                 }
             ]
         }

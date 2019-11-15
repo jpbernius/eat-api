@@ -13,7 +13,8 @@
                         "Gl",
                         "GlW",
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Gericht 1"
                 },
                 {
                     "name": "Rindergeschnetzeltes Stroganoff",
@@ -28,7 +29,8 @@
                         "Mi",
                         "R",
                         "Sf"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Gericht 2"
                 }
             ]
         },
@@ -46,7 +48,8 @@
                         "GlD",
                         "GlW",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Gericht 1"
                 },
                 {
                     "name": "Hähnchenknusperfilet mit Mango-Chili-Dip",
@@ -60,7 +63,8 @@
                         "GlW",
                         "Mi",
                         "Sf"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Gericht 2"
                 }
             ]
         },
@@ -82,7 +86,8 @@
                         "Sl",
                         "So",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Gericht 1"
                 },
                 {
                     "name": "Halbe Schweinshaxe mit Biersauce",
@@ -94,7 +99,8 @@
                         "Kn",
                         "Mi",
                         "S"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Gericht 2"
                 }
             ]
         },
@@ -109,7 +115,8 @@
                         "GlW",
                         "Kn",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Gericht 1"
                 },
                 {
                     "name": "Currywurst mit Honig-Ingwer-Ketchup",
@@ -120,7 +127,8 @@
                         "R",
                         "S",
                         "Sf"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Gericht 2"
                 }
             ]
         },
@@ -136,7 +144,8 @@
                         "Gl",
                         "GlW",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Gericht 1"
                 },
                 {
                     "name": "Schollenfilet (MSC) paniert mit Remouladensauce",
@@ -151,7 +160,8 @@
                         "GlW",
                         "Mi",
                         "Sf"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Gericht 2"
                 }
             ]
         }

@@ -14,7 +14,8 @@
                         "GlW",
                         "Mi",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 6"
                 }
             ]
         },
@@ -42,7 +43,8 @@
                         "Sf",
                         "Sl",
                         "So"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht 4"
                 }
             ]
         },
@@ -63,7 +65,8 @@
                         "GlW",
                         "Mi",
                         "Sf"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 4"
                 }
             ]
         }

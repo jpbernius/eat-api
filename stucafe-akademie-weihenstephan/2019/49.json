@@ -17,7 +17,8 @@
                         "Mi",
                         "R",
                         "S"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht 3"
                 },
                 {
                     "name": "Falafel mit Joghurt-Gurken-Minz Dip",
@@ -27,7 +28,8 @@
                         "GlW",
                         "Kn",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht 4"
                 }
             ]
         },
@@ -41,7 +43,8 @@
                         "Gl",
                         "GlW",
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht 3"
                 }
             ]
         },
@@ -51,7 +54,8 @@
                 {
                     "name": "Hähnchenspieß vom Grill mit Paprika und Zwiebel",
                     "price": 2.4,
-                    "ingredients": []
+                    "ingredients": [],
+                    "dish_type": "Aktionsessen 3"
                 },
                 {
                     "name": "Gefüllte Paprikaschote mit Tomatensauce",
@@ -63,7 +67,8 @@
                         "GlW",
                         "Kn",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 4"
                 }
             ]
         },
@@ -84,7 +89,8 @@
                         "R",
                         "Sl",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 6"
                 },
                 {
                     "name": "Tortelloni all'arrabiata",
@@ -93,7 +99,8 @@
                         "Gl",
                         "GlW",
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": "Biogericht 4"
                 }
             ]
         },
@@ -108,7 +115,8 @@
                         "Gl",
                         "GlW",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht 4"
                 },
                 {
                     "name": "Penne mit Austernpilzen und Babyspinat",
@@ -117,7 +125,8 @@
                         "Gl",
                         "GlW",
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 4"
                 }
             ]
         }

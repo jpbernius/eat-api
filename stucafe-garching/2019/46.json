@@ -15,7 +15,8 @@
                         "Kn",
                         "Mi",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 4"
                 }
             ]
         },
@@ -29,7 +30,8 @@
                         "8",
                         "S",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 3"
                 }
             ]
         },
@@ -50,7 +52,8 @@
                         "GlW",
                         "Mi",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 8"
                 }
             ]
         }

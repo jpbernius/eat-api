@@ -12,7 +12,8 @@
                         "Gl",
                         "Mi",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht"
                 },
                 {
                     "name": "Spinat-Hirtenkäse-Strudel auf Schnittlauch- CousCous",
@@ -20,7 +21,8 @@
                     "ingredients": [
                         "Gl",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht"
                 },
                 {
                     "name": "Pasta Front-Cooking (*)Pasta mit Auberginen- Linsenragout",
@@ -29,7 +31,8 @@
                         "Gl",
                         "Mi",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht"
                 }
             ]
         },
@@ -42,7 +45,8 @@
                     "ingredients": [
                         "Gl",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht"
                 },
                 {
                     "name": "(*)Linseneintopf mit Gemüse und Kartoffeln",
@@ -50,7 +54,8 @@
                     "ingredients": [
                         "Ei",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht"
                 },
                 {
                     "name": "Frisch vom Grill Leberkäse mit Spiegelei und Kartoffelsalat",
@@ -58,7 +63,8 @@
                     "ingredients": [
                         "Gl",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht"
                 }
             ]
         },
@@ -71,7 +77,8 @@
                     "ingredients": [
                         "Gl",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht"
                 },
                 {
                     "name": "(*) Herzhafte Champignonragout mit Reis",
@@ -79,7 +86,8 @@
                     "ingredients": [
                         "Gl",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht"
                 },
                 {
                     "name": "Pasta Front-Cooking Pasta mit Wirsing-Rinderhack",
@@ -88,12 +96,14 @@
                         "Gl",
                         "Mi",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht"
                 },
                 {
                     "name": "Rindergeschnetzeltes in Zwiebel-Senfsoße dazu Spätzle und Mischgemüse",
                     "price": 6.2,
-                    "ingredients": []
+                    "ingredients": [],
+                    "dish_type": "Tagesgericht"
                 }
             ]
         },
@@ -105,14 +115,16 @@
                     "price": 1.0,
                     "ingredients": [
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht"
                 },
                 {
                     "name": "(*) Bayrisch Kraut mit Tofu und Karotten",
                     "price": 4.5,
                     "ingredients": [
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht"
                 },
                 {
                     "name": "Frisch vom Grill Currywurst mit Pommes Frites",
@@ -122,7 +134,8 @@
                         "Gl",
                         "Mi",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht"
                 },
                 {
                     "name": "Braumeister Schnitzel vom Schwein mit rohem Schinken und Bavaria Blue gefüllt dazu Wedjeskartoffeln",
@@ -131,7 +144,8 @@
                         "Gl",
                         "Mi",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht"
                 }
             ]
         },
@@ -145,7 +159,8 @@
                         "Ei",
                         "Gl",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht"
                 },
                 {
                     "name": "Kaiserschmarrn mit Apfelmus",
@@ -154,7 +169,8 @@
                         "Gl",
                         "Mi",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht"
                 },
                 {
                     "name": "Pasta Front-Cooking Pasta mit Karotten- Ruccolasoße",
@@ -166,7 +182,8 @@
                         "Mi",
                         "Sc",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht"
                 }
             ]
         }

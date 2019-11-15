@@ -12,7 +12,8 @@
                         "R",
                         "Sf",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Self-Service"
                 },
                 {
                     "name": "Paprikasauce",
@@ -21,7 +22,8 @@
                         "Gl",
                         "GlW",
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": ""
                 },
                 {
                     "name": "Rahmchampignons",
@@ -31,7 +33,8 @@
                         "GlW",
                         "Kn",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": ""
                 },
                 {
                     "name": "Putensteak mit Kräuterbutter",
@@ -39,7 +42,8 @@
                     "ingredients": [
                         "Kn",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": ""
                 },
                 {
                     "name": "Rahmchampignons mit Semmelknödel",
@@ -51,7 +55,8 @@
                         "GlW",
                         "Kn",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": ""
                 },
                 {
                     "name": "Maultaschensuppe",
@@ -63,12 +68,14 @@
                         "Mi",
                         "S",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": ""
                 },
                 {
                     "name": "Erbsen, natur",
                     "price": "N/A",
-                    "ingredients": []
+                    "ingredients": [],
+                    "dish_type": ""
                 },
                 {
                     "name": "Countrykartoffeln",
@@ -76,17 +83,20 @@
                     "ingredients": [
                         "Gl",
                         "GlW"
-                    ]
+                    ],
+                    "dish_type": ""
                 },
                 {
                     "name": "Aktionsdessert",
                     "price": "N/A",
-                    "ingredients": []
+                    "ingredients": [],
+                    "dish_type": "Dessert"
                 },
                 {
                     "name": "Tagesdessert",
                     "price": "N/A",
-                    "ingredients": []
+                    "ingredients": [],
+                    "dish_type": "Tagesdessert"
                 }
             ]
         },
@@ -100,7 +110,8 @@
                         "8",
                         "Mi",
                         "S"
-                    ]
+                    ],
+                    "dish_type": "Self-Service"
                 },
                 {
                     "name": "Gulasch vom Schwein",
@@ -112,7 +123,8 @@
                         "Kn",
                         "Mi",
                         "S"
-                    ]
+                    ],
+                    "dish_type": ""
                 },
                 {
                     "name": "Frühlingsrolle mit süßer Chilisauce",
@@ -125,24 +137,28 @@
                         "Mi",
                         "Sl",
                         "So"
-                    ]
+                    ],
+                    "dish_type": ""
                 },
                 {
                     "name": "Tagessuppe",
                     "price": "N/A",
-                    "ingredients": []
+                    "ingredients": [],
+                    "dish_type": ""
                 },
                 {
                     "name": "Tagesgemüse",
                     "price": "N/A",
-                    "ingredients": []
+                    "ingredients": [],
+                    "dish_type": ""
                 },
                 {
                     "name": "Kartoffelpüree",
                     "price": "N/A",
                     "ingredients": [
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": ""
                 },
                 {
                     "name": "Knöpfle",
@@ -152,17 +168,20 @@
                         "Gl",
                         "GlD",
                         "GlW"
-                    ]
+                    ],
+                    "dish_type": ""
                 },
                 {
                     "name": "Aktionsdessert",
                     "price": "N/A",
-                    "ingredients": []
+                    "ingredients": [],
+                    "dish_type": "Dessert"
                 },
                 {
                     "name": "Tagesdessert",
                     "price": "N/A",
-                    "ingredients": []
+                    "ingredients": [],
+                    "dish_type": "Tagesdessert"
                 }
             ]
         },
@@ -175,7 +194,8 @@
                     "ingredients": [
                         "R",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Self-Service"
                 },
                 {
                     "name": "Hähnchenbrustfilet Art Hawaii mit Currysauce",
@@ -186,7 +206,8 @@
                         "GlW",
                         "Mi",
                         "Sf"
-                    ]
+                    ],
+                    "dish_type": ""
                 },
                 {
                     "name": "Gnocchi mit Gorgonzola-Sauce",
@@ -198,17 +219,20 @@
                         "Kn",
                         "Mi",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": ""
                 },
                 {
                     "name": "Tagessuppe",
                     "price": "N/A",
-                    "ingredients": []
+                    "ingredients": [],
+                    "dish_type": ""
                 },
                 {
                     "name": "Tagesgemüse",
                     "price": "N/A",
-                    "ingredients": []
+                    "ingredients": [],
+                    "dish_type": ""
                 },
                 {
                     "name": "Kartoffelknödel",
@@ -219,22 +243,26 @@
                         "3",
                         "5",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": ""
                 },
                 {
                     "name": "Basmatireis",
                     "price": "N/A",
-                    "ingredients": []
+                    "ingredients": [],
+                    "dish_type": ""
                 },
                 {
                     "name": "Aktionsdessert",
                     "price": "N/A",
-                    "ingredients": []
+                    "ingredients": [],
+                    "dish_type": "Dessert"
                 },
                 {
                     "name": "Tagesdessert",
                     "price": "N/A",
-                    "ingredients": []
+                    "ingredients": [],
+                    "dish_type": "Tagesdessert"
                 }
             ]
         },
@@ -248,7 +276,8 @@
                         "Ei",
                         "Gl",
                         "S"
-                    ]
+                    ],
+                    "dish_type": "Self-Service"
                 },
                 {
                     "name": "Esterhazygulasch vom Rind (GQB)",
@@ -261,7 +290,8 @@
                         "Mi",
                         "R",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": ""
                 },
                 {
                     "name": "Asiatische Nudel-Gemüse-Pfanne",
@@ -274,17 +304,20 @@
                         "Kn",
                         "Se",
                         "So"
-                    ]
+                    ],
+                    "dish_type": ""
                 },
                 {
                     "name": "Tagessuppe",
                     "price": "N/A",
-                    "ingredients": []
+                    "ingredients": [],
+                    "dish_type": ""
                 },
                 {
                     "name": "Tagesgemüse",
                     "price": "N/A",
-                    "ingredients": []
+                    "ingredients": [],
+                    "dish_type": ""
                 },
                 {
                     "name": "Kartoffel-Endivien-Salat",
@@ -294,24 +327,28 @@
                         "5",
                         "Sf",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": ""
                 },
                 {
                     "name": "Kroketten",
                     "price": "N/A",
                     "ingredients": [
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": ""
                 },
                 {
                     "name": "Aktionsdessert",
                     "price": "N/A",
-                    "ingredients": []
+                    "ingredients": [],
+                    "dish_type": "Dessert"
                 },
                 {
                     "name": "Tagesdessert",
                     "price": "N/A",
-                    "ingredients": []
+                    "ingredients": [],
+                    "dish_type": "Tagesdessert"
                 }
             ]
         },
@@ -327,7 +364,8 @@
                         "Gl",
                         "Mi",
                         "Sf"
-                    ]
+                    ],
+                    "dish_type": "Self-Service"
                 },
                 {
                     "name": "Hackbällchen Balkan Art",
@@ -340,7 +378,8 @@
                         "Mi",
                         "R",
                         "S"
-                    ]
+                    ],
+                    "dish_type": ""
                 },
                 {
                     "name": "Pfannkuchen mit Kirschfüllung dazu Vanillesauce",
@@ -350,39 +389,46 @@
                         "Gl",
                         "GlW",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": ""
                 },
                 {
                     "name": "Tagessuppe",
                     "price": "N/A",
-                    "ingredients": []
+                    "ingredients": [],
+                    "dish_type": ""
                 },
                 {
                     "name": "Tagesgemüse",
                     "price": "N/A",
-                    "ingredients": []
+                    "ingredients": [],
+                    "dish_type": ""
                 },
                 {
                     "name": "Petersilienkartoffeln",
                     "price": "N/A",
-                    "ingredients": []
+                    "ingredients": [],
+                    "dish_type": ""
                 },
                 {
                     "name": "Djuvecreis",
                     "price": "N/A",
                     "ingredients": [
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": ""
                 },
                 {
                     "name": "Aktionsdessert",
                     "price": "N/A",
-                    "ingredients": []
+                    "ingredients": [],
+                    "dish_type": "Dessert"
                 },
                 {
                     "name": "Tagesdessert",
                     "price": "N/A",
-                    "ingredients": []
+                    "ingredients": [],
+                    "dish_type": "Tagesdessert"
                 }
             ]
         }

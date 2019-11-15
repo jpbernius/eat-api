@@ -13,7 +13,8 @@
                         "GlW",
                         "Kn",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht 3"
                 },
                 {
                     "name": "Holzfällersteak vom Schwein",
@@ -27,7 +28,8 @@
                         "Kn",
                         "Mi",
                         "S"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 4"
                 }
             ]
         },
@@ -41,7 +43,8 @@
                         "Gl",
                         "GlW",
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht 3"
                 },
                 {
                     "name": "Chop Suey vom Schweinefleisch",
@@ -55,7 +58,8 @@
                         "S",
                         "So",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht 4"
                 }
             ]
         },
@@ -69,14 +73,16 @@
                         "Ei",
                         "Kn",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht 4"
                 },
                 {
                     "name": "Green Thai Curry von der Hühnerbrust",
                     "price": 2.8,
                     "ingredients": [
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 5"
                 }
             ]
         },
@@ -89,7 +95,8 @@
                     "ingredients": [
                         "2",
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 5"
                 },
                 {
                     "name": "Hirschgulasch in Preiselbeersauce",
@@ -103,7 +110,8 @@
                         "Mi",
                         "Sl",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 9"
                 }
             ]
         },
@@ -117,7 +125,8 @@
                         "Gl",
                         "GlW",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht 4"
                 },
                 {
                     "name": "Kabeljaufilet (MSC) mit einer Gurken-Senfsauce",
@@ -130,7 +139,8 @@
                         "Mi",
                         "Sf",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 8"
                 }
             ]
         }

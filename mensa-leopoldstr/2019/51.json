@@ -15,7 +15,8 @@
                         "Kn",
                         "Mi",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Mensa Spezial"
                 },
                 {
                     "name": "Schweinerahmgeschnetzeltes mit Pfifferlingen, Steinpilzen und Knöpfle",
@@ -32,7 +33,8 @@
                         "Mi",
                         "S",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "Mensa Klassiker"
                 },
                 {
                     "name": "Putensteak mit Kräuterbutter und Rosmarinkartoffeln",
@@ -40,7 +42,8 @@
                     "ingredients": [
                         "Kn",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Länder-Mensa"
                 },
                 {
                     "name": "Spinatspätzlepfanne mit Bergkäse und abgeschmelzten Zwiebeln",
@@ -50,7 +53,8 @@
                         "Gl",
                         "GlW",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": ""
                 },
                 {
                     "name": "Blumenkohl-Kartoffel-Curry",
@@ -58,7 +62,8 @@
                     "ingredients": [
                         "Kn",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Self-Service Grüne Mensa"
                 }
             ]
         },
@@ -78,7 +83,8 @@
                         "Kn",
                         "Mi",
                         "S"
-                    ]
+                    ],
+                    "dish_type": "Mensa Spezial"
                 },
                 {
                     "name": "Seelachsfilet (MSC) Florentiner Art mit Blattspinat und Hollandaise überbacken",
@@ -94,7 +100,8 @@
                         "Mi",
                         "Sl",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "Mensa Klassiker"
                 },
                 {
                     "name": "Kartoffel-Pilz-Auflauf mit frischem Lauch und Dip",
@@ -108,7 +115,8 @@
                         "Kn",
                         "Mi",
                         "Sf"
-                    ]
+                    ],
+                    "dish_type": "Länder-Mensa"
                 },
                 {
                     "name": "Schweineschnitzel, natur mit Jägersauce und Kroketten",
@@ -122,7 +130,8 @@
                         "Kn",
                         "Mi",
                         "S"
-                    ]
+                    ],
+                    "dish_type": ""
                 },
                 {
                     "name": "Kräuterpolenta mit Tomatenragout",
@@ -131,7 +140,8 @@
                         "Gl",
                         "GlW",
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": "Self-Service Grüne Mensa"
                 }
             ]
         },
@@ -146,7 +156,8 @@
                         "GlW",
                         "Kn",
                         "So"
-                    ]
+                    ],
+                    "dish_type": "Mensa Spezial"
                 },
                 {
                     "name": "Boeuf à la mode aus dem Rinderbug (GQB) mit Kartoffelknödel",
@@ -165,7 +176,8 @@
                         "R",
                         "Sl",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "Mensa Klassiker"
                 },
                 {
                     "name": "Hähnchenbrustfilet mit warmer Gemüsesalsa (scharf) und Röstkartoffeln",
@@ -174,7 +186,8 @@
                         "2",
                         "4",
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": "Länder-Mensa"
                 },
                 {
                     "name": "Apfelkücherl mit Vanillesauce",
@@ -184,14 +197,16 @@
                         "Gl",
                         "GlW",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": ""
                 },
                 {
                     "name": "Pikantes Kartoffelchili",
                     "price": "0.33€ / 100g",
                     "ingredients": [
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": "Self-Service Grüne Mensa"
                 }
             ]
         },
@@ -207,7 +222,8 @@
                         "Kn",
                         "Sl",
                         "So"
-                    ]
+                    ],
+                    "dish_type": "Länder-Mensa"
                 },
                 {
                     "name": "Pfannengyros vom Schwein mit Tsatsiki und Reis",
@@ -219,14 +235,16 @@
                         "Mi",
                         "S",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": ""
                 },
                 {
                     "name": "Gemüseeintopf Pichelsteiner Art",
                     "price": "0.33€ / 100g",
                     "ingredients": [
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Self-Service Grüne Mensa"
                 }
             ]
         },
@@ -245,7 +263,8 @@
                         "S",
                         "Sf",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Mensa Klassiker"
                 },
                 {
                     "name": "Germknödel gefüllt mit Pflaumenmus dazu Vanillesauce",
@@ -255,7 +274,8 @@
                         "Gl",
                         "GlW",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Länder-Mensa"
                 },
                 {
                     "name": "Zartweizen mit Gemüse",
@@ -264,7 +284,8 @@
                         "Gl",
                         "GlW",
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": "Self-Service Grüne Mensa"
                 }
             ]
         }

@@ -13,7 +13,8 @@
                         "GlW",
                         "Kn",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Self-Service"
                 },
                 {
                     "name": "Wildschweingulasch mit frischen Champignons",
@@ -23,7 +24,8 @@
                         "Gl",
                         "GlW",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Self-Service"
                 }
             ]
         },
@@ -37,7 +39,8 @@
                         "Gl",
                         "GlW",
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Self-Service"
                 },
                 {
                     "name": "Kalbshüftsteak vom Grill mit Pilzrahmsauce",
@@ -49,7 +52,8 @@
                         "GlW",
                         "Mi",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Self-Service"
                 }
             ]
         },
@@ -66,12 +70,14 @@
                         "GlW",
                         "Kn",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Self-Service"
                 },
                 {
                     "name": "Hähnchenspieß vom Grill mit Paprika und Zwiebel",
                     "price": "N/A",
-                    "ingredients": []
+                    "ingredients": [],
+                    "dish_type": "StuBistro Self-Service"
                 }
             ]
         },
@@ -85,7 +91,8 @@
                         "Gl",
                         "GlW",
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Self-Service"
                 },
                 {
                     "name": "Geschmorter Rinderbraten (GQB) mit weihnachtlicher Sauce",
@@ -101,7 +108,8 @@
                         "R",
                         "Sl",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Self-Service"
                 }
             ]
         },
@@ -116,14 +124,16 @@
                         "Gl",
                         "GlW",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Self-Service"
                 },
                 {
                     "name": "Hähnchenkeule mit Mole-Sauce (scharf)",
                     "price": "N/A",
                     "ingredients": [
                         "2"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Self-Service"
                 }
             ]
         }

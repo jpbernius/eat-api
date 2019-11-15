@@ -13,7 +13,8 @@
                         "GlW",
                         "Kn",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Gericht 1"
                 },
                 {
                     "name": "Holzfällersteak vom Schwein",
@@ -27,7 +28,8 @@
                         "Kn",
                         "Mi",
                         "S"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Gericht 1"
                 }
             ]
         },
@@ -41,7 +43,8 @@
                         "Gl",
                         "GlW",
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Gericht 1"
                 },
                 {
                     "name": "Chop Suey vom Schweinefleisch",
@@ -55,7 +58,8 @@
                         "S",
                         "So",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Gericht 1"
                 }
             ]
         },
@@ -69,14 +73,16 @@
                         "Ei",
                         "Kn",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Gericht 1"
                 },
                 {
                     "name": "Green Thai Curry von der Hühnerbrust",
                     "price": "N/A",
                     "ingredients": [
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Gericht 1"
                 }
             ]
         },
@@ -95,7 +101,8 @@
                         "Mi",
                         "Sl",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Gericht 1"
                 },
                 {
                     "name": "Rotes Gemüsecurry",
@@ -103,7 +110,8 @@
                     "ingredients": [
                         "2",
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Gericht 1"
                 }
             ]
         },
@@ -121,7 +129,8 @@
                         "Mi",
                         "Sf",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Gericht 1"
                 },
                 {
                     "name": "Apfelstrudel mit Vanillesauce",
@@ -130,7 +139,8 @@
                         "Gl",
                         "GlW",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Gericht 1"
                 }
             ]
         }

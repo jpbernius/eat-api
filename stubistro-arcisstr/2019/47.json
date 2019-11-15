@@ -15,7 +15,8 @@
                         "Kn",
                         "Mi",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Gericht 1"
                 },
                 {
                     "name": "Gulasch vom Schwein",
@@ -27,7 +28,8 @@
                         "Kn",
                         "Mi",
                         "S"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Gericht 2"
                 }
             ]
         },
@@ -42,7 +44,8 @@
                         "En",
                         "Mi",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Gericht 1"
                 },
                 {
                     "name": "Rinderbraten mit Rotweinsauce",
@@ -57,7 +60,8 @@
                         "R",
                         "Sl",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Gericht 2"
                 }
             ]
         },
@@ -71,7 +75,8 @@
                         "2",
                         "En",
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Gericht 1"
                 },
                 {
                     "name": "Schweinesteak Strindberg (Senf-Zwiebelkruste)",
@@ -83,7 +88,8 @@
                         "Mi",
                         "Sf",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Gericht 2"
                 }
             ]
         },
@@ -98,7 +104,8 @@
                         "GlW",
                         "Kn",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Gericht 1"
                 },
                 {
                     "name": "Hähnchenkeule mexikanische Art",
@@ -108,7 +115,8 @@
                         "Gl",
                         "GlW",
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Gericht 2"
                 }
             ]
         },
@@ -122,7 +130,8 @@
                         "Gl",
                         "GlW",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Gericht 1"
                 },
                 {
                     "name": "Wildlachs (MSC) auf Blattspinat",
@@ -133,7 +142,8 @@
                         "GlW",
                         "Kn",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Gericht 2"
                 }
             ]
         }

@@ -13,7 +13,8 @@
                         "GlW",
                         "Kn",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Pasta"
                 },
                 {
                     "name": "Grillnackensteak vom Schwein mit scharfem Gemüsedip",
@@ -27,19 +28,22 @@
                         "S",
                         "Sl",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "Grill"
                 },
                 {
                     "name": "Mexikanischer Reistopf mit Bohnen, Paprika und Mais",
                     "price": "N/A",
                     "ingredients": [
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": "Vegan, Eintopf, Suppe"
                 },
                 {
                     "name": "Tagessuppe",
                     "price": "N/A",
-                    "ingredients": []
+                    "ingredients": [],
+                    "dish_type": ""
                 },
                 {
                     "name": "Klassische Rinderroulade mit Senf-Gemüse-Sauce",
@@ -58,7 +62,8 @@
                         "Sf",
                         "Sl",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "Fleisch"
                 }
             ]
         },
@@ -77,7 +82,8 @@
                         "S",
                         "So",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "Wok"
                 },
                 {
                     "name": "Linseneintopf mit Gemüse",
@@ -87,12 +93,14 @@
                         "5",
                         "Sl",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "Vegan, Eintopf, Suppe"
                 },
                 {
                     "name": "Tagessuppe",
                     "price": "N/A",
-                    "ingredients": []
+                    "ingredients": [],
+                    "dish_type": ""
                 },
                 {
                     "name": "Schwarzwurzel-Knusperecke mit Kräuterdip",
@@ -108,7 +116,8 @@
                         "Sf",
                         "Sl",
                         "So"
-                    ]
+                    ],
+                    "dish_type": "Vegetarisch"
                 },
                 {
                     "name": "Entenkeule mit Glühwein-Orangensauce",
@@ -123,7 +132,8 @@
                         "Mi",
                         "Sl",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "Fleisch"
                 }
             ]
         },
@@ -136,7 +146,8 @@
                     "ingredients": [
                         "R",
                         "S"
-                    ]
+                    ],
+                    "dish_type": "Grill"
                 },
                 {
                     "name": "Reis mit asiatischem Gemüse und Koriander",
@@ -147,12 +158,14 @@
                         "Sf",
                         "Sl",
                         "So"
-                    ]
+                    ],
+                    "dish_type": "Vegan, Eintopf, Suppe"
                 },
                 {
                     "name": "Tagessuppe",
                     "price": "N/A",
-                    "ingredients": []
+                    "ingredients": [],
+                    "dish_type": ""
                 },
                 {
                     "name": "Münchner Gulasch vom Rind (GQB)",
@@ -164,7 +177,8 @@
                         "Kn",
                         "Mi",
                         "R"
-                    ]
+                    ],
+                    "dish_type": "Fleisch"
                 },
                 {
                     "name": "Kaiserschmarrn mit Apfelmus",
@@ -175,7 +189,8 @@
                         "Gl",
                         "GlW",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Süßspeise"
                 }
             ]
         },
@@ -190,7 +205,8 @@
                         "GlW",
                         "Kn",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Pasta"
                 },
                 {
                     "name": "Schweinerückensteak mit grünem Pfeffer",
@@ -202,7 +218,8 @@
                         "Kn",
                         "Mi",
                         "S"
-                    ]
+                    ],
+                    "dish_type": "Grill"
                 },
                 {
                     "name": "Couscous mit Pilzen, Tomaten und Mangold",
@@ -211,12 +228,14 @@
                         "Gl",
                         "GlW",
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": "Vegan, Eintopf, Suppe"
                 },
                 {
                     "name": "Tagessuppe",
                     "price": "N/A",
-                    "ingredients": []
+                    "ingredients": [],
+                    "dish_type": ""
                 },
                 {
                     "name": "Hirschgulasch in Preiselbeersauce",
@@ -230,7 +249,8 @@
                         "Mi",
                         "Sl",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "Fleisch"
                 }
             ]
         },
@@ -250,7 +270,8 @@
                         "Sf",
                         "Sl",
                         "So"
-                    ]
+                    ],
+                    "dish_type": "Wok"
                 },
                 {
                     "name": "Graupen-Gemüse-Pfanne",
@@ -260,12 +281,14 @@
                         "GlG",
                         "Kn",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Vegan, Eintopf, Suppe"
                 },
                 {
                     "name": "Tagessuppe",
                     "price": "N/A",
-                    "ingredients": []
+                    "ingredients": [],
+                    "dish_type": ""
                 },
                 {
                     "name": "Krautwickerl mit Speck-Zwiebel-Sauce",
@@ -279,7 +302,8 @@
                         "Kn",
                         "Mi",
                         "S"
-                    ]
+                    ],
+                    "dish_type": "Fleisch"
                 },
                 {
                     "name": "Apfelstrudel mit Vanillesauce",
@@ -288,7 +312,8 @@
                         "Gl",
                         "GlW",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Süßspeise"
                 }
             ]
         }

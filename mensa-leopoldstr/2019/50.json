@@ -13,7 +13,8 @@
                         "GlW",
                         "Kn",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Mensa Spezial"
                 },
                 {
                     "name": "Klassische Rinderroulade mit Senf-Gemüse-Sauce und Kartoffelpüree",
@@ -32,7 +33,8 @@
                         "Sf",
                         "Sl",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "Mensa Klassiker"
                 },
                 {
                     "name": "Kartoffelröstis mit Kräutersahnequark",
@@ -40,7 +42,8 @@
                     "ingredients": [
                         "Kn",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Länder-Mensa"
                 },
                 {
                     "name": "Paniertes Truthahnschnitzel mit Salsa und Countrykartoffeln",
@@ -53,14 +56,16 @@
                         "GlW",
                         "Se",
                         "So"
-                    ]
+                    ],
+                    "dish_type": ""
                 },
                 {
                     "name": "Mexikanischer Reistopf mit Bohnen, Paprika und Mais",
                     "price": "0.33€ / 100g",
                     "ingredients": [
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": "Self-Service Grüne Mensa"
                 }
             ]
         },
@@ -74,7 +79,8 @@
                         "Gl",
                         "GlW",
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": "Mensa Spezial"
                 },
                 {
                     "name": "Entenkeule mit Glühwein-Orangensauce",
@@ -89,7 +95,8 @@
                         "Mi",
                         "Sl",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "Mensa Klassiker"
                 },
                 {
                     "name": "Schwarzwurzel-Knusperecke mit Kräuterdip",
@@ -105,7 +112,8 @@
                         "Sf",
                         "Sl",
                         "So"
-                    ]
+                    ],
+                    "dish_type": "Länder-Mensa"
                 },
                 {
                     "name": "Schweinefleisch Szechuan Art mit Gemüse und Sesamöl Chinanudeln",
@@ -120,7 +128,8 @@
                         "Se",
                         "Sl",
                         "So"
-                    ]
+                    ],
+                    "dish_type": ""
                 },
                 {
                     "name": "Linseneintopf mit Gemüse",
@@ -130,7 +139,8 @@
                         "5",
                         "Sl",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "Self-Service Grüne Mensa"
                 }
             ]
         },
@@ -145,14 +155,16 @@
                         "GlW",
                         "Kn",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Mensa Spezial"
                 },
                 {
                     "name": "Green Thai Curry von der Hühnerbrust mit Basmatireis",
                     "price": "N/A",
                     "ingredients": [
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": "Mensa Klassiker"
                 },
                 {
                     "name": "Lasagne Bolognese",
@@ -165,7 +177,8 @@
                         "Kn",
                         "Mi",
                         "R"
-                    ]
+                    ],
+                    "dish_type": "Länder-Mensa"
                 },
                 {
                     "name": "Topfen-Birnen-Strudel mit Vanillesauce",
@@ -176,7 +189,8 @@
                         "Gl",
                         "GlW",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": ""
                 },
                 {
                     "name": "Kartoffel-Sauerkrautgratin mit Kräuterdip",
@@ -185,7 +199,8 @@
                         "Ei",
                         "Kn",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": ""
                 },
                 {
                     "name": "Reis mit asiatischem Gemüse und Koriander",
@@ -196,7 +211,8 @@
                         "Sf",
                         "Sl",
                         "So"
-                    ]
+                    ],
+                    "dish_type": "Self-Service Grüne Mensa"
                 }
             ]
         },
@@ -214,7 +230,8 @@
                         "GlW",
                         "Mi",
                         "S"
-                    ]
+                    ],
+                    "dish_type": "Mensa Spezial"
                 },
                 {
                     "name": "Hirschgulasch in Preiselbeersauce mit Semmelknödel oder Knöpfle",
@@ -231,7 +248,8 @@
                         "Mi",
                         "Sl",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "Mensa Klassiker"
                 },
                 {
                     "name": "Tandoori Chicken in Joghurtmarinade , Gurken-Minz-Dip und Curcumareis",
@@ -240,7 +258,8 @@
                         "Kn",
                         "Mi",
                         "Sf"
-                    ]
+                    ],
+                    "dish_type": "Länder-Mensa"
                 },
                 {
                     "name": "Bio-Penne mit Bio-Tomaten-Frischkäse-Sauce",
@@ -250,7 +269,8 @@
                         "GlW",
                         "Kn",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": ""
                 },
                 {
                     "name": "Rotes Gemüsecurry mit Tofu und Basmatireis",
@@ -259,7 +279,8 @@
                         "2",
                         "Kn",
                         "So"
-                    ]
+                    ],
+                    "dish_type": ""
                 },
                 {
                     "name": "Couscous mit Pilzen, Tomaten und Mangold",
@@ -268,7 +289,8 @@
                         "Gl",
                         "GlW",
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": "Self-Service Grüne Mensa"
                 }
             ]
         },
@@ -284,7 +306,8 @@
                         "GlW",
                         "Kn",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Mensa Spezial"
                 },
                 {
                     "name": "Kabeljaufilet (MSC) mit einer Gurken-Senfsauce und Petersilienkartoffeln",
@@ -297,7 +320,8 @@
                         "Mi",
                         "Sf",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Mensa Klassiker"
                 },
                 {
                     "name": "Krautwickerl mit Speck-Zwiebel-Sauce Kartoffelpüree",
@@ -311,7 +335,8 @@
                         "Kn",
                         "Mi",
                         "S"
-                    ]
+                    ],
+                    "dish_type": "Länder-Mensa"
                 },
                 {
                     "name": "Apfelstrudel mit Vanillesauce",
@@ -320,7 +345,8 @@
                         "Gl",
                         "GlW",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": ""
                 },
                 {
                     "name": "Graupen-Gemüse-Pfanne",
@@ -330,7 +356,8 @@
                         "GlG",
                         "Kn",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Self-Service Grüne Mensa"
                 }
             ]
         }

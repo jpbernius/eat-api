@@ -11,7 +11,8 @@
                     "ingredients": [
                         "Kn",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht 1"
                 },
                 {
                     "name": "Chili con Carne",
@@ -22,7 +23,8 @@
                         "GlW",
                         "Kn",
                         "R"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht 3"
                 },
                 {
                     "name": "Spinatspätzlepfanne mit Bergkäse und abgeschmelzten Zwiebeln",
@@ -32,7 +34,8 @@
                         "Gl",
                         "GlW",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 4"
                 },
                 {
                     "name": "Schweinerahmgeschnetzeltes mit Pfifferlingen und Steinpilzen",
@@ -47,7 +50,8 @@
                         "Mi",
                         "S",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 7"
                 }
             ]
         },
@@ -61,7 +65,8 @@
                         "Gl",
                         "GlW",
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht 1"
                 },
                 {
                     "name": "Schinkennudeln (Vorderschinken) mit Zwiebeln und Ei",
@@ -76,7 +81,8 @@
                         "Kn",
                         "Mi",
                         "S"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht 3"
                 },
                 {
                     "name": "Kartoffel-Pilz-Auflauf mit frischem Lauch und Dip",
@@ -90,7 +96,8 @@
                         "Kn",
                         "Mi",
                         "Sf"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht 4"
                 },
                 {
                     "name": "Zwiebelrostbraten mit Rotweinsauce",
@@ -104,7 +111,8 @@
                         "Mi",
                         "R",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 9"
                 }
             ]
         },
@@ -116,7 +124,8 @@
                     "price": 1.0,
                     "ingredients": [
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht 1"
                 },
                 {
                     "name": "Pasta mit Putenbolognese",
@@ -126,7 +135,8 @@
                         "GlW",
                         "Kn",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht 4"
                 },
                 {
                     "name": "Spinatknödel Tiroler Art mit Bergkäse und knackigem Beilagensalat",
@@ -141,7 +151,8 @@
                         "Sf",
                         "Sl",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 4"
                 },
                 {
                     "name": "Boeuf à la mode aus dem Rinderbug (GQB)",
@@ -158,7 +169,8 @@
                         "R",
                         "Sl",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 7"
                 }
             ]
         },
@@ -170,7 +182,8 @@
                     "price": 1.0,
                     "ingredients": [
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht 1"
                 },
                 {
                     "name": "Dinkelnudelpfanne Griechische Art mit Oliven,Schafskäse und Knoblauch",
@@ -182,7 +195,8 @@
                         "GlD",
                         "Kn",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht 3"
                 },
                 {
                     "name": "Hähnchenbrust Thai-Style mit Gemüse",
@@ -193,7 +207,8 @@
                         "GlW",
                         "Kn",
                         "So"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 5"
                 },
                 {
                     "name": "Pfannengyros vom Schwein mit Tsatsiki",
@@ -205,7 +220,8 @@
                         "Mi",
                         "S",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 6"
                 },
                 {
                     "name": "Bio-Linsen mit Bio-Spätzle",
@@ -216,7 +232,8 @@
                         "Kn",
                         "Sl",
                         "So"
-                    ]
+                    ],
+                    "dish_type": "Biogericht 3"
                 }
             ]
         },
@@ -230,7 +247,8 @@
                         "Gl",
                         "GlW",
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht 1"
                 },
                 {
                     "name": "Germknödel gefüllt mit Pflaumenmus dazu Vanillesauce",
@@ -240,7 +258,8 @@
                         "Gl",
                         "GlW",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht 4"
                 },
                 {
                     "name": "Gedünstetes Seelachsfilet (MSC) mit Gemüse und Weißweinsauce",
@@ -255,7 +274,8 @@
                         "Mi",
                         "Sl",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 5"
                 }
             ]
         }

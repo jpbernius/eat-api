@@ -15,7 +15,8 @@
                         "Kn",
                         "Mi",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht 4"
                 }
             ]
         },
@@ -35,7 +36,8 @@
                         "R",
                         "Sl",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 7"
                 }
             ]
         },
@@ -49,7 +51,8 @@
                         "2",
                         "En",
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 3"
                 }
             ]
         },
@@ -64,7 +67,8 @@
                         "Gl",
                         "GlW",
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht 3"
                 }
             ]
         }

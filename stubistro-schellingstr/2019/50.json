@@ -17,7 +17,8 @@
                         "Kn",
                         "Mi",
                         "S"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Self-Service"
                 },
                 {
                     "name": "Pasta mit Broccoli-Sahne-Sauce",
@@ -27,7 +28,8 @@
                         "GlW",
                         "Kn",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Self-Service"
                 }
             ]
         },
@@ -46,7 +48,8 @@
                         "S",
                         "So",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Self-Service"
                 },
                 {
                     "name": "Pasta Pomodoro mit Tomaten und Basilikum",
@@ -55,7 +58,8 @@
                         "Gl",
                         "GlW",
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Self-Service"
                 }
             ]
         },
@@ -69,14 +73,16 @@
                         "Ei",
                         "Kn",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Self-Service"
                 },
                 {
                     "name": "Green Thai Curry von der Hühnerbrust",
                     "price": "N/A",
                     "ingredients": [
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Self-Service"
                 }
             ]
         },
@@ -95,7 +101,8 @@
                         "Mi",
                         "Sl",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Self-Service"
                 },
                 {
                     "name": "Rotes Gemüsecurry",
@@ -103,7 +110,8 @@
                     "ingredients": [
                         "2",
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Self-Service"
                 }
             ]
         },
@@ -117,7 +125,8 @@
                         "Gl",
                         "GlW",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Self-Service"
                 },
                 {
                     "name": "Kabeljaufilet (MSC) mit einer Gurken-Senfsauce",
@@ -130,7 +139,8 @@
                         "Mi",
                         "Sf",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Self-Service"
                 }
             ]
         }

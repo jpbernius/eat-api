@@ -16,7 +16,8 @@
                         "Kn",
                         "Mi",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Self-Service"
                 },
                 {
                     "name": "Esterhazygulasch vom Rind",
@@ -29,7 +30,8 @@
                         "Mi",
                         "R",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Self-Service"
                 }
             ]
         },
@@ -43,7 +45,8 @@
                         "Gl",
                         "GlW",
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Self-Service"
                 },
                 {
                     "name": "Bratwurstschnecke",
@@ -52,7 +55,8 @@
                         "8",
                         "S",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Self-Service"
                 }
             ]
         },
@@ -67,7 +71,8 @@
                         "GlW",
                         "Kn",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Self-Service"
                 },
                 {
                     "name": "Hähnchenspieß mit fruchtiger Sauce",
@@ -77,7 +82,8 @@
                         "GlW",
                         "Kn",
                         "So"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Self-Service"
                 }
             ]
         },
@@ -91,7 +97,8 @@
                         "1",
                         "2",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Self-Service"
                 },
                 {
                     "name": "Arista al fiorentina - Schweinebraten toskanische Art",
@@ -105,7 +112,8 @@
                         "Kn",
                         "Mi",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Self-Service"
                 }
             ]
         },
@@ -120,7 +128,8 @@
                         "Gl",
                         "GlW",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Self-Service"
                 },
                 {
                     "name": "Kabeljaufilet (MSC) mit Sauce Hollandaise",
@@ -132,7 +141,8 @@
                         "GlW",
                         "Mi",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Self-Service"
                 }
             ]
         }

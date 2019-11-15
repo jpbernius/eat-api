@@ -15,7 +15,8 @@
                         "Kn",
                         "Mi",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Pasta"
                 },
                 {
                     "name": "Pizza mit Gorgonzola",
@@ -26,7 +27,8 @@
                         "GlW",
                         "Mi",
                         "So"
-                    ]
+                    ],
+                    "dish_type": "Pizza"
                 },
                 {
                     "name": "Putensteak mit Kräuterbutter",
@@ -34,7 +36,8 @@
                     "ingredients": [
                         "Kn",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Grill"
                 },
                 {
                     "name": "Blumenkohl-Kartoffel-Curry",
@@ -42,12 +45,14 @@
                     "ingredients": [
                         "Kn",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Vegan, Eintopf, Suppe"
                 },
                 {
                     "name": "Tagessuppe",
                     "price": "N/A",
-                    "ingredients": []
+                    "ingredients": [],
+                    "dish_type": ""
                 },
                 {
                     "name": "Spinatspätzlepfanne mit Bergkäse und abgeschmelzten Zwiebeln",
@@ -57,7 +62,8 @@
                         "Gl",
                         "GlW",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Vegetarisch"
                 },
                 {
                     "name": "Schweinerahmgeschnetzeltes mit Pfifferlingen und Steinpilzen",
@@ -72,7 +78,8 @@
                         "Mi",
                         "S",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "Fleisch"
                 },
                 {
                     "name": "Chili con Carne",
@@ -83,7 +90,8 @@
                         "GlW",
                         "Kn",
                         "R"
-                    ]
+                    ],
+                    "dish_type": "Fleisch"
                 }
             ]
         },
@@ -103,7 +111,8 @@
                         "Kn",
                         "Mi",
                         "S"
-                    ]
+                    ],
+                    "dish_type": "Pasta"
                 },
                 {
                     "name": "Pizza Regina mit (Vorder-)Schinken und Champignons",
@@ -119,7 +128,8 @@
                         "Mi",
                         "S",
                         "So"
-                    ]
+                    ],
+                    "dish_type": "Pizza"
                 },
                 {
                     "name": "Zwiebelrostbraten mit Rotweinsauce",
@@ -133,7 +143,8 @@
                         "Mi",
                         "R",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "Grill"
                 },
                 {
                     "name": "Phad Thai - Thailändisches Nudelgericht",
@@ -146,7 +157,8 @@
                         "GlW",
                         "Kn",
                         "So"
-                    ]
+                    ],
+                    "dish_type": "Wok"
                 },
                 {
                     "name": "Kräuterpolenta mit Tomatenragout",
@@ -155,12 +167,14 @@
                         "Gl",
                         "GlW",
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": "Vegan, Eintopf, Suppe"
                 },
                 {
                     "name": "Tagessuppe",
                     "price": "N/A",
-                    "ingredients": []
+                    "ingredients": [],
+                    "dish_type": ""
                 },
                 {
                     "name": "Kartoffel-Pilz-Auflauf mit frischem Lauch und Dip",
@@ -174,7 +188,8 @@
                         "Kn",
                         "Mi",
                         "Sf"
-                    ]
+                    ],
+                    "dish_type": "Vegetarisch"
                 },
                 {
                     "name": "Seelachsfilet (MSC) Lemon Koriander mit Buttersauce",
@@ -190,7 +205,8 @@
                         "Mi",
                         "Sf",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "Fisch"
                 }
             ]
         },
@@ -205,7 +221,8 @@
                         "GlW",
                         "Kn",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Pasta"
                 },
                 {
                     "name": "Garnelen mit Zitronen-Kokos-Dip",
@@ -219,19 +236,22 @@
                         "Kr",
                         "Mi",
                         "Sf"
-                    ]
+                    ],
+                    "dish_type": "Wok"
                 },
                 {
                     "name": "Pikantes Kartoffelchili",
                     "price": "N/A",
                     "ingredients": [
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": "Vegan, Eintopf, Suppe"
                 },
                 {
                     "name": "Tagessuppe",
                     "price": "N/A",
-                    "ingredients": []
+                    "ingredients": [],
+                    "dish_type": ""
                 },
                 {
                     "name": "Boeuf à la mode aus dem Rinderbug (GQB)",
@@ -248,7 +268,8 @@
                         "R",
                         "Sl",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "Fleisch"
                 },
                 {
                     "name": "Hähnchenknusperfilet mit Mango-Chili-Dip",
@@ -262,7 +283,8 @@
                         "GlW",
                         "Mi",
                         "Sf"
-                    ]
+                    ],
+                    "dish_type": "Fleisch"
                 },
                 {
                     "name": "Apfelkücherl mit Vanillesauce",
@@ -272,7 +294,8 @@
                         "Gl",
                         "GlW",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Süßspeise"
                 }
             ]
         },
@@ -289,7 +312,8 @@
                         "GlD",
                         "Kn",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Pasta"
                 },
                 {
                     "name": "Schweinefilet mit Chimichuri",
@@ -302,19 +326,22 @@
                         "S",
                         "Se",
                         "So"
-                    ]
+                    ],
+                    "dish_type": "Grill"
                 },
                 {
                     "name": "Gemüseeintopf Pichelsteiner Art",
                     "price": "N/A",
                     "ingredients": [
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Vegan, Eintopf, Suppe"
                 },
                 {
                     "name": "Tagessuppe",
                     "price": "N/A",
-                    "ingredients": []
+                    "ingredients": [],
+                    "dish_type": ""
                 },
                 {
                     "name": "Bio-Linsen mit Bio-Spätzle",
@@ -325,7 +352,8 @@
                         "Kn",
                         "Sl",
                         "So"
-                    ]
+                    ],
+                    "dish_type": "Vegetarisch"
                 },
                 {
                     "name": "Pfannengyros vom Schwein mit Tsatsiki",
@@ -337,7 +365,8 @@
                         "Mi",
                         "S",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "Fleisch"
                 },
                 {
                     "name": "Panierter Seelachs (MSC) mit Kartoffel-Gurken-Salat",
@@ -352,7 +381,8 @@
                         "GlW",
                         "Mi",
                         "Sf"
-                    ]
+                    ],
+                    "dish_type": "Fisch"
                 }
             ]
         },
@@ -367,7 +397,8 @@
                         "GlW",
                         "Kn",
                         "So"
-                    ]
+                    ],
+                    "dish_type": "Pasta"
                 },
                 {
                     "name": "Nasi Goreng (mit Hähnchenfleisch)",
@@ -379,7 +410,8 @@
                         "Kn",
                         "Sf",
                         "So"
-                    ]
+                    ],
+                    "dish_type": "Wok"
                 },
                 {
                     "name": "Zartweizen mit Gemüse",
@@ -388,12 +420,14 @@
                         "Gl",
                         "GlW",
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": "Vegan, Eintopf, Suppe"
                 },
                 {
                     "name": "Tagessuppe",
                     "price": "N/A",
-                    "ingredients": []
+                    "ingredients": [],
+                    "dish_type": ""
                 },
                 {
                     "name": "Schweineschnitzel Wiener Art",
@@ -407,7 +441,8 @@
                         "S",
                         "Sf",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Fleisch"
                 },
                 {
                     "name": "Germknödel gefüllt mit Pflaumenmus dazu Vanillesauce",
@@ -417,7 +452,8 @@
                         "Gl",
                         "GlW",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Süßspeise"
                 }
             ]
         }

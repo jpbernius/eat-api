@@ -13,7 +13,8 @@
                         "GlW",
                         "Kn",
                         "Sf"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht 1"
                 },
                 {
                     "name": "Penne all'arrabiata",
@@ -23,7 +24,8 @@
                         "Gl",
                         "GlW",
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht 2"
                 },
                 {
                     "name": "Schweinehalssteak mit Kräuterbutter",
@@ -32,7 +34,8 @@
                         "Kn",
                         "Mi",
                         "S"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 4"
                 },
                 {
                     "name": "Rindergeschnetzeltes (GQB) Stroganoff",
@@ -47,7 +50,8 @@
                         "Mi",
                         "R",
                         "Sf"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 7"
                 }
             ]
         },
@@ -62,7 +66,8 @@
                         "Gl",
                         "GlW",
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht 1"
                 },
                 {
                     "name": "Allgäuer Käsespätzle mit Röstzwiebeln",
@@ -75,7 +80,8 @@
                         "GlD",
                         "GlW",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht 4"
                 },
                 {
                     "name": "Hähnchenknusperfilet mit Mango-Chili-Dip",
@@ -89,7 +95,8 @@
                         "GlW",
                         "Mi",
                         "Sf"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 3"
                 },
                 {
                     "name": "Rumpsteak mit Schmorzwiebeln",
@@ -98,7 +105,8 @@
                         "Kn",
                         "Mi",
                         "R"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 9"
                 }
             ]
         },
@@ -108,7 +116,8 @@
                 {
                     "name": "Kürbistopf mit Paprika und Bohnen",
                     "price": 1.0,
-                    "ingredients": []
+                    "ingredients": [],
+                    "dish_type": "Tagesgericht 1"
                 },
                 {
                     "name": "Frühlingsrolle mit süßsaurer Sauce",
@@ -125,7 +134,8 @@
                         "Sl",
                         "So",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht 3"
                 },
                 {
                     "name": "Gebratenes Truthahnsteak",
@@ -137,7 +147,8 @@
                         "Kn",
                         "Mi",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 4"
                 },
                 {
                     "name": "Halbe Schweinshaxe mit Biersauce",
@@ -150,7 +161,8 @@
                         "Kn",
                         "Mi",
                         "S"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 6"
                 }
             ]
         },
@@ -163,7 +175,8 @@
                     "ingredients": [
                         "Kn",
                         "Sf"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht 1"
                 },
                 {
                     "name": "Spenden - Currywurst",
@@ -174,7 +187,8 @@
                         "R",
                         "S",
                         "Sf"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht 3"
                 },
                 {
                     "name": "Frische Rahmschwammerl",
@@ -184,7 +198,8 @@
                         "GlW",
                         "Kn",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 2"
                 },
                 {
                     "name": "Überbackenes Putenschnitzel Toskana",
@@ -195,7 +210,8 @@
                         "GlW",
                         "Kn",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 5"
                 },
                 {
                     "name": "Bio-Spaghetti bolognese",
@@ -207,7 +223,8 @@
                         "Mi",
                         "R",
                         "S"
-                    ]
+                    ],
+                    "dish_type": "Biogericht 7"
                 }
             ]
         },
@@ -221,7 +238,8 @@
                         "Gl",
                         "GlW",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht 1"
                 },
                 {
                     "name": "Schollenfilet (MSC) paniert mit Remouladensauce",
@@ -236,7 +254,8 @@
                         "GlW",
                         "Mi",
                         "Sf"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 4"
                 },
                 {
                     "name": "Kaiserschmarrn mit Apfelmus",
@@ -247,7 +266,8 @@
                         "Gl",
                         "GlW",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 4"
                 },
                 {
                     "name": "Schweinerückensteak mit Pfifferlingen und Steinpilzen in Rahm",
@@ -257,7 +277,8 @@
                         "GlW",
                         "Mi",
                         "S"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 5"
                 }
             ]
         }

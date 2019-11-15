@@ -12,7 +12,8 @@
                         "Gl",
                         "GlW",
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": "Mensa Spezial"
                 },
                 {
                     "name": "Wildschweingulasch mit frischen Champignons, Semmelknödel und Knöpfle",
@@ -26,7 +27,8 @@
                         "GlW",
                         "Mi",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "Mensa Klassiker"
                 },
                 {
                     "name": "Rotes Curry vom Rind (GQB) mit Wokgemüse und Basmatireis",
@@ -38,7 +40,8 @@
                         "R",
                         "Sl",
                         "So"
-                    ]
+                    ],
+                    "dish_type": "Länder-Mensa"
                 },
                 {
                     "name": "Falafel mit Joghurt-Minz-Dip und Bulgur",
@@ -48,14 +51,16 @@
                         "GlW",
                         "Kn",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": ""
                 },
                 {
                     "name": "Kartoffelgulasch mit Paprika",
                     "price": "0.33€ / 100g",
                     "ingredients": [
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": "Self-Service Grüne Mensa"
                 }
             ]
         },
@@ -69,7 +74,8 @@
                         "Gl",
                         "GlW",
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": "Mensa Spezial"
                 },
                 {
                     "name": "Seelachsfilet (MSC) nach Müllerin Art mit Petersilienkartoffeln",
@@ -81,7 +87,8 @@
                         "GlW",
                         "Mi",
                         "Sf"
-                    ]
+                    ],
+                    "dish_type": "Mensa Klassiker"
                 },
                 {
                     "name": "Piccata von der Pute mit Salbei, Tomatensauce und Nudeln",
@@ -92,7 +99,8 @@
                         "GlW",
                         "Kn",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Länder-Mensa"
                 },
                 {
                     "name": "Moussaka mit Gemüse und Schafskäse",
@@ -106,14 +114,16 @@
                         "Kn",
                         "Mi",
                         "Sf"
-                    ]
+                    ],
+                    "dish_type": ""
                 },
                 {
                     "name": "Grüner Erbseneintopf",
                     "price": "0.33€ / 100g",
                     "ingredients": [
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Self-Service Grüne Mensa"
                 }
             ]
         },
@@ -126,7 +136,8 @@
                     "ingredients": [
                         "Gl",
                         "GlW"
-                    ]
+                    ],
+                    "dish_type": "Mensa Spezial"
                 },
                 {
                     "name": "Schweineschnitzel in Kümmel-Speck-Panade mit Biersauce und Röstkartoffeln",
@@ -141,7 +152,8 @@
                         "GlW",
                         "Kn",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Mensa Klassiker"
                 },
                 {
                     "name": "Gefüllte Paprikaschote mit Tomatensauce und Reis",
@@ -153,7 +165,8 @@
                         "GlW",
                         "Kn",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Länder-Mensa"
                 },
                 {
                     "name": "Reiberdatschi mit Apfelmus",
@@ -161,12 +174,14 @@
                     "ingredients": [
                         "3",
                         "Ei"
-                    ]
+                    ],
+                    "dish_type": ""
                 },
                 {
                     "name": "Hähnchenspieß vom Grill mit Paprika, Zwiebel und Curcumareis",
                     "price": "N/A",
-                    "ingredients": []
+                    "ingredients": [],
+                    "dish_type": ""
                 },
                 {
                     "name": "Buntes Gemüse in scharfer Kokosmilch",
@@ -175,7 +190,8 @@
                         "2",
                         "Kn",
                         "Sf"
-                    ]
+                    ],
+                    "dish_type": "Self-Service Grüne Mensa"
                 }
             ]
         },
@@ -189,7 +205,8 @@
                         "Gl",
                         "GlW",
                         "So"
-                    ]
+                    ],
+                    "dish_type": "Mensa Spezial"
                 },
                 {
                     "name": "Geschmorter Rinderbraten (GQB) mit weihnachtlicher Sauce und Kartoffelknödel",
@@ -208,7 +225,8 @@
                         "R",
                         "Sl",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "Mensa Klassiker"
                 },
                 {
                     "name": "Bio-Tortelloni all'arrabiata",
@@ -217,7 +235,8 @@
                         "Gl",
                         "GlW",
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": "Länder-Mensa"
                 },
                 {
                     "name": "Hausgemachte Gemüsequiche mit Schnittlauchdip",
@@ -229,7 +248,8 @@
                         "Gl",
                         "GlW",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": ""
                 },
                 {
                     "name": "Fränkische Bratwurst mit Sauerkraut und Kartoffelpüree",
@@ -239,7 +259,8 @@
                         "Mi",
                         "R",
                         "S"
-                    ]
+                    ],
+                    "dish_type": ""
                 },
                 {
                     "name": "Bulgur mit Zucchini und Tomaten",
@@ -248,7 +269,8 @@
                         "Gl",
                         "GlW",
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": "Self-Service Grüne Mensa"
                 }
             ]
         },
@@ -262,7 +284,8 @@
                         "Gl",
                         "GlW",
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": "Mensa Spezial"
                 },
                 {
                     "name": "Forellenfilet in Zitronenbutter (praktisch grätenfrei) mit Dillkartoffeln",
@@ -274,7 +297,8 @@
                         "GlW",
                         "Mi",
                         "Sf"
-                    ]
+                    ],
+                    "dish_type": "Mensa Klassiker"
                 },
                 {
                     "name": "Pfannkuchen mit Heidelbeerfüllung und Vanillesauce",
@@ -284,14 +308,16 @@
                         "Gl",
                         "GlW",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Länder-Mensa"
                 },
                 {
                     "name": "Hähnchenkeule mit Mole-Sauce (scharf) und Couscous",
                     "price": "N/A",
                     "ingredients": [
                         "2"
-                    ]
+                    ],
+                    "dish_type": ""
                 },
                 {
                     "name": "Karibische Reispfanne mit Kokos, Erdnüssen, Ananas und Paprika",
@@ -300,7 +326,8 @@
                         "2",
                         "En",
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": "Self-Service Grüne Mensa"
                 }
             ]
         }

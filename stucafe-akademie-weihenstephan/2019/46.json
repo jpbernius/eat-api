@@ -16,7 +16,8 @@
                         "Kn",
                         "Mi",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 4"
                 },
                 {
                     "name": "Esterhazygulasch vom Rind",
@@ -29,7 +30,8 @@
                         "Mi",
                         "R",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 5"
                 }
             ]
         },
@@ -42,7 +44,8 @@
                     "ingredients": [
                         "Kn",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 4"
                 }
             ]
         },
@@ -57,7 +60,8 @@
                         "GlW",
                         "Kn",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht 3"
                 },
                 {
                     "name": "Münchner Schnitzel (Senf-Meerrettichkruste)",
@@ -72,7 +76,8 @@
                         "S",
                         "Sf",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht 4"
                 }
             ]
         },
@@ -86,7 +91,8 @@
                         "Gl",
                         "GlW",
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 2"
                 },
                 {
                     "name": "Arista al fiorentina - Schweinebraten toskanische Art",
@@ -100,7 +106,8 @@
                         "Kn",
                         "Mi",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 5"
                 }
             ]
         },
@@ -115,7 +122,8 @@
                         "Gl",
                         "GlW",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht 4"
                 },
                 {
                     "name": "Kabeljaufilet (MSC) mit Sauce Hollandaise",
@@ -127,7 +135,8 @@
                         "GlW",
                         "Mi",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 8"
                 }
             ]
         }

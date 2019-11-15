@@ -11,7 +11,8 @@
                     "ingredients": [
                         "Gl",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Suppe"
                 },
                 {
                     "name": "Paniertes Schollenfilet",
@@ -20,7 +21,8 @@
                         "Ei",
                         "Fi",
                         "Gl"
-                    ]
+                    ],
+                    "dish_type": "Hauptkomponente"
                 },
                 {
                     "name": "Apfelstrudel mit Vanille-Zimt-Soße",
@@ -31,7 +33,8 @@
                         "Ei",
                         "Gl",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Hauptkomponente"
                 },
                 {
                     "name": "Bulgur-Gemüse-Pfanne mit Zitronengras und Orangen-Minz-Joghurt",
@@ -40,7 +43,8 @@
                         "Gl",
                         "Mi",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Extraessen"
                 }
             ]
         },
@@ -54,7 +58,8 @@
                         "Gl",
                         "Mi",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Suppe"
                 },
                 {
                     "name": "Gebratener Kasselerhals",
@@ -65,7 +70,8 @@
                         "8",
                         "Gl",
                         "S"
-                    ]
+                    ],
+                    "dish_type": "Hauptkomponente"
                 },
                 {
                     "name": "Indisches Kürbisragout mit Kichererbsen",
@@ -73,7 +79,8 @@
                     "ingredients": [
                         "Gl",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Hauptkomponente"
                 },
                 {
                     "name": "Currywurst mit Kartoffelwedges und Mayonnaise",
@@ -89,7 +96,8 @@
                         "R",
                         "S",
                         "Sf"
-                    ]
+                    ],
+                    "dish_type": "Extraessen"
                 }
             ]
         },
@@ -99,21 +107,24 @@
                 {
                     "name": "Französische Zwiebelsuppe",
                     "price": "N/A",
-                    "ingredients": []
+                    "ingredients": [],
+                    "dish_type": "Suppe"
                 },
                 {
                     "name": "Pikante Hähnchenkeule",
                     "price": "N/A",
                     "ingredients": [
                         "G"
-                    ]
+                    ],
+                    "dish_type": "Hauptkomponente"
                 },
                 {
                     "name": "Gegrillter Halloumikäse",
                     "price": "N/A",
                     "ingredients": [
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Hauptkomponente"
                 },
                 {
                     "name": "Strozzapreti mit Tomatensoße B,",
@@ -121,7 +132,8 @@
                     "ingredients": [
                         "Ei",
                         "Gl"
-                    ]
+                    ],
+                    "dish_type": "Extraessen"
                 },
                 {
                     "name": "Grana Pandano und gemischter Salat",
@@ -133,7 +145,8 @@
                         "Mi",
                         "Sf",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "Extraessen"
                 }
             ]
         },
@@ -146,7 +159,8 @@
                     "ingredients": [
                         "Gl",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Suppe"
                 },
                 {
                     "name": "Rinderhacksteak",
@@ -158,12 +172,14 @@
                         "R",
                         "Sf",
                         "So"
-                    ]
+                    ],
+                    "dish_type": "Hauptkomponente"
                 },
                 {
                     "name": "Quinoa-Pilzpfanne",
                     "price": "N/A",
-                    "ingredients": []
+                    "ingredients": [],
+                    "dish_type": "Hauptkomponente"
                 },
                 {
                     "name": "Hühnerbrust mit Majoranjus B, dazu Pariser Karotten und Gnocchi",
@@ -172,7 +188,8 @@
                         "Ei",
                         "G",
                         "Gl"
-                    ]
+                    ],
+                    "dish_type": "Extraessen"
                 }
             ]
         },
@@ -185,7 +202,8 @@
                     "ingredients": [
                         "Gl",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Suppe"
                 },
                 {
                     "name": "Bayerische Mini Haxe",
@@ -195,12 +213,14 @@
                         "Gl",
                         "S",
                         "So"
-                    ]
+                    ],
+                    "dish_type": "Hauptkomponente"
                 },
                 {
                     "name": "Spanisches Bohnenragout mit geräuchertem",
                     "price": "N/A",
-                    "ingredients": []
+                    "ingredients": [],
+                    "dish_type": "Hauptkomponente"
                 },
                 {
                     "name": "Tofu",
@@ -210,15 +230,8 @@
                         "9",
                         "Gl",
                         "So"
-                    ]
-                },
-                {
-                    "name": "ünstetes Seelachsfischfilet mit Estragonsoße B,N, buntem Herbstgemüse und Kartoffeln",
-                    "price": 3.7,
-                    "ingredients": [
-                        "9",
-                        "Fi"
-                    ]
+                    ],
+                    "dish_type": "Hauptkomponente"
                 }
             ]
         },
@@ -234,7 +247,8 @@
                         "R",
                         "S",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Suppe"
                 },
                 {
                     "name": "Kartoffelsuppe mit Putenwiener und einer Semmel",
@@ -248,7 +262,8 @@
                         "Gl",
                         "Sf",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Hauptkomponente"
                 },
                 {
                     "name": "Vegetarische Maultaschen mit Zwiebelschmelze",
@@ -258,7 +273,8 @@
                         "Gl",
                         "Mi",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Hauptkomponente"
                 }
             ]
         },
@@ -273,7 +289,8 @@
                         "2",
                         "Gl",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Suppe"
                 },
                 {
                     "name": "Lammbraten in Rosmarinsoße",
@@ -281,12 +298,14 @@
                     "ingredients": [
                         "Gl",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Hauptkomponente"
                 },
                 {
                     "name": "eispfanne mit Paprika, Karotten, Zwiebel und Zucchini",
                     "price": "N/A",
-                    "ingredients": []
+                    "ingredients": [],
+                    "dish_type": "Hauptkomponente"
                 }
             ]
         }

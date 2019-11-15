@@ -14,7 +14,8 @@
                         "Kn",
                         "Mi",
                         "So"
-                    ]
+                    ],
+                    "dish_type": "Mensa Spezial"
                 },
                 {
                     "name": "Alm Cordon bleu gefüllt mit Bergkäse und rohem Schinken",
@@ -28,7 +29,8 @@
                         "Kn",
                         "Mi",
                         "S"
-                    ]
+                    ],
+                    "dish_type": "Mensa Klassiker"
                 },
                 {
                     "name": "Esterhazygulasch vom Rind (GQB)",
@@ -41,7 +43,8 @@
                         "Mi",
                         "R",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Länder-Mensa"
                 },
                 {
                     "name": "Cannelloni mit Ricotta-Spinat-Füllung und Tomatensauce",
@@ -53,7 +56,8 @@
                         "Kn",
                         "Mi",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": ""
                 },
                 {
                     "name": "Bulgur mit Karotten, Fenchel und Sellerie",
@@ -63,7 +67,8 @@
                         "GlW",
                         "Kn",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Self-Service Grüne Mensa"
                 }
             ]
         },
@@ -77,7 +82,8 @@
                         "Gl",
                         "GlW",
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": "Mensa Spezial"
                 },
                 {
                     "name": "Seelachsfilet (MSC) Lemon Koriander mit Buttersauce",
@@ -93,7 +99,8 @@
                         "Mi",
                         "Sf",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "Mensa Klassiker"
                 },
                 {
                     "name": "Sweet & Sour mit Hähnchenbrust",
@@ -108,7 +115,8 @@
                         "Sl",
                         "So",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "Länder-Mensa"
                 },
                 {
                     "name": "Kartoffeltaschen mit Kräuterfrischkäse",
@@ -118,7 +126,8 @@
                         "GlW",
                         "Kn",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": ""
                 },
                 {
                     "name": "Grüne Bohnen mit Basmatireis in Kokos-Zitronensauce",
@@ -128,7 +137,8 @@
                         "GlW",
                         "Kn",
                         "Sf"
-                    ]
+                    ],
+                    "dish_type": "Self-Service Grüne Mensa"
                 }
             ]
         },
@@ -143,7 +153,8 @@
                         "GlW",
                         "Kn",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Mensa Spezial"
                 },
                 {
                     "name": "Münchner Schnitzel (Senf-Meerrettichkruste)",
@@ -158,7 +169,8 @@
                         "S",
                         "Sf",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "Mensa Klassiker"
                 },
                 {
                     "name": "Hähnchenspieß mit fruchtiger Sauce",
@@ -168,7 +180,8 @@
                         "GlW",
                         "Kn",
                         "So"
-                    ]
+                    ],
+                    "dish_type": "Länder-Mensa"
                 },
                 {
                     "name": "Geröstete Maultaschen mit Lauchzwiebeln und Ei",
@@ -179,7 +192,8 @@
                         "GlW",
                         "Mi",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": ""
                 },
                 {
                     "name": "Mexikanisches Chili",
@@ -187,7 +201,8 @@
                     "ingredients": [
                         "Kn",
                         "So"
-                    ]
+                    ],
+                    "dish_type": "Self-Service Grüne Mensa"
                 }
             ]
         },
@@ -201,7 +216,8 @@
                         "Gl",
                         "GlW",
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": "Mensa Spezial"
                 },
                 {
                     "name": "Arista al fiorentina - Schweinebraten toskanische Art",
@@ -215,7 +231,8 @@
                         "Kn",
                         "Mi",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "Mensa Klassiker"
                 },
                 {
                     "name": "Rendang - Indonesisches Rindergulasch (GQB)",
@@ -223,7 +240,8 @@
                     "ingredients": [
                         "2",
                         "R"
-                    ]
+                    ],
+                    "dish_type": "Länder-Mensa"
                 },
                 {
                     "name": "Senner Rösti mit Tomate und Käse überbacken",
@@ -232,12 +250,14 @@
                         "1",
                         "2",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": ""
                 },
                 {
                     "name": "Kürbis-Reistopf mit Tomaten",
                     "price": "0.33€ / 100g",
-                    "ingredients": []
+                    "ingredients": [],
+                    "dish_type": "Self-Service Grüne Mensa"
                 }
             ]
         },
@@ -254,7 +274,8 @@
                         "R",
                         "S",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Mensa Spezial"
                 },
                 {
                     "name": "Kabeljaufilet (MSC) mit Sauce Hollandaise und Dillkartoffeln",
@@ -266,7 +287,8 @@
                         "GlW",
                         "Mi",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Mensa Klassiker"
                 },
                 {
                     "name": "Massaman Curry (mit Hähnchen) und Basmatireis",
@@ -278,7 +300,8 @@
                         "Kn",
                         "Sf",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Länder-Mensa"
                 },
                 {
                     "name": "Schupfnudeln mit Sauerkraut und Kümmel",
@@ -289,7 +312,8 @@
                         "GlW",
                         "Mi",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": ""
                 },
                 {
                     "name": "Kleine Dampfnudel mit Vanillesauce",
@@ -299,14 +323,16 @@
                         "Gl",
                         "GlW",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": ""
                 },
                 {
                     "name": "Kartoffeleintopf mit Majoran",
                     "price": "0.33€ / 100g",
                     "ingredients": [
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Self-Service Grüne Mensa"
                 }
             ]
         }

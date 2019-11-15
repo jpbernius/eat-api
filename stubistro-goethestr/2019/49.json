@@ -13,7 +13,8 @@
                         "Gl",
                         "GlW",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 8"
                 }
             ]
         },
@@ -27,7 +28,8 @@
                         "Gl",
                         "GlW",
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht 3"
                 }
             ]
         },
@@ -37,7 +39,8 @@
                 {
                     "name": "Hähnchenspieß vom Grill mit Paprika und Zwiebel",
                     "price": 2.4,
-                    "ingredients": []
+                    "ingredients": [],
+                    "dish_type": "Aktionsessen 3"
                 }
             ]
         },
@@ -58,7 +61,8 @@
                         "R",
                         "Sl",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "Aktionsessen 6"
                 }
             ]
         }

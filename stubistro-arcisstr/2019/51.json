@@ -13,7 +13,8 @@
                         "Gl",
                         "GlW",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Gericht 1"
                 },
                 {
                     "name": "Schweinerahmgeschnetzeltes mit Pfifferlingen und Steinpilzen",
@@ -28,7 +29,8 @@
                         "Mi",
                         "S",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Gericht 1"
                 }
             ]
         },
@@ -48,7 +50,8 @@
                         "Kn",
                         "Mi",
                         "S"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Gericht 1"
                 },
                 {
                     "name": "Kartoffel-Pilz-Auflauf mit frischem Lauch und Dip",
@@ -62,7 +65,8 @@
                         "Kn",
                         "Mi",
                         "Sf"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Gericht 1"
                 }
             ]
         },
@@ -78,7 +82,8 @@
                         "GlW",
                         "Mi",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Gericht 1"
                 },
                 {
                     "name": "Boeuf à la mode aus dem Rinderbug (GQB)",
@@ -95,7 +100,8 @@
                         "R",
                         "Sl",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Gericht 1"
                 }
             ]
         },
@@ -112,7 +118,8 @@
                         "GlD",
                         "Kn",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Gericht 1"
                 },
                 {
                     "name": "Pfannengyros vom Schwein mit Tsatsiki",
@@ -124,7 +131,8 @@
                         "Mi",
                         "S",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Gericht 1"
                 }
             ]
         },
@@ -139,7 +147,8 @@
                         "Gl",
                         "GlW",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Gericht 1"
                 },
                 {
                     "name": "Seelachsfilet (MSC) mit Gemüse und Weißweinsauce",
@@ -154,7 +163,8 @@
                         "Mi",
                         "Sl",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Gericht 1"
                 }
             ]
         }

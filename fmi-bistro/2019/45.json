@@ -11,7 +11,8 @@
                     "ingredients": [
                         "Gl",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht"
                 },
                 {
                     "name": "(*) Paprikaschote Bollywood auf Gelben Reis",
@@ -21,7 +22,8 @@
                         "Gl",
                         "Mi",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht"
                 },
                 {
                     "name": "Pasta Front-Cooking Käsespätzle mit Röstzwiebeln",
@@ -30,7 +32,8 @@
                         "Gl",
                         "Mi",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht"
                 }
             ]
         },
@@ -45,7 +48,8 @@
                         "Sc",
                         "Sl",
                         "So"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht"
                 },
                 {
                     "name": "(*) Pasta mit Mandel- Wirsing- Sojasahne",
@@ -53,7 +57,8 @@
                     "ingredients": [
                         "Ei",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht"
                 },
                 {
                     "name": "Frisch vom Grill Leberkäse mit Spiegelei und Kartoffelsalat",
@@ -61,7 +66,8 @@
                     "ingredients": [
                         "Gl",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht"
                 }
             ]
         },
@@ -75,7 +81,8 @@
                         "Gl",
                         "Sl",
                         "So"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht"
                 },
                 {
                     "name": "(*) Butternut Kürbis gebraten auf Mais-CousCous und Soja- Minze-Joghurt",
@@ -83,7 +90,8 @@
                     "ingredients": [
                         "Gl",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht"
                 },
                 {
                     "name": "Pasta Front-Cooking Schinkennudeln ( Pute) mit Tomatensugo",
@@ -93,14 +101,16 @@
                         "Gl",
                         "Mi",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht"
                 },
                 {
                     "name": "Puten- Orangenbraten mit Petersilienspätzle und Karotten",
                     "price": 6.2,
                     "ingredients": [
                         "Gl"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht"
                 }
             ]
         },
@@ -113,14 +123,16 @@
                     "ingredients": [
                         "Gl",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht"
                 },
                 {
                     "name": "(*) Wraps gefüllt mit Spinat Avocado und Linsenreis dazu Salateck",
                     "price": 4.5,
                     "ingredients": [
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht"
                 },
                 {
                     "name": "Frisch vom Grill Currywurst mit Pommes Frites",
@@ -134,7 +146,8 @@
                         "Sl",
                         "So",
                         "Wt"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht"
                 }
             ]
         },
@@ -146,7 +159,8 @@
                     "price": 1.0,
                     "ingredients": [
                         "Gl"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht"
                 },
                 {
                     "name": "3 Stück warme Waffeln mit 1 Kugel Eis",
@@ -155,7 +169,8 @@
                         "Gl",
                         "Mi",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht"
                 },
                 {
                     "name": "laktose Ei Pasta Front-Cooking Pasta mit Broccoli- Zitronensoße",
@@ -166,7 +181,8 @@
                         "Mi",
                         "Sc",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Tagesgericht"
                 }
             ]
         }

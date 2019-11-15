@@ -18,7 +18,8 @@
                         "Mi",
                         "S",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Self-Service"
                 },
                 {
                     "name": "Spinatspätzlepfanne mit Bergkäse und abgeschmelzten Zwiebeln",
@@ -28,7 +29,8 @@
                         "Gl",
                         "GlW",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Self-Service"
                 }
             ]
         },
@@ -47,7 +49,8 @@
                         "Kn",
                         "Mi",
                         "Sf"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Self-Service"
                 },
                 {
                     "name": "Schinkennudeln (Vorderschinken) mit Zwiebeln und Ei",
@@ -62,7 +65,8 @@
                         "Kn",
                         "Mi",
                         "S"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Self-Service"
                 }
             ]
         },
@@ -78,7 +82,8 @@
                         "GlW",
                         "Mi",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Self-Service"
                 },
                 {
                     "name": "Boeuf à la mode aus dem Rinderbug (GQB)",
@@ -95,7 +100,8 @@
                         "R",
                         "Sl",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Self-Service"
                 }
             ]
         },
@@ -112,7 +118,8 @@
                         "GlD",
                         "Kn",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Self-Service"
                 },
                 {
                     "name": "Pfannengyros vom Schwein mit Tsatsiki",
@@ -124,7 +131,8 @@
                         "Mi",
                         "S",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Self-Service"
                 }
             ]
         },
@@ -139,7 +147,8 @@
                         "Gl",
                         "GlW",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Self-Service"
                 },
                 {
                     "name": "Seelachsfilet (MSC) mit Gemüse und Weißweinsauce",
@@ -154,7 +163,8 @@
                         "Mi",
                         "Sl",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "StuBistro Self-Service"
                 }
             ]
         }

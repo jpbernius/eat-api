@@ -13,7 +13,8 @@
                         "GlW",
                         "Kn",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Mensa Spezial"
                 },
                 {
                     "name": "Pikante Chickenwings mit Barbecuesauce und Countrykartoffeln",
@@ -26,7 +27,8 @@
                         "Kn",
                         "Sf",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Mensa Klassiker"
                 },
                 {
                     "name": "Gulasch vom Schwein mit Knöpfle",
@@ -40,7 +42,8 @@
                         "Kn",
                         "Mi",
                         "S"
-                    ]
+                    ],
+                    "dish_type": "Länder-Mensa"
                 },
                 {
                     "name": "Rougaille Soja von Mauritius (Soja in würziger Tomatensauce) und Basmatireis",
@@ -49,7 +52,8 @@
                         "Kn",
                         "Sf",
                         "So"
-                    ]
+                    ],
+                    "dish_type": ""
                 },
                 {
                     "name": "Couscous mit Kürbis",
@@ -57,7 +61,8 @@
                     "ingredients": [
                         "Gl",
                         "GlW"
-                    ]
+                    ],
+                    "dish_type": "Self-Service Grüne Mensa"
                 }
             ]
         },
@@ -76,7 +81,8 @@
                         "Kn",
                         "Mi",
                         "S"
-                    ]
+                    ],
+                    "dish_type": "Mensa Spezial"
                 },
                 {
                     "name": "Rinderbraten (GQB) mit Rotweinsauce und Kartoffelknödel",
@@ -91,7 +97,8 @@
                         "R",
                         "Sl",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "Mensa Klassiker"
                 },
                 {
                     "name": "Pfannengyros von der Pute mit Tsatsiki und Reis",
@@ -102,7 +109,8 @@
                         "Kn",
                         "Mi",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "Länder-Mensa"
                 },
                 {
                     "name": "Libanesischer Gemüseauflauf mit Salzkartoffeln",
@@ -112,12 +120,14 @@
                         "En",
                         "Mi",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": ""
                 },
                 {
                     "name": "Frisches Gemüse aus der Pfanne mit Reis",
                     "price": "0.33€ / 100g",
-                    "ingredients": []
+                    "ingredients": [],
+                    "dish_type": "Self-Service Grüne Mensa"
                 }
             ]
         },
@@ -135,7 +145,8 @@
                         "Kn",
                         "R",
                         "Sw"
-                    ]
+                    ],
+                    "dish_type": "Mensa Spezial"
                 },
                 {
                     "name": "Grünes Hähnchen-Curry mit Wokgemüse und Basmatireis",
@@ -146,7 +157,8 @@
                         "GlW",
                         "Kn",
                         "So"
-                    ]
+                    ],
+                    "dish_type": "Mensa Klassiker"
                 },
                 {
                     "name": "Schweinesteak Strindberg (Senf-Zwiebelkruste) und Rosmarinkartoffeln",
@@ -158,7 +170,8 @@
                         "Mi",
                         "Sf",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Länder-Mensa"
                 },
                 {
                     "name": "Topfenpalatschinken",
@@ -170,7 +183,8 @@
                         "Mi",
                         "Sc",
                         "ScM"
-                    ]
+                    ],
+                    "dish_type": ""
                 },
                 {
                     "name": "Afrikanischer Süßkartoffeltopf mit Blumenkohl und Erdnüssen und Basmatireis",
@@ -179,7 +193,8 @@
                         "2",
                         "En",
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": "Self-Service Grüne Mensa"
                 }
             ]
         },
@@ -196,7 +211,8 @@
                         "Se",
                         "Sf",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Mensa Spezial"
                 },
                 {
                     "name": "Hähnchenkeule mexikanische Art mit Reis",
@@ -206,7 +222,8 @@
                         "Gl",
                         "GlW",
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": "Mensa Klassiker"
                 },
                 {
                     "name": "Türkisches Auberginen-Kartoffel-Gratin mit Schafmilchskäse und Knoblauch-Dip",
@@ -219,7 +236,8 @@
                         "Kn",
                         "Mi",
                         "Sf"
-                    ]
+                    ],
+                    "dish_type": "Länder-Mensa"
                 },
                 {
                     "name": "Käsekrainer mit Bratensauce und Kartoffelpürre",
@@ -236,7 +254,8 @@
                         "R",
                         "S",
                         "Sf"
-                    ]
+                    ],
+                    "dish_type": ""
                 },
                 {
                     "name": "Pikante Hirse mit Gemüse",
@@ -244,7 +263,8 @@
                     "ingredients": [
                         "2",
                         "Kn"
-                    ]
+                    ],
+                    "dish_type": "Self-Service Grüne Mensa"
                 }
             ]
         },
@@ -259,7 +279,8 @@
                         "GlW",
                         "Kn",
                         "So"
-                    ]
+                    ],
+                    "dish_type": "Mensa Spezial"
                 },
                 {
                     "name": "Wildlachs (MSC) auf Blattspinat Dillkartoffeln",
@@ -270,7 +291,8 @@
                         "GlW",
                         "Kn",
                         "Mi"
-                    ]
+                    ],
+                    "dish_type": "Mensa Klassiker"
                 },
                 {
                     "name": "Mediterrane Schupfnudelpfanne mit Weisskäse",
@@ -282,7 +304,8 @@
                         "Kn",
                         "Mi",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Länder-Mensa"
                 },
                 {
                     "name": "Jambalaya Louisiana mit Shrimps und Hähnchenbrustfilet",
@@ -292,7 +315,8 @@
                         "Kn",
                         "Kr",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": ""
                 },
                 {
                     "name": "Italienischer Bohneneintopf",
@@ -300,7 +324,8 @@
                     "ingredients": [
                         "Kn",
                         "Sl"
-                    ]
+                    ],
+                    "dish_type": "Self-Service Grüne Mensa"
                 }
             ]
         }
