@@ -1,0 +1,189 @@
+{
+    "number": 48,
+    "year": 2019,
+    "days": [
+        {
+            "date": "2019-11-25",
+            "dishes": [
+                {
+                    "name": "Tagessuppe",
+                    "price": 1.0,
+                    "ingredients": [
+                        "Gl",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht"
+                },
+                {
+                    "name": "(*) Wirsing-Curry mit Kurkuma CousCous",
+                    "price": 4.5,
+                    "ingredients": [
+                        "Gl",
+                        "Mi",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht"
+                },
+                {
+                    "name": "Pasta Front-Cooking Maccaroni Cheese mit Tomatenstücke",
+                    "price": 4.9,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "Mi",
+                        "Sf",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht"
+                }
+            ]
+        },
+        {
+            "date": "2019-11-26",
+            "dishes": [
+                {
+                    "name": "Tagessuppe",
+                    "price": 1.0,
+                    "ingredients": [
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht"
+                },
+                {
+                    "name": "(*) Kartoffeleintopf mit Pichelsteiner Gemüse und Kräutern",
+                    "price": 3.9,
+                    "ingredients": [
+                        "Ei",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht"
+                },
+                {
+                    "name": "Frisch vom Grill Leberkäse mit Spiegelei und Kartoffelsalat",
+                    "price": 4.6,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "Mi",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht"
+                }
+            ]
+        },
+        {
+            "date": "2019-11-27",
+            "dishes": [
+                {
+                    "name": "Tagessuppe",
+                    "price": 1.0,
+                    "ingredients": [
+                        "Gl",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht"
+                },
+                {
+                    "name": "(*)Quinoa- Erbsen- Pflanzerl auf Kürbis- Kartoffelstampf",
+                    "price": 4.5,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "Mi",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht"
+                },
+                {
+                    "name": "Pasta Front-Cooking Pasta alla Carbonara (Speck-Ei-Sahnesoße )",
+                    "price": 4.9,
+                    "ingredients": [
+                        "Gl",
+                        "Mi",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht"
+                },
+                {
+                    "name": "Hähnchensteak mit Tomate und Mozzarella überbacken dazu Pesto-Nudeln",
+                    "price": 5.5,
+                    "ingredients": [
+                        "Gl",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht"
+                }
+            ]
+        },
+        {
+            "date": "2019-11-28",
+            "dishes": [
+                {
+                    "name": "Tagessuppe",
+                    "price": 1.0,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht"
+                },
+                {
+                    "name": "Gemüse- Spätzlepfanne",
+                    "price": 4.5,
+                    "ingredients": [
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht"
+                },
+                {
+                    "name": "Frisch vom Grill Currywurst mit Pommes Frites",
+                    "price": 5.5,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "Mi",
+                        "Se",
+                        "Sf",
+                        "Sl",
+                        "So",
+                        "Wt"
+                    ],
+                    "dish_type": "Tagesgericht"
+                }
+            ]
+        },
+        {
+            "date": "2019-11-29",
+            "dishes": [
+                {
+                    "name": "Tagessuppe",
+                    "price": 1.0,
+                    "ingredients": [
+                        "Gl"
+                    ],
+                    "dish_type": "Tagesgericht"
+                },
+                {
+                    "name": "(*) 5 Stück Reiberdatschi mit Apfelmus",
+                    "price": 4.2,
+                    "ingredients": [
+                        "Gl",
+                        "Mi",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht"
+                },
+                {
+                    "name": "Pasta Front-Cooking Pasta mit Broccoli-Huhn",
+                    "price": 4.9,
+                    "ingredients": [
+                        "Gl",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht"
+                }
+            ]
+        }
+    ]
+}
