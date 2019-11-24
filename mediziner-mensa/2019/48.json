@@ -1,0 +1,324 @@
+{
+    "number": 48,
+    "year": 2019,
+    "days": [
+        {
+            "date": "2019-11-25",
+            "dishes": [
+                {
+                    "name": "Spinatcremesuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "Mi"
+                    ],
+                    "dish_type": "Suppe"
+                },
+                {
+                    "name": "Gekochtes Ochsenfleisch mit Meerrettich",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "5",
+                        "Mi",
+                        "R",
+                        "Sw"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Kürbisauflauf",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "Ei",
+                        "Gl",
+                        "Mi"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Tom-Gha-Khai-Suppe mit Basmatireis",
+                    "price": 4.1,
+                    "ingredients": [
+                        "G",
+                        "Gl",
+                        "Mi",
+                        "So"
+                    ],
+                    "dish_type": "Extraessen"
+                }
+            ]
+        },
+        {
+            "date": "2019-11-26",
+            "dishes": [
+                {
+                    "name": "Selleriecremesuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "Mi"
+                    ],
+                    "dish_type": "Suppe"
+                },
+                {
+                    "name": "Oldenburger Grünkohl mit Mettenden",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "3",
+                        "4",
+                        "8",
+                        "Gl",
+                        "Mi",
+                        "S",
+                        "Sf"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Kaschmir Kohlrabi und Brokkoli",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Mi"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Vegetarisches Thai-Greencurry mit Mango,",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "Mi",
+                        "So"
+                    ],
+                    "dish_type": "Extraessen"
+                },
+                {
+                    "name": "Karotten, Kartoffeln und Reis",
+                    "price": 3.25,
+                    "ingredients": [],
+                    "dish_type": "Extraessen"
+                }
+            ]
+        },
+        {
+            "date": "2019-11-27",
+            "dishes": [
+                {
+                    "name": "Französische Zwiebelsuppe",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": "Suppe"
+                },
+                {
+                    "name": "Germknödel mit Vanillesoße",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "9",
+                        "Ei",
+                        "Gl",
+                        "Mi"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Herzhaftes Kartoffelgratin",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "Ei",
+                        "Gl",
+                        "Mi",
+                        "Sl"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Hähnchenbrust in Erdnusssoße B,H,N, buntes",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": "Extraessen"
+                },
+                {
+                    "name": "Gemüse und Mie-Nudeln",
+                    "price": 3.65,
+                    "ingredients": [
+                        "Ei",
+                        "Gl"
+                    ],
+                    "dish_type": "Extraessen"
+                }
+            ]
+        },
+        {
+            "date": "2019-11-28",
+            "dishes": [
+                {
+                    "name": "Süßkartoffelcremesuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "Mi"
+                    ],
+                    "dish_type": "Suppe"
+                },
+                {
+                    "name": "Gebratene Hähnchenbrust",
+                    "price": "N/A",
+                    "ingredients": [
+                        "G"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Gebratenes Wokgemüse",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "Gl",
+                        "Se",
+                        "So"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Seelachs in Backteig mit Süß-Saurer-Soße und Wildreis",
+                    "price": 4.05,
+                    "ingredients": [
+                        "Ei",
+                        "Fi",
+                        "Gl",
+                        "So",
+                        "Sw"
+                    ],
+                    "dish_type": "Extraessen"
+                }
+            ]
+        },
+        {
+            "date": "2019-11-29",
+            "dishes": [
+                {
+                    "name": "Brokkolicremesuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "Mi"
+                    ],
+                    "dish_type": "Suppe"
+                },
+                {
+                    "name": "Forelle \" Müllerin Art \"",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Fi",
+                        "Gl"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Quarkklößchen",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "3",
+                        "5",
+                        "Ei",
+                        "Gl",
+                        "Mi",
+                        "Sw"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Lauwarmer Rindfleisch-Fisch-Salat mit Glasnudeln und Gemüse",
+                    "price": 4.6,
+                    "ingredients": [
+                        "Fi",
+                        "Kr",
+                        "R",
+                        "So"
+                    ],
+                    "dish_type": "Extraessen"
+                }
+            ]
+        },
+        {
+            "date": "2019-11-30",
+            "dishes": [
+                {
+                    "name": "Bratspätzlesuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "R",
+                        "S",
+                        "Sl"
+                    ],
+                    "dish_type": "Suppe"
+                },
+                {
+                    "name": "Geflügelpflanzerl",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "G",
+                        "Gl",
+                        "Mi",
+                        "So"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Krauttopf mit einer Vollkornsemmel",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                }
+            ]
+        },
+        {
+            "date": "2019-12-01",
+            "dishes": [
+                {
+                    "name": "Käsecremesuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "Gl",
+                        "Mi"
+                    ],
+                    "dish_type": "Suppe"
+                },
+                {
+                    "name": "Geschmortes Kalbfleisch",
+                    "price": "N/A",
+                    "ingredients": [
+                        "K"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Vegetarische Moussaka",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "Gl",
+                        "Mi"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                }
+            ]
+        }
+    ]
+}
