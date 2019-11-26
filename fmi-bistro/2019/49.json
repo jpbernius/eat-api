@@ -1,0 +1,186 @@
+{
+    "number": 49,
+    "year": 2019,
+    "days": [
+        {
+            "date": "2019-12-02",
+            "dishes": [
+                {
+                    "name": "Tagessuppe",
+                    "price": 1.0,
+                    "ingredients": [
+                        "Gl",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht"
+                },
+                {
+                    "name": "(*) Vegane Spinat- Quiche mit Gurkensalat",
+                    "price": 4.5,
+                    "ingredients": [
+                        "Gl",
+                        "Mi",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht"
+                },
+                {
+                    "name": "Pasta Front-Cooking Penne alla Wodka",
+                    "price": 4.9,
+                    "ingredients": [
+                        "Gl",
+                        "Mi",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht"
+                }
+            ]
+        },
+        {
+            "date": "2019-12-03",
+            "dishes": [
+                {
+                    "name": "Tagessuppe",
+                    "price": 1.0,
+                    "ingredients": [
+                        "Gl",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht"
+                },
+                {
+                    "name": "(*) Kraut-Makkaroni mit Tomatenwürfeln",
+                    "price": 4.9,
+                    "ingredients": [
+                        "Ei",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht"
+                },
+                {
+                    "name": "Frisch vom Grill Leberkäse mit Spiegelei und Kartoffelsalat",
+                    "price": 4.6,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "Mi",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht"
+                }
+            ]
+        },
+        {
+            "date": "2019-12-04",
+            "dishes": [
+                {
+                    "name": "Tagessuppe",
+                    "price": 1.0,
+                    "ingredients": [
+                        "Gl",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht"
+                },
+                {
+                    "name": "(*) Yellow-Thaicurry mit Gemüse und Basmatireis",
+                    "price": 4.5,
+                    "ingredients": [
+                        "Gl",
+                        "Mi",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht"
+                },
+                {
+                    "name": "Pasta Front-Cooking Pasta mit Schinken-Erbsen- Sahnesoße",
+                    "price": 4.9,
+                    "ingredients": [
+                        "Mi",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht"
+                },
+                {
+                    "name": "Seelachs “Saltimbocca” auf Kürbis-Kartoffeln",
+                    "price": 5.9,
+                    "ingredients": [
+                        "Gl",
+                        "Mi",
+                        "Sc",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht"
+                }
+            ]
+        },
+        {
+            "date": "2019-12-05",
+            "dishes": [
+                {
+                    "name": "Tagessuppe",
+                    "price": 1.0,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht"
+                },
+                {
+                    "name": "(*) Blumenkohl - kartoffelpfanne",
+                    "price": 4.5,
+                    "ingredients": [
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht"
+                },
+                {
+                    "name": "Frisch vom Grill Currywurst mit Pommes Frites",
+                    "price": 5.5,
+                    "ingredients": [
+                        "Gl",
+                        "Mi",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht"
+                }
+            ]
+        },
+        {
+            "date": "2019-12-06",
+            "dishes": [
+                {
+                    "name": "Tagessuppe",
+                    "price": 1.0,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "Mi"
+                    ],
+                    "dish_type": "Tagesgericht"
+                },
+                {
+                    "name": "Apfel-Quarkauflauf",
+                    "price": 3.9,
+                    "ingredients": [
+                        "Ei",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht"
+                },
+                {
+                    "name": "Pasta Front-Cooking Rahmspinat mit Kartoffeln und Spiegelei",
+                    "price": 4.0,
+                    "ingredients": [
+                        "En",
+                        "Gl",
+                        "Sc",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht"
+                }
+            ]
+        }
+    ]
+}
