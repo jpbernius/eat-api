@@ -6,17 +6,6 @@
             "date": "2019-12-02",
             "dishes": [
                 {
-                    "name": "Falafel mit Joghurt-Gurken-Minz Dip",
-                    "price": "N/A",
-                    "ingredients": [
-                        "Gl",
-                        "GlW",
-                        "Kn",
-                        "Mi"
-                    ],
-                    "dish_type": "StuBistro Self-Service"
-                },
-                {
                     "name": "Wildschweingulasch mit frischen Champignons",
                     "price": "N/A",
                     "ingredients": [
@@ -24,6 +13,17 @@
                         "Gl",
                         "GlW",
                         "Sw"
+                    ],
+                    "dish_type": "StuBistro Self-Service"
+                },
+                {
+                    "name": "Falafel mit Joghurt-Gurken-Minz Dip",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi"
                     ],
                     "dish_type": "StuBistro Self-Service"
                 }
@@ -61,6 +61,12 @@
             "date": "2019-12-04",
             "dishes": [
                 {
+                    "name": "Hähnchenspieß vom Grill mit Paprika und Zwiebel",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": "StuBistro Self-Service"
+                },
+                {
                     "name": "Gefüllte Paprikaschote mit Tomatensauce",
                     "price": "N/A",
                     "ingredients": [
@@ -71,12 +77,6 @@
                         "Kn",
                         "Mi"
                     ],
-                    "dish_type": "StuBistro Self-Service"
-                },
-                {
-                    "name": "Hähnchenspieß vom Grill mit Paprika und Zwiebel",
-                    "price": "N/A",
-                    "ingredients": [],
                     "dish_type": "StuBistro Self-Service"
                 }
             ]
@@ -95,7 +95,7 @@
                     "dish_type": "StuBistro Self-Service"
                 },
                 {
-                    "name": "Geschmorter Rinderbraten (GQB) mit weihnachtlicher Sauce",
+                    "name": "Geschmorter Rinderbraten mit weihnachtlicher Sauce",
                     "price": "N/A",
                     "ingredients": [
                         "5",
@@ -117,6 +117,14 @@
             "date": "2019-12-06",
             "dishes": [
                 {
+                    "name": "Hähnchenkeule mit Mole-Sauce (scharf)",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2"
+                    ],
+                    "dish_type": "StuBistro Self-Service"
+                },
+                {
                     "name": "Pfannkuchen mit Heidelbeerfüllung und Vanillesauce",
                     "price": "N/A",
                     "ingredients": [
@@ -124,14 +132,6 @@
                         "Gl",
                         "GlW",
                         "Mi"
-                    ],
-                    "dish_type": "StuBistro Self-Service"
-                },
-                {
-                    "name": "Hähnchenkeule mit Mole-Sauce (scharf)",
-                    "price": "N/A",
-                    "ingredients": [
-                        "2"
                     ],
                     "dish_type": "StuBistro Self-Service"
                 }

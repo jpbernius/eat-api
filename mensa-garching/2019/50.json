@@ -41,9 +41,7 @@
                         "GlW",
                         "Kn",
                         "Mi",
-                        "R",
-                        "Sl",
-                        "So"
+                        "R"
                     ],
                     "dish_type": "Wok"
                 },
@@ -258,9 +256,7 @@
                     "ingredients": [
                         "2",
                         "Kn",
-                        "Sf",
-                        "Sl",
-                        "So"
+                        "Sf"
                     ],
                     "dish_type": "Vegan, Eintopf, Suppe"
                 },
@@ -357,17 +353,6 @@
                     "dish_type": "Vegetarisch"
                 },
                 {
-                    "name": "Tandoori Chicken in Joghurtmarinade und Gurken-Minz-Dip",
-                    "price": "N/A",
-                    "ingredients": [
-                        "2",
-                        "Kn",
-                        "Mi",
-                        "Sf"
-                    ],
-                    "dish_type": "Fleisch"
-                },
-                {
                     "name": "Hirschgulasch in Preiselbeersauce",
                     "price": "N/A",
                     "ingredients": [
@@ -379,6 +364,17 @@
                         "Mi",
                         "Sl",
                         "Sw"
+                    ],
+                    "dish_type": "Fleisch"
+                },
+                {
+                    "name": "Tandoori Chicken in Joghurtmarinade und Gurken-Minz-Dip",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "Kn",
+                        "Mi",
+                        "Sf"
                     ],
                     "dish_type": "Fleisch"
                 }

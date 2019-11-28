@@ -29,7 +29,7 @@
                         "Mi",
                         "S"
                     ],
-                    "dish_type": "StuBistro Gericht 1"
+                    "dish_type": "StuBistro Gericht 2"
                 }
             ]
         },
@@ -59,7 +59,7 @@
                         "So",
                         "Sw"
                     ],
-                    "dish_type": "StuBistro Gericht 1"
+                    "dish_type": "StuBistro Gericht 2"
                 }
             ]
         },
@@ -82,13 +82,22 @@
                     "ingredients": [
                         "Kn"
                     ],
-                    "dish_type": "StuBistro Gericht 1"
+                    "dish_type": "StuBistro Gericht 2"
                 }
             ]
         },
         {
             "date": "2019-12-12",
             "dishes": [
+                {
+                    "name": "Rotes Gemüsecurry",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "Kn"
+                    ],
+                    "dish_type": "StuBistro Gericht 1"
+                },
                 {
                     "name": "Hirschgulasch in Preiselbeersauce",
                     "price": "N/A",
@@ -102,22 +111,23 @@
                         "Sl",
                         "Sw"
                     ],
-                    "dish_type": "StuBistro Gericht 1"
-                },
-                {
-                    "name": "Rotes Gemüsecurry",
-                    "price": "N/A",
-                    "ingredients": [
-                        "2",
-                        "Kn"
-                    ],
-                    "dish_type": "StuBistro Gericht 1"
+                    "dish_type": "StuBistro Gericht 2"
                 }
             ]
         },
         {
             "date": "2019-12-13",
             "dishes": [
+                {
+                    "name": "Apfelstrudel mit Vanillesauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Mi"
+                    ],
+                    "dish_type": "StuBistro Gericht 1"
+                },
                 {
                     "name": "Kabeljaufilet (MSC) mit einer Gurken-Senfsauce",
                     "price": "N/A",
@@ -130,17 +140,7 @@
                         "Sf",
                         "Sl"
                     ],
-                    "dish_type": "StuBistro Gericht 1"
-                },
-                {
-                    "name": "Apfelstrudel mit Vanillesauce",
-                    "price": "N/A",
-                    "ingredients": [
-                        "Gl",
-                        "GlW",
-                        "Mi"
-                    ],
-                    "dish_type": "StuBistro Gericht 1"
+                    "dish_type": "StuBistro Gericht 2"
                 }
             ]
         }

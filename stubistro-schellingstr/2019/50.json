@@ -6,6 +6,17 @@
             "date": "2019-12-09",
             "dishes": [
                 {
+                    "name": "Pasta mit Broccoli-Sahne-Sauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi"
+                    ],
+                    "dish_type": "StuBistro Self-Service"
+                },
+                {
                     "name": "Holzfällersteak vom Schwein",
                     "price": "N/A",
                     "ingredients": [
@@ -19,23 +30,22 @@
                         "S"
                     ],
                     "dish_type": "StuBistro Self-Service"
-                },
-                {
-                    "name": "Pasta mit Broccoli-Sahne-Sauce",
-                    "price": "N/A",
-                    "ingredients": [
-                        "Gl",
-                        "GlW",
-                        "Kn",
-                        "Mi"
-                    ],
-                    "dish_type": "StuBistro Self-Service"
                 }
             ]
         },
         {
             "date": "2019-12-10",
             "dishes": [
+                {
+                    "name": "Pasta Pomodoro mit Tomaten und Basilikum",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ],
+                    "dish_type": "StuBistro Self-Service"
+                },
                 {
                     "name": "Chop Suey vom Schweinefleisch",
                     "price": "N/A",
@@ -48,16 +58,6 @@
                         "S",
                         "So",
                         "Sw"
-                    ],
-                    "dish_type": "StuBistro Self-Service"
-                },
-                {
-                    "name": "Pasta Pomodoro mit Tomaten und Basilikum",
-                    "price": "N/A",
-                    "ingredients": [
-                        "Gl",
-                        "GlW",
-                        "Kn"
                     ],
                     "dish_type": "StuBistro Self-Service"
                 }
@@ -119,16 +119,6 @@
             "date": "2019-12-13",
             "dishes": [
                 {
-                    "name": "Apfelstrudel mit Vanillesauce",
-                    "price": "N/A",
-                    "ingredients": [
-                        "Gl",
-                        "GlW",
-                        "Mi"
-                    ],
-                    "dish_type": "StuBistro Self-Service"
-                },
-                {
                     "name": "Kabeljaufilet (MSC) mit einer Gurken-Senfsauce",
                     "price": "N/A",
                     "ingredients": [
@@ -139,6 +129,16 @@
                         "Mi",
                         "Sf",
                         "Sl"
+                    ],
+                    "dish_type": "StuBistro Self-Service"
+                },
+                {
+                    "name": "Apfelstrudel mit Vanillesauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Mi"
                     ],
                     "dish_type": "StuBistro Self-Service"
                 }

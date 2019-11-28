@@ -28,6 +28,16 @@
                     "dish_type": "Tagesgericht 2"
                 },
                 {
+                    "name": "Apfelstrudel mit Vanillesauce",
+                    "price": 2.4,
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Mi"
+                    ],
+                    "dish_type": "Tagesgericht 4"
+                },
+                {
                     "name": "Schweinehalssteak mit Kräuterbutter",
                     "price": 2.6,
                     "ingredients": [
@@ -99,13 +109,19 @@
                     "dish_type": "Aktionsessen 3"
                 },
                 {
-                    "name": "Pizza mit grünem Spargel, Cocktailtomaten und Mozzarella",
+                    "name": "Pizza Salami mit Mozzarella",
                     "price": 3.5,
                     "ingredients": [
+                        "1",
+                        "2",
+                        "3",
+                        "8",
                         "Gl",
                         "GlG",
                         "GlW",
+                        "Kn",
                         "Mi",
+                        "S",
                         "So"
                     ],
                     "dish_type": "Aktionsessen 8"
@@ -139,6 +155,22 @@
                         "Gl",
                         "GlW",
                         "Mi"
+                    ],
+                    "dish_type": "Aktionsessen 6"
+                },
+                {
+                    "name": "Rinderrahmgeschnetzeltes (GQB)",
+                    "price": 3.0,
+                    "ingredients": [
+                        "2",
+                        "9",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "Sf"
                     ],
                     "dish_type": "Aktionsessen 6"
                 },
@@ -228,18 +260,6 @@
                     "dish_type": "Tagesgericht 1"
                 },
                 {
-                    "name": "Kaiserschmarrn mit Apfelmus",
-                    "price": 2.6,
-                    "ingredients": [
-                        "3",
-                        "Ei",
-                        "Gl",
-                        "GlW",
-                        "Mi"
-                    ],
-                    "dish_type": "Aktionsessen 4"
-                },
-                {
                     "name": "Schollenfilet (MSC) paniert mit Remouladensauce",
                     "price": 2.6,
                     "ingredients": [
@@ -252,6 +272,18 @@
                         "GlW",
                         "Mi",
                         "Sf"
+                    ],
+                    "dish_type": "Aktionsessen 4"
+                },
+                {
+                    "name": "Kaiserschmarrn mit Apfelmus",
+                    "price": 2.6,
+                    "ingredients": [
+                        "3",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi"
                     ],
                     "dish_type": "Aktionsessen 4"
                 }

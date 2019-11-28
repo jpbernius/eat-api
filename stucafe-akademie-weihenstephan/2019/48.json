@@ -85,6 +85,17 @@
             "date": "2019-11-28",
             "dishes": [
                 {
+                    "name": "Currywurst",
+                    "price": 1.9,
+                    "ingredients": [
+                        "8",
+                        "R",
+                        "S",
+                        "Sf"
+                    ],
+                    "dish_type": "Tagesgericht 3"
+                },
+                {
                     "name": "Frische Rahmschwammerl",
                     "price": 1.9,
                     "ingredients": [
@@ -93,19 +104,7 @@
                         "Kn",
                         "Mi"
                     ],
-                    "dish_type": "Tagesgericht 3"
-                },
-                {
-                    "name": "Spenden - Currywurst",
-                    "price": 1.9,
-                    "ingredients": [
-                        "11",
-                        "8",
-                        "R",
-                        "S",
-                        "Sf"
-                    ],
-                    "dish_type": "Tagesgericht 3"
+                    "dish_type": "Aktionsessen 2"
                 }
             ]
         },

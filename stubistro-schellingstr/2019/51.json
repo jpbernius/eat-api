@@ -6,6 +6,17 @@
             "date": "2019-12-16",
             "dishes": [
                 {
+                    "name": "Spinatspätzlepfanne mit Bergkäse und abgeschmelzten Zwiebeln",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi"
+                    ],
+                    "dish_type": "StuBistro Self-Service"
+                },
+                {
                     "name": "Schweinerahmgeschnetzeltes mit Pfifferlingen und Steinpilzen",
                     "price": "N/A",
                     "ingredients": [
@@ -18,17 +29,6 @@
                         "Mi",
                         "S",
                         "Sw"
-                    ],
-                    "dish_type": "StuBistro Self-Service"
-                },
-                {
-                    "name": "Spinatspätzlepfanne mit Bergkäse und abgeschmelzten Zwiebeln",
-                    "price": "N/A",
-                    "ingredients": [
-                        "Ei",
-                        "Gl",
-                        "GlW",
-                        "Mi"
                     ],
                     "dish_type": "StuBistro Self-Service"
                 }
@@ -86,7 +86,7 @@
                     "dish_type": "StuBistro Self-Service"
                 },
                 {
-                    "name": "Boeuf à la mode aus dem Rinderbug (GQB)",
+                    "name": "Boeuf à la mode aus dem Rinderbug",
                     "price": "N/A",
                     "ingredients": [
                         "3",

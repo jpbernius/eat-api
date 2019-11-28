@@ -21,8 +21,10 @@
                     "name": "Rindfleischstreifen China Town mit Bambussprossen",
                     "price": "N/A",
                     "ingredients": [
+                        "1",
                         "Kn",
-                        "R"
+                        "R",
+                        "Sf"
                     ],
                     "dish_type": ""
                 },
@@ -37,15 +39,32 @@
                     "dish_type": ""
                 },
                 {
-                    "name": "Tagessuppe",
+                    "name": "Gurken-Minz-Joghurt-Dip",
                     "price": "N/A",
-                    "ingredients": [],
+                    "ingredients": [
+                        "Kn",
+                        "Mi"
+                    ],
                     "dish_type": ""
                 },
                 {
-                    "name": "Tagesgemüse",
+                    "name": "Leberspätzlesuppe",
                     "price": "N/A",
-                    "ingredients": [],
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "S",
+                        "Sl"
+                    ],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Blumenkohl",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Sl"
+                    ],
                     "dish_type": ""
                 },
                 {
@@ -60,15 +79,30 @@
                     "dish_type": ""
                 },
                 {
-                    "name": "Aktionsdessert",
+                    "name": "Weiße Schokoladenmousse mit Heidelbeeren",
                     "price": "N/A",
-                    "ingredients": [],
+                    "ingredients": [
+                        "14",
+                        "Mi"
+                    ],
                     "dish_type": "Dessert"
                 },
                 {
-                    "name": "Tagesdessert",
+                    "name": "Naturjoghurt mit Honig-Nuss-Müsli",
                     "price": "N/A",
-                    "ingredients": [],
+                    "ingredients": [
+                        "En",
+                        "Gl",
+                        "GlG",
+                        "GlH",
+                        "GlW",
+                        "Mi",
+                        "Sc",
+                        "ScC",
+                        "ScH",
+                        "ScM",
+                        "ScW"
+                    ],
                     "dish_type": "Tagesdessert"
                 }
             ]
@@ -84,6 +118,15 @@
                         "Mi"
                     ],
                     "dish_type": "Self-Service"
+                },
+                {
+                    "name": "Zartweizen",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW"
+                    ],
+                    "dish_type": ""
                 },
                 {
                     "name": "Chili con carne",
@@ -111,30 +154,39 @@
                     "dish_type": ""
                 },
                 {
-                    "name": "Tagessuppe",
-                    "price": "N/A",
-                    "ingredients": [],
-                    "dish_type": ""
-                },
-                {
-                    "name": "Tagesgemüse",
-                    "price": "N/A",
-                    "ingredients": [],
-                    "dish_type": ""
-                },
-                {
-                    "name": "Nudeln",
+                    "name": "Tomaten-Sahnesauce",
                     "price": "N/A",
                     "ingredients": [
                         "Gl",
-                        "GlW"
+                        "GlW",
+                        "Kn",
+                        "Mi"
                     ],
                     "dish_type": ""
                 },
                 {
-                    "name": "Reis",
+                    "name": "Selleriecremesuppe",
                     "price": "N/A",
-                    "ingredients": [],
+                    "ingredients": [
+                        "Mi",
+                        "Sl"
+                    ],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Cordialgemüse",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Sl"
+                    ],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Kroketten",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Mi"
+                    ],
                     "dish_type": ""
                 },
                 {
@@ -144,7 +196,7 @@
                     "dish_type": "Dessert"
                 },
                 {
-                    "name": "Tagesdessert",
+                    "name": "Heidelbeerjoghurt",
                     "price": "N/A",
                     "ingredients": [],
                     "dish_type": "Tagesdessert"
@@ -179,9 +231,12 @@
                     "dish_type": ""
                 },
                 {
-                    "name": "Fusilli mit Knoblauch-Sahne-Sauce",
+                    "name": "Fusilli Quattro Formaggi",
                     "price": "N/A",
                     "ingredients": [
+                        "1",
+                        "2",
+                        "Ei",
                         "Gl",
                         "GlW",
                         "Kn",
@@ -190,13 +245,16 @@
                     "dish_type": ""
                 },
                 {
-                    "name": "Tagessuppe",
+                    "name": "Gemüse-Creme-Suppe",
                     "price": "N/A",
-                    "ingredients": [],
+                    "ingredients": [
+                        "Mi",
+                        "Sl"
+                    ],
                     "dish_type": ""
                 },
                 {
-                    "name": "Tagesgemüse",
+                    "name": "Balkangemüse",
                     "price": "N/A",
                     "ingredients": [],
                     "dish_type": ""
@@ -212,15 +270,21 @@
                     "price": "N/A",
                     "ingredients": [
                         "Gl",
-                        "GlW",
-                        "Kn"
+                        "GlW"
                     ],
                     "dish_type": ""
                 },
                 {
-                    "name": "Aktionsdessert",
+                    "name": "Schoko-Trüffel-Mousse mit Mandarinen",
                     "price": "N/A",
-                    "ingredients": [],
+                    "ingredients": [
+                        "14",
+                        "Gl",
+                        "GlG",
+                        "Mi",
+                        "Sc",
+                        "ScH"
+                    ],
                     "dish_type": "Dessert"
                 },
                 {

@@ -67,7 +67,7 @@
                     "dish_type": "Tagesgericht 4"
                 },
                 {
-                    "name": "Münchner Gulasch vom Rind (GQB)",
+                    "name": "Münchner Gulasch vom Rind",
                     "price": 3.2,
                     "ingredients": [
                         "Gl",
@@ -85,6 +85,17 @@
             "date": "2019-12-12",
             "dishes": [
                 {
+                    "name": "Penne mit Tomaten-Frischkäse-Sauce",
+                    "price": 1.9,
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi"
+                    ],
+                    "dish_type": "Aktionsessen 2"
+                },
+                {
                     "name": "Hirschgulasch in Preiselbeersauce",
                     "price": 4.0,
                     "ingredients": [
@@ -98,17 +109,6 @@
                         "Sw"
                     ],
                     "dish_type": "Aktionsessen 9"
-                },
-                {
-                    "name": "Penne mit Tomaten-Frischkäse-Sauce",
-                    "price": 1.9,
-                    "ingredients": [
-                        "Gl",
-                        "GlW",
-                        "Kn",
-                        "Mi"
-                    ],
-                    "dish_type": "Biogericht 2"
                 }
             ]
         },

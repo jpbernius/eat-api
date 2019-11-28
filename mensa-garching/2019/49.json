@@ -133,7 +133,6 @@
                     "name": "Sweet & Sour mit Schweinefleisch",
                     "price": "N/A",
                     "ingredients": [
-                        "11",
                         "2",
                         "3",
                         "5",
@@ -141,7 +140,6 @@
                         "S",
                         "Sf",
                         "Sl",
-                        "So",
                         "Sw"
                     ],
                     "dish_type": "Wok"

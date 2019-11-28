@@ -38,20 +38,6 @@
             "date": "2019-11-26",
             "dishes": [
                 {
-                    "name": "Allgäuer Käsespätzle mit Röstzwiebeln",
-                    "price": "N/A",
-                    "ingredients": [
-                        "1",
-                        "2",
-                        "Ei",
-                        "Gl",
-                        "GlD",
-                        "GlW",
-                        "Mi"
-                    ],
-                    "dish_type": "StuBistro Self-Service"
-                },
-                {
                     "name": "Hähnchenknusperfilet mit Mango-Chili-Dip",
                     "price": "N/A",
                     "ingredients": [
@@ -63,6 +49,20 @@
                         "GlW",
                         "Mi",
                         "Sf"
+                    ],
+                    "dish_type": "StuBistro Self-Service"
+                },
+                {
+                    "name": "Allgäuer Käsespätzle",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "Ei",
+                        "Gl",
+                        "GlD",
+                        "GlW",
+                        "Mi"
                     ],
                     "dish_type": "StuBistro Self-Service"
                 }

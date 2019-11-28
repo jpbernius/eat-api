@@ -76,7 +76,17 @@
             "date": "2019-12-05",
             "dishes": [
                 {
-                    "name": "Geschmorter Rinderbraten (GQB) mit weihnachtlicher Sauce",
+                    "name": "Tortelloni all'arrabiata",
+                    "price": 2.6,
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ],
+                    "dish_type": "Aktionsessen 4"
+                },
+                {
+                    "name": "Geschmorter Rinderbraten mit weihnachtlicher Sauce",
                     "price": 3.0,
                     "ingredients": [
                         "5",
@@ -91,16 +101,6 @@
                         "Sw"
                     ],
                     "dish_type": "Aktionsessen 6"
-                },
-                {
-                    "name": "Tortelloni all'arrabiata",
-                    "price": 2.6,
-                    "ingredients": [
-                        "Gl",
-                        "GlW",
-                        "Kn"
-                    ],
-                    "dish_type": "Biogericht 4"
                 }
             ]
         },

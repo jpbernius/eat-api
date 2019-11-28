@@ -57,6 +57,12 @@
                     "dish_type": ""
                 },
                 {
+                    "name": "Reis",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
                     "name": "Rosmarinkartoffeln",
                     "price": "N/A",
                     "ingredients": [],
@@ -96,7 +102,6 @@
                     "name": "Currywurst mit Honig-Ingwer-Ketchup",
                     "price": "N/A",
                     "ingredients": [
-                        "11",
                         "2",
                         "3",
                         "8",
@@ -176,7 +181,7 @@
                     "dish_type": "Self-Service"
                 },
                 {
-                    "name": "Pasta mit Sojabolognese",
+                    "name": "Pasta Bolognese vegan",
                     "price": "N/A",
                     "ingredients": [
                         "Gl",
@@ -213,9 +218,11 @@
                     "dish_type": ""
                 },
                 {
-                    "name": "Reis",
+                    "name": "Gemüsereis",
                     "price": "N/A",
-                    "ingredients": [],
+                    "ingredients": [
+                        "Sl"
+                    ],
                     "dish_type": ""
                 },
                 {

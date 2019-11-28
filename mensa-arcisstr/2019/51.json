@@ -75,6 +75,18 @@
                     "dish_type": "Vegetarisch"
                 },
                 {
+                    "name": "Chili con Carne",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "R"
+                    ],
+                    "dish_type": "Fleisch"
+                },
+                {
                     "name": "Schweinerahmgeschnetzeltes mit Pfifferlingen und Steinpilzen",
                     "price": "N/A",
                     "ingredients": [
@@ -87,18 +99,6 @@
                         "Mi",
                         "S",
                         "Sw"
-                    ],
-                    "dish_type": "Fleisch"
-                },
-                {
-                    "name": "Chili con Carne",
-                    "price": "N/A",
-                    "ingredients": [
-                        "2",
-                        "Gl",
-                        "GlW",
-                        "Kn",
-                        "R"
                     ],
                     "dish_type": "Fleisch"
                 }

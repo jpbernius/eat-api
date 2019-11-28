@@ -83,6 +83,17 @@
                     "dish_type": "Vegetarisch"
                 },
                 {
+                    "name": "Wildschweingulasch mit frischen Champignons",
+                    "price": "N/A",
+                    "ingredients": [
+                        "99",
+                        "Gl",
+                        "GlW",
+                        "Sw"
+                    ],
+                    "dish_type": "Fleisch"
+                },
+                {
                     "name": "Fleischpflanzerl mit Kümmelsauce",
                     "price": "N/A",
                     "ingredients": [
@@ -94,17 +105,6 @@
                         "Mi",
                         "R",
                         "S"
-                    ],
-                    "dish_type": "Fleisch"
-                },
-                {
-                    "name": "Wildschweingulasch mit frischen Champignons",
-                    "price": "N/A",
-                    "ingredients": [
-                        "99",
-                        "Gl",
-                        "GlW",
-                        "Sw"
                     ],
                     "dish_type": "Fleisch"
                 }
@@ -155,7 +155,6 @@
                     "name": "Sweet & Sour mit Schweinefleisch",
                     "price": "N/A",
                     "ingredients": [
-                        "11",
                         "2",
                         "3",
                         "5",
@@ -163,7 +162,6 @@
                         "S",
                         "Sf",
                         "Sl",
-                        "So",
                         "Sw"
                     ],
                     "dish_type": "Wok"

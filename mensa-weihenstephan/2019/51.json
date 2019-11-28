@@ -122,17 +122,6 @@
                     "dish_type": "Tagesgericht 1"
                 },
                 {
-                    "name": "Apfelkücherl mit Vanillesauce",
-                    "price": 2.4,
-                    "ingredients": [
-                        "Ei",
-                        "Gl",
-                        "GlW",
-                        "Mi"
-                    ],
-                    "dish_type": "Tagesgericht 4"
-                },
-                {
                     "name": "Pasta mit Putenbolognese",
                     "price": 2.4,
                     "ingredients": [
@@ -142,6 +131,17 @@
                         "Sl"
                     ],
                     "dish_type": "Tagesgericht 4"
+                },
+                {
+                    "name": "Apfelkücherl mit Vanillesauce",
+                    "price": 2.4,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi"
+                    ],
+                    "dish_type": "Aktionsessen 3"
                 },
                 {
                     "name": "Garnelen mit Zitronen-Kokos-Dip",

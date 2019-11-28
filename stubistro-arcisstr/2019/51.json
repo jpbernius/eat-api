@@ -30,7 +30,7 @@
                         "S",
                         "Sw"
                     ],
-                    "dish_type": "StuBistro Gericht 1"
+                    "dish_type": "StuBistro Gericht 2"
                 }
             ]
         },
@@ -66,7 +66,7 @@
                         "Mi",
                         "Sf"
                     ],
-                    "dish_type": "StuBistro Gericht 1"
+                    "dish_type": "StuBistro Gericht 2"
                 }
             ]
         },
@@ -86,7 +86,7 @@
                     "dish_type": "StuBistro Gericht 1"
                 },
                 {
-                    "name": "Boeuf à la mode aus dem Rinderbug (GQB)",
+                    "name": "Boeuf à la mode aus dem Rinderbug",
                     "price": "N/A",
                     "ingredients": [
                         "3",
@@ -101,7 +101,7 @@
                         "Sl",
                         "Sw"
                     ],
-                    "dish_type": "StuBistro Gericht 1"
+                    "dish_type": "StuBistro Gericht 2"
                 }
             ]
         },
@@ -132,7 +132,7 @@
                         "S",
                         "Sw"
                     ],
-                    "dish_type": "StuBistro Gericht 1"
+                    "dish_type": "StuBistro Gericht 2"
                 }
             ]
         },
@@ -164,7 +164,7 @@
                         "Sl",
                         "Sw"
                     ],
-                    "dish_type": "StuBistro Gericht 1"
+                    "dish_type": "StuBistro Gericht 2"
                 }
             ]
         }

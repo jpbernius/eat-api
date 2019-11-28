@@ -6,6 +6,17 @@
             "date": "2019-11-25",
             "dishes": [
                 {
+                    "name": "Penne all'arrabiata",
+                    "price": 1.55,
+                    "ingredients": [
+                        "2",
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ],
+                    "dish_type": "Tagesgericht 2"
+                },
+                {
                     "name": "Rindergeschnetzeltes Stroganoff",
                     "price": 3.2,
                     "ingredients": [
@@ -39,6 +50,21 @@
                         "Mi"
                     ],
                     "dish_type": "Tagesgericht 4"
+                },
+                {
+                    "name": "Hähnchenknusperfilet mit Mango-Chili-Dip",
+                    "price": 2.4,
+                    "ingredients": [
+                        "1",
+                        "11",
+                        "2",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sf"
+                    ],
+                    "dish_type": "Aktionsessen 3"
                 }
             ]
         },
@@ -62,6 +88,20 @@
                         "Sw"
                     ],
                     "dish_type": "Tagesgericht 3"
+                },
+                {
+                    "name": "Halbe Schweinshaxe mit Biersauce",
+                    "price": 3.0,
+                    "ingredients": [
+                        "99",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S"
+                    ],
+                    "dish_type": "Aktionsessen 6"
                 }
             ]
         },

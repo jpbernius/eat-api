@@ -145,7 +145,7 @@
                     "dish_type": ""
                 },
                 {
-                    "name": "Gebratene Schupfnudeln",
+                    "name": "Schupfnudeln",
                     "price": "N/A",
                     "ingredients": [
                         "Ei",
@@ -238,22 +238,22 @@
             "date": "2019-12-19",
             "dishes": [
                 {
-                    "name": "Cevapcici von der Pute mit Ajvar",
+                    "name": "Arista al fiorentina - Schweinebraten toskanische Art",
                     "price": "0.68€ / 100g",
                     "ingredients": [
-                        "Ei",
-                        "Gl",
-                        "GlW",
+                        "5",
+                        "99",
                         "Kn",
-                        "Mi",
-                        "Sf"
+                        "Sw"
                     ],
                     "dish_type": "Self-Service"
                 },
                 {
-                    "name": "Tortellini (Käsefüllung) mit Kräutersauce",
+                    "name": "Tortellini al forno",
                     "price": "N/A",
                     "ingredients": [
+                        "1",
+                        "2",
                         "Ei",
                         "Gl",
                         "GlW",
@@ -276,11 +276,9 @@
                     "dish_type": ""
                 },
                 {
-                    "name": "Djuvecreis",
+                    "name": "Rosmarinkartoffeln",
                     "price": "N/A",
-                    "ingredients": [
-                        "Kn"
-                    ],
+                    "ingredients": [],
                     "dish_type": ""
                 },
                 {
@@ -301,19 +299,18 @@
             "date": "2019-12-20",
             "dishes": [
                 {
-                    "name": "Frikadelle mit Speck-Zwiebel-Sauce",
+                    "name": "Paniertes Alaska-Seelachsfilet (MSC) mit Remouladensauce",
                     "price": "0.68€ / 100g",
                     "ingredients": [
-                        "2",
-                        "3",
+                        "1",
+                        "11",
                         "Ei",
+                        "Fi",
                         "Gl",
-                        "GlG",
                         "GlW",
-                        "Kn",
                         "Mi",
-                        "R",
-                        "S"
+                        "Sf",
+                        "Sw"
                     ],
                     "dish_type": "Self-Service"
                 },
@@ -338,6 +335,16 @@
                     "name": "Tagesgemüse",
                     "price": "N/A",
                     "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Kartoffel-Gurken-Salat",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "5",
+                        "Sw"
+                    ],
                     "dish_type": ""
                 },
                 {
