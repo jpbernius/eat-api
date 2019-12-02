@@ -1,0 +1,323 @@
+{
+    "number": 49,
+    "year": 2019,
+    "days": [
+        {
+            "date": "2019-12-02",
+            "dishes": [
+                {
+                    "name": "Brokkolicremesuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "Mi"
+                    ],
+                    "dish_type": "Suppe"
+                },
+                {
+                    "name": "Pikante Hähnchenstreifen",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "G"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Hausgemachtes Sellerie-Kartoffelschnitzel",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "3",
+                        "5",
+                        "Ei",
+                        "Gl",
+                        "Mi",
+                        "Sl",
+                        "So",
+                        "Sw"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Vegan gebratenes Gemüse mit Hirse, dazu marinierter Sesam-Tofu",
+                    "price": 2.8,
+                    "ingredients": [
+                        "2",
+                        "Se",
+                        "Sf",
+                        "So"
+                    ],
+                    "dish_type": "Extraessen"
+                }
+            ]
+        },
+        {
+            "date": "2019-12-03",
+            "dishes": [
+                {
+                    "name": "Zucchinisuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "Mi"
+                    ],
+                    "dish_type": "Suppe"
+                },
+                {
+                    "name": "Fränkischer Sauerbraten",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "R"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Wirsingauflauf",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "Ei",
+                        "Mi"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Gedünstetes Seelachsfilet mit Steckrüben-",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Fi"
+                    ],
+                    "dish_type": "Extraessen"
+                },
+                {
+                    "name": "Kartoffelpüree N, Dillsoße und Blattsalat",
+                    "price": 3.15,
+                    "ingredients": [
+                        "9",
+                        "Sf",
+                        "Sw"
+                    ],
+                    "dish_type": "Extraessen"
+                }
+            ]
+        },
+        {
+            "date": "2019-12-04",
+            "dishes": [
+                {
+                    "name": "Schwarzwurzelcremesuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "Mi"
+                    ],
+                    "dish_type": "Suppe"
+                },
+                {
+                    "name": "Butterschnitzel",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "Mi",
+                        "S"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Germknödel mit Mohn und Vanillesoße",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "9",
+                        "Ei",
+                        "Gl",
+                        "Mi"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Spätzle-Gemüse-Pfanne mit Tomatendip",
+                    "price": 2.4,
+                    "ingredients": [
+                        "3",
+                        "Ei",
+                        "Gl",
+                        "Mi",
+                        "Sl"
+                    ],
+                    "dish_type": "Extraessen"
+                }
+            ]
+        },
+        {
+            "date": "2019-12-05",
+            "dishes": [
+                {
+                    "name": "Pastinakencremesuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "Mi"
+                    ],
+                    "dish_type": "Suppe"
+                },
+                {
+                    "name": "Herzhafter Hackbraten",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "Mi",
+                        "S",
+                        "Sf",
+                        "So"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Kartoffelstrudel",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "Mi"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Putenstreifen \" Süß-Sauer \" mit Gemüse 9,B,M, dazu Glasnudeln",
+                    "price": 3.45,
+                    "ingredients": [
+                        "Ei",
+                        "G"
+                    ],
+                    "dish_type": "Extraessen"
+                }
+            ]
+        },
+        {
+            "date": "2019-12-06",
+            "dishes": [
+                {
+                    "name": "Kartoffelrahmsuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "Mi"
+                    ],
+                    "dish_type": "Suppe"
+                },
+                {
+                    "name": "Kräuterkalbsklößchen",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "K",
+                        "Mi",
+                        "So"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Kräuterpuffer",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "3",
+                        "5",
+                        "Ei",
+                        "Gl",
+                        "Mi",
+                        "So",
+                        "Sw"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Gefüllte Paprikaschote mit Tomatensoße und Kartoffeln",
+                    "price": 3.6,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "R",
+                        "S"
+                    ],
+                    "dish_type": "Extraessen"
+                }
+            ]
+        },
+        {
+            "date": "2019-12-07",
+            "dishes": [
+                {
+                    "name": "Brühe mit Gemüsewürfeln",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Sl"
+                    ],
+                    "dish_type": "Suppe"
+                },
+                {
+                    "name": "Grüner Bohneneintopf mit Speck",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "3",
+                        "4",
+                        "8",
+                        "S"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Buntes Gemüseragout mit Kokosmilch",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "Mi"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                }
+            ]
+        },
+        {
+            "date": "2019-12-08",
+            "dishes": [
+                {
+                    "name": "Spinatcremesuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "Mi"
+                    ],
+                    "dish_type": "Suppe"
+                },
+                {
+                    "name": "Geschmorte Kalbsnuss",
+                    "price": "N/A",
+                    "ingredients": [
+                        "K"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Rahmschwammerl mit Semmelknödel",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "3",
+                        "Ei",
+                        "Gl",
+                        "Mi",
+                        "So"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                }
+            ]
+        }
+    ]
+}
