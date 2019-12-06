@@ -1,0 +1,184 @@
+{
+    "number": 50,
+    "year": 2019,
+    "days": [
+        {
+            "date": "2019-12-09",
+            "dishes": [
+                {
+                    "name": "Tagessuppe",
+                    "price": 1.0,
+                    "ingredients": [
+                        "Gl",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht"
+                },
+                {
+                    "name": "(*) Broccoli- Nußecke auf Karotten- Couscous mit Kräutermajo",
+                    "price": 4.5,
+                    "ingredients": [
+                        "Gl",
+                        "Mi",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht"
+                },
+                {
+                    "name": "Pasta Front-Cooking Tortellini al Carne al Forno",
+                    "price": 4.9,
+                    "ingredients": [
+                        "Gl",
+                        "Mi",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht"
+                }
+            ]
+        },
+        {
+            "date": "2019-12-10",
+            "dishes": [
+                {
+                    "name": "Tagessuppe",
+                    "price": 1.0,
+                    "ingredients": [
+                        "Gl",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht"
+                },
+                {
+                    "name": "(*) Grüne Bohneneintopf mit Gemüse und Kartoffeln",
+                    "price": 4.9,
+                    "ingredients": [
+                        "Ei",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht"
+                },
+                {
+                    "name": "Frisch vom Grill Leberkäse mit Spiegelei und Kartoffelsalat",
+                    "price": 4.6,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "Mi",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht"
+                }
+            ]
+        },
+        {
+            "date": "2019-12-11",
+            "dishes": [
+                {
+                    "name": "Tagessuppe",
+                    "price": 1.0,
+                    "ingredients": [
+                        "Gl",
+                        "Mi",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht"
+                },
+                {
+                    "name": "Gefüllte Zucchini auf Gemüsereis",
+                    "price": 4.5,
+                    "ingredients": [
+                        "Gl",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht"
+                },
+                {
+                    "name": "Pasta Front-Cooking (*) Pasta alla arrabiata (Scharf)",
+                    "price": 4.9,
+                    "ingredients": [
+                        "Gl",
+                        "Mi",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht"
+                },
+                {
+                    "name": "Lasagne “ Bolognese” mit Rindfleisch",
+                    "price": 5.5,
+                    "ingredients": [],
+                    "dish_type": "Tagesgericht"
+                }
+            ]
+        },
+        {
+            "date": "2019-12-12",
+            "dishes": [
+                {
+                    "name": "Tagessuppe",
+                    "price": 1.0,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "Mi",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht"
+                },
+                {
+                    "name": "Zwiebelkuchen mit grünem Salat",
+                    "price": 4.5,
+                    "ingredients": [
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht"
+                },
+                {
+                    "name": "Frisch vom Grill Currywurst mit Pommes Frites",
+                    "price": 5.5,
+                    "ingredients": [
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht"
+                }
+            ]
+        },
+        {
+            "date": "2019-12-13",
+            "dishes": [
+                {
+                    "name": "Tagessuppe",
+                    "price": 1.0,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "Mi"
+                    ],
+                    "dish_type": "Tagesgericht"
+                },
+                {
+                    "name": "Kaiserschmarrn mit Apfelmus",
+                    "price": 4.3,
+                    "ingredients": [
+                        "Gl",
+                        "Mi",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht"
+                },
+                {
+                    "name": "Pasta Front-Cooking Pasta mit Gemüseragout",
+                    "price": 4.9,
+                    "ingredients": [
+                        "En",
+                        "Gl",
+                        "Mi",
+                        "Sc",
+                        "Sl",
+                        "So"
+                    ],
+                    "dish_type": "Tagesgericht"
+                }
+            ]
+        }
+    ]
+}
