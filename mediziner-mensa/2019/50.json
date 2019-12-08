@@ -1,0 +1,331 @@
+{
+    "number": 50,
+    "year": 2019,
+    "days": [
+        {
+            "date": "2019-12-09",
+            "dishes": [
+                {
+                    "name": "Selleriecremesuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "Mi",
+                        "Sl"
+                    ],
+                    "dish_type": "Suppe"
+                },
+                {
+                    "name": "Gebratene Hühnerbrust",
+                    "price": "N/A",
+                    "ingredients": [
+                        "G"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Nussstrudel ,B,Y,M,N,O mit Zimt-Vanillesoße",
+                    "price": "N/A",
+                    "ingredients": [
+                        "9",
+                        "Mi"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Bad Thai - Bratnudeln mit Ei und Gemüse- mit Radicchiosalat",
+                    "price": 3.4,
+                    "ingredients": [
+                        "9",
+                        "Ei",
+                        "En",
+                        "Sf",
+                        "So",
+                        "Sw"
+                    ],
+                    "dish_type": "Extraessen"
+                }
+            ]
+        },
+        {
+            "date": "2019-12-10",
+            "dishes": [
+                {
+                    "name": "Erbsencremesuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "Mi"
+                    ],
+                    "dish_type": "Suppe"
+                },
+                {
+                    "name": "Wirsingroulade",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "R",
+                        "S"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Pilzbratling",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "Mi",
+                        "So",
+                        "Sw"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Jägerschnitzel mit Kartoffelwedges B, dazu grüne Bohnen",
+                    "price": 3.6,
+                    "ingredients": [
+                        "Gl",
+                        "Mi",
+                        "S"
+                    ],
+                    "dish_type": "Extraessen"
+                }
+            ]
+        },
+        {
+            "date": "2019-12-11",
+            "dishes": [
+                {
+                    "name": "Kohlrabisuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "Mi"
+                    ],
+                    "dish_type": "Suppe"
+                },
+                {
+                    "name": "Asiatisches Rindercurry",
+                    "price": "N/A",
+                    "ingredients": [
+                        "En",
+                        "Gl",
+                        "Mi",
+                        "R"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Allgäuer Schupfnudeln mit Sauerkraut",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "Mi",
+                        "So"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Schinkennudeln mit Tomatensoße B, dazu Endiviensalat",
+                    "price": 2.4,
+                    "ingredients": [
+                        "2",
+                        "3",
+                        "4",
+                        "8",
+                        "9",
+                        "G",
+                        "Gl",
+                        "Mi",
+                        "Sf",
+                        "Sw"
+                    ],
+                    "dish_type": "Extraessen"
+                }
+            ]
+        },
+        {
+            "date": "2019-12-12",
+            "dishes": [
+                {
+                    "name": "Petersiliencremesuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "Mi"
+                    ],
+                    "dish_type": "Suppe"
+                },
+                {
+                    "name": "Hähnchenfilet mit Spinatfüllung",
+                    "price": "N/A",
+                    "ingredients": [
+                        "G",
+                        "Gl",
+                        "Mi",
+                        "Sf",
+                        "Sl"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Möhren-Schwarzwurzel-Gratin",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "Ei",
+                        "Gl",
+                        "Mi"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Vegane marrokanische Reispfanne mit mediterranem Gemüse und Tomaten-Orangen-Soße",
+                    "price": 2.6,
+                    "ingredients": [
+                        "Gl"
+                    ],
+                    "dish_type": "Extraessen"
+                }
+            ]
+        },
+        {
+            "date": "2019-12-13",
+            "dishes": [
+                {
+                    "name": "Thailändische Currysuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "Mi",
+                        "So"
+                    ],
+                    "dish_type": "Suppe"
+                },
+                {
+                    "name": "Schweinenackenbraten",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "S"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Pfannkuchen mit Quark-Rosinen-",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Füllung B,Y,M, dazu Apfelmus",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "9"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Seelachs in Röstipanade mit Zitronenecke",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Fi",
+                        "Gl"
+                    ],
+                    "dish_type": "Extraessen"
+                },
+                {
+                    "name": "Kartoffel-Gurken-Salat und Remoulade",
+                    "price": 3.7,
+                    "ingredients": [
+                        "2",
+                        "Ei",
+                        "Gl",
+                        "Mi",
+                        "Sf",
+                        "Sl",
+                        "Sw"
+                    ],
+                    "dish_type": "Extraessen"
+                }
+            ]
+        },
+        {
+            "date": "2019-12-14",
+            "dishes": [
+                {
+                    "name": "Riebelesuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl"
+                    ],
+                    "dish_type": "Suppe"
+                },
+                {
+                    "name": "Gaisburger Marsch",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "Ei",
+                        "Gl",
+                        "R",
+                        "Sl"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Gebratene Polentaschnitte",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "Ei",
+                        "Mi"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                }
+            ]
+        },
+        {
+            "date": "2019-12-15",
+            "dishes": [
+                {
+                    "name": "Karottencremesuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "Mi"
+                    ],
+                    "dish_type": "Suppe"
+                },
+                {
+                    "name": "Putenbraten",
+                    "price": "N/A",
+                    "ingredients": [
+                        "G",
+                        "Gl"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Kohlrabischnitzel",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "Mi",
+                        "So"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                }
+            ]
+        }
+    ]
+}
