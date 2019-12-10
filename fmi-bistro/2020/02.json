@@ -1,0 +1,160 @@
+{
+    "number": 2,
+    "year": 2020,
+    "days": [
+        {
+            "date": "2020-01-06",
+            "dishes": []
+        },
+        {
+            "date": "2020-01-07",
+            "dishes": [
+                {
+                    "name": "Tagessuppe",
+                    "price": 1.0,
+                    "ingredients": [
+                        "Gl",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht"
+                },
+                {
+                    "name": "(*) Süßkartoffel-Curry mit geräucherten Tofu",
+                    "price": 4.5,
+                    "ingredients": [
+                        "Ei",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht"
+                },
+                {
+                    "name": "Frisch vom Grill Leberkäse mit Spiegelei und Kartoffelsalat",
+                    "price": 4.6,
+                    "ingredients": [
+                        "Gl",
+                        "Sf",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-08",
+            "dishes": [
+                {
+                    "name": "Tagessuppe",
+                    "price": 1.0,
+                    "ingredients": [
+                        "Gl",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht"
+                },
+                {
+                    "name": "(*) Linsen-CousCous mit Blattspinat und Sojajoghurt",
+                    "price": 4.5,
+                    "ingredients": [
+                        "Gl",
+                        "Mi",
+                        "Sc",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht"
+                },
+                {
+                    "name": "Pasta Front-Cooking Makkaroni al Pesto Genovese",
+                    "price": 4.9,
+                    "ingredients": [
+                        "Gl",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht"
+                },
+                {
+                    "name": "Rinderhackfleischpfanne mit Bohnen Schupfnudeln und Gemüse",
+                    "price": 5.5,
+                    "ingredients": [
+                        "Gl",
+                        "Kr",
+                        "Si"
+                    ],
+                    "dish_type": "Tagesgericht"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-09",
+            "dishes": [
+                {
+                    "name": "Tagessuppe",
+                    "price": 1.0,
+                    "ingredients": [
+                        "Gl",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht"
+                },
+                {
+                    "name": "(*) Vegane Chilli mit Kidneybohnen Mais und Paprika",
+                    "price": 4.5,
+                    "ingredients": [
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht"
+                },
+                {
+                    "name": "Frisch vom Grill Currywurst mit Pommes Frites",
+                    "price": 4.95,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "Mi",
+                        "Se",
+                        "Sf",
+                        "Sl",
+                        "So",
+                        "Wt"
+                    ],
+                    "dish_type": "Tagesgericht"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-10",
+            "dishes": [
+                {
+                    "name": "Tagessuppe",
+                    "price": 1.0,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "Mi"
+                    ],
+                    "dish_type": "Tagesgericht"
+                },
+                {
+                    "name": "Germknödel mit Mohn- Vanillesoße",
+                    "price": 4.3,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht"
+                },
+                {
+                    "name": "Pasta Front-Cooking Schinkennudeln mit Ei",
+                    "price": 4.9,
+                    "ingredients": [
+                        "En",
+                        "Gl",
+                        "Sc",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht"
+                }
+            ]
+        }
+    ]
+}
