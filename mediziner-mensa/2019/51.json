@@ -1,0 +1,328 @@
+{
+    "number": 51,
+    "year": 2019,
+    "days": [
+        {
+            "date": "2019-12-16",
+            "dishes": [
+                {
+                    "name": "Brokkolicremesuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "Mi"
+                    ],
+                    "dish_type": "Suppe"
+                },
+                {
+                    "name": "Rindergeschnetzeltes",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "Mi",
+                        "R"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Lauch-Bulgur-Bulette",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "Mi"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Vegane Dinkelpfanne mit Gemüse und Salsa",
+                    "price": 2.45,
+                    "ingredients": [
+                        "Gl",
+                        "Sw"
+                    ],
+                    "dish_type": "Extraessen"
+                }
+            ]
+        },
+        {
+            "date": "2019-12-17",
+            "dishes": [
+                {
+                    "name": "Zucchinisuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "Mi"
+                    ],
+                    "dish_type": "Suppe"
+                },
+                {
+                    "name": "Leberkäse",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "8",
+                        "R",
+                        "S",
+                        "Sf"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Parmesanrisotto",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "Mi",
+                        "Sw"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Hähnchenbrust in Rahmsoße mit Penne und Radicchiosalat",
+                    "price": 3.6,
+                    "ingredients": [
+                        "3",
+                        "9",
+                        "G",
+                        "Gl",
+                        "Mi",
+                        "Sf",
+                        "Sw"
+                    ],
+                    "dish_type": "Extraessen"
+                }
+            ]
+        },
+        {
+            "date": "2019-12-18",
+            "dishes": [
+                {
+                    "name": "Schwarzwurzelcremesuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "Mi"
+                    ],
+                    "dish_type": "Suppe"
+                },
+                {
+                    "name": "Tessiner Wintereintopf mit Weißkraut und Schweinefleisch",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "3",
+                        "4",
+                        "8",
+                        "S",
+                        "Sl"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Gemüselasagne",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "3",
+                        "Ei",
+                        "Gl",
+                        "Mi",
+                        "Sl"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Paniertes Schnitzel vom Schwein oder Pute mit Kartoffelmayosalat und Zitronenecke",
+                    "price": 3.5,
+                    "ingredients": [
+                        "3",
+                        "4",
+                        "Ei",
+                        "G",
+                        "Gl",
+                        "S",
+                        "Sf"
+                    ],
+                    "dish_type": "Extraessen"
+                }
+            ]
+        },
+        {
+            "date": "2019-12-19",
+            "dishes": [
+                {
+                    "name": "Pastinakencremesuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "Mi"
+                    ],
+                    "dish_type": "Suppe"
+                },
+                {
+                    "name": "Gebratenes Putenschnitzel",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "3",
+                        "4",
+                        "8",
+                        "G"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Spaghetti mit Tomaten-Basilikum-Soße",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Käsespätzle mit Röstzwiebeln und Karotten-Apfel-Salat",
+                    "price": 2.45,
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "3",
+                        "9",
+                        "Ei",
+                        "Gl",
+                        "Mi",
+                        "Sw"
+                    ],
+                    "dish_type": "Extraessen"
+                }
+            ]
+        },
+        {
+            "date": "2019-12-20",
+            "dishes": [
+                {
+                    "name": "Kartoffelrahmsuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "Mi"
+                    ],
+                    "dish_type": "Suppe"
+                },
+                {
+                    "name": "Wildlachsfilet",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Fi"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Tortellini mit Käsefüllung",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "Mi"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Indischer Lammeintopf mit Spinat und",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl"
+                    ],
+                    "dish_type": "Extraessen"
+                },
+                {
+                    "name": "Zwiebeln, dazu eine Vollkornsemmel",
+                    "price": 5.05,
+                    "ingredients": [
+                        "Gl"
+                    ],
+                    "dish_type": "Extraessen"
+                }
+            ]
+        },
+        {
+            "date": "2019-12-21",
+            "dishes": [
+                {
+                    "name": "Brühe mit Gemüsewürfeln",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Sl"
+                    ],
+                    "dish_type": "Suppe"
+                },
+                {
+                    "name": "Putengeschnetzeltes",
+                    "price": "N/A",
+                    "ingredients": [
+                        "G",
+                        "Gl",
+                        "Mi"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Schwäbische Linsen mit Spätzle",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "Ei",
+                        "Gl",
+                        "Sl",
+                        "Sw"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                }
+            ]
+        },
+        {
+            "date": "2019-12-22",
+            "dishes": [
+                {
+                    "name": "Spinatcremesuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "Mi"
+                    ],
+                    "dish_type": "Suppe"
+                },
+                {
+                    "name": "Rinderbraten \" Esterhazy \"",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "Mi",
+                        "R",
+                        "Sl"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Kartoffel-Käse-Bratling",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "3",
+                        "Ei",
+                        "Mi",
+                        "Sw"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                }
+            ]
+        }
+    ]
+}
