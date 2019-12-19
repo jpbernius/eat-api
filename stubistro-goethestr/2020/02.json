@@ -1,0 +1,58 @@
+{
+    "number": 2,
+    "year": 2020,
+    "days": [
+        {
+            "date": "2020-01-07",
+            "dishes": [
+                {
+                    "name": "Kalbsrahmgulasch mit Champignons und Weißwein",
+                    "price": 3.0,
+                    "ingredients": [
+                        "5",
+                        "99",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sw"
+                    ],
+                    "dish_type": "Aktionsessen 6"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-08",
+            "dishes": [
+                {
+                    "name": "Pasta mit Champignonrahmsauce",
+                    "price": 1.9,
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi"
+                    ],
+                    "dish_type": "Tagesgericht 3"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-09",
+            "dishes": [
+                {
+                    "name": "Rendang - Indonesisches Rindfleisch",
+                    "price": 3.2,
+                    "ingredients": [
+                        "2",
+                        "R"
+                    ],
+                    "dish_type": "Aktionsessen 7"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-10",
+            "dishes": []
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "number": 5,
+    "year": 2020,
+    "days": [
+        {
+            "date": "2020-01-27",
+            "dishes": [
+                {
+                    "name": "Kalbsrahmgulasch mit Pilzen und Weißwein",
+                    "price": 3.5,
+                    "ingredients": [
+                        "5",
+                        "99",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "Sw"
+                    ],
+                    "dish_type": "Aktionsessen 8"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-28",
+            "dishes": []
+        },
+        {
+            "date": "2020-01-29",
+            "dishes": []
+        },
+        {
+            "date": "2020-01-30",
+            "dishes": [
+                {
+                    "name": "Spanferkelrollbraten mit Biersauce",
+                    "price": 2.8,
+                    "ingredients": [
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S"
+                    ],
+                    "dish_type": "Aktionsessen 5"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-31",
+            "dishes": [
+                {
+                    "name": "Forelle Müllerin Art mit Mandelbutter",
+                    "price": 4.0,
+                    "ingredients": [
+                        "Fi",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sc",
+                        "ScM"
+                    ],
+                    "dish_type": "Aktionsessen 9"
+                }
+            ]
+        }
+    ]
+}

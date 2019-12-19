@@ -1,0 +1,318 @@
+{
+    "number": 3,
+    "year": 2020,
+    "days": [
+        {
+            "date": "2020-01-13",
+            "dishes": [
+                {
+                    "name": "Ravioli mit Pilzfüllung in pikanter Kräutersauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "Sl"
+                    ],
+                    "dish_type": "Pasta"
+                },
+                {
+                    "name": "Kotelett vom Lamm mit Rosmarinjus",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi"
+                    ],
+                    "dish_type": "Grill"
+                },
+                {
+                    "name": "Arabischer Couscous mit Karotten und Kichererbsen",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ],
+                    "dish_type": "Vegan, Eintopf, Suppe"
+                },
+                {
+                    "name": "Tagessuppe",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Rougaille (Soja in würziger Tomatensauce)",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Kn",
+                        "Sf",
+                        "So"
+                    ],
+                    "dish_type": "Vegetarisch"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-14",
+            "dishes": [
+                {
+                    "name": "Penne all'amatriciana",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "3",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "S",
+                        "Sl"
+                    ],
+                    "dish_type": "Pasta"
+                },
+                {
+                    "name": "Gebratenes Schweinefleisch mit Gemüe in Hoisinsauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "S",
+                        "So"
+                    ],
+                    "dish_type": "Wok"
+                },
+                {
+                    "name": "Frisches Gemüse aus der Pfanne mit Reis",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": "Vegan, Eintopf, Suppe"
+                },
+                {
+                    "name": "Tagessuppe",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Super-Green-Detox (Eintopf mit grünen Bohnen, Lauch, Stangensellerie, Weißkraut)",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Sl"
+                    ],
+                    "dish_type": "Vegetarisch"
+                },
+                {
+                    "name": "Rinderbraten (GQB) mit Rotweinsauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "99",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "Sl",
+                        "Sw"
+                    ],
+                    "dish_type": "Fleisch"
+                },
+                {
+                    "name": "Deftiges Bauerngulasch (GQB)",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R"
+                    ],
+                    "dish_type": ""
+                }
+            ]
+        },
+        {
+            "date": "2020-01-15",
+            "dishes": [
+                {
+                    "name": "Rinderhacksteak mit Sauce Bernaise",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Mi",
+                        "R",
+                        "Sf",
+                        "Sl"
+                    ],
+                    "dish_type": "Grill"
+                },
+                {
+                    "name": "Veganer Borschtsch mit Kraut, Kartoffeln und Roter Beete",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "5",
+                        "9",
+                        "Kn",
+                        "Sw"
+                    ],
+                    "dish_type": "Vegan, Eintopf, Suppe"
+                },
+                {
+                    "name": "Tagessuppe",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Orange-Bomb-Detox (Eintopf mit Kürbis, Karotte, Kartoffel und Kokos)",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": "Vegetarisch"
+                },
+                {
+                    "name": "Pfannkuchen mit Apfelmus",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi"
+                    ],
+                    "dish_type": "Süßspeise"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-16",
+            "dishes": [
+                {
+                    "name": "Käsekrainer mit Bratensauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "3",
+                        "8",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "S",
+                        "Sf"
+                    ],
+                    "dish_type": "Grill"
+                },
+                {
+                    "name": "Pikante Hirse mit Gemüse",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "Kn"
+                    ],
+                    "dish_type": "Vegan, Eintopf, Suppe"
+                },
+                {
+                    "name": "Tagessuppe",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Red-Hot-Chili-Detox (Eintopf mit roter Paprika, Chili und weißen Bohnen)",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "Kn"
+                    ],
+                    "dish_type": "Vegetarisch"
+                },
+                {
+                    "name": "Surbraten vom Schweinehals mit Rosmarinjus",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "8",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S"
+                    ],
+                    "dish_type": "Fleisch"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-17",
+            "dishes": [
+                {
+                    "name": "Spaghetti Frutti di Mare",
+                    "price": "N/A",
+                    "ingredients": [
+                        "6",
+                        "Gl",
+                        "GlW",
+                        "Kr",
+                        "Wt"
+                    ],
+                    "dish_type": "Pasta"
+                },
+                {
+                    "name": "Gemüsecurry mit roten Linsen, Spinat und Kokosmilch",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "So"
+                    ],
+                    "dish_type": "Wok"
+                },
+                {
+                    "name": "Italienischer Bohneneintopf",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Kn",
+                        "Sl"
+                    ],
+                    "dish_type": "Vegan, Eintopf, Suppe"
+                },
+                {
+                    "name": "Tagessuppe",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Spicy-Vegetable-Detox (Eintopf mit Fenchel, Karotte, Paprika,Bohnen)",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": "Vegetarisch"
+                },
+                {
+                    "name": "Dampfnudel mit Vanillesauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi"
+                    ],
+                    "dish_type": "Süßspeise"
+                }
+            ]
+        }
+    ]
+}

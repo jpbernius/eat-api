@@ -1,0 +1,283 @@
+{
+    "number": 3,
+    "year": 2020,
+    "days": [
+        {
+            "date": "2020-01-13",
+            "dishes": [
+                {
+                    "name": "Ravioli mit Pilzfüllung in pikanter Kräutersauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "Sl"
+                    ],
+                    "dish_type": "Pasta"
+                },
+                {
+                    "name": "Rotes Thaicurry mit Hackbällchen & Zucchini",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "S"
+                    ],
+                    "dish_type": "Wok"
+                },
+                {
+                    "name": "Arabischer Couscous mit Karotten und Kichererbsen",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ],
+                    "dish_type": "Vegan, Eintopf, Suppe"
+                },
+                {
+                    "name": "Tagessuppe",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Gulasch vom Schwein",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S"
+                    ],
+                    "dish_type": "Fleisch"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-14",
+            "dishes": [
+                {
+                    "name": "Gebratenes Schweinefleisch mit Gemüse in Hoisinsauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "S",
+                        "So"
+                    ],
+                    "dish_type": "Wok"
+                },
+                {
+                    "name": "Frisches Gemüse aus der Pfanne",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": "Vegan, Eintopf, Suppe"
+                },
+                {
+                    "name": "Tagessuppe",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Super-Green-Detox (Eintopf mit grünen Bohnen, Lauch, Stangensellerie, Weißkraut)",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Sl"
+                    ],
+                    "dish_type": "Vegetarisch"
+                },
+                {
+                    "name": "Rinderbraten (GQB) mit Rotweinsauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "99",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "Sl",
+                        "Sw"
+                    ],
+                    "dish_type": "Fleisch"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-15",
+            "dishes": [
+                {
+                    "name": "Grünes Hähnchen-Curry mit Wokgemüse",
+                    "price": "N/A",
+                    "ingredients": [
+                        "En",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "So"
+                    ],
+                    "dish_type": "Wok"
+                },
+                {
+                    "name": "Veganer Borschtsch mit Kraut, Kartoffeln und Roter Beete",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "5",
+                        "9",
+                        "Kn",
+                        "Sw"
+                    ],
+                    "dish_type": "Vegan, Eintopf, Suppe"
+                },
+                {
+                    "name": "Tagessuppe",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Orange-Bomb-Detox (Eintopf mit Kürbis, Karotte, Kartoffel und Kokos)",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": "Vegetarisch"
+                },
+                {
+                    "name": "Schweinesteak mit Schinken und Käse überbacken",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "3",
+                        "8",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S"
+                    ],
+                    "dish_type": "Fleisch"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-16",
+            "dishes": [
+                {
+                    "name": "Käsekrainer mit Bratensauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "3",
+                        "8",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "S",
+                        "Sf"
+                    ],
+                    "dish_type": "Grill"
+                },
+                {
+                    "name": "Pikante Hirse mit Gemüse",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "Kn"
+                    ],
+                    "dish_type": "Vegan, Eintopf, Suppe"
+                },
+                {
+                    "name": "Tagessuppe",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Red-Hot-Chili-Detox (Eintopf mit roter Paprika, Chili und weißen Bohnen)",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "Kn"
+                    ],
+                    "dish_type": "Vegetarisch"
+                },
+                {
+                    "name": "Hähnchenkeule mexikanische Art",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ],
+                    "dish_type": "Fleisch"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-17",
+            "dishes": [
+                {
+                    "name": "Lachsfilet auf Blattspinat",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Fi",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi"
+                    ],
+                    "dish_type": "Grill"
+                },
+                {
+                    "name": "Italienischer Bohneneintopf",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Kn",
+                        "Sl"
+                    ],
+                    "dish_type": "Vegan, Eintopf, Suppe"
+                },
+                {
+                    "name": "Tagessuppe",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Spicy-Vegetable-Detox (Eintopf mit Fenchel, Karotte, Paprika,Bohnen)",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": "Vegetarisch"
+                },
+                {
+                    "name": "Putenschnitzel mit Tomate und Mozzarella überbacken",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Mi"
+                    ],
+                    "dish_type": "Fleisch"
+                }
+            ]
+        }
+    ]
+}

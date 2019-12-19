@@ -1,0 +1,82 @@
+{
+    "number": 4,
+    "year": 2020,
+    "days": [
+        {
+            "date": "2020-01-20",
+            "dishes": [
+                {
+                    "name": "Rindergeschnetzeltes Stroganoff",
+                    "price": 3.2,
+                    "ingredients": [
+                        "2",
+                        "9",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "Sf"
+                    ],
+                    "dish_type": "Aktionsessen 7"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-21",
+            "dishes": [
+                {
+                    "name": "Allgäuer Käsespätzle mit Röstzwiebeln",
+                    "price": 2.4,
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "Ei",
+                        "Gl",
+                        "GlD",
+                        "GlW",
+                        "Mi"
+                    ],
+                    "dish_type": "Tagesgericht 4"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-22",
+            "dishes": [
+                {
+                    "name": "Pasta mit Tomaten-Frischkäse-Sauce",
+                    "price": 1.9,
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi"
+                    ],
+                    "dish_type": "Tagesgericht 3"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-23",
+            "dishes": [
+                {
+                    "name": "Currywurst mit Honig-Ingwer-Ketchup",
+                    "price": 1.9,
+                    "ingredients": [
+                        "8",
+                        "R",
+                        "S",
+                        "Sf"
+                    ],
+                    "dish_type": "Tagesgericht 3"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-24",
+            "dishes": []
+        }
+    ]
+}

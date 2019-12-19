@@ -1,0 +1,76 @@
+{
+    "number": 5,
+    "year": 2020,
+    "days": [
+        {
+            "date": "2020-01-27",
+            "dishes": [
+                {
+                    "name": "Kalbsrahmgulasch mit Pilzen und Weißwein",
+                    "price": 3.5,
+                    "ingredients": [
+                        "5",
+                        "99",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "Sw"
+                    ],
+                    "dish_type": "Aktionsessen 8"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-28",
+            "dishes": [
+                {
+                    "name": "Pasta mit Tomaten-Zucchini-Sauce",
+                    "price": 1.9,
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ],
+                    "dish_type": "Tagesgericht 3"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-30",
+            "dishes": [
+                {
+                    "name": "Spanferkelrollbraten mit Biersauce",
+                    "price": 2.8,
+                    "ingredients": [
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S"
+                    ],
+                    "dish_type": "Aktionsessen 5"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-31",
+            "dishes": [
+                {
+                    "name": "Gebratene Hähnchenkeule mit Barbecuesauce",
+                    "price": 1.9,
+                    "ingredients": [
+                        "10",
+                        "11",
+                        "Kn",
+                        "Sf",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht 3"
+                }
+            ]
+        }
+    ]
+}

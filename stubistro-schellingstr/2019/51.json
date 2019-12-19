@@ -38,21 +38,6 @@
             "date": "2019-12-17",
             "dishes": [
                 {
-                    "name": "Kartoffel-Pilz-Auflauf mit frischem Lauch und Dip",
-                    "price": "N/A",
-                    "ingredients": [
-                        "1",
-                        "2",
-                        "Ei",
-                        "Gl",
-                        "GlW",
-                        "Kn",
-                        "Mi",
-                        "Sf"
-                    ],
-                    "dish_type": "StuBistro Self-Service"
-                },
-                {
                     "name": "Schinkennudeln (Vorderschinken) mit Zwiebeln und Ei",
                     "price": "N/A",
                     "ingredients": [
@@ -67,24 +52,27 @@
                         "S"
                     ],
                     "dish_type": "StuBistro Self-Service"
+                },
+                {
+                    "name": "Kartoffel-Pilz-Auflauf mit frischem Lauch und Dip",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "Sf"
+                    ],
+                    "dish_type": "StuBistro Self-Service"
                 }
             ]
         },
         {
             "date": "2019-12-18",
             "dishes": [
-                {
-                    "name": "Spinatknödel Tiroler Art mit Bergkäse",
-                    "price": "N/A",
-                    "ingredients": [
-                        "Ei",
-                        "Gl",
-                        "GlW",
-                        "Mi",
-                        "Sl"
-                    ],
-                    "dish_type": "StuBistro Self-Service"
-                },
                 {
                     "name": "Boeuf à la mode aus dem Rinderbug",
                     "price": "N/A",
@@ -100,6 +88,18 @@
                         "R",
                         "Sl",
                         "Sw"
+                    ],
+                    "dish_type": "StuBistro Self-Service"
+                },
+                {
+                    "name": "Spinatknödel Tiroler Art mit Bergkäse",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sl"
                     ],
                     "dish_type": "StuBistro Self-Service"
                 }

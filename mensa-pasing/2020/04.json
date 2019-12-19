@@ -1,0 +1,299 @@
+{
+    "number": 4,
+    "year": 2020,
+    "days": [
+        {
+            "date": "2020-01-20",
+            "dishes": [
+                {
+                    "name": "Penne all'arrabiata",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ],
+                    "dish_type": "Pasta"
+                },
+                {
+                    "name": "Gebratene Hähnchenbruststreifen in scharfem Gemüse",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ],
+                    "dish_type": "Wok"
+                },
+                {
+                    "name": "Gemüsegulasch",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Kn"
+                    ],
+                    "dish_type": "Vegan, Eintopf, Suppe"
+                },
+                {
+                    "name": "Tagessuppe",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Südtiroler Schlutzkrapfen auf Schwarzwurzeln mit Grana Padano",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlR",
+                        "GlW",
+                        "Kn",
+                        "Mi"
+                    ],
+                    "dish_type": "Vegetarisch"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-21",
+            "dishes": [
+                {
+                    "name": "Pasta mit Gorgonzolasauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Mi"
+                    ],
+                    "dish_type": "Pasta"
+                },
+                {
+                    "name": "Indisches Linsencurry",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Kn",
+                        "Sf",
+                        "Sl"
+                    ],
+                    "dish_type": "Vegan, Eintopf, Suppe"
+                },
+                {
+                    "name": "Tagessuppe",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Allgäuer Käsespätzle mit Röstzwiebeln",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "Ei",
+                        "Gl",
+                        "GlD",
+                        "GlW",
+                        "Mi"
+                    ],
+                    "dish_type": "Vegetarisch"
+                },
+                {
+                    "name": "Hähnchenknusperfilet mit Mango-Chili-Dip",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "11",
+                        "2",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sf"
+                    ],
+                    "dish_type": "Fleisch"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-22",
+            "dishes": [
+                {
+                    "name": "Asia-Pfanne mit Schweinefleisch",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "S",
+                        "Sf",
+                        "So"
+                    ],
+                    "dish_type": "Wok"
+                },
+                {
+                    "name": "Spanischer Gemüseeintopf",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Kn"
+                    ],
+                    "dish_type": "Vegan, Eintopf, Suppe"
+                },
+                {
+                    "name": "Tagessuppe",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Frühlingsrolle mit süßsaurer Sauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "Sl",
+                        "So"
+                    ],
+                    "dish_type": "Vegetarisch"
+                },
+                {
+                    "name": "Dampfnudel mit Vanillesauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi"
+                    ],
+                    "dish_type": "Süßspeise"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-23",
+            "dishes": [
+                {
+                    "name": "Bio-Penne mit Bio-Soja-Bolognese (dazu Hartkäse)",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "So"
+                    ],
+                    "dish_type": "Pasta"
+                },
+                {
+                    "name": "Couscous mit mediterranem Gemüse",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ],
+                    "dish_type": "Vegan, Eintopf, Suppe"
+                },
+                {
+                    "name": "Tagessuppe",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Frische Rahmschwammerl",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi"
+                    ],
+                    "dish_type": "Vegetarisch"
+                },
+                {
+                    "name": "Cevapcici mit Ajvar",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "Kn",
+                        "Mi",
+                        "S",
+                        "Se",
+                        "Sf",
+                        "Sl",
+                        "So"
+                    ],
+                    "dish_type": "Fleisch"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-24",
+            "dishes": [
+                {
+                    "name": "Tortellini mit Ricotta-Spinat-Füllung in Kräutersauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi"
+                    ],
+                    "dish_type": "Pasta"
+                },
+                {
+                    "name": "Gebratene Chinanudeln mit Wokgemüse und Ei",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Se",
+                        "Sf",
+                        "So"
+                    ],
+                    "dish_type": "Wok"
+                },
+                {
+                    "name": "Bauerneintopf",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Sl"
+                    ],
+                    "dish_type": "Vegan, Eintopf, Suppe"
+                },
+                {
+                    "name": "Tagessuppe",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Schollenfilet (MSC) paniert mit Remouladensauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "11",
+                        "2",
+                        "9",
+                        "Ei",
+                        "Fi",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sf"
+                    ],
+                    "dish_type": "Fisch"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "number": 4,
+    "year": 2020,
+    "days": [
+        {
+            "date": "2020-01-20",
+            "dishes": [
+                {
+                    "name": "Schweinehalssteak mit Kräuterbutter",
+                    "price": 2.6,
+                    "ingredients": [
+                        "Kn",
+                        "Mi",
+                        "S"
+                    ],
+                    "dish_type": "Aktionsessen 4"
+                },
+                {
+                    "name": "Spinatknödel Tiroler Art mit Bergkäse",
+                    "price": 3.0,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sl"
+                    ],
+                    "dish_type": "Aktionsessen 6"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-21",
+            "dishes": [
+                {
+                    "name": "Allgäuer Käsespätzle mit Röstzwiebeln",
+                    "price": 2.4,
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "Ei",
+                        "Gl",
+                        "GlD",
+                        "GlW",
+                        "Mi"
+                    ],
+                    "dish_type": "Tagesgericht 4"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-22",
+            "dishes": [
+                {
+                    "name": "Pasta mit Tomaten-Frischkäse-Sauce",
+                    "price": 1.9,
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi"
+                    ],
+                    "dish_type": "Tagesgericht 3"
+                },
+                {
+                    "name": "Halbe Schweinshaxe mit Biersauce",
+                    "price": 3.0,
+                    "ingredients": [
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S"
+                    ],
+                    "dish_type": "Aktionsessen 6"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-23",
+            "dishes": [
+                {
+                    "name": "Frische Rahmschwammerl",
+                    "price": 1.9,
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi"
+                    ],
+                    "dish_type": "Tagesgericht 3"
+                },
+                {
+                    "name": "Cevapcici mit Ajvar",
+                    "price": 2.4,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "Kn",
+                        "Mi",
+                        "S",
+                        "Se",
+                        "Sf",
+                        "Sl",
+                        "So"
+                    ],
+                    "dish_type": "Tagesgericht 4"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-24",
+            "dishes": [
+                {
+                    "name": "Schollenfilet (MSC) paniert mit Remouladensauce",
+                    "price": 2.6,
+                    "ingredients": [
+                        "11",
+                        "2",
+                        "9",
+                        "Ei",
+                        "Fi",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sf"
+                    ],
+                    "dish_type": "Aktionsessen 4"
+                },
+                {
+                    "name": "Kaiserschmarrn mit Apfelmus",
+                    "price": 2.6,
+                    "ingredients": [
+                        "3",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi"
+                    ],
+                    "dish_type": "Aktionsessen 4"
+                }
+            ]
+        }
+    ]
+}

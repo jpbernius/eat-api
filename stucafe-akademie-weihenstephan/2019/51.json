@@ -21,6 +21,8 @@
                     "name": "Spinatspätzlepfanne mit Bergkäse und abgeschmelzten Zwiebeln",
                     "price": 2.6,
                     "ingredients": [
+                        "1",
+                        "2",
                         "Ei",
                         "Gl",
                         "GlW",
@@ -34,7 +36,7 @@
             "date": "2019-12-17",
             "dishes": [
                 {
-                    "name": "Kartoffel-Pilz-Auflauf mit frischem Lauch und Dip",
+                    "name": "Kartoffelauflauf mit frischem Lauch und Dip",
                     "price": 2.4,
                     "ingredients": [
                         "1",
@@ -54,7 +56,7 @@
             "date": "2019-12-18",
             "dishes": [
                 {
-                    "name": "Pasta mit Putenbolognese",
+                    "name": "Pasta mit Putenragout",
                     "price": 2.4,
                     "ingredients": [
                         "Gl",
@@ -63,12 +65,35 @@
                         "Sl"
                     ],
                     "dish_type": "Tagesgericht 4"
+                },
+                {
+                    "name": "Apfelkücherl mit Vanillesauce",
+                    "price": 2.4,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi"
+                    ],
+                    "dish_type": "Aktionsessen 3"
                 }
             ]
         },
         {
             "date": "2019-12-19",
             "dishes": [
+                {
+                    "name": "Knöpflepfanne mit Gemüse und Kräuter",
+                    "price": 1.55,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlD",
+                        "GlW",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht 2"
+                },
                 {
                     "name": "Linsen mit Spätzle",
                     "price": 2.4,

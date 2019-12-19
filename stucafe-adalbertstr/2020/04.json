@@ -1,0 +1,161 @@
+{
+    "number": 4,
+    "year": 2020,
+    "days": [
+        {
+            "date": "2020-01-20",
+            "dishes": [
+                {
+                    "name": "Pasta all'arrabiata",
+                    "price": 1.55,
+                    "ingredients": [
+                        "2",
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ],
+                    "dish_type": "Tagesgericht 2"
+                },
+                {
+                    "name": "Rindergeschnetzeltes Stroganoff",
+                    "price": 3.2,
+                    "ingredients": [
+                        "2",
+                        "9",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "Sf"
+                    ],
+                    "dish_type": "Aktionsessen 7"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-21",
+            "dishes": [
+                {
+                    "name": "Hähnchenknusperfilet mit Mango-Chili-Dip",
+                    "price": 2.4,
+                    "ingredients": [
+                        "1",
+                        "11",
+                        "2",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sf"
+                    ],
+                    "dish_type": "Tagesgericht 4"
+                },
+                {
+                    "name": "Allgäuer Käsespätzle mit Röstzwiebeln",
+                    "price": 2.4,
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "Ei",
+                        "Gl",
+                        "GlD",
+                        "GlW",
+                        "Mi"
+                    ],
+                    "dish_type": "Aktionsessen 3"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-22",
+            "dishes": [
+                {
+                    "name": "Pasta mit Tomaten-Frischkäse-Sauce",
+                    "price": 1.9,
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi"
+                    ],
+                    "dish_type": "Tagesgericht 3"
+                },
+                {
+                    "name": "Halbe Schweinshaxe mit Biersauce",
+                    "price": 3.0,
+                    "ingredients": [
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S"
+                    ],
+                    "dish_type": "Aktionsessen 6"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-23",
+            "dishes": [
+                {
+                    "name": "Currywurst mit Honig-Ingwer-Ketchup",
+                    "price": 1.9,
+                    "ingredients": [
+                        "8",
+                        "R",
+                        "S",
+                        "Sf"
+                    ],
+                    "dish_type": "Tagesgericht 3"
+                },
+                {
+                    "name": "Frische Rahmschwammerl",
+                    "price": 1.9,
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi"
+                    ],
+                    "dish_type": "Aktionsessen 2"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-24",
+            "dishes": [
+                {
+                    "name": "Kaiserschmarrn mit Apfelmus",
+                    "price": 2.6,
+                    "ingredients": [
+                        "3",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi"
+                    ],
+                    "dish_type": "Aktionsessen 4"
+                },
+                {
+                    "name": "Schollenfilet (MSC) paniert mit Remouladensauce",
+                    "price": 2.6,
+                    "ingredients": [
+                        "11",
+                        "2",
+                        "9",
+                        "Ei",
+                        "Fi",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sf"
+                    ],
+                    "dish_type": "Aktionsessen 4"
+                }
+            ]
+        }
+    ]
+}

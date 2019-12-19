@@ -1,0 +1,84 @@
+{
+    "number": 4,
+    "year": 2020,
+    "days": [
+        {
+            "date": "2020-01-20",
+            "dishes": [
+                {
+                    "name": "Rindergeschnetzeltes Stroganoff",
+                    "price": 3.2,
+                    "ingredients": [
+                        "2",
+                        "9",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "Sf"
+                    ],
+                    "dish_type": "Aktionsessen 7"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-21",
+            "dishes": [
+                {
+                    "name": "Hähnchenknusperfilet mit Mango-Chili-Dip",
+                    "price": 2.4,
+                    "ingredients": [
+                        "1",
+                        "11",
+                        "2",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sf"
+                    ],
+                    "dish_type": "Tagesgericht 4"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-23",
+            "dishes": [
+                {
+                    "name": "Frische Rahmschwammerl",
+                    "price": 1.9,
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi"
+                    ],
+                    "dish_type": "Tagesgericht 3"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-24",
+            "dishes": [
+                {
+                    "name": "Schollenfilet (MSC) paniert mit Remouladensauce",
+                    "price": 2.6,
+                    "ingredients": [
+                        "11",
+                        "2",
+                        "9",
+                        "Ei",
+                        "Fi",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sf"
+                    ],
+                    "dish_type": "Aktionsessen 4"
+                }
+            ]
+        }
+    ]
+}

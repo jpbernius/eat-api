@@ -15,6 +15,16 @@
                     "dish_type": "Grill"
                 },
                 {
+                    "name": "Schweinerückensteak mit Kräuterbutter",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Kn",
+                        "Mi",
+                        "S"
+                    ],
+                    "dish_type": ""
+                },
+                {
                     "name": "Blumenkohl-Kartoffel-Curry",
                     "price": "N/A",
                     "ingredients": [
@@ -22,6 +32,27 @@
                         "Sl"
                     ],
                     "dish_type": "Vegan, Eintopf, Suppe"
+                },
+                {
+                    "name": "Erbsensuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Sl"
+                    ],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Graupen-Gemüse-Pfanne",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlG",
+                        "Kn",
+                        "Sl"
+                    ],
+                    "dish_type": ""
                 },
                 {
                     "name": "Spinatspätzlepfanne mit Bergkäse und abgeschmelzten Zwiebeln",
@@ -33,6 +64,21 @@
                         "Mi"
                     ],
                     "dish_type": "Vegetarisch"
+                },
+                {
+                    "name": "Krautwickerl mit Speck-Zwiebel-Sauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "3",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S"
+                    ],
+                    "dish_type": "Fleisch"
                 },
                 {
                     "name": "Schweinerahmgeschnetzeltes mit Pfifferlingen und Steinpilzen",
@@ -64,6 +110,7 @@
                         "8",
                         "Ei",
                         "Gl",
+                        "GlD",
                         "GlW",
                         "Kn",
                         "Mi",
@@ -72,17 +119,11 @@
                     "dish_type": "Pasta"
                 },
                 {
-                    "name": "Zwiebelrostbraten mit Rotweinsauce",
+                    "name": "Nürnberger Würstchen",
                     "price": "N/A",
                     "ingredients": [
-                        "99",
-                        "Gl",
-                        "GlG",
-                        "GlW",
-                        "Kn",
-                        "Mi",
                         "R",
-                        "Sw"
+                        "S"
                     ],
                     "dish_type": "Grill"
                 },
@@ -111,22 +152,30 @@
                     "dish_type": "Vegan, Eintopf, Suppe"
                 },
                 {
-                    "name": "Tagessuppe",
+                    "name": "Pfannkuchensuppe",
                     "price": "N/A",
-                    "ingredients": [],
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sl"
+                    ],
                     "dish_type": ""
                 },
                 {
-                    "name": "Jägerschnitzel von der Pute mit Waldpilzen",
+                    "name": "Schweinerahmgeschnetzeltes mit Pfifferlingen und Steinpilzen",
                     "price": "N/A",
                     "ingredients": [
-                        "2",
-                        "3",
+                        "5",
+                        "99",
                         "Gl",
                         "GlG",
                         "GlW",
                         "Kn",
-                        "Mi"
+                        "Mi",
+                        "S",
+                        "Sw"
                     ],
                     "dish_type": "Fleisch"
                 }
@@ -147,7 +196,17 @@
                     "dish_type": "Pasta"
                 },
                 {
-                    "name": "Hähnchenbrustfilet mit warmer Gemüsesalsa (scharf)",
+                    "name": "Pasta mit Waldpilzen",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Mi"
+                    ],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Putenbrustfilet mit warmer Gemüsesalsa (scharf)",
                     "price": "N/A",
                     "ingredients": [
                         "2",
@@ -165,9 +224,33 @@
                     "dish_type": "Vegan, Eintopf, Suppe"
                 },
                 {
-                    "name": "Tagessuppe",
+                    "name": "Karotten-Ingwer-Suppe",
                     "price": "N/A",
-                    "ingredients": [],
+                    "ingredients": [
+                        "Gl",
+                        "GlW"
+                    ],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Kräuterpolenta mit Tomatenragout",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Linseneintopf mit Gemüse",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "5",
+                        "Sl",
+                        "Sw"
+                    ],
                     "dish_type": ""
                 },
                 {
@@ -212,6 +295,7 @@
                         "6",
                         "Gl",
                         "GlD",
+                        "GlW",
                         "Kn",
                         "Mi"
                     ],
@@ -222,6 +306,7 @@
                     "price": "N/A",
                     "ingredients": [
                         "2",
+                        "4",
                         "Gl",
                         "GlW",
                         "Kn",
@@ -238,9 +323,40 @@
                     "dish_type": "Vegan, Eintopf, Suppe"
                 },
                 {
-                    "name": "Tagessuppe",
+                    "name": "Karotten-Ingwer-Suppe",
                     "price": "N/A",
-                    "ingredients": [],
+                    "ingredients": [
+                        "Gl",
+                        "GlW"
+                    ],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Boeuf à la mode aus dem Rinderbug (GQB)",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "5",
+                        "99",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "Sl",
+                        "Sw"
+                    ],
+                    "dish_type": "Fleisch"
+                },
+                {
+                    "name": "Putenbrustfilet mit Gemüsesalsa (scharf)",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "4",
+                        "Kn"
+                    ],
                     "dish_type": ""
                 },
                 {
@@ -248,8 +364,6 @@
                     "price": "N/A",
                     "ingredients": [
                         "11",
-                        "2",
-                        "9",
                         "Ei",
                         "Fi",
                         "Gl",
@@ -281,20 +395,32 @@
                     "ingredients": [
                         "Gl",
                         "GlW",
-                        "Kn"
+                        "Kn",
+                        "Sl"
                     ],
                     "dish_type": "Vegan, Eintopf, Suppe"
                 },
                 {
-                    "name": "Tagessuppe",
+                    "name": "Champignoncremesuppe",
                     "price": "N/A",
-                    "ingredients": [],
+                    "ingredients": [
+                        "5",
+                        "99",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "Sw"
+                    ],
                     "dish_type": ""
                 },
                 {
                     "name": "Schweineschnitzel Wiener Art",
                     "price": "N/A",
                     "ingredients": [
+                        "3",
+                        "5",
+                        "99",
                         "Gl",
                         "GlG",
                         "GlW",
@@ -302,9 +428,19 @@
                         "Mi",
                         "S",
                         "Sf",
-                        "Sl"
+                        "Sl",
+                        "Sw"
                     ],
                     "dish_type": "Fleisch"
+                },
+                {
+                    "name": "Putensteak mit Bratensauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Kn",
+                        "Mi"
+                    ],
+                    "dish_type": ""
                 }
             ]
         }

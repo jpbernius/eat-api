@@ -22,9 +22,24 @@
                         "Gl",
                         "GlW",
                         "Kn",
-                        "R"
+                        "R",
+                        "Sf"
                     ],
                     "dish_type": "Tagesgericht 3"
+                },
+                {
+                    "name": "Allgäuer Käsespätzle mit Röstzwiebeln",
+                    "price": 2.4,
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "Ei",
+                        "Gl",
+                        "GlD",
+                        "GlW",
+                        "Mi"
+                    ],
+                    "dish_type": "Tagesgericht 4"
                 },
                 {
                     "name": "Spinatspätzlepfanne mit Bergkäse und abgeschmelzten Zwiebeln",
@@ -32,6 +47,7 @@
                     "ingredients": [
                         "Ei",
                         "Gl",
+                        "GlD",
                         "GlW",
                         "Mi"
                     ],
@@ -95,7 +111,8 @@
                         "GlW",
                         "Kn",
                         "Mi",
-                        "Sf"
+                        "Sf",
+                        "Sl"
                     ],
                     "dish_type": "Tagesgericht 4"
                 },
@@ -128,34 +145,46 @@
                     "dish_type": "Tagesgericht 1"
                 },
                 {
-                    "name": "Pasta mit Putenbolognese",
+                    "name": "Tortellini (Käsefüllung) mit Käse-Sahne-Sauce",
+                    "price": 1.9,
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "Sf",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht 3"
+                },
+                {
+                    "name": "Bunte Nudel-Hackfleisch-Pfanne",
                     "price": 2.4,
                     "ingredients": [
                         "Gl",
                         "GlW",
                         "Kn",
-                        "Sl"
+                        "R"
                     ],
                     "dish_type": "Tagesgericht 4"
                 },
                 {
-                    "name": "Spinatknödel Tiroler Art mit Bergkäse und knackigem Beilagensalat",
+                    "name": "Spinatknödel Tiroler Art mit Bergkäse",
                     "price": 2.6,
                     "ingredients": [
-                        "11",
-                        "3",
                         "Ei",
                         "Gl",
                         "GlW",
                         "Mi",
-                        "Sf",
-                        "Sl",
-                        "Sw"
+                        "Sl"
                     ],
                     "dish_type": "Aktionsessen 4"
                 },
                 {
-                    "name": "Boeuf à la mode aus dem Rinderbug (GQB)",
+                    "name": "Rheinischer Sauerbraten (GQB)",
                     "price": 3.2,
                     "ingredients": [
                         "3",
@@ -167,6 +196,7 @@
                         "Kn",
                         "Mi",
                         "R",
+                        "Sf",
                         "Sl",
                         "Sw"
                     ],
@@ -224,6 +254,25 @@
                     "dish_type": "Aktionsessen 6"
                 },
                 {
+                    "name": "Rheinischer Sauerbraten (GQB)",
+                    "price": 3.2,
+                    "ingredients": [
+                        "3",
+                        "5",
+                        "99",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "Sf",
+                        "Sl",
+                        "Sw"
+                    ],
+                    "dish_type": "Aktionsessen 7"
+                },
+                {
                     "name": "Bio-Linsen mit Bio-Spätzle",
                     "price": 2.4,
                     "ingredients": [
@@ -241,7 +290,7 @@
             "date": "2019-12-20",
             "dishes": [
                 {
-                    "name": "Zartweizen mit Gemüse",
+                    "name": "Bulgur mit Gemüse",
                     "price": 1.0,
                     "ingredients": [
                         "Gl",
@@ -251,10 +300,9 @@
                     "dish_type": "Tagesgericht 1"
                 },
                 {
-                    "name": "Germknödel gefüllt mit Pflaumenmus dazu Vanillesauce",
+                    "name": "Apfelstrudel mit Vanillesauce",
                     "price": 2.4,
                     "ingredients": [
-                        "Ei",
                         "Gl",
                         "GlW",
                         "Mi"
@@ -276,6 +324,22 @@
                         "Sw"
                     ],
                     "dish_type": "Aktionsessen 5"
+                },
+                {
+                    "name": "Schweinerahmgeschnetzeltes mit Pfifferlingen und Steinpilzen",
+                    "price": 3.2,
+                    "ingredients": [
+                        "5",
+                        "99",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S",
+                        "Sw"
+                    ],
+                    "dish_type": "Aktionsessen 7"
                 }
             ]
         }

@@ -1,0 +1,84 @@
+{
+    "number": 3,
+    "year": 2020,
+    "days": [
+        {
+            "date": "2020-01-13",
+            "dishes": [
+                {
+                    "name": "Rougaille (Soja in würziger Tomatensauce)",
+                    "price": 2.4,
+                    "ingredients": [
+                        "Kn",
+                        "Sf",
+                        "So"
+                    ],
+                    "dish_type": "Tagesgericht 4"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-14",
+            "dishes": [
+                {
+                    "name": "Penne all'amatriciana",
+                    "price": 1.9,
+                    "ingredients": [
+                        "2",
+                        "3",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "S",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht 3"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-15",
+            "dishes": [
+                {
+                    "name": "Schweinesteak mit Schinken und Käse überbacken",
+                    "price": 2.8,
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "3",
+                        "8",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S"
+                    ],
+                    "dish_type": "Aktionsessen 5"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-16",
+            "dishes": [
+                {
+                    "name": "Currynudeln mit gebratenen Gemüsestreifen",
+                    "price": 1.55,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Se",
+                        "Sf",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht 2"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-17",
+            "dishes": []
+        }
+    ]
+}

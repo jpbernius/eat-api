@@ -1,0 +1,76 @@
+{
+    "number": 5,
+    "year": 2020,
+    "days": [
+        {
+            "date": "2020-01-27",
+            "dishes": [
+                {
+                    "name": "Pasta Emiliana mit (Vorder-)Schinken und Erbsen",
+                    "price": 1.9,
+                    "ingredients": [
+                        "2",
+                        "3",
+                        "8",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S"
+                    ],
+                    "dish_type": "Tagesgericht 3"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-28",
+            "dishes": [
+                {
+                    "name": "Piccata von der Pute mit Salbei und Tomatensauce",
+                    "price": 3.0,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi"
+                    ],
+                    "dish_type": "Aktionsessen 6"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-29",
+            "dishes": [
+                {
+                    "name": "Pasta mit grünem Spargel, Petersilie und Kirschtomaten",
+                    "price": 2.4,
+                    "ingredients": [
+                        "Gl",
+                        "GlW"
+                    ],
+                    "dish_type": "Tagesgericht 4"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-30",
+            "dishes": [
+                {
+                    "name": "Tortelloni all'arrabiata",
+                    "price": 2.6,
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ],
+                    "dish_type": "Aktionsessen 4"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-31",
+            "dishes": []
+        }
+    ]
+}

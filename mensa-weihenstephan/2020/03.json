@@ -1,0 +1,235 @@
+{
+    "number": 3,
+    "year": 2020,
+    "days": [
+        {
+            "date": "2020-01-13",
+            "dishes": [
+                {
+                    "name": "Arabischer Couscous mit Karotten und Kichererbsen",
+                    "price": 1.0,
+                    "ingredients": [
+                        "2",
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ],
+                    "dish_type": "Tagesgericht 1"
+                },
+                {
+                    "name": "Gulasch vom Schwein",
+                    "price": 1.9,
+                    "ingredients": [
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S"
+                    ],
+                    "dish_type": "Tagesgericht 3"
+                },
+                {
+                    "name": "Ravioli mit Pilzfüllung in pikanter Kräutersauce",
+                    "price": 2.4,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht 4"
+                },
+                {
+                    "name": "Pikante Chickenwings mit Barbecuesauce",
+                    "price": 2.6,
+                    "ingredients": [
+                        "10",
+                        "11",
+                        "Kn",
+                        "Sf",
+                        "Sl"
+                    ],
+                    "dish_type": "Aktionsessen 4"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-14",
+            "dishes": [
+                {
+                    "name": "Frisches Gemüse aus der Pfanne mit Reis",
+                    "price": 1.0,
+                    "ingredients": [],
+                    "dish_type": "Tagesgericht 1"
+                },
+                {
+                    "name": "Gebratenes Schweinefleisch mit Gemüe in Hoisinsauce",
+                    "price": 2.4,
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "S",
+                        "So"
+                    ],
+                    "dish_type": "Tagesgericht 4"
+                },
+                {
+                    "name": "Super-Green-Detox (Eintopf mit grünen Bohnen, Lauch, Stangensellerie, Weißkraut)",
+                    "price": 2.4,
+                    "ingredients": [
+                        "Sl"
+                    ],
+                    "dish_type": "Aktionsessen 3"
+                },
+                {
+                    "name": "Pizza Margherita mit Mozzarella",
+                    "price": 3.0,
+                    "ingredients": [
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Mi",
+                        "So"
+                    ],
+                    "dish_type": "Aktionsessen 6"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-15",
+            "dishes": [
+                {
+                    "name": "Veganer Borschtsch mit Kraut, Kartoffeln und Roter Beete",
+                    "price": 1.0,
+                    "ingredients": [
+                        "3",
+                        "5",
+                        "9",
+                        "Kn",
+                        "Sw"
+                    ],
+                    "dish_type": "Tagesgericht 1"
+                },
+                {
+                    "name": "Orange-Bomb-Detox (Eintopf mit Kürbis, Karotte, Kartoffel und Kokos)",
+                    "price": 2.4,
+                    "ingredients": [],
+                    "dish_type": "Aktionsessen 3"
+                },
+                {
+                    "name": "Topfenpalatschinken",
+                    "price": 2.6,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sc",
+                        "ScM"
+                    ],
+                    "dish_type": "Aktionsessen 4"
+                },
+                {
+                    "name": "Rinderhacksteak mit Sauce Bernaise",
+                    "price": 3.0,
+                    "ingredients": [
+                        "Ei",
+                        "Mi",
+                        "R",
+                        "Sf",
+                        "Sl"
+                    ],
+                    "dish_type": "Aktionsessen 6"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-16",
+            "dishes": [
+                {
+                    "name": "Pikante Hirse mit Gemüse",
+                    "price": 1.0,
+                    "ingredients": [
+                        "2",
+                        "Kn"
+                    ],
+                    "dish_type": "Tagesgericht 1"
+                },
+                {
+                    "name": "Red-Hot-Chili-Detox (Eintopf mit roter Paprika, Chili und weißen Bohnen)",
+                    "price": 2.4,
+                    "ingredients": [
+                        "2",
+                        "Kn"
+                    ],
+                    "dish_type": "Aktionsessen 3"
+                },
+                {
+                    "name": "Surbraten vom Schweinehals mit Rosmarinjus",
+                    "price": 2.8,
+                    "ingredients": [
+                        "2",
+                        "8",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S"
+                    ],
+                    "dish_type": "Aktionsessen 5"
+                },
+                {
+                    "name": "Pizza Elsässer Art mit Sauerrahm, Zwiebeln, Speck und Käse",
+                    "price": 3.5,
+                    "ingredients": [
+                        "2",
+                        "3",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Mi",
+                        "So"
+                    ],
+                    "dish_type": "Aktionsessen 8"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-17",
+            "dishes": [
+                {
+                    "name": "Italienischer Bohneneintopf",
+                    "price": 1.0,
+                    "ingredients": [
+                        "Kn",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht 1"
+                },
+                {
+                    "name": "Spaghetti Frutti di Mare",
+                    "price": 2.4,
+                    "ingredients": [
+                        "6",
+                        "Gl",
+                        "GlW",
+                        "Kr",
+                        "Wt"
+                    ],
+                    "dish_type": "Tagesgericht 4"
+                },
+                {
+                    "name": "Spicy-Vegetable-Detox (Eintopf mit Fenchel, Karotte, Paprika,Bohnen)",
+                    "price": 2.4,
+                    "ingredients": [],
+                    "dish_type": "Aktionsessen 3"
+                }
+            ]
+        }
+    ]
+}

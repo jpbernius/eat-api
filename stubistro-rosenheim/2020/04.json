@@ -1,0 +1,397 @@
+{
+    "number": 4,
+    "year": 2020,
+    "days": [
+        {
+            "date": "2020-01-20",
+            "dishes": [
+                {
+                    "name": "Reisfleisch mit Kalb und Tomatensauce",
+                    "price": "0.68€ / 100g",
+                    "ingredients": [
+                        "R",
+                        "Sf",
+                        "Sl"
+                    ],
+                    "dish_type": "Self-Service"
+                },
+                {
+                    "name": "Putensteak mit Kräuterbutter",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Kn",
+                        "Mi"
+                    ],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Rahmchampignons mit Semmelknödel",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi"
+                    ],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Tagessuppe",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Tagesgemüse",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Countrykartoffeln",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Aktionsdessert",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": "Dessert"
+                },
+                {
+                    "name": "Tagesdessert",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": "Tagesdessert"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-21",
+            "dishes": [
+                {
+                    "name": "Rosenheimer Bratwurst mit Sauce",
+                    "price": "0.68€ / 100g",
+                    "ingredients": [
+                        "8",
+                        "Mi",
+                        "S",
+                        "Sl"
+                    ],
+                    "dish_type": "Self-Service"
+                },
+                {
+                    "name": "Rotes Thaicurry mit Hackbällchen, Zucchini und Basmatireis",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "S"
+                    ],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Frühlingsrolle mit süßer Chilisauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "Sl",
+                        "So"
+                    ],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Tagessuppe",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Sauerkraut",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Kartoffelpüree",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Mi"
+                    ],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Aktionsdessert",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": "Dessert"
+                },
+                {
+                    "name": "Tagesdessert",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": "Tagesdessert"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-22",
+            "dishes": [
+                {
+                    "name": "Gyros von der Pute mit Tzatziki (G)",
+                    "price": "0.68€ / 100g",
+                    "ingredients": [
+                        "Kn",
+                        "Mi"
+                    ],
+                    "dish_type": "Self-Service"
+                },
+                {
+                    "name": "Graupen-Gemüse-Pfanne",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlG",
+                        "Kn",
+                        "Sl"
+                    ],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Gnocchi mit Gorgonzola-Sauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "Sl"
+                    ],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Tagessuppe",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Tagesgemüse",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Djuvecreis",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Kn"
+                    ],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Aktionsdessert",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": "Dessert"
+                },
+                {
+                    "name": "Tagesdessert",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": "Tagesdessert"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-23",
+            "dishes": [
+                {
+                    "name": "Rinderbraten mit Rotweinsauce",
+                    "price": "0.68€ / 100g",
+                    "ingredients": [
+                        "99",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "Sl",
+                        "Sw"
+                    ],
+                    "dish_type": "Self-Service"
+                },
+                {
+                    "name": "Krautwickerl mit Speck-Zwiebel-Sauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "3",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S"
+                    ],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Vegetarischer Bratling mit Kräuterdip",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "Sf",
+                        "Sl",
+                        "So"
+                    ],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Tagessuppe",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Tagesgemüse",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Kartoffelknödel",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "3",
+                        "5",
+                        "Sw"
+                    ],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Kartoffelpüree",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Mi"
+                    ],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Aktionsdessert",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": "Dessert"
+                },
+                {
+                    "name": "Tagesdessert",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": "Tagesdessert"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-24",
+            "dishes": [
+                {
+                    "name": "Gebackenes Seelachsfilet mit Remouladensauce (F)",
+                    "price": "0.68€ / 100g",
+                    "ingredients": [
+                        "Ei",
+                        "Fi",
+                        "Gl",
+                        "Mi",
+                        "Sf"
+                    ],
+                    "dish_type": "Self-Service"
+                },
+                {
+                    "name": "Hackbällchen Balkan Art",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "S"
+                    ],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Pfannkuchen mit Kirschfüllung dazu Vanillesauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi"
+                    ],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Tagessuppe",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Tagesgemüse",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Kartoffelsalat",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Risi Bisi",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Aktionsdessert",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": "Dessert"
+                },
+                {
+                    "name": "Tagesdessert",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": "Tagesdessert"
+                }
+            ]
+        }
+    ]
+}

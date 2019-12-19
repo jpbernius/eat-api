@@ -1,0 +1,118 @@
+{
+    "number": 2,
+    "year": 2020,
+    "days": [
+        {
+            "date": "2020-01-07",
+            "dishes": [
+                {
+                    "name": "Kartoffeltaschen mit Kräuterfrischkäse",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi"
+                    ],
+                    "dish_type": "StuBistro Gericht 1"
+                },
+                {
+                    "name": "Kalbsrahmgulasch mit Champignons und Weißwein",
+                    "price": "N/A",
+                    "ingredients": [
+                        "5",
+                        "99",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sw"
+                    ],
+                    "dish_type": "StuBistro Gericht 1"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-08",
+            "dishes": [
+                {
+                    "name": "Pasta mit Champignonrahmsauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi"
+                    ],
+                    "dish_type": "StuBistro Gericht 1"
+                },
+                {
+                    "name": "Schweinesteak Strindberg (mit Senf-Zwiebelschmelze)",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "S",
+                        "Sf",
+                        "Sl"
+                    ],
+                    "dish_type": "StuBistro Gericht 1"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-09",
+            "dishes": [
+                {
+                    "name": "Rendang - Indonesisches Rindfleisch (GQB)",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "R"
+                    ],
+                    "dish_type": "StuBistro Gericht 1"
+                },
+                {
+                    "name": "Senner Rösti mit Tomate und Käse überbacken",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "Mi"
+                    ],
+                    "dish_type": "StuBistro Gericht 1"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-10",
+            "dishes": [
+                {
+                    "name": "Kleine Dampfnudel mit Vanillesauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi"
+                    ],
+                    "dish_type": "StuBistro Gericht 1"
+                },
+                {
+                    "name": "Zanderfilet mit Sauce Hollandaise",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Fi",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sl"
+                    ],
+                    "dish_type": "StuBistro Gericht 1"
+                }
+            ]
+        }
+    ]
+}

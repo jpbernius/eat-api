@@ -1,0 +1,124 @@
+{
+    "number": 3,
+    "year": 2020,
+    "days": [
+        {
+            "date": "2020-01-13",
+            "dishes": [
+                {
+                    "name": "Ravioli mit Pilzfüllung in pikanter Kräutersauce",
+                    "price": 2.4,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht 4"
+                },
+                {
+                    "name": "Pikante Chickenwings mit Barbecuesauce",
+                    "price": 2.6,
+                    "ingredients": [
+                        "10",
+                        "11",
+                        "Kn",
+                        "Sf",
+                        "Sl"
+                    ],
+                    "dish_type": "Aktionsessen 4"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-14",
+            "dishes": [
+                {
+                    "name": "Super-Green-Detox (Eintopf mit grünen Bohnen, Lauch, Stangensellerie, Weißkraut)",
+                    "price": 2.4,
+                    "ingredients": [
+                        "Sl"
+                    ],
+                    "dish_type": "Aktionsessen 3"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-15",
+            "dishes": [
+                {
+                    "name": "Orange-Bomb-Detox (Eintopf mit Kürbis, Karotte, Kartoffel und Kokos)",
+                    "price": 2.4,
+                    "ingredients": [],
+                    "dish_type": "Aktionsessen 3"
+                },
+                {
+                    "name": "Rinderhacksteak mit Sauce Bernaise",
+                    "price": 3.0,
+                    "ingredients": [
+                        "Ei",
+                        "Mi",
+                        "R",
+                        "Sf",
+                        "Sl"
+                    ],
+                    "dish_type": "Aktionsessen 6"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-16",
+            "dishes": [
+                {
+                    "name": "Red-Hot-Chili-Detox (Eintopf mit roter Paprika, Chili und weißen Bohnen)",
+                    "price": 2.4,
+                    "ingredients": [
+                        "2",
+                        "Kn"
+                    ],
+                    "dish_type": "Aktionsessen 3"
+                },
+                {
+                    "name": "Surbraten vom Schweinehals mit Rosmarinjus",
+                    "price": 2.8,
+                    "ingredients": [
+                        "2",
+                        "8",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S"
+                    ],
+                    "dish_type": "Aktionsessen 5"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-17",
+            "dishes": [
+                {
+                    "name": "Spaghetti Frutti di Mare",
+                    "price": 2.4,
+                    "ingredients": [
+                        "6",
+                        "Gl",
+                        "GlW",
+                        "Kr",
+                        "Wt"
+                    ],
+                    "dish_type": "Tagesgericht 4"
+                },
+                {
+                    "name": "Spicy-Vegetable-Detox (Eintopf mit Fenchel, Karotte, Paprika,Bohnen)",
+                    "price": 2.4,
+                    "ingredients": [],
+                    "dish_type": "Aktionsessen 3"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "number": 2,
+    "year": 2020,
+    "days": [
+        {
+            "date": "2020-01-07",
+            "dishes": [
+                {
+                    "name": "Kalbsrahmgulasch mit Champignons und Weißwein",
+                    "price": 3.0,
+                    "ingredients": [
+                        "5",
+                        "99",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sw"
+                    ],
+                    "dish_type": "Aktionsessen 6"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-09",
+            "dishes": [
+                {
+                    "name": "Schaschlik",
+                    "price": 2.6,
+                    "ingredients": [
+                        "S",
+                        "Sf"
+                    ],
+                    "dish_type": "Aktionsessen 4"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-10",
+            "dishes": [
+                {
+                    "name": "Hackbraten mit Rahmsauce",
+                    "price": 2.8,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "S",
+                        "Sf",
+                        "So"
+                    ],
+                    "dish_type": "Aktionsessen 5"
+                }
+            ]
+        }
+    ]
+}

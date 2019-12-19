@@ -1,0 +1,272 @@
+{
+    "number": 5,
+    "year": 2020,
+    "days": [
+        {
+            "date": "2020-01-27",
+            "dishes": [
+                {
+                    "name": "Pasta Emiliana mit (Vorder-)Schinken und Erbsen",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "3",
+                        "8",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S"
+                    ],
+                    "dish_type": "Pasta"
+                },
+                {
+                    "name": "Rotes Curry vom Rind (GQB) mit Wokgemüse",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "R",
+                        "Sl",
+                        "So"
+                    ],
+                    "dish_type": "Wok"
+                },
+                {
+                    "name": "Kartoffelgulasch mit Paprika",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Kn"
+                    ],
+                    "dish_type": "Vegan, Eintopf, Suppe"
+                },
+                {
+                    "name": "Tagessuppe",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Fleischpflanzerl mit Kümmelsauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "S"
+                    ],
+                    "dish_type": "Fleisch"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-28",
+            "dishes": [
+                {
+                    "name": "Pasta mit Tomaten-Zucchini-Sauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ],
+                    "dish_type": "Pasta"
+                },
+                {
+                    "name": "Sweet & Sour mit Schweinefleisch",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "3",
+                        "5",
+                        "Kn",
+                        "S",
+                        "Sf",
+                        "Sl",
+                        "So",
+                        "Sw"
+                    ],
+                    "dish_type": "Wok"
+                },
+                {
+                    "name": "Grüner Erbseneintopf",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Sl"
+                    ],
+                    "dish_type": "Vegan, Eintopf, Suppe"
+                },
+                {
+                    "name": "Tagessuppe",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Seelachsfilet (MSC) nach Müllerin Art",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "Fi",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sf"
+                    ],
+                    "dish_type": "Fisch"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-29",
+            "dishes": [
+                {
+                    "name": "Pasta mit grünem Spargel, Petersilie und Kirschtomaten",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW"
+                    ],
+                    "dish_type": "Pasta"
+                },
+                {
+                    "name": "Hähnchenspieß vom Grill mit Paprika und Zwiebel",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": "Grill"
+                },
+                {
+                    "name": "Buntes Gemüse in scharfer Kokosmilch",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "Kn",
+                        "Sf"
+                    ],
+                    "dish_type": "Vegan, Eintopf, Suppe"
+                },
+                {
+                    "name": "Tagessuppe",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Reiberdatschi mit Apfelmus",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "Ei"
+                    ],
+                    "dish_type": "Süßspeise"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-30",
+            "dishes": [
+                {
+                    "name": "Bio-Tortelloni all'arrabiata",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ],
+                    "dish_type": "Pasta"
+                },
+                {
+                    "name": "Fränkische Bratwurst",
+                    "price": "N/A",
+                    "ingredients": [
+                        "8",
+                        "R",
+                        "S"
+                    ],
+                    "dish_type": "Grill"
+                },
+                {
+                    "name": "Bulgur mit Zucchini und Tomaten",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ],
+                    "dish_type": "Vegan, Eintopf, Suppe"
+                },
+                {
+                    "name": "Tagessuppe",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Rindfleischtajine (GQB) mit Kartoffeln und Kichererbsen",
+                    "price": "N/A",
+                    "ingredients": [
+                        "R"
+                    ],
+                    "dish_type": "Fleisch"
+                }
+            ]
+        },
+        {
+            "date": "2020-01-31",
+            "dishes": [
+                {
+                    "name": "Pasta mit Austernpilzen und Babyspinat",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ],
+                    "dish_type": "Pasta"
+                },
+                {
+                    "name": "Karibische Reispfanne mit Kokos, Erdnüssen, Ananas und Paprika",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "En",
+                        "Kn"
+                    ],
+                    "dish_type": "Wok"
+                },
+                {
+                    "name": "Kichererbsencurry mit Gemüse und Chili",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "Kn"
+                    ],
+                    "dish_type": "Vegan, Eintopf, Suppe"
+                },
+                {
+                    "name": "Tagessuppe",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Gebratene Hähnchenkeule mit Barbecuesauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "10",
+                        "11",
+                        "Kn",
+                        "Sf",
+                        "Sl"
+                    ],
+                    "dish_type": "Fleisch"
+                }
+            ]
+        }
+    ]
+}
