@@ -1,0 +1,243 @@
+{
+    "number": 52,
+    "year": 2019,
+    "days": [
+        {
+            "date": "2019-12-23",
+            "dishes": [
+                {
+                    "name": "Selleriecremesuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "Mi",
+                        "Sl"
+                    ],
+                    "dish_type": "Suppe"
+                },
+                {
+                    "name": "Kasselernackenbraten",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "S",
+                        "Sf"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Kichererbsen-Karotten-Tandoori",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "Gl",
+                        "Mi",
+                        "Sf"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                }
+            ]
+        },
+        {
+            "date": "2019-12-24",
+            "dishes": [
+                {
+                    "name": "Erbsencremesuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "Mi"
+                    ],
+                    "dish_type": "Suppe"
+                },
+                {
+                    "name": "Chili con carne",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "R"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Penne mit Kürbis und Zucchini",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                }
+            ]
+        },
+        {
+            "date": "2019-12-25",
+            "dishes": [
+                {
+                    "name": "Kohlrabisuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "Mi"
+                    ],
+                    "dish_type": "Suppe"
+                },
+                {
+                    "name": "Gebratene Entenbrust",
+                    "price": "N/A",
+                    "ingredients": [
+                        "G"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Tagilatelle mit Gemüsebolognese",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "Sl"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                }
+            ]
+        },
+        {
+            "date": "2019-12-26",
+            "dishes": [
+                {
+                    "name": "Petersiliencremesuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "Mi"
+                    ],
+                    "dish_type": "Suppe"
+                },
+                {
+                    "name": "Schweinefilet",
+                    "price": "N/A",
+                    "ingredients": [
+                        "S"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Lebkuchenstrudel",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "Lu",
+                        "Mi",
+                        "Sc",
+                        "So"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                }
+            ]
+        },
+        {
+            "date": "2019-12-27",
+            "dishes": [
+                {
+                    "name": "Thailändische Currysuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "Mi",
+                        "So"
+                    ],
+                    "dish_type": "Suppe"
+                },
+                {
+                    "name": "Gewürzragout vom Wild",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "W"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Milchreisauflauf",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Mi"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                }
+            ]
+        },
+        {
+            "date": "2019-12-28",
+            "dishes": [
+                {
+                    "name": "Riebelesuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl"
+                    ],
+                    "dish_type": "Suppe"
+                },
+                {
+                    "name": "Bayrisches Krautwickerl",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "R",
+                        "S"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Winterlicher Graupeneintopf",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "Sl"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                }
+            ]
+        },
+        {
+            "date": "2019-12-29",
+            "dishes": [
+                {
+                    "name": "Karottencremesuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "Mi"
+                    ],
+                    "dish_type": "Suppe"
+                },
+                {
+                    "name": "Putenrollbraten",
+                    "price": "N/A",
+                    "ingredients": [
+                        "G",
+                        "Gl",
+                        "Mi"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Kartoffel-Gemüse-Gratin",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "Ei",
+                        "Gl",
+                        "Mi"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                }
+            ]
+        }
+    ]
+}
