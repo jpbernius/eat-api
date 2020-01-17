@@ -6,6 +6,17 @@
             "date": "2020-01-20",
             "dishes": [
                 {
+                    "name": "Pasta all'arrabiata",
+                    "price": 1.55,
+                    "ingredients": [
+                        "2",
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ],
+                    "dish_type": "Tagesgericht 2"
+                },
+                {
                     "name": "Rindergeschnetzeltes Stroganoff",
                     "price": 3.2,
                     "ingredients": [

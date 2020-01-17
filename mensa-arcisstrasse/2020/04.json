@@ -60,18 +60,25 @@
                     "dish_type": "Vegan, Eintopf, Suppe"
                 },
                 {
-                    "name": "Tagessuppe",
-                    "price": "N/A",
-                    "ingredients": [],
-                    "dish_type": ""
-                },
-                {
-                    "name": "Spinatknödel Tiroler Art mit Bergkäse",
+                    "name": "Leberknödelsuppe",
                     "price": "N/A",
                     "ingredients": [
                         "Ei",
                         "Gl",
                         "GlW",
+                        "S",
+                        "Sl"
+                    ],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Spinatknödel Tiroler Art mit Tomatensauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
                         "Mi",
                         "Sl"
                     ],
@@ -409,17 +416,6 @@
                     "dish_type": "Vegetarisch"
                 },
                 {
-                    "name": "Überbackenes Putenschnitzel Toskana",
-                    "price": "N/A",
-                    "ingredients": [
-                        "Gl",
-                        "GlW",
-                        "Kn",
-                        "Mi"
-                    ],
-                    "dish_type": "Fleisch"
-                },
-                {
                     "name": "Cevapcici mit Ajvar",
                     "price": "N/A",
                     "ingredients": [
@@ -432,6 +428,17 @@
                         "Sf",
                         "Sl",
                         "So"
+                    ],
+                    "dish_type": "Fleisch"
+                },
+                {
+                    "name": "Überbackenes Putenschnitzel Toskana",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi"
                     ],
                     "dish_type": "Fleisch"
                 }

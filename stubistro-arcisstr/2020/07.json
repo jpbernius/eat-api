@@ -1,91 +1,55 @@
 {
-    "number": 4,
+    "number": 7,
     "year": 2020,
     "days": [
         {
-            "date": "2020-01-20",
+            "date": "2020-02-10",
             "dishes": [
                 {
-                    "name": "Pasta all'arrabiata",
+                    "name": "Spinatspätzlepfanne mit Bergkäse und abgeschmelzten Zwiebeln",
                     "price": "N/A",
                     "ingredients": [
-                        "2",
-                        "Gl",
-                        "GlW",
-                        "Kn"
-                    ],
-                    "dish_type": "StuBistro Gericht 1"
-                },
-                {
-                    "name": "Rindergeschnetzeltes (GQB) Stroganoff",
-                    "price": "N/A",
-                    "ingredients": [
-                        "2",
-                        "9",
-                        "Gl",
-                        "GlG",
-                        "GlW",
-                        "Kn",
-                        "Mi",
-                        "R",
-                        "Sf"
-                    ],
-                    "dish_type": "StuBistro Gericht 2"
-                }
-            ]
-        },
-        {
-            "date": "2020-01-21",
-            "dishes": [
-                {
-                    "name": "Allgäuer Käsespätzle mit Röstzwiebeln",
-                    "price": "N/A",
-                    "ingredients": [
-                        "1",
-                        "2",
                         "Ei",
                         "Gl",
-                        "GlD",
                         "GlW",
                         "Mi"
                     ],
                     "dish_type": "StuBistro Gericht 1"
                 },
                 {
-                    "name": "Hähnchenknusperfilet mit Mango-Chili-Dip",
+                    "name": "Green-Thai-Curry vom Rind (GQB)",
                     "price": "N/A",
                     "ingredients": [
-                        "1",
-                        "11",
-                        "2",
-                        "Ei",
-                        "Gl",
-                        "GlW",
-                        "Mi",
-                        "Sf"
+                        "Kn",
+                        "R"
                     ],
                     "dish_type": "StuBistro Gericht 2"
                 }
             ]
         },
         {
-            "date": "2020-01-22",
+            "date": "2020-02-11",
             "dishes": [
                 {
-                    "name": "Pasta mit Tomaten-Frischkäse-Sauce",
+                    "name": "Phad Thai - Thailändisches Nudelgericht",
                     "price": "N/A",
                     "ingredients": [
+                        "Ei",
+                        "En",
+                        "Fi",
                         "Gl",
                         "GlW",
                         "Kn",
-                        "Mi"
+                        "So"
                     ],
                     "dish_type": "StuBistro Gericht 1"
                 },
                 {
-                    "name": "Halbe Schweinshaxe mit Biersauce",
+                    "name": "Jägerschnitzel von der Pute mit Waldpilzen",
                     "price": "N/A",
                     "ingredients": [
+                        "2",
+                        "3",
                         "Gl",
                         "GlG",
                         "GlW",
@@ -98,60 +62,87 @@
             ]
         },
         {
-            "date": "2020-01-23",
+            "date": "2020-02-12",
             "dishes": [
                 {
-                    "name": "Frische Rahmschwammerl",
+                    "name": "Pfannkuchen mit Mascarpone-Erdbeerfüllung und Vanillesauce",
                     "price": "N/A",
                     "ingredients": [
+                        "Ei",
                         "Gl",
                         "GlW",
-                        "Kn",
                         "Mi"
                     ],
                     "dish_type": "StuBistro Gericht 1"
                 },
                 {
-                    "name": "Currywurst mit Honig-Ingwer-Ketchup",
+                    "name": "Hähnchenbrustfilet mit Gemüsesalsa (scharf)",
                     "price": "N/A",
                     "ingredients": [
-                        "8",
-                        "R",
-                        "S",
-                        "Sf"
+                        "2",
+                        "4",
+                        "Kn"
                     ],
                     "dish_type": "StuBistro Gericht 2"
                 }
             ]
         },
         {
-            "date": "2020-01-24",
+            "date": "2020-02-13",
             "dishes": [
                 {
-                    "name": "Kaiserschmarrn mit Apfelmus",
+                    "name": "Dinkelnudelpfanne Griechische Art mit Oliven,Schafskäse und Knoblauch",
                     "price": "N/A",
                     "ingredients": [
                         "3",
-                        "Ei",
+                        "6",
                         "Gl",
-                        "GlW",
+                        "GlD",
+                        "Kn",
                         "Mi"
                     ],
                     "dish_type": "StuBistro Gericht 1"
                 },
                 {
-                    "name": "Schollenfilet (MSC) paniert mit Remouladensauce",
+                    "name": "Pfannengyros vom Schwein mit Tsatsiki",
                     "price": "N/A",
                     "ingredients": [
-                        "11",
-                        "2",
-                        "9",
-                        "Ei",
-                        "Fi",
+                        "3",
+                        "5",
+                        "Kn",
+                        "Mi",
+                        "S",
+                        "Sw"
+                    ],
+                    "dish_type": "StuBistro Gericht 2"
+                }
+            ]
+        },
+        {
+            "date": "2020-02-14",
+            "dishes": [
+                {
+                    "name": "Gnocchi mit Tomatensauce",
+                    "price": "N/A",
+                    "ingredients": [
                         "Gl",
                         "GlW",
+                        "Kn",
+                        "So"
+                    ],
+                    "dish_type": "StuBistro Gericht 1"
+                },
+                {
+                    "name": "Schweinebraten mit Biersauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "99",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
                         "Mi",
-                        "Sf"
+                        "S"
                     ],
                     "dish_type": "StuBistro Gericht 2"
                 }

@@ -66,18 +66,18 @@
             "date": "2020-01-29",
             "dishes": [
                 {
-                    "name": "Hähnchenspieß vom Grill mit Paprika und Zwiebel",
-                    "price": "N/A",
-                    "ingredients": [],
-                    "dish_type": "StuBistro Self-Service"
-                },
-                {
                     "name": "Pasta mit grünem Spargel, Petersilie und Kirschtomaten",
                     "price": "N/A",
                     "ingredients": [
                         "Gl",
                         "GlW"
                     ],
+                    "dish_type": "StuBistro Self-Service"
+                },
+                {
+                    "name": "Hähnchenspieß vom Grill mit Paprika und Zwiebel",
+                    "price": "N/A",
+                    "ingredients": [],
                     "dish_type": "StuBistro Self-Service"
                 }
             ]

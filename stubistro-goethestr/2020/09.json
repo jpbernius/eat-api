@@ -1,0 +1,40 @@
+{
+    "number": 9,
+    "year": 2020,
+    "days": [
+        {
+            "date": "2020-02-26",
+            "dishes": [
+                {
+                    "name": "Knöpflepfanne mit Gemüse und Pilzen",
+                    "price": 1.9,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlD",
+                        "GlW",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht 3"
+                }
+            ]
+        },
+        {
+            "date": "2020-02-27",
+            "dishes": [
+                {
+                    "name": "Currynudeln mit gebratenen Gemüsestreifen",
+                    "price": 1.55,
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Se",
+                        "Sf",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht 2"
+                }
+            ]
+        }
+    ]
+}

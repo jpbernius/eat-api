@@ -1,0 +1,70 @@
+{
+    "number": 8,
+    "year": 2020,
+    "days": [
+        {
+            "date": "2020-02-17",
+            "dishes": [
+                {
+                    "name": "Cannelloni mit Ricotta-Spinat-Füllung und Tomatensauce",
+                    "price": 2.6,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "Sl"
+                    ],
+                    "dish_type": "Aktionsessen 4"
+                }
+            ]
+        },
+        {
+            "date": "2020-02-18",
+            "dishes": [
+                {
+                    "name": "Kartoffeltaschen mit Kräuterfrischkäse",
+                    "price": 2.4,
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi"
+                    ],
+                    "dish_type": "Tagesgericht 4"
+                }
+            ]
+        },
+        {
+            "date": "2020-02-19",
+            "dishes": [
+                {
+                    "name": "Pasta mit Champignonrahmsauce",
+                    "price": 1.9,
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi"
+                    ],
+                    "dish_type": "Tagesgericht 3"
+                }
+            ]
+        },
+        {
+            "date": "2020-02-20",
+            "dishes": [
+                {
+                    "name": "Gemüsespieß mit Kräuterdip",
+                    "price": 2.6,
+                    "ingredients": [
+                        "Kn",
+                        "Mi"
+                    ],
+                    "dish_type": "Aktionsessen 4"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "number": 6,
+    "year": 2020,
+    "days": [
+        {
+            "date": "2020-02-03",
+            "dishes": [
+                {
+                    "name": "Älpler Makkaroni mit Bergkäse",
+                    "price": 1.9,
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi"
+                    ],
+                    "dish_type": "Tagesgericht 3"
+                }
+            ]
+        },
+        {
+            "date": "2020-02-04",
+            "dishes": [
+                {
+                    "name": "Pasta Pomodoro mit Tomaten und Basilikum",
+                    "price": 1.9,
+                    "ingredients": [
+                        "3",
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ],
+                    "dish_type": "Tagesgericht 3"
+                }
+            ]
+        },
+        {
+            "date": "2020-02-05",
+            "dishes": [
+                {
+                    "name": "Kartoffel-Zucchini-Auflauf mit Paprikasauce",
+                    "price": 2.4,
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi"
+                    ],
+                    "dish_type": "Tagesgericht 4"
+                }
+            ]
+        },
+        {
+            "date": "2020-02-06",
+            "dishes": [
+                {
+                    "name": "Schweinerückensteak mit grüner Pfeffersauce",
+                    "price": 2.6,
+                    "ingredients": [
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S"
+                    ],
+                    "dish_type": "Aktionsessen 4"
+                }
+            ]
+        }
+    ]
+}

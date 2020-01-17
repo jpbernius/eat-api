@@ -1,0 +1,93 @@
+{
+    "number": 9,
+    "year": 2020,
+    "days": [
+        {
+            "date": "2020-02-26",
+            "dishes": [
+                {
+                    "name": "Pasta di Manzo mit Rindfleischstreifen in Balsamico",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "5",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "R",
+                        "Sw"
+                    ],
+                    "dish_type": "StuBistro Self-Service"
+                },
+                {
+                    "name": "Knöpflepfanne mit Gemüse und Pilzen",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlD",
+                        "GlW",
+                        "Sl"
+                    ],
+                    "dish_type": "StuBistro Self-Service"
+                }
+            ]
+        },
+        {
+            "date": "2020-02-27",
+            "dishes": [
+                {
+                    "name": "Hähnchenkeule mexikanische Art",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ],
+                    "dish_type": "StuBistro Self-Service"
+                },
+                {
+                    "name": "Currynudeln mit gebratenen Gemüsestreifen",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Se",
+                        "Sf",
+                        "Sl"
+                    ],
+                    "dish_type": "StuBistro Self-Service"
+                }
+            ]
+        },
+        {
+            "date": "2020-02-28",
+            "dishes": [
+                {
+                    "name": "Lachsfilet auf Blattspinat",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Fi",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi"
+                    ],
+                    "dish_type": "StuBistro Self-Service"
+                },
+                {
+                    "name": "Millirahmstrudel mit Äpfeln und Vanillesauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "Gl",
+                        "GlW",
+                        "Mi"
+                    ],
+                    "dish_type": "StuBistro Self-Service"
+                }
+            ]
+        }
+    ]
+}
