@@ -299,6 +299,12 @@
                     "dish_type": ""
                 },
                 {
+                    "name": "Salzkartoffeln",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
                     "name": "Aktionsdessert",
                     "price": "N/A",
                     "ingredients": [],

@@ -27,20 +27,6 @@
                     "dish_type": "Vegetarisch"
                 },
                 {
-                    "name": "Pikante Chickenwings mit Barbecuesauce mit Countrykartoffeln",
-                    "price": "N/A",
-                    "ingredients": [
-                        "10",
-                        "11",
-                        "Gl",
-                        "GlW",
-                        "Kn",
-                        "Sf",
-                        "Sl"
-                    ],
-                    "dish_type": "Fleisch"
-                },
-                {
                     "name": "Gulasch vom Schwein und Semmelknödel",
                     "price": "N/A",
                     "ingredients": [
@@ -52,6 +38,20 @@
                         "Kn",
                         "Mi",
                         "S"
+                    ],
+                    "dish_type": "Fleisch"
+                },
+                {
+                    "name": "Pikante Chickenwings mit Barbecuesauce mit Countrykartoffeln",
+                    "price": "N/A",
+                    "ingredients": [
+                        "10",
+                        "11",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Sf",
+                        "Sl"
                     ],
                     "dish_type": "Fleisch"
                 }
@@ -96,22 +96,6 @@
                     "dish_type": "Vegetarisch"
                 },
                 {
-                    "name": "Münchner Schnitzel mit Senf-Meerrettichkruste und Röstkartoffeln",
-                    "price": "N/A",
-                    "ingredients": [
-                        "3",
-                        "Gl",
-                        "GlG",
-                        "GlW",
-                        "Kn",
-                        "Mi",
-                        "S",
-                        "Sf",
-                        "Sw"
-                    ],
-                    "dish_type": "Fleisch"
-                },
-                {
                     "name": "Rinderbraten (GQB) mit Rotweinsauce und Kartoffelknödel",
                     "price": "N/A",
                     "ingredients": [
@@ -125,6 +109,22 @@
                         "Mi",
                         "R",
                         "Sl",
+                        "Sw"
+                    ],
+                    "dish_type": "Fleisch"
+                },
+                {
+                    "name": "Münchner Schnitzel mit Senf-Meerrettichkruste und Röstkartoffeln",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S",
+                        "Sf",
                         "Sw"
                     ],
                     "dish_type": "Fleisch"
@@ -275,7 +275,7 @@
                     "dish_type": "Vegan, Eintopf, Suppe"
                 },
                 {
-                    "name": "Putenschnitzel mit Tomate, Mozzarella überbacken und Kroketten",
+                    "name": "Truthahnschnitzel mit Tomate und Mozzarella überbacken",
                     "price": "N/A",
                     "ingredients": [
                         "Mi"

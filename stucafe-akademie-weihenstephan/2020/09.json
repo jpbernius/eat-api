@@ -9,6 +9,8 @@
                     "name": "Gulasch vom Schwein",
                     "price": 1.9,
                     "ingredients": [
+                        "1",
+                        "Ei",
                         "Gl",
                         "GlG",
                         "GlW",
@@ -141,7 +143,7 @@
             "date": "2020-02-28",
             "dishes": [
                 {
-                    "name": "Putenschnitzel mit Tomate und Mozzarella überbacken",
+                    "name": "Truthahnschnitzel mit Tomate und Mozzarella überbacken",
                     "price": 2.8,
                     "ingredients": [
                         "Mi"

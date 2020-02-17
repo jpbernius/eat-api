@@ -1,0 +1,156 @@
+{
+    "number": 13,
+    "year": 2020,
+    "days": [
+        {
+            "date": "2020-03-23",
+            "dishes": [
+                {
+                    "name": "Spinatspätzlepfanne mit Bergkäse und abgeschmelzten Zwiebeln",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi"
+                    ],
+                    "dish_type": "StuBistro Self-Service"
+                },
+                {
+                    "name": "Chili con Carne",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "R"
+                    ],
+                    "dish_type": "StuBistro Self-Service"
+                }
+            ]
+        },
+        {
+            "date": "2020-03-24",
+            "dishes": [
+                {
+                    "name": "Kartoffel-Pilz-Auflauf mit frischem Lauch und Dip",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "Sf"
+                    ],
+                    "dish_type": "StuBistro Self-Service"
+                },
+                {
+                    "name": "Jägerschnitzel vom Truthahn mit Waldpilzen",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "3",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi"
+                    ],
+                    "dish_type": "StuBistro Self-Service"
+                }
+            ]
+        },
+        {
+            "date": "2020-03-25",
+            "dishes": [
+                {
+                    "name": "Pasta mit Putenbolognese",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Sl"
+                    ],
+                    "dish_type": "StuBistro Self-Service"
+                },
+                {
+                    "name": "Spinatknödel Tiroler Art mit Bergkäse",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sl"
+                    ],
+                    "dish_type": "StuBistro Self-Service"
+                }
+            ]
+        },
+        {
+            "date": "2020-03-26",
+            "dishes": [
+                {
+                    "name": "Linsen mit Spätzle",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Sl",
+                        "So"
+                    ],
+                    "dish_type": "StuBistro Self-Service"
+                },
+                {
+                    "name": "Pfannengyros vom Schwein mit Tsatsiki",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "5",
+                        "Kn",
+                        "Mi",
+                        "S",
+                        "Sw"
+                    ],
+                    "dish_type": "StuBistro Self-Service"
+                }
+            ]
+        },
+        {
+            "date": "2020-03-27",
+            "dishes": [
+                {
+                    "name": "Germknödel gefüllt mit Pflaumenmus dazu Vanillesauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi"
+                    ],
+                    "dish_type": "StuBistro Self-Service"
+                },
+                {
+                    "name": "Schweinebraten mit Biersauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "99",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S"
+                    ],
+                    "dish_type": "StuBistro Self-Service"
+                }
+            ]
+        }
+    ]
+}

@@ -40,9 +40,15 @@
                     "dish_type": "Vegan, Eintopf, Suppe"
                 },
                 {
-                    "name": "Tagessuppe",
+                    "name": "Leberspätzlesuppe",
                     "price": "N/A",
-                    "ingredients": [],
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "S",
+                        "Sl"
+                    ],
                     "dish_type": ""
                 },
                 {
@@ -57,6 +63,16 @@
                         "Sl"
                     ],
                     "dish_type": "Vegetarisch"
+                },
+                {
+                    "name": "Tortellini mit Spinat-Ricotta Füllung mit Tomatensauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Mi"
+                    ],
+                    "dish_type": ""
                 },
                 {
                     "name": "Alm Cordon bleu gefüllt mit Bergkäse und rohem Schinken",

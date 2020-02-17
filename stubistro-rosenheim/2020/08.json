@@ -50,9 +50,12 @@
                     "dish_type": ""
                 },
                 {
-                    "name": "Aktionsdessert",
+                    "name": "Mousse Bourbon-Vanille mit Kirschen",
                     "price": "N/A",
-                    "ingredients": [],
+                    "ingredients": [
+                        "14",
+                        "Mi"
+                    ],
                     "dish_type": "Dessert"
                 },
                 {

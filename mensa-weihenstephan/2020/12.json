@@ -1,0 +1,211 @@
+{
+    "number": 12,
+    "year": 2020,
+    "days": [
+        {
+            "date": "2020-03-16",
+            "dishes": [
+                {
+                    "name": "Mexikanischer Reistopf mit Bohnen, Paprika und Mais",
+                    "price": 1.0,
+                    "ingredients": [
+                        "Kn"
+                    ],
+                    "dish_type": "Tagesgericht 1"
+                },
+                {
+                    "name": "Kartoffelröstis mit Kräutersahnequark",
+                    "price": 2.4,
+                    "ingredients": [
+                        "Kn",
+                        "Mi"
+                    ],
+                    "dish_type": "Aktionsessen 3"
+                },
+                {
+                    "name": "Rindfleischstreifen (GQB) Spicy Ginger mit Bambussprossen",
+                    "price": 3.0,
+                    "ingredients": [
+                        "2",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "Sl",
+                        "So"
+                    ],
+                    "dish_type": "Aktionsessen 6"
+                }
+            ]
+        },
+        {
+            "date": "2020-03-17",
+            "dishes": [
+                {
+                    "name": "Linseneintopf mit Gemüse",
+                    "price": 1.0,
+                    "ingredients": [
+                        "3",
+                        "5",
+                        "Sl",
+                        "Sw"
+                    ],
+                    "dish_type": "Tagesgericht 1"
+                },
+                {
+                    "name": "Nasi Goreng (mit Hähnchenfleisch)",
+                    "price": 2.4,
+                    "ingredients": [
+                        "2",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Sf",
+                        "So"
+                    ],
+                    "dish_type": "Tagesgericht 4"
+                },
+                {
+                    "name": "Gebackene Calamari-Ringe mit Zitronen-Knoblauch-Dip",
+                    "price": 3.5,
+                    "ingredients": [
+                        "1",
+                        "11",
+                        "Ei",
+                        "Fi",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Kr",
+                        "Mi",
+                        "Sf",
+                        "Wt"
+                    ],
+                    "dish_type": "Aktionsessen 8"
+                }
+            ]
+        },
+        {
+            "date": "2020-03-18",
+            "dishes": [
+                {
+                    "name": "Asiatische Reis-Gemüsepfanne",
+                    "price": 1.0,
+                    "ingredients": [
+                        "2",
+                        "Kn",
+                        "Sf",
+                        "Sl",
+                        "So"
+                    ],
+                    "dish_type": "Tagesgericht 1"
+                },
+                {
+                    "name": "Kartoffel-Zucchini-Auflauf mit Paprikasauce",
+                    "price": 2.4,
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi"
+                    ],
+                    "dish_type": "Tagesgericht 4"
+                },
+                {
+                    "name": "Münchner Gulasch vom Rind (GQB)",
+                    "price": 3.2,
+                    "ingredients": [
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R"
+                    ],
+                    "dish_type": "Aktionsessen 7"
+                }
+            ]
+        },
+        {
+            "date": "2020-03-19",
+            "dishes": [
+                {
+                    "name": "Couscous mit Pilzen, Tomaten und Mangold",
+                    "price": 1.0,
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ],
+                    "dish_type": "Tagesgericht 1"
+                },
+                {
+                    "name": "Schweinerückensteak mit grüner Pfeffersauce",
+                    "price": 2.6,
+                    "ingredients": [
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S"
+                    ],
+                    "dish_type": "Aktionsessen 4"
+                },
+                {
+                    "name": "Bio-Pasta mit Bio-Tomaten-Frischkäse-Sauce",
+                    "price": 1.9,
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi"
+                    ],
+                    "dish_type": "Biogericht 2"
+                }
+            ]
+        },
+        {
+            "date": "2020-03-20",
+            "dishes": [
+                {
+                    "name": "Blumenkohl-Kartoffel-Curry",
+                    "price": 1.0,
+                    "ingredients": [
+                        "Kn",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht 1"
+                },
+                {
+                    "name": "Pfannkuchen mit Mascarpone-Erdbeerfüllung und Vanillesauce",
+                    "price": 2.8,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi"
+                    ],
+                    "dish_type": "Aktionsessen 5"
+                },
+                {
+                    "name": "Pasta mit Räucherlachs und Gurkenstiften in Sahnesauce",
+                    "price": 3.0,
+                    "ingredients": [
+                        "Fi",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi"
+                    ],
+                    "dish_type": "Aktionsessen 6"
+                }
+            ]
+        }
+    ]
+}

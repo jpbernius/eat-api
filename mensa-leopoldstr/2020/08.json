@@ -17,6 +17,16 @@
                     "dish_type": "Vegan, Eintopf, Suppe"
                 },
                 {
+                    "name": "Tomaten-Kokos-Suppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ],
+                    "dish_type": ""
+                },
+                {
                     "name": "Cannelloni mit Ricotta-Spinat-Füllung und Tomatensauce",
                     "price": "N/A",
                     "ingredients": [
@@ -28,6 +38,33 @@
                         "Sl"
                     ],
                     "dish_type": "Vegetarisch"
+                },
+                {
+                    "name": "Esterhazygulasch vom Rind (GQB)",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "Sl"
+                    ],
+                    "dish_type": "Fleisch"
+                },
+                {
+                    "name": "Andalusisches Rinderragout (GQB)",
+                    "price": "N/A",
+                    "ingredients": [
+                        "5",
+                        "99",
+                        "Gl",
+                        "GlW",
+                        "R",
+                        "Sw"
+                    ],
+                    "dish_type": ""
                 },
                 {
                     "name": "Alm Cordon bleu gefüllt mit Bergkäse, rohem Schinken und Röstkartoffeln",
@@ -43,22 +80,6 @@
                         "S"
                     ],
                     "dish_type": "Fleisch"
-                },
-                {
-                    "name": "Esterhazygulasch vom Rind (GQB) mit Knöpfle",
-                    "price": "N/A",
-                    "ingredients": [
-                        "Ei",
-                        "Gl",
-                        "GlD",
-                        "GlG",
-                        "GlW",
-                        "Kn",
-                        "Mi",
-                        "R",
-                        "Sl"
-                    ],
-                    "dish_type": "Fleisch"
                 }
             ]
         },
@@ -66,9 +87,24 @@
             "date": "2020-02-18",
             "dishes": [
                 {
+                    "name": "Pizza Verdura mit gebratenem Gemüse und Mozzarella",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "So"
+                    ],
+                    "dish_type": "Pizza"
+                },
+                {
                     "name": "Sweet & Sour mit Schweinefleisch mit Chinanudeln",
                     "price": "N/A",
                     "ingredients": [
+                        "10",
+                        "11",
                         "2",
                         "3",
                         "5",
@@ -77,6 +113,7 @@
                         "Kn",
                         "S",
                         "Sf",
+                        "Sl",
                         "Sw"
                     ],
                     "dish_type": "Wok"
@@ -104,7 +141,7 @@
                     "dish_type": "Vegetarisch"
                 },
                 {
-                    "name": "Seelachsfilet (MSC) Lemon Koriander mit Buttersauce und Peterslilienkartoffeln",
+                    "name": "Seelachsfilet (MSC) Lemon Koriander mit Buttersauce",
                     "price": "N/A",
                     "ingredients": [
                         "1",

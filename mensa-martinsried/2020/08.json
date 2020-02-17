@@ -40,24 +40,56 @@
                     "dish_type": "Vegan, Eintopf, Suppe"
                 },
                 {
-                    "name": "Tagessuppe",
+                    "name": "Pfannkuchensuppe",
                     "price": "N/A",
-                    "ingredients": [],
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sl"
+                    ],
                     "dish_type": ""
                 },
                 {
-                    "name": "Esterhazygulasch vom Rind (GQB)",
+                    "name": "Zartweizen mit Gemüse",
                     "price": "N/A",
                     "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Rindergeschnetzeltes (GQB) Stroganoff",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "9",
                         "Gl",
                         "GlG",
                         "GlW",
                         "Kn",
                         "Mi",
                         "R",
-                        "Sl"
+                        "Sf"
                     ],
                     "dish_type": "Fleisch"
+                },
+                {
+                    "name": "Schweinebraten mit Biersauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "99",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S"
+                    ],
+                    "dish_type": ""
                 }
             ]
         },

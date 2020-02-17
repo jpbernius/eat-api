@@ -183,6 +183,19 @@
                         "Sl"
                     ],
                     "dish_type": "Aktionsessen 4"
+                },
+                {
+                    "name": "Zanderfilet mit Sauce Hollandaise",
+                    "price": 3.2,
+                    "ingredients": [
+                        "Ei",
+                        "Fi",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sl"
+                    ],
+                    "dish_type": "Aktionsessen 7"
                 }
             ]
         }

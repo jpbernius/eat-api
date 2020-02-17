@@ -65,9 +65,15 @@
                     "dish_type": "Vegan, Eintopf, Suppe"
                 },
                 {
-                    "name": "Tagessuppe",
+                    "name": "Leberknödelsuppe",
                     "price": "N/A",
-                    "ingredients": [],
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "S",
+                        "Sl"
+                    ],
                     "dish_type": ""
                 },
                 {
@@ -82,6 +88,19 @@
                         "Sl"
                     ],
                     "dish_type": "Vegetarisch"
+                },
+                {
+                    "name": "Tortellini in Tomatensauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "Sl"
+                    ],
+                    "dish_type": ""
                 },
                 {
                     "name": "Alm Cordon bleu gefüllt mit Bergkäse und rohem Schinken",
@@ -111,6 +130,19 @@
                         "Sl"
                     ],
                     "dish_type": "Fleisch"
+                },
+                {
+                    "name": "Fleischpflanzerl",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "R",
+                        "S",
+                        "Sf"
+                    ],
+                    "dish_type": "Fisch"
                 }
             ]
         },
@@ -145,14 +177,45 @@
                     "dish_type": "Pizza"
                 },
                 {
-                    "name": "Bratwurstschnecke",
+                    "name": "Köttbullar mit Rahmsauce",
                     "price": "N/A",
                     "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "S"
+                    ],
+                    "dish_type": "Grill"
+                },
+                {
+                    "name": "Kartoffelauflauf mit Schinken und Gemüse",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "3",
                         "8",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
                         "S",
                         "Sl"
                     ],
-                    "dish_type": "Grill"
+                    "dish_type": ""
+                },
+                {
+                    "name": "Kräuterdip",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Kn",
+                        "Mi"
+                    ],
+                    "dish_type": ""
                 },
                 {
                     "name": "Sweet & Sour mit Schweinefleisch",
@@ -254,6 +317,21 @@
                         "So"
                     ],
                     "dish_type": "Pizza"
+                },
+                {
+                    "name": "Flammkuchen mit Speck und Lauch",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "3",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Mi",
+                        "S",
+                        "So"
+                    ],
+                    "dish_type": ""
                 },
                 {
                     "name": "Hähnchenspieß mit Apfel-Mango-Chutney",

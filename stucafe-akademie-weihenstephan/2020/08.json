@@ -35,6 +35,16 @@
             "date": "2020-02-18",
             "dishes": [
                 {
+                    "name": "Pasta Napoli (Tomaten-Basilikumsauce)",
+                    "price": 1.9,
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ],
+                    "dish_type": "Aktionsessen 2"
+                },
+                {
                     "name": "Bratwurstschnecke",
                     "price": 2.4,
                     "ingredients": [
@@ -43,16 +53,6 @@
                         "Sl"
                     ],
                     "dish_type": "Aktionsessen 3"
-                },
-                {
-                    "name": "Bio-Pasta Napoli (Bio-Tomaten-Basilikumsauce)",
-                    "price": 1.9,
-                    "ingredients": [
-                        "Gl",
-                        "GlW",
-                        "Kn"
-                    ],
-                    "dish_type": "Biogericht 2"
                 }
             ]
         },

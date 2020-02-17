@@ -48,6 +48,18 @@
                     "dish_type": ""
                 },
                 {
+                    "name": "Pikante Chickenwings mit Barbecuesauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "10",
+                        "11",
+                        "Kn",
+                        "Sf",
+                        "Sl"
+                    ],
+                    "dish_type": "Fleisch"
+                },
+                {
                     "name": "Gulasch vom Schwein",
                     "price": "N/A",
                     "ingredients": [
@@ -57,18 +69,6 @@
                         "Kn",
                         "Mi",
                         "S"
-                    ],
-                    "dish_type": "Fleisch"
-                },
-                {
-                    "name": "Pikante Chickenwings mit Barbecuesauce",
-                    "price": "N/A",
-                    "ingredients": [
-                        "10",
-                        "11",
-                        "Kn",
-                        "Sf",
-                        "Sl"
                     ],
                     "dish_type": "Fleisch"
                 }

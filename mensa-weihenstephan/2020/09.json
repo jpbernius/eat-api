@@ -20,6 +20,8 @@
                     "name": "Gulasch vom Schwein",
                     "price": 1.9,
                     "ingredients": [
+                        "1",
+                        "Ei",
                         "Gl",
                         "GlG",
                         "GlW",
@@ -191,7 +193,7 @@
                     "dish_type": "Tagesgericht 1"
                 },
                 {
-                    "name": "Putenschnitzel mit Tomate und Mozzarella überbacken",
+                    "name": "Truthahnschnitzel mit Tomate und Mozzarella überbacken",
                     "price": 2.8,
                     "ingredients": [
                         "Mi"

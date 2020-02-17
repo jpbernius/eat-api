@@ -6,6 +6,18 @@
             "date": "2020-02-26",
             "dishes": [
                 {
+                    "name": "Knöpflepfanne mit Gemüse und Pilzen",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlD",
+                        "GlW",
+                        "Sl"
+                    ],
+                    "dish_type": "StuBistro Self-Service"
+                },
+                {
                     "name": "Pasta di Manzo mit Rindfleischstreifen in Balsamico",
                     "price": "N/A",
                     "ingredients": [
@@ -18,35 +30,12 @@
                         "Sw"
                     ],
                     "dish_type": "StuBistro Self-Service"
-                },
-                {
-                    "name": "Knöpflepfanne mit Gemüse und Pilzen",
-                    "price": "N/A",
-                    "ingredients": [
-                        "Ei",
-                        "Gl",
-                        "GlD",
-                        "GlW",
-                        "Sl"
-                    ],
-                    "dish_type": "StuBistro Self-Service"
                 }
             ]
         },
         {
             "date": "2020-02-27",
             "dishes": [
-                {
-                    "name": "Hähnchenkeule mexikanische Art",
-                    "price": "N/A",
-                    "ingredients": [
-                        "2",
-                        "Gl",
-                        "GlW",
-                        "Kn"
-                    ],
-                    "dish_type": "StuBistro Self-Service"
-                },
                 {
                     "name": "Currynudeln mit gebratenen Gemüsestreifen",
                     "price": "N/A",
@@ -56,6 +45,17 @@
                         "Se",
                         "Sf",
                         "Sl"
+                    ],
+                    "dish_type": "StuBistro Self-Service"
+                },
+                {
+                    "name": "Hähnchenkeule mexikanische Art",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "Gl",
+                        "GlW",
+                        "Kn"
                     ],
                     "dish_type": "StuBistro Self-Service"
                 }

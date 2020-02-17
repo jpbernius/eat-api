@@ -1,0 +1,75 @@
+{
+    "number": 11,
+    "year": 2020,
+    "days": [
+        {
+            "date": "2020-03-09",
+            "dishes": [
+                {
+                    "name": "Pasta Emiliana mit (Vorder-)Schinken und Erbsen",
+                    "price": 1.9,
+                    "ingredients": [
+                        "2",
+                        "3",
+                        "8",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S"
+                    ],
+                    "dish_type": "Tagesgericht 3"
+                }
+            ]
+        },
+        {
+            "date": "2020-03-10",
+            "dishes": [
+                {
+                    "name": "Moussaka mit Gemüse und Schafskäse",
+                    "price": 3.0,
+                    "ingredients": [
+                        "1",
+                        "11",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "Sf"
+                    ],
+                    "dish_type": "Aktionsessen 6"
+                }
+            ]
+        },
+        {
+            "date": "2020-03-11",
+            "dishes": [
+                {
+                    "name": "Hähnchenspieß vom Grill mit Paprika und Zwiebel",
+                    "price": 2.4,
+                    "ingredients": [],
+                    "dish_type": "Aktionsessen 3"
+                }
+            ]
+        },
+        {
+            "date": "2020-03-12",
+            "dishes": [
+                {
+                    "name": "Hausgemachte Gemüsequiche mit Schnittlauchdip",
+                    "price": 2.4,
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi"
+                    ],
+                    "dish_type": "Aktionsessen 3"
+                }
+            ]
+        }
+    ]
+}

@@ -87,25 +87,6 @@
                     "dish_type": "Vegan, Eintopf, Suppe"
                 },
                 {
-                    "name": "Appenzeller Käsesuppe",
-                    "price": "N/A",
-                    "ingredients": [
-                        "Gl",
-                        "GlG",
-                        "GlW",
-                        "Kn",
-                        "Mi",
-                        "So"
-                    ],
-                    "dish_type": ""
-                },
-                {
-                    "name": "Tagessuppe",
-                    "price": "N/A",
-                    "ingredients": [],
-                    "dish_type": ""
-                },
-                {
                     "name": "Mediterraner Nudel-Gemüse-Auflauf",
                     "price": "N/A",
                     "ingredients": [
@@ -288,10 +269,9 @@
                     "dish_type": ""
                 },
                 {
-                    "name": "Putenschnitzel mit Tomate und Käse überbacken",
+                    "name": "Truthahnschnitzel mit Tomate und Mozzarella überbacken",
                     "price": "N/A",
                     "ingredients": [
-                        "1",
                         "Mi"
                     ],
                     "dish_type": "Fleisch"

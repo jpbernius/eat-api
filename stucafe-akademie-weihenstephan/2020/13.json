@@ -1,0 +1,126 @@
+{
+    "number": 13,
+    "year": 2020,
+    "days": [
+        {
+            "date": "2020-03-23",
+            "dishes": [
+                {
+                    "name": "Gnocchi mit Schafskäse und frischem Basilikum",
+                    "price": 1.9,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht 3"
+                },
+                {
+                    "name": "Pochiertes Welsfilet aus dem Wurzelsud mit Petersilienkartoffel und frischem Meerrettich",
+                    "price": 4.0,
+                    "ingredients": [
+                        "5",
+                        "99",
+                        "Fi",
+                        "Sl",
+                        "Sw"
+                    ],
+                    "dish_type": "Aktionsessen 9"
+                }
+            ]
+        },
+        {
+            "date": "2020-03-24",
+            "dishes": []
+        },
+        {
+            "date": "2020-03-25",
+            "dishes": [
+                {
+                    "name": "Apfelkücherl mit Vanillesauce",
+                    "price": 2.4,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi"
+                    ],
+                    "dish_type": "Tagesgericht 4"
+                },
+                {
+                    "name": "Pasta mit Putenbolognese",
+                    "price": 2.4,
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht 4"
+                }
+            ]
+        },
+        {
+            "date": "2020-03-26",
+            "dishes": [
+                {
+                    "name": "Linsen mit Spätzle",
+                    "price": 2.4,
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Sl",
+                        "So"
+                    ],
+                    "dish_type": "Aktionsessen 3"
+                },
+                {
+                    "name": "Pfannengyros vom Schwein mit Tsatsiki",
+                    "price": 3.0,
+                    "ingredients": [
+                        "3",
+                        "5",
+                        "Kn",
+                        "Mi",
+                        "S",
+                        "Sw"
+                    ],
+                    "dish_type": "Aktionsessen 6"
+                }
+            ]
+        },
+        {
+            "date": "2020-03-27",
+            "dishes": [
+                {
+                    "name": "Tortellini (Käsefüllung) mit Käse-Sahne-Sauce",
+                    "price": 2.4,
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht 4"
+                },
+                {
+                    "name": "Wolfsbarschfilet aus dem Ofen in Zitronen-Knoblauch-Kräuter-Marinade",
+                    "price": 4.5,
+                    "ingredients": [
+                        "Fi",
+                        "Kn"
+                    ],
+                    "dish_type": "Aktionsessen 10"
+                }
+            ]
+        }
+    ]
+}

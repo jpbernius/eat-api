@@ -1,0 +1,83 @@
+{
+    "number": 11,
+    "year": 2020,
+    "days": [
+        {
+            "date": "2020-03-09",
+            "dishes": [
+                {
+                    "name": "Kalbsrahmgulasch mit Pilzen und Weißwein",
+                    "price": 3.5,
+                    "ingredients": [
+                        "5",
+                        "99",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "Sw"
+                    ],
+                    "dish_type": "Aktionsessen 8"
+                }
+            ]
+        },
+        {
+            "date": "2020-03-10",
+            "dishes": [
+                {
+                    "name": "Moussaka mit Gemüse und Schafskäse",
+                    "price": 3.0,
+                    "ingredients": [
+                        "1",
+                        "11",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "Sf"
+                    ],
+                    "dish_type": "Aktionsessen 6"
+                }
+            ]
+        },
+        {
+            "date": "2020-03-12",
+            "dishes": [
+                {
+                    "name": "Spanferkelrollbraten mit Biersauce",
+                    "price": 2.8,
+                    "ingredients": [
+                        "99",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S"
+                    ],
+                    "dish_type": "Aktionsessen 5"
+                }
+            ]
+        },
+        {
+            "date": "2020-03-13",
+            "dishes": [
+                {
+                    "name": "Forelle Müllerin Art mit Mandelbutter",
+                    "price": 4.0,
+                    "ingredients": [
+                        "Fi",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sc",
+                        "ScM"
+                    ],
+                    "dish_type": "Aktionsessen 9"
+                }
+            ]
+        }
+    ]
+}
