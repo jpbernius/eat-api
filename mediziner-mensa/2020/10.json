@@ -1,0 +1,317 @@
+{
+    "number": 10,
+    "year": 2020,
+    "days": [
+        {
+            "date": "2020-03-02",
+            "dishes": [
+                {
+                    "name": "Käserahmsuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "Gl",
+                        "Mi"
+                    ],
+                    "dish_type": "Suppe"
+                },
+                {
+                    "name": "Asiatisches Putenfleisch mit Ananas, Bambus und Pilzen",
+                    "price": "N/A",
+                    "ingredients": [
+                        "G",
+                        "Gl",
+                        "Mi"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Süßkartoffel- Lauchpfanne",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Sl"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Spaghetti mit Sojabolognese",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "Sl",
+                        "So"
+                    ],
+                    "dish_type": "Extraessen"
+                },
+                {
+                    "name": "Blattsalat und Parmesan",
+                    "price": 3.2,
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "Mi",
+                        "Sf",
+                        "Sw"
+                    ],
+                    "dish_type": "Extraessen"
+                }
+            ]
+        },
+        {
+            "date": "2020-03-03",
+            "dishes": [
+                {
+                    "name": "Brokkolicremesuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "Mi"
+                    ],
+                    "dish_type": "Suppe"
+                },
+                {
+                    "name": "Überbackenes Seelachsfilet",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "Fi",
+                        "Mi"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Gebratene Ravioli mit frischen Frühlingszwiebeln",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "Mi",
+                        "Sl",
+                        "Sw"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Gelbe Möhren und Zucchini mit Mozzarella überbacken, dazu Tomaten-Cous Cous",
+                    "price": 2.65,
+                    "ingredients": [
+                        "Gl"
+                    ],
+                    "dish_type": "Extraessen"
+                }
+            ]
+        },
+        {
+            "date": "2020-03-04",
+            "dishes": [
+                {
+                    "name": "Paprika-MaisSuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "Mi"
+                    ],
+                    "dish_type": "Suppe"
+                },
+                {
+                    "name": "Frikasse von der Pute",
+                    "price": "N/A",
+                    "ingredients": [
+                        "G",
+                        "Gl",
+                        "Mi"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Knöpflepfanne mit Erbsen und Paprika",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "Ei",
+                        "Gl"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Blumenkohlcurry mit Basmatireis und Blattsalat",
+                    "price": 2.5,
+                    "ingredients": [
+                        "Gl",
+                        "Mi",
+                        "Sf",
+                        "So",
+                        "Sw"
+                    ],
+                    "dish_type": "Extraessen"
+                }
+            ]
+        },
+        {
+            "date": "2020-03-05",
+            "dishes": [
+                {
+                    "name": "Zucchinisuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "Mi"
+                    ],
+                    "dish_type": "Suppe"
+                },
+                {
+                    "name": "Spinatknödel",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "Mi",
+                        "So"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Frühlingspflanzerl",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "3",
+                        "5",
+                        "Ei",
+                        "Mi",
+                        "Sl",
+                        "Sw"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Schweinenackensteak mit Pfefferrahmsoße B,N,",
+                    "price": "N/A",
+                    "ingredients": [
+                        "S"
+                    ],
+                    "dish_type": "Extraessen"
+                },
+                {
+                    "name": "Kartoffelwedges und Salat",
+                    "price": 4.15,
+                    "ingredients": [
+                        "Gl",
+                        "Sf",
+                        "Sw"
+                    ],
+                    "dish_type": "Extraessen"
+                }
+            ]
+        },
+        {
+            "date": "2020-03-06",
+            "dishes": [
+                {
+                    "name": "Spargelcremesuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "Mi"
+                    ],
+                    "dish_type": "Suppe"
+                },
+                {
+                    "name": "Makkaroni mit Chili - Koriandersoße",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Buchteln mit warmer Rhabarbersoße",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "9",
+                        "Ei",
+                        "Gl",
+                        "Mi"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                }
+            ]
+        },
+        {
+            "date": "2020-03-07",
+            "dishes": [
+                {
+                    "name": "Tomatencremesuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "Mi"
+                    ],
+                    "dish_type": "Suppe"
+                },
+                {
+                    "name": "Zitronenhähnchen",
+                    "price": "N/A",
+                    "ingredients": [
+                        "G",
+                        "Gl"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Zucchinipuffer",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "3",
+                        "5",
+                        "Ei",
+                        "Gl",
+                        "Sw"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                }
+            ]
+        },
+        {
+            "date": "2020-03-08",
+            "dishes": [
+                {
+                    "name": "Kohlrabicremesuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "Mi"
+                    ],
+                    "dish_type": "Suppe"
+                },
+                {
+                    "name": "Kalbsbraten",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "K",
+                        "Mi"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Gemüse-Carbonara",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "Mi",
+                        "Sl"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                }
+            ]
+        }
+    ]
+}
