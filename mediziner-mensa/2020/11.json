@@ -1,0 +1,290 @@
+{
+    "number": 11,
+    "year": 2020,
+    "days": [
+        {
+            "date": "2020-03-09",
+            "dishes": [
+                {
+                    "name": "Kartoffel-Lauchsuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "Mi"
+                    ],
+                    "dish_type": "Suppe"
+                },
+                {
+                    "name": "Rostbrätl mit Zwiebeln",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "S",
+                        "Sf"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Kartoffelstrudel",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "Mi",
+                        "So"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Reisnudeln mit Ragout vom geräuchertem Tofu",
+                    "price": 3.8,
+                    "ingredients": [
+                        "So"
+                    ],
+                    "dish_type": "Extraessen"
+                }
+            ]
+        },
+        {
+            "date": "2020-03-10",
+            "dishes": [
+                {
+                    "name": "Blumenkohlsuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "Mi"
+                    ],
+                    "dish_type": "Suppe"
+                },
+                {
+                    "name": "Spaghetti \"Pad thai\" (Bratnudeln mit Ei)",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Scheiterhaufen 3,B,Y,M,N, mit Apfelstücken, dazu",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Vanille-Orangensoße",
+                    "price": "N/A",
+                    "ingredients": [
+                        "9",
+                        "Mi"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Süßkartoffel-Gemüse-Eintopf",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Sl"
+                    ],
+                    "dish_type": "Extraessen"
+                }
+            ]
+        },
+        {
+            "date": "2020-03-11",
+            "dishes": [
+                {
+                    "name": "Spargelcremesuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "Mi"
+                    ],
+                    "dish_type": "Suppe"
+                },
+                {
+                    "name": "Kartoffel-Paprika-Tortilla",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Mi"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Spinat-Quark-Plätzchen",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "3",
+                        "5",
+                        "Ei",
+                        "Mi",
+                        "Sw"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Mediterranes Grillgemüse mit Kartoffel-Drillingen",
+                    "price": 3.85,
+                    "ingredients": [],
+                    "dish_type": "Extraessen"
+                }
+            ]
+        },
+        {
+            "date": "2020-03-12",
+            "dishes": [
+                {
+                    "name": "Pilz-Karottensuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "Mi"
+                    ],
+                    "dish_type": "Suppe"
+                },
+                {
+                    "name": "Asiatische Pfanne mit Putenstreifen",
+                    "price": "N/A",
+                    "ingredients": [
+                        "G"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Reisauflauf mit warmem Brombeerkompott",
+                    "price": "N/A",
+                    "ingredients": [
+                        "9",
+                        "Ei",
+                        "Mi"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Paprikahälften mit Hirsefüllung auf",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Sl"
+                    ],
+                    "dish_type": "Extraessen"
+                },
+                {
+                    "name": "Tomatensugo",
+                    "price": 3.75,
+                    "ingredients": [],
+                    "dish_type": "Extraessen"
+                }
+            ]
+        },
+        {
+            "date": "2020-03-13",
+            "dishes": [
+                {
+                    "name": "Knoblauchcremesuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "Mi"
+                    ],
+                    "dish_type": "Suppe"
+                },
+                {
+                    "name": "Pilz-Paprika-Gyros",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Mariniertes Tofuschnitzel",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Sc",
+                        "Sf",
+                        "So"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Balinesischer Glasnudelsalat",
+                    "price": "N/A",
+                    "ingredients": [
+                        "En"
+                    ],
+                    "dish_type": "Extraessen"
+                }
+            ]
+        },
+        {
+            "date": "2020-03-14",
+            "dishes": [
+                {
+                    "name": "Bunte Gemüsebrühe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Sl"
+                    ],
+                    "dish_type": "Suppe"
+                },
+                {
+                    "name": "Kartoffeleintopf mit Putenwiener",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "3",
+                        "4",
+                        "8",
+                        "G",
+                        "Sf",
+                        "Sl"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Weizen-Curry-Pfanne mit Wokgemüse",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                }
+            ]
+        },
+        {
+            "date": "2020-03-15",
+            "dishes": [
+                {
+                    "name": "Kräutercremesuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "Mi"
+                    ],
+                    "dish_type": "Suppe"
+                },
+                {
+                    "name": "Rinderbraten",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "R"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Karoffelauflauf mit Gemüse",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "Ei",
+                        "Gl",
+                        "Mi"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                }
+            ]
+        }
+    ]
+}
