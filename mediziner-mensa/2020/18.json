@@ -1,0 +1,213 @@
+{
+    "number": 18,
+    "year": 2020,
+    "days": [
+        {
+            "date": "2020-04-27",
+            "dishes": [
+                {
+                    "name": "Asiatisches Putenfleisch mit Ananas, Bambus und Pilzen, dazu Mandelreis",
+                    "price": "N/A",
+                    "ingredients": [
+                        "G",
+                        "Gl",
+                        "Mi",
+                        "Sc"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Spaghetti mit Sojabolognese und Blattsalat",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "Mi",
+                        "Sf",
+                        "Sl",
+                        "So",
+                        "Sw"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                }
+            ]
+        },
+        {
+            "date": "2020-04-28",
+            "dishes": [
+                {
+                    "name": "Gelbe Möhren und Zucchini mit Mozzarella überbacken, dazu Tomaten-Couscous",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Gebratene Ravioli mit Frühlingszwiebeln und Paprikasalat",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "Mi",
+                        "Sl",
+                        "Sw"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                }
+            ]
+        },
+        {
+            "date": "2020-04-29",
+            "dishes": [
+                {
+                    "name": "Blumenkohlcurry mit Basmatireis",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "Mi",
+                        "So"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Frikassee von der Pute mit Kartoffeln und Rote Bete",
+                    "price": "N/A",
+                    "ingredients": [
+                        "9",
+                        "G",
+                        "Gl",
+                        "Mi",
+                        "Sw"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                }
+            ]
+        },
+        {
+            "date": "2020-04-30",
+            "dishes": [
+                {
+                    "name": "Spinatknödel mit Käsesoße und Blattsalat",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "Ei",
+                        "Gl",
+                        "Mi",
+                        "Sf",
+                        "So",
+                        "Sw"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Möhren-Kohlrabi-Auflauf 1,2,B,Y,N, azu Kurkumasoße und gemischter Salat",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "Mi",
+                        "Sf",
+                        "Sw"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                }
+            ]
+        },
+        {
+            "date": "2020-05-01",
+            "dishes": [
+                {
+                    "name": "Makkaroni mit Chili-Koriander-Soße B, dazu Erbsensalat",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "Sc",
+                        "Sw"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Buchteln mit warmer Rhabarbersoße",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "9",
+                        "Ei",
+                        "Gl",
+                        "Mi"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                }
+            ]
+        },
+        {
+            "date": "2020-05-02",
+            "dishes": [
+                {
+                    "name": "Zitronenhähnchen mit Thymianreis und Paprika-Mais-Gemüse",
+                    "price": "N/A",
+                    "ingredients": [
+                        "G",
+                        "Gl"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Zucchinipuffer mit Rahmspinat",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "3",
+                        "5",
+                        "Ei",
+                        "Gl",
+                        "Mi",
+                        "Sw"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                }
+            ]
+        },
+        {
+            "date": "2020-05-03",
+            "dishes": [
+                {
+                    "name": "Kalbsbraten mit Romanesco und",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "K",
+                        "Mi"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Kartoffelknödel",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "5",
+                        "Sw"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                },
+                {
+                    "name": "Gemüse-Carbonara mit Linguine",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "Mi",
+                        "Sl"
+                    ],
+                    "dish_type": "Hauptkomponente"
+                }
+            ]
+        }
+    ]
+}
