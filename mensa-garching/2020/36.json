@@ -1,0 +1,394 @@
+{
+    "number": 36,
+    "year": 2020,
+    "days": [
+        {
+            "date": "2020-08-31",
+            "dishes": [
+                {
+                    "name": "Pasta all'arrabiata",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi"
+                    ],
+                    "dish_type": "Tellergericht Pasta"
+                },
+                {
+                    "name": "Couscous-Salat mit Falafel und Joghurt-Minzdip",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "Ei",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "Sf",
+                        "So",
+                        "Sw"
+                    ],
+                    "dish_type": "Tellergericht Grill"
+                },
+                {
+                    "name": "Schweinehalssteak mit Kräuterbutter , Wedges und frischem Gemüse",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S",
+                        "Sl"
+                    ],
+                    "dish_type": "Tellergericht Grill"
+                },
+                {
+                    "name": "Gebratene Hähnchenbruststreifen in scharfem Gemüse und Basmatireis",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ],
+                    "dish_type": "Tellergericht Wok"
+                },
+                {
+                    "name": "Spinatknödel mit Gemüse und Tomatensauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "Sl"
+                    ],
+                    "dish_type": "Tellergericht Veggie"
+                }
+            ]
+        },
+        {
+            "date": "2020-09-01",
+            "dishes": [
+                {
+                    "name": "Pizza Mexiko mit Vorderschinken, Mais, Paprikawürfeln und Mozzarella",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "3",
+                        "8",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Mi",
+                        "So"
+                    ],
+                    "dish_type": "Tellergericht Pizza"
+                },
+                {
+                    "name": "Bunter Mischsalat mit Hähnchenstreifen, Couscous-Salat",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "Ei",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "Sf",
+                        "So",
+                        "Sw"
+                    ],
+                    "dish_type": "Tellergericht Grill"
+                },
+                {
+                    "name": "Indisches Linsencurry mit Reis, Pasta all'arrabiata",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "Sf",
+                        "Sl"
+                    ],
+                    "dish_type": "Tellergericht Vegan"
+                },
+                {
+                    "name": "Allgäuer Käsespätzle mit Röstzwiebeln",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "Ei",
+                        "Gl",
+                        "GlD",
+                        "GlW",
+                        "Mi"
+                    ],
+                    "dish_type": "Tellergericht Veggie"
+                },
+                {
+                    "name": "Hähnchenknusperfilet mit Mango-Chili-Dip, Wedges und Karotten",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "11",
+                        "2",
+                        "3",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sf"
+                    ],
+                    "dish_type": "Tellergericht Fleisch"
+                }
+            ]
+        },
+        {
+            "date": "2020-09-02",
+            "dishes": [
+                {
+                    "name": "Pizza Mexiko mit Vorderschinken, Mais, Paprikawürfeln und Mozzarella",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "3",
+                        "8",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Mi",
+                        "So"
+                    ],
+                    "dish_type": "Tellergericht Pizza"
+                },
+                {
+                    "name": "Italienischer Nudelsalat",
+                    "price": "N/A",
+                    "ingredients": [
+                        "5",
+                        "6",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Mi",
+                        "Sw"
+                    ],
+                    "dish_type": "Tellergericht Grill"
+                },
+                {
+                    "name": "Gebratenes Putensteak mit Kartoffelgratin und Gemüse",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Kn",
+                        "Mi"
+                    ],
+                    "dish_type": "Tellergericht Grill"
+                },
+                {
+                    "name": "Schweinehalssteak mit Kräuterbutter , Wedges und frischem Gemüse",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S",
+                        "Sl"
+                    ],
+                    "dish_type": "Tellergericht Grill"
+                },
+                {
+                    "name": "Asia-Pfanne mit Schweinefleisch, dazu Reis",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "S",
+                        "Sf",
+                        "So"
+                    ],
+                    "dish_type": "Tellergericht Wok"
+                },
+                {
+                    "name": "Spanischer Gemüseeintopf mit Baguette",
+                    "price": "N/A",
+                    "ingredients": [
+                        "6",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Lu",
+                        "Sc",
+                        "Se"
+                    ],
+                    "dish_type": "Tellergericht Vegan"
+                },
+                {
+                    "name": "Dampfnudel mit Vanillesauce, Pfannkuchen mit Kirschfüllung und Vanillesauce, Apfelstrudel mit Vanillesauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi"
+                    ],
+                    "dish_type": "Tellergericht Süßspeise"
+                }
+            ]
+        },
+        {
+            "date": "2020-09-03",
+            "dishes": [
+                {
+                    "name": "Pizza Funghi mit frischen Champignons",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "So"
+                    ],
+                    "dish_type": "Tellergericht Pizza"
+                },
+                {
+                    "name": "Bio-Pasta bolognese",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "S"
+                    ],
+                    "dish_type": "Tellergericht Pasta"
+                },
+                {
+                    "name": "Bunter Mischsalat mit Schafskäse",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Mi"
+                    ],
+                    "dish_type": "Tellergericht Grill"
+                },
+                {
+                    "name": "Currywurst mit Honig-Ingwer-Ketchup mit Countrykartoffeln",
+                    "price": "N/A",
+                    "ingredients": [
+                        "8",
+                        "R",
+                        "S",
+                        "Sf"
+                    ],
+                    "dish_type": "Tellergericht Grill"
+                },
+                {
+                    "name": "Couscous mit mediterranem Gemüse und Ciabatta",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "Se",
+                        "So"
+                    ],
+                    "dish_type": "Tellergericht Vegan"
+                }
+            ]
+        },
+        {
+            "date": "2020-09-04",
+            "dishes": [
+                {
+                    "name": "Bunter Bulgur-Sommersalat",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Mi"
+                    ],
+                    "dish_type": "Tellergericht Grill"
+                },
+                {
+                    "name": "Schweinerückensteak mit Steinpilzen in Rahm mit Röstkartoffeln",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "S"
+                    ],
+                    "dish_type": "Tellergericht Grill"
+                },
+                {
+                    "name": "Tofugeschnetzeltes China-Town mit Reis",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "Kn",
+                        "So"
+                    ],
+                    "dish_type": "Tellergericht Veggie"
+                },
+                {
+                    "name": "Schollenfilet (MSC) paniert mit Remouladensauce und Petersilienkartoffeln",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "11",
+                        "2",
+                        "3",
+                        "9",
+                        "Ei",
+                        "Fi",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sf"
+                    ],
+                    "dish_type": "Tellergericht Fisch"
+                },
+                {
+                    "name": "Kaiserschmarrn mit Apfelmus",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi"
+                    ],
+                    "dish_type": "Tellergericht Süßspeise"
+                }
+            ]
+        }
+    ]
+}

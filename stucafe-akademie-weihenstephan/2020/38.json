@@ -1,0 +1,144 @@
+{
+    "number": 38,
+    "year": 2020,
+    "days": [
+        {
+            "date": "2020-09-14",
+            "dishes": [
+                {
+                    "name": "Mexikanischer Reistopf mit Bohnen, Paprika und Mais",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Kn"
+                    ],
+                    "dish_type": "Tellergericht Vegan"
+                },
+                {
+                    "name": "Cordon bleu vom Schwein (mit Formfleisch-Kochschinken) mit Countrykartoffel, Erbsen und Karotten",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "3",
+                        "8",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S",
+                        "Sf",
+                        "Sl"
+                    ],
+                    "dish_type": "Tellergericht Fleisch"
+                }
+            ]
+        },
+        {
+            "date": "2020-09-15",
+            "dishes": [
+                {
+                    "name": "Nasi Goreng (mit Hähnchenfleisch)",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Sf",
+                        "So"
+                    ],
+                    "dish_type": "Tellergericht Wok"
+                },
+                {
+                    "name": "Linseneintopf mit Gemüse",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "5",
+                        "Sl",
+                        "Sw"
+                    ],
+                    "dish_type": "Tellergericht Vegan"
+                }
+            ]
+        },
+        {
+            "date": "2020-09-16",
+            "dishes": [
+                {
+                    "name": "Nürnberger Würstchen mit Kartoffelbrei und Sauerkraut",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "8",
+                        "Mi",
+                        "R",
+                        "S"
+                    ],
+                    "dish_type": "Tellergericht Grill"
+                },
+                {
+                    "name": "Asiatische Reis-Gemüsepfanne",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "Kn",
+                        "Sf",
+                        "Sl",
+                        "So"
+                    ],
+                    "dish_type": "Tellergericht Vegan"
+                }
+            ]
+        },
+        {
+            "date": "2020-09-17",
+            "dishes": [
+                {
+                    "name": "Fleischpflanzerl mit Rahmsauce, Kartoffelbrei, Erbsen",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "S"
+                    ],
+                    "dish_type": "Tellergericht Grill"
+                },
+                {
+                    "name": "Couscous mit Pilzen, Tomaten und Spinat",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "So"
+                    ],
+                    "dish_type": "Tellergericht Vegan"
+                }
+            ]
+        },
+        {
+            "date": "2020-09-18",
+            "dishes": [
+                {
+                    "name": "Rindergeschnetzeltes (GQB) mit grünem Pfeffer, Reis und Mischgemüse",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R"
+                    ],
+                    "dish_type": "Tellergericht Grill"
+                }
+            ]
+        }
+    ]
+}

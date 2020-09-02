@@ -1,0 +1,386 @@
+{
+    "number": 36,
+    "year": 2020,
+    "days": [
+        {
+            "date": "2020-08-31",
+            "dishes": [
+                {
+                    "name": "Pasta all'arrabiata",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ],
+                    "dish_type": "Tellergericht Pasta"
+                },
+                {
+                    "name": "Schweinehalssteak mit Kräuterbutter , Wedges und frischem Gemüse",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S",
+                        "Sl"
+                    ],
+                    "dish_type": "Tellergericht Grill"
+                },
+                {
+                    "name": "Gebratene Hähnchenbruststreifen in scharfem Gemüse und Basmatireis",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Sl",
+                        "So"
+                    ],
+                    "dish_type": "Tellergericht Wok"
+                },
+                {
+                    "name": "Spinatknödel mit Ratatouille und Tomatensauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "Sl"
+                    ],
+                    "dish_type": "Tellergericht Veggie"
+                },
+                {
+                    "name": "Frischer Salatteller mit Thunfisch, Ei und Zwiebeln",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Fi",
+                        "Gl",
+                        "GlG",
+                        "GlR",
+                        "GlW",
+                        "So"
+                    ],
+                    "dish_type": "Salatteller"
+                }
+            ]
+        },
+        {
+            "date": "2020-09-01",
+            "dishes": [
+                {
+                    "name": "Indisches Linsencurry mit Basmatireis, Indisches Linsencurry mit Nudeln",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Sf",
+                        "Sl"
+                    ],
+                    "dish_type": "Tellergericht Vegan"
+                },
+                {
+                    "name": "Allgäuer Käsespätzle mit Röstzwiebeln",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "Ei",
+                        "Gl",
+                        "GlD",
+                        "GlW",
+                        "Mi"
+                    ],
+                    "dish_type": "Tellergericht Veggie"
+                },
+                {
+                    "name": "Hähnchenknusperfilet mit Mango-Chili-Dip, Wedges und Karotten",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "11",
+                        "2",
+                        "3",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sf"
+                    ],
+                    "dish_type": "Tellergericht Fleisch"
+                },
+                {
+                    "name": "Kabeljaufilet (MSC) mit Salzkartoffen und Blattspinat",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Fi",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi"
+                    ],
+                    "dish_type": "Tellergericht Fisch"
+                },
+                {
+                    "name": "Antipasti Party (Salat mit Antipasti, Mozzarella, Basilikum) dazu Balsamico-Dressing",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "5",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sc",
+                        "Se",
+                        "So",
+                        "Sw"
+                    ],
+                    "dish_type": "Salatteller"
+                }
+            ]
+        },
+        {
+            "date": "2020-09-02",
+            "dishes": [
+                {
+                    "name": "Gebratenes Putensteak mit Kartoffelgratin und Gemüse",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Kn",
+                        "Mi"
+                    ],
+                    "dish_type": "Tellergericht Grill"
+                },
+                {
+                    "name": "Asia-Pfanne mit Schweinefleisch, dazu Reis",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "S",
+                        "Sf",
+                        "So"
+                    ],
+                    "dish_type": "Tellergericht Wok"
+                },
+                {
+                    "name": "Spanischer Gemüseeintopf mit Olivenbrot, Allgäuer Käsespätzle mit Röstzwiebeln",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "Ei",
+                        "Gl",
+                        "GlD",
+                        "GlW",
+                        "Kn",
+                        "Lu",
+                        "Mi",
+                        "Sc",
+                        "Se"
+                    ],
+                    "dish_type": "Tellergericht Vegan"
+                },
+                {
+                    "name": "Dampfnudel mit Vanillesauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi"
+                    ],
+                    "dish_type": "Tellergericht Süßspeise"
+                },
+                {
+                    "name": "Türkischer Bauernsalat mit Fladenbrot",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "3",
+                        "5",
+                        "6",
+                        "Gl",
+                        "GlG",
+                        "GlR",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "Se",
+                        "Sw"
+                    ],
+                    "dish_type": "Salatteller"
+                }
+            ]
+        },
+        {
+            "date": "2020-09-03",
+            "dishes": [
+                {
+                    "name": "Bio-Pasta bolognese",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "S"
+                    ],
+                    "dish_type": "Tellergericht Pasta"
+                },
+                {
+                    "name": "Currywurst mit Honig-Ingwer-Ketchup mit Countrykartoffeln",
+                    "price": "N/A",
+                    "ingredients": [
+                        "8",
+                        "R",
+                        "S",
+                        "Sf"
+                    ],
+                    "dish_type": "Tellergericht Grill"
+                },
+                {
+                    "name": "Couscous mit mediterranem Gemüse und Ciabatta",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "Se",
+                        "So"
+                    ],
+                    "dish_type": "Tellergericht Vegan"
+                },
+                {
+                    "name": "Frische Rahmschwammerl mit Semmelknödel",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi"
+                    ],
+                    "dish_type": "Tellergericht Veggie"
+                },
+                {
+                    "name": "Münchner Wurstsalat mit roten Zwiebeln und Breze",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "3",
+                        "5",
+                        "8",
+                        "9",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "R",
+                        "S",
+                        "Sf",
+                        "Sw"
+                    ],
+                    "dish_type": "Salatteller"
+                }
+            ]
+        },
+        {
+            "date": "2020-09-04",
+            "dishes": [
+                {
+                    "name": "Schweinerückensteak mit Steinpilzen in Rahm mit Röstkartoffeln",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "S"
+                    ],
+                    "dish_type": "Tellergericht Grill"
+                },
+                {
+                    "name": "Tofugeschnetzeltes China-Town mit Reis",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "Kn",
+                        "So"
+                    ],
+                    "dish_type": "Tellergericht Veggie"
+                },
+                {
+                    "name": "Schollenfilet (MSC) paniert mit Remouladensauce und Petersilienkartoffeln",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "11",
+                        "2",
+                        "3",
+                        "9",
+                        "Ei",
+                        "Fi",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sf"
+                    ],
+                    "dish_type": "Tellergericht Fisch"
+                },
+                {
+                    "name": "Kaiserschmarrn mit Apfelmus",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi"
+                    ],
+                    "dish_type": "Tellergericht Süßspeise"
+                },
+                {
+                    "name": "Münchner Wurstsalat mit roten Zwiebeln und Breze",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "3",
+                        "5",
+                        "8",
+                        "9",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "R",
+                        "S",
+                        "Sf",
+                        "Sw"
+                    ],
+                    "dish_type": "Salatteller"
+                }
+            ]
+        }
+    ]
+}

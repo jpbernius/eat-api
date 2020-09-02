@@ -1,0 +1,145 @@
+{
+    "number": 36,
+    "year": 2020,
+    "days": [
+        {
+            "date": "2020-08-31",
+            "dishes": [
+                {
+                    "name": "Pasta all'arrabiata",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ],
+                    "dish_type": "Tellergericht Pasta"
+                },
+                {
+                    "name": "Gebratene Hähnchenbruststreifen in scharfem Gemüse und Basmatireis",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ],
+                    "dish_type": "Tellergericht Wok"
+                }
+            ]
+        },
+        {
+            "date": "2020-09-01",
+            "dishes": [
+                {
+                    "name": "Allgäuer Käsespätzle mit Röstzwiebeln",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "Ei",
+                        "Gl",
+                        "GlD",
+                        "GlW",
+                        "Mi"
+                    ],
+                    "dish_type": "Tellergericht Veggie"
+                },
+                {
+                    "name": "Hähnchenschnitzel paniert mit Mango-Chili-Dip, Wedges und Karotten",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "11",
+                        "2",
+                        "3",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sf"
+                    ],
+                    "dish_type": "Tellergericht Fleisch"
+                }
+            ]
+        },
+        {
+            "date": "2020-09-02",
+            "dishes": [
+                {
+                    "name": "Gebratenes Putensteak mit Kartoffel-Twister und Gemüse",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi"
+                    ],
+                    "dish_type": "Tellergericht Grill"
+                },
+                {
+                    "name": "Spanischer Gemüseeintopf mit Reis",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Kn"
+                    ],
+                    "dish_type": "Tellergericht Vegan"
+                }
+            ]
+        },
+        {
+            "date": "2020-09-03",
+            "dishes": [
+                {
+                    "name": "Rahmschwammerl mit Semmelknödel",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi"
+                    ],
+                    "dish_type": "Tellergericht Veggie"
+                },
+                {
+                    "name": "Fleischpflanzerl mit Rahmsauce , Kartoffelbrei und Erbsen",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "S"
+                    ],
+                    "dish_type": "Tellergericht Fleisch"
+                }
+            ]
+        },
+        {
+            "date": "2020-09-04",
+            "dishes": [
+                {
+                    "name": "Seelachsfilet (MSC) mit Ratatouille überbacken, Röstiecken",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "Fi",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "Sf"
+                    ],
+                    "dish_type": "Tellergericht Fisch"
+                }
+            ]
+        }
+    ]
+}
