@@ -17,7 +17,7 @@
                     "dish_type": "Tellergericht Pasta"
                 },
                 {
-                    "name": "Couscous-Salat mit Falafel und Joghurt-Minzdip",
+                    "name": "Couscous-Salat mit Falafel",
                     "price": "N/A",
                     "ingredients": [
                         "1",
@@ -26,6 +26,7 @@
                         "GlG",
                         "GlW",
                         "Kn",
+                        "Mi",
                         "Sf",
                         "So",
                         "Sw"
@@ -36,7 +37,10 @@
                     "name": "Mexikanischer Reistopf mit Bohnen, Paprika und Mais",
                     "price": "N/A",
                     "ingredients": [
-                        "Kn"
+                        "2",
+                        "Kn",
+                        "Sl",
+                        "So"
                     ],
                     "dish_type": "Tellergericht Vegan"
                 },
@@ -44,9 +48,11 @@
                     "name": "Klassische Rinderroulade mit Senf-Gemüse-Sauce , Blaukraut und Salzkartoffeln",
                     "price": "N/A",
                     "ingredients": [
+                        "11",
                         "2",
                         "3",
                         "5",
+                        "8",
                         "99",
                         "Gl",
                         "GlG",
@@ -66,6 +72,10 @@
                     "price": "N/A",
                     "ingredients": [
                         "1",
+                        "2",
+                        "Ei",
+                        "Gl",
+                        "GlW",
                         "Mi"
                     ],
                     "dish_type": "Tellergericht Süßspeise"
@@ -124,7 +134,7 @@
                     "dish_type": "Tellergericht Vegan"
                 },
                 {
-                    "name": "Cordon bleu vom Schwein (mit Formfleisch-Kochschinken) mit Countrykartoffel, Erbsen und Karotten",
+                    "name": "Cordon bleu vom Schwein (mit Formfleisch-Kochschinken) mit Criss Cuts, Erbsen und Karotten",
                     "price": "N/A",
                     "ingredients": [
                         "2",
@@ -162,7 +172,6 @@
                     "name": "Italienischer Nudelsalat",
                     "price": "N/A",
                     "ingredients": [
-                        "3",
                         "5",
                         "Gl",
                         "GlG",
@@ -199,17 +208,20 @@
                     "dish_type": "Tellergericht Veggie"
                 },
                 {
-                    "name": "Münchner Gulasch vom Rind (GQB) mit Semmelknödel",
+                    "name": "Münchner Gulasch vom Rind (GQB) mit Knödel",
                     "price": "N/A",
                     "ingredients": [
                         "1",
+                        "2",
+                        "5",
                         "Ei",
                         "Gl",
                         "GlG",
                         "GlW",
                         "Kn",
                         "Mi",
-                        "R"
+                        "R",
+                        "Sw"
                     ],
                     "dish_type": "Tellergericht Fleisch"
                 }
@@ -235,16 +247,6 @@
                     "dish_type": "Tellergericht Pizza"
                 },
                 {
-                    "name": "Bunter Mischsalat mit Hähnchenstreifen",
-                    "price": "N/A",
-                    "ingredients": [
-                        "Gl",
-                        "GlG",
-                        "GlW"
-                    ],
-                    "dish_type": "Tellergericht Grill"
-                },
-                {
                     "name": "Schweinerückensteak mit grüner Pfeffersauce , Kartoffelgratin und Romanesco",
                     "price": "N/A",
                     "ingredients": [
@@ -255,6 +257,16 @@
                         "Kn",
                         "Mi",
                         "S"
+                    ],
+                    "dish_type": "Tellergericht Grill"
+                },
+                {
+                    "name": "Bunter Mischsalat mit Hähnchenstreifen",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlG",
+                        "GlW"
                     ],
                     "dish_type": "Tellergericht Grill"
                 },
@@ -270,7 +282,7 @@
                     "dish_type": "Tellergericht Vegan"
                 },
                 {
-                    "name": "Putengeschnetzeltes Züricher Art mit Knöpfle und Erbsen-Karotten-Gemüse",
+                    "name": "Putengeschnetzeltes Züricher Art mit Nudeln und Erbsen-Karotten-Gemüse",
                     "price": "N/A",
                     "ingredients": [
                         "5",
@@ -293,6 +305,17 @@
             "date": "2020-09-18",
             "dishes": [
                 {
+                    "name": "Bunter Bulgur-Sommersalat",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Mi"
+                    ],
+                    "dish_type": "Tellergericht Grill"
+                },
+                {
                     "name": "Gebratenes Zanderfilet mit Mandelbutter, Petersilienkartoffeln und Ofengemüse",
                     "price": "N/A",
                     "ingredients": [
@@ -302,17 +325,6 @@
                         "Mi",
                         "Sc",
                         "ScM"
-                    ],
-                    "dish_type": "Tellergericht Grill"
-                },
-                {
-                    "name": "Bunter Bulgur-Sommersalat",
-                    "price": "N/A",
-                    "ingredients": [
-                        "Gl",
-                        "GlG",
-                        "GlW",
-                        "Mi"
                     ],
                     "dish_type": "Tellergericht Grill"
                 },

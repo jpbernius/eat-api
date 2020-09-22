@@ -1,0 +1,406 @@
+{
+    "number": 40,
+    "year": 2020,
+    "days": [
+        {
+            "date": "2020-09-28",
+            "dishes": [
+                {
+                    "name": "Bulgur mit Karotten, Fenchel und Sellerie",
+                    "price": "0.68€ / 100g",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Sl"
+                    ],
+                    "dish_type": "Self-Service"
+                },
+                {
+                    "name": "Cannelloni mit Ricotta-Spinat-Füllung und Tomatensauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "Sl"
+                    ],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Esterhazygulasch vom Rind",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "Sl"
+                    ],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Alm Cordon bleu gefüllt mit Bergkäse und rohem Schinken",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "Ei",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S"
+                    ],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Countrykartoffeln",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Tagessuppe",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Tagesgemüse",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Aktionsdessert",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": "Dessert"
+                }
+            ]
+        },
+        {
+            "date": "2020-09-29",
+            "dishes": [
+                {
+                    "name": "Pasta Napoli (Tomaten-Basilikumsauce)",
+                    "price": "0.68€ / 100g",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ],
+                    "dish_type": "Self-Service"
+                },
+                {
+                    "name": "Bratwurstschnecke",
+                    "price": "N/A",
+                    "ingredients": [
+                        "8",
+                        "S",
+                        "Sl"
+                    ],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Sweet & Sour mit Schweinefleisch",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "3",
+                        "5",
+                        "Kn",
+                        "S",
+                        "Sf",
+                        "Sw"
+                    ],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Kartoffeltaschen mit Kräuterfrischkäse",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi"
+                    ],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Paprikasauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Tagessuppe",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Tagesgemüse",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Reis",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Aktionsdessert",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": "Dessert"
+                }
+            ]
+        },
+        {
+            "date": "2020-09-30",
+            "dishes": [
+                {
+                    "name": "Mexikanisches Soja-Chili",
+                    "price": "0.68€ / 100g",
+                    "ingredients": [
+                        "Kn",
+                        "So"
+                    ],
+                    "dish_type": "Self-Service"
+                },
+                {
+                    "name": "Geröstete Maultaschen mit Lauchzwiebeln und Ei",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sl"
+                    ],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Schweinesteak Strindberg (mit Senf-Zwiebelschmelze)",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "S",
+                        "Sf",
+                        "Sl"
+                    ],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Apfelstrudel mit Vanillesauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Mi"
+                    ],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Röstkartoffeln",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Kn"
+                    ],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Tagessuppe",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Tagesgemüse",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Veganer Schokopudding auf Banane",
+                    "price": "N/A",
+                    "ingredients": [
+                        "So"
+                    ],
+                    "dish_type": "Dessert"
+                }
+            ]
+        },
+        {
+            "date": "2020-10-01",
+            "dishes": [
+                {
+                    "name": "Bunte Gemüsepaella",
+                    "price": "0.68€ / 100g",
+                    "ingredients": [
+                        "Kn"
+                    ],
+                    "dish_type": "Self-Service"
+                },
+                {
+                    "name": "Senner Rösti mit Tomate und Käse überbacken",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "Mi"
+                    ],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Schaschlik",
+                    "price": "N/A",
+                    "ingredients": [
+                        "S",
+                        "Sf"
+                    ],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Geschmorte Ochsenbrust mit Meerrettichsauce und Röstkartoffeln",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "5",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sl",
+                        "Sw"
+                    ],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Tagessuppe",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Tagesgemüse",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Kartoffelpüree",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Mi"
+                    ],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Aktionsdessert",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": "Dessert"
+                }
+            ]
+        },
+        {
+            "date": "2020-10-02",
+            "dishes": [
+                {
+                    "name": "Gebratenes Zanderfilet mit Wurzelgemüse und Petersilienkartoffeln",
+                    "price": "0.68€ / 100g",
+                    "ingredients": [
+                        "Fi",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sl"
+                    ],
+                    "dish_type": "Self-Service"
+                },
+                {
+                    "name": "Kartoffeleintopf mit Majoran",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Sl"
+                    ],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Schupfnudeln mit Sauerkraut und Kümmel",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sl"
+                    ],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Hackbraten mit Rahmsauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "S",
+                        "Sf",
+                        "So"
+                    ],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Kartoffelbrei",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Mi"
+                    ],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Tagessuppe",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Tagesgemüse",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Aktionsdessert",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": "Dessert"
+                }
+            ]
+        }
+    ]
+}

@@ -6,15 +6,22 @@
             "date": "2020-09-14",
             "dishes": [
                 {
-                    "name": "Pizza des Tages",
+                    "name": "Pizza Margherita mit Mozzarella",
                     "price": "N/A",
-                    "ingredients": [],
+                    "ingredients": [
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Mi",
+                        "So"
+                    ],
                     "dish_type": "Tellergericht Pizza"
                 },
                 {
                     "name": "Pasta mit Broccoli-Sahne-Sauce",
                     "price": "N/A",
                     "ingredients": [
+                        "En",
                         "Gl",
                         "GlW",
                         "Kn",
@@ -23,10 +30,30 @@
                     "dish_type": "Tellergericht Pasta"
                 },
                 {
-                    "name": "Mexikanischer Reistopf mit Bohnen, Paprika und Mais",
+                    "name": "Pasta bolognese",
                     "price": "N/A",
                     "ingredients": [
-                        "Kn"
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "S"
+                    ],
+                    "dish_type": "Tellergericht Pasta"
+                },
+                {
+                    "name": "Mexikanischer Reistopf mit Bohnen, Paprika und Mais, Deftiges Bauernfrühstück mit Speck und Ei",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "3",
+                        "5",
+                        "8",
+                        "Ei",
+                        "Kn",
+                        "S",
+                        "Sw"
                     ],
                     "dish_type": "Tellergericht Vegan"
                 },
@@ -61,13 +88,17 @@
                     "dish_type": "Tellergericht Süßspeise"
                 },
                 {
-                    "name": "Frischer Salatteller Falafelbällchen und Zitronen-Minzdip",
+                    "name": "Frischer Salatteller Hackbällchen und Zitronen-Minzdip",
                     "price": "N/A",
                     "ingredients": [
+                        "3",
+                        "5",
+                        "Ei",
                         "Gl",
+                        "GlR",
                         "GlW",
-                        "Kn",
-                        "Mi"
+                        "Mi",
+                        "Sw"
                     ],
                     "dish_type": "Salatteller"
                 }
@@ -77,31 +108,53 @@
             "date": "2020-09-15",
             "dishes": [
                 {
-                    "name": "Pizza des Tages",
+                    "name": "Pizza Salami",
                     "price": "N/A",
-                    "ingredients": [],
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "3",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S",
+                        "So"
+                    ],
                     "dish_type": "Tellergericht Pizza"
                 },
                 {
-                    "name": "Pasta Pomodoro mit Tomaten und Basilikum",
+                    "name": "Pasta Pomodoro mit Tomaten und Basilikum, Tortellini (Käsefüllung) mit Kräutersauce",
                     "price": "N/A",
                     "ingredients": [
                         "3",
+                        "Ei",
                         "Gl",
                         "GlW",
-                        "Kn"
+                        "Kn",
+                        "Mi",
+                        "Sl"
                     ],
                     "dish_type": "Tellergericht Pasta"
                 },
                 {
-                    "name": "Nasi Goreng (mit Hähnchenfleisch)",
+                    "name": "Nasi Goreng (mit Hähnchenfleisch), gebackener Chili-Leberkäse mit Kartoffelsalat",
                     "price": "N/A",
                     "ingredients": [
                         "2",
+                        "3",
+                        "8",
+                        "En",
                         "Gl",
                         "GlW",
                         "Kn",
+                        "R",
+                        "S",
+                        "Sc",
+                        "ScH",
                         "Sf",
+                        "Sl",
                         "So"
                     ],
                     "dish_type": "Tellergericht Wok"
@@ -112,6 +165,7 @@
                     "ingredients": [
                         "3",
                         "5",
+                        "Sf",
                         "Sl",
                         "Sw"
                     ],
@@ -136,9 +190,26 @@
                     "dish_type": "Tellergericht Fleisch"
                 },
                 {
+                    "name": "Salatteller mit Räucherlachs",
+                    "price": "N/A",
+                    "ingredients": [
+                        "6",
+                        "Fi",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "So"
+                    ],
+                    "dish_type": "Salatteller"
+                },
+                {
                     "name": "Frischer Salatteller gebratenen Pilzen",
                     "price": "N/A",
-                    "ingredients": [],
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "So"
+                    ],
                     "dish_type": "Salatteller"
                 }
             ]
@@ -147,9 +218,16 @@
             "date": "2020-09-16",
             "dishes": [
                 {
-                    "name": "Pizza des Tages",
+                    "name": "Pizza Schinken",
                     "price": "N/A",
-                    "ingredients": [],
+                    "ingredients": [
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Mi",
+                        "S",
+                        "So"
+                    ],
                     "dish_type": "Tellergericht Pizza"
                 },
                 {
@@ -169,6 +247,7 @@
                     "price": "N/A",
                     "ingredients": [
                         "2",
+                        "En",
                         "Kn",
                         "Sf",
                         "Sl",
@@ -177,7 +256,19 @@
                     "dish_type": "Tellergericht Vegan"
                 },
                 {
-                    "name": "Kartoffel-Zucchini-Auflauf mit Paprikasauce",
+                    "name": "Linseneintopf mit Gemüse",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "5",
+                        "Sf",
+                        "Sl",
+                        "Sw"
+                    ],
+                    "dish_type": "Tellergericht Vegan"
+                },
+                {
+                    "name": "Kartoffel-Zucchini-Auflauf",
                     "price": "N/A",
                     "ingredients": [
                         "1",
@@ -191,7 +282,7 @@
                     "dish_type": "Tellergericht Veggie"
                 },
                 {
-                    "name": "Münchner Gulasch vom Rind (GQB) mit Semmelknödel",
+                    "name": "Münchner Gulasch vom Rind (GQB) mit Knöpfle und Gemüse",
                     "price": "N/A",
                     "ingredients": [
                         "1",
@@ -206,11 +297,12 @@
                     "dish_type": "Tellergericht Fleisch"
                 },
                 {
-                    "name": "Frischer Salatteller \"Griechische Art\"",
+                    "name": "Frischer Salatteller mit gebratenem Gemüse",
                     "price": "N/A",
                     "ingredients": [
                         "6",
-                        "Mi"
+                        "Mi",
+                        "Sl"
                     ],
                     "dish_type": "Salatteller"
                 }
@@ -242,9 +334,13 @@
                     "name": "Couscous mit Pilzen, Tomaten und Mangold",
                     "price": "N/A",
                     "ingredients": [
+                        "1",
+                        "2",
                         "Gl",
                         "GlW",
                         "Kn",
+                        "Mi",
+                        "Sl",
                         "So"
                     ],
                     "dish_type": "Tellergericht Vegan"

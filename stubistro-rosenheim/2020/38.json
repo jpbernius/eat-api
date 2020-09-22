@@ -1,0 +1,249 @@
+{
+    "number": 38,
+    "year": 2020,
+    "days": [
+        {
+            "date": "2020-09-15",
+            "dishes": [
+                {
+                    "name": "Currywurst mit Honig-Ingwer-Ketchup",
+                    "price": "0.68€ / 100g",
+                    "ingredients": [
+                        "2",
+                        "3",
+                        "8",
+                        "R",
+                        "S",
+                        "Sf"
+                    ],
+                    "dish_type": "Self-Service"
+                },
+                {
+                    "name": "Gnocchi mit Tomatensauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sl"
+                    ],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Maultaschensuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "R",
+                        "S",
+                        "Sl"
+                    ],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Buntes Gemüse",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Countrykartoffeln",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW"
+                    ],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Bayrisch Creme mit Pfirsich",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Mi"
+                    ],
+                    "dish_type": "Dessert"
+                }
+            ]
+        },
+        {
+            "date": "2020-09-16",
+            "dishes": [
+                {
+                    "name": "Köttbullar mit Rahmsauce",
+                    "price": "0.68€ / 100g",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "S"
+                    ],
+                    "dish_type": "Self-Service"
+                },
+                {
+                    "name": "Rahmchampignons mit Semmelknödel",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi"
+                    ],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Gemüsecremesuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW"
+                    ],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Erbsengemüse",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Sl"
+                    ],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Kartoffelpüree",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Mi"
+                    ],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Aktionsdessert",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": "Dessert"
+                }
+            ]
+        },
+        {
+            "date": "2020-09-17",
+            "dishes": [
+                {
+                    "name": "Putensteak mit Currysauce",
+                    "price": "0.68€ / 100g",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Sf"
+                    ],
+                    "dish_type": "Self-Service"
+                },
+                {
+                    "name": "Pasta mit Sojabolognese",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Sl",
+                        "So"
+                    ],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Tagessuppe",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Tagesgemüse",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Pasta",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW"
+                    ],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Aktionsdessert",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": "Dessert"
+                }
+            ]
+        },
+        {
+            "date": "2020-09-18",
+            "dishes": [
+                {
+                    "name": "Wokpfanne mit Shrimps und Gemüse",
+                    "price": "0.68€ / 100g",
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "Gl",
+                        "GlW",
+                        "Kr",
+                        "Se",
+                        "Sl",
+                        "So"
+                    ],
+                    "dish_type": "Self-Service"
+                },
+                {
+                    "name": "Pfannkuchen mit Kirschfüllung dazu Vanillesauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi"
+                    ],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Tagessuppe",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Gulaschsuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "R"
+                    ],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Tagesgemüse",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Aktionsdessert",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": "Dessert"
+                }
+            ]
+        }
+    ]
+}

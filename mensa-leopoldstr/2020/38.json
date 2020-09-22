@@ -9,6 +9,8 @@
                     "name": "Pasta mit Broccoli-Sahne-Sauce",
                     "price": "N/A",
                     "ingredients": [
+                        "2",
+                        "Ei",
                         "Gl",
                         "GlW",
                         "Kn",
@@ -20,6 +22,7 @@
                     "name": "Mexikanischer Reistopf mit Bohnen, Paprika und Mais",
                     "price": "N/A",
                     "ingredients": [
+                        "2",
                         "Kn"
                     ],
                     "dish_type": "Tellergericht Vegan"
@@ -28,6 +31,7 @@
                     "name": "Klassische Rinderroulade mit Senf-Gemüse-Sauce , Blaukraut und Salzkartoffeln",
                     "price": "N/A",
                     "ingredients": [
+                        "11",
                         "2",
                         "3",
                         "5",
@@ -44,6 +48,28 @@
                         "Sw"
                     ],
                     "dish_type": "Tellergericht Fleisch"
+                },
+                {
+                    "name": "Schollenfilet (MSC) paniert mit Remouladensauce und Petersilienkartoffeln, Schweineschnitzel Wiener Art mit Remouladensauce und Röstkartoffeln",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "11",
+                        "3",
+                        "6",
+                        "9",
+                        "Ei",
+                        "Fi",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S",
+                        "Sf",
+                        "Sl"
+                    ],
+                    "dish_type": "Tellergericht Fisch"
                 },
                 {
                     "name": "Milchreis mit Kirschsauce",
@@ -74,10 +100,13 @@
                     "name": "Pasta Pomodoro mit Tomaten und Basilikum",
                     "price": "N/A",
                     "ingredients": [
+                        "2",
                         "3",
+                        "Ei",
                         "Gl",
                         "GlW",
-                        "Kn"
+                        "Kn",
+                        "Mi"
                     ],
                     "dish_type": "Tellergericht Pasta"
                 },
@@ -106,7 +135,7 @@
                     "dish_type": "Tellergericht Vegan"
                 },
                 {
-                    "name": "Cordon bleu vom Schwein (mit Formfleisch-Kochschinken) mit Countrykartoffel, Erbsen und Karotten",
+                    "name": "Cordon bleu vom Schwein (mit Formfleisch-Kochschinken)mit gebackenen Kartoffelspiralen und Gemüse, Schweineschnitzel Wiener Art mit gebackenen Kartoffelspiralen und Gemüse",
                     "price": "N/A",
                     "ingredients": [
                         "2",
@@ -120,6 +149,21 @@
                         "S",
                         "Sf",
                         "Sl"
+                    ],
+                    "dish_type": "Tellergericht Fleisch"
+                },
+                {
+                    "name": "Linseneintopf mit ein Paar Wiener",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "3",
+                        "5",
+                        "8",
+                        "R",
+                        "S",
+                        "Sl",
+                        "Sw"
                     ],
                     "dish_type": "Tellergericht Fleisch"
                 },
@@ -142,14 +186,18 @@
             "date": "2020-09-16",
             "dishes": [
                 {
-                    "name": "Nürnberger Würstchen mit Kartoffelbrei und Sauerkraut",
+                    "name": "Nürnberger Würstchen mit Kartoffelbrei und Sauerkraut, Fleischpflanzerl mit Kartoffelbrei und Sauerkraut, Fränkische Bratwurst mit Sauerkraut und Kartoffelbrei",
                     "price": "N/A",
                     "ingredients": [
                         "3",
                         "8",
+                        "Ei",
+                        "Gl",
+                        "GlW",
                         "Mi",
                         "R",
-                        "S"
+                        "S",
+                        "Sf"
                     ],
                     "dish_type": "Tellergericht Grill"
                 },
@@ -195,15 +243,16 @@
                     "dish_type": "Tellergericht Fleisch"
                 },
                 {
-                    "name": "Frischer Salatteller mit Chicken Nuggets und Baguette",
+                    "name": "Frischer Salatteller mit Hackbällchen, Parmesan und Croutons, dazu Baguette",
                     "price": "N/A",
                     "ingredients": [
-                        "3",
+                        "2",
                         "Ei",
                         "Gl",
                         "GlG",
                         "GlR",
                         "GlW",
+                        "Mi",
                         "So"
                     ],
                     "dish_type": "Salatteller"

@@ -1,0 +1,206 @@
+{
+    "number": 41,
+    "year": 2020,
+    "days": [
+        {
+            "date": "2020-10-05",
+            "dishes": [
+                {
+                    "name": "Arabischer Couscous mit Karotten und Kichererbsen",
+                    "price": 1.0,
+                    "ingredients": [
+                        "2",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "So"
+                    ],
+                    "dish_type": "Tagesgericht 1"
+                },
+                {
+                    "name": "Ravioli mit Pilzfüllung in pikanter Kräutersauce",
+                    "price": 2.4,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht 4"
+                },
+                {
+                    "name": "Pikante Chickenwings mit Barbecuesauce",
+                    "price": 2.6,
+                    "ingredients": [
+                        "10",
+                        "11",
+                        "Kn",
+                        "Sf",
+                        "Sl"
+                    ],
+                    "dish_type": "Aktionsessen 4"
+                }
+            ]
+        },
+        {
+            "date": "2020-10-06",
+            "dishes": [
+                {
+                    "name": "Getreidepfanne mit frischem Gemüse",
+                    "price": 1.0,
+                    "ingredients": [
+                        "Gl",
+                        "GlG"
+                    ],
+                    "dish_type": "Tagesgericht 1"
+                },
+                {
+                    "name": "Gebratenes Schweinefleisch mit Gemüse in Hoisinsauce , dazu Curcumareis",
+                    "price": 2.4,
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "S",
+                        "So"
+                    ],
+                    "dish_type": "Tagesgericht 4"
+                },
+                {
+                    "name": "Mediterraner Nudel-Gemüse-Auflauf",
+                    "price": 2.4,
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi"
+                    ],
+                    "dish_type": "Aktionsessen 3"
+                }
+            ]
+        },
+        {
+            "date": "2020-10-07",
+            "dishes": [
+                {
+                    "name": "Veganer Borschtsch mit Kraut, Kartoffeln und Roter Beete",
+                    "price": 1.0,
+                    "ingredients": [
+                        "3",
+                        "5",
+                        "9",
+                        "Kn",
+                        "Sw"
+                    ],
+                    "dish_type": "Tagesgericht 1"
+                },
+                {
+                    "name": "Knöpflepfanne mit Gemüse und Pilzen",
+                    "price": 1.9,
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlD",
+                        "GlW",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht 3"
+                },
+                {
+                    "name": "Pasta di Manzo mit Rindfleischstreifen (GQB) in Balsamico",
+                    "price": 2.4,
+                    "ingredients": [
+                        "1",
+                        "5",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "R",
+                        "Sw"
+                    ],
+                    "dish_type": "Tagesgericht 4"
+                }
+            ]
+        },
+        {
+            "date": "2020-10-08",
+            "dishes": [
+                {
+                    "name": "Currywurst mit Honig-Ingwer-Ketchup",
+                    "price": 1.9,
+                    "ingredients": [
+                        "8",
+                        "R",
+                        "S",
+                        "Sf"
+                    ],
+                    "dish_type": "Tagesgericht 3"
+                },
+                {
+                    "name": "Pasta mit Gemüsebolognese",
+                    "price": 1.9,
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht 3"
+                },
+                {
+                    "name": "Hähnchenkeule mexikanische Art",
+                    "price": 1.9,
+                    "ingredients": [
+                        "2",
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ],
+                    "dish_type": "Aktionsessen 2"
+                }
+            ]
+        },
+        {
+            "date": "2020-10-09",
+            "dishes": [
+                {
+                    "name": "Gemüsecurry mit roten Linsen, Spinat und Kokosmilch",
+                    "price": 2.6,
+                    "ingredients": [
+                        "2",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "So"
+                    ],
+                    "dish_type": "Aktionsessen 4"
+                },
+                {
+                    "name": "Truthahnschnitzel mit Tomate und Mozzarella überbacken",
+                    "price": 2.8,
+                    "ingredients": [
+                        "Kn",
+                        "Mi"
+                    ],
+                    "dish_type": "Aktionsessen 5"
+                },
+                {
+                    "name": "Lachsfilet auf Blattspinat",
+                    "price": 4.0,
+                    "ingredients": [
+                        "Fi",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi"
+                    ],
+                    "dish_type": "Aktionsessen 9"
+                }
+            ]
+        }
+    ]
+}

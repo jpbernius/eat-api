@@ -1,0 +1,290 @@
+{
+    "number": 41,
+    "year": 2020,
+    "days": [
+        {
+            "date": "2020-10-05",
+            "dishes": [
+                {
+                    "name": "Ravioli mit Pilzfüllung in pikanter Kräutersauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "Sl"
+                    ],
+                    "dish_type": "Pasta"
+                },
+                {
+                    "name": "Rotes Thaicurry mit Hackbällchen, Zucchini und Basmatireis",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "S"
+                    ],
+                    "dish_type": "Wok"
+                },
+                {
+                    "name": "Arabischer Couscous mit Karotten und Kichererbsen",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "So"
+                    ],
+                    "dish_type": "Vegan, Eintopf, Suppe"
+                },
+                {
+                    "name": "Pikante Chickenwings mit Barbecuesauce mit Countrykartoffeln und gegrilltem Gemüsemix",
+                    "price": "N/A",
+                    "ingredients": [
+                        "10",
+                        "11",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Sf",
+                        "Sl"
+                    ],
+                    "dish_type": "Fleisch"
+                }
+            ]
+        },
+        {
+            "date": "2020-10-06",
+            "dishes": [
+                {
+                    "name": "Pizza Funghi mit frischen Champignons",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "So"
+                    ],
+                    "dish_type": "Pizza"
+                },
+                {
+                    "name": "Gebratenes Schweinefleisch mit Gemüse in Hoisinsauce , dazu Curcumareis",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "S",
+                        "So"
+                    ],
+                    "dish_type": "Wok"
+                },
+                {
+                    "name": "Getreidepfanne mit frischem Gemüse",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlG"
+                    ],
+                    "dish_type": "Vegan, Eintopf, Suppe"
+                },
+                {
+                    "name": "Rinderbraten (GQB) mit Rotweinsauce, Kartoffelknödel und Blaukraut",
+                    "price": "N/A",
+                    "ingredients": [
+                        "11",
+                        "2",
+                        "5",
+                        "99",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "Sl",
+                        "Sw"
+                    ],
+                    "dish_type": "Fleisch"
+                }
+            ]
+        },
+        {
+            "date": "2020-10-07",
+            "dishes": [
+                {
+                    "name": "Pasta di Manzo mit Rindfleischstreifen (GQB) in Balsamico",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "5",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "R",
+                        "Sw"
+                    ],
+                    "dish_type": "Pasta"
+                },
+                {
+                    "name": "Veganer Borschtsch mit Kraut, Kartoffeln und Roter Beete",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "5",
+                        "9",
+                        "Kn",
+                        "Sw"
+                    ],
+                    "dish_type": "Vegan, Eintopf, Suppe"
+                },
+                {
+                    "name": "Knöpflepfanne mit Gemüse und Pilzen",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlD",
+                        "GlW",
+                        "Sl"
+                    ],
+                    "dish_type": "Vegetarisch"
+                },
+                {
+                    "name": "Schweinesteak mit Schinken und Käse überbacken , Röstkartoffeln und Cordialgemüse",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "3",
+                        "8",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S",
+                        "Sl"
+                    ],
+                    "dish_type": "Fleisch"
+                }
+            ]
+        },
+        {
+            "date": "2020-10-08",
+            "dishes": [
+                {
+                    "name": "Pasta mit Gemüsebolognese",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Sl"
+                    ],
+                    "dish_type": "Pasta"
+                },
+                {
+                    "name": "Pizza Margherita mit Mozzarella",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Mi",
+                        "So"
+                    ],
+                    "dish_type": "Pizza"
+                },
+                {
+                    "name": "Käsekrainer mit Bratensauce, Kartoffelbrei und Kümmelkraut",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "3",
+                        "5",
+                        "8",
+                        "99",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "S",
+                        "Sf",
+                        "Sw"
+                    ],
+                    "dish_type": "Grill"
+                },
+                {
+                    "name": "Grünkohl-Hanf-Bällchen mit Schnittlauchdip und Gemüsereis",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Mi"
+                    ],
+                    "dish_type": "Vegetarisch"
+                }
+            ]
+        },
+        {
+            "date": "2020-10-09",
+            "dishes": [
+                {
+                    "name": "Lachsfilet auf Blattspinat mit Salzkartoffeln",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Fi",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi"
+                    ],
+                    "dish_type": "Grill"
+                },
+                {
+                    "name": "Gemüsecurry mit roten Linsen, Spinat und Kokosmilch",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "So"
+                    ],
+                    "dish_type": "Wok"
+                },
+                {
+                    "name": "Truthahnschnitzel mit Tomate und Mozzarella überbacken, dazu Reis und mediterranes Gemüse",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Kn",
+                        "Mi"
+                    ],
+                    "dish_type": "Fleisch"
+                },
+                {
+                    "name": "Millirahmstrudel mit Äpfeln und Vanillesauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "Gl",
+                        "GlW",
+                        "Mi"
+                    ],
+                    "dish_type": "Süßspeise"
+                }
+            ]
+        }
+    ]
+}

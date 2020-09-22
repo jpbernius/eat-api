@@ -1,0 +1,33 @@
+{
+    "number": 40,
+    "year": 2020,
+    "days": [
+        {
+            "date": "2020-10-01",
+            "dishes": [
+                {
+                    "name": "Bunte Gemüsepaella",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Kn"
+                    ],
+                    "dish_type": "Tellergericht Vegan"
+                },
+                {
+                    "name": "Pasta mit Gemüse-Thunfisch-Sauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Fi",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "Sl",
+                        "So"
+                    ],
+                    "dish_type": "Tellergericht Veggie"
+                }
+            ]
+        }
+    ]
+}

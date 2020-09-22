@@ -1,0 +1,191 @@
+{
+    "number": 43,
+    "year": 2020,
+    "days": [
+        {
+            "date": "2020-10-19",
+            "dishes": [
+                {
+                    "name": "Bulgur mit Zucchini und Tomaten",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ],
+                    "dish_type": "Vegan, Eintopf, Suppe"
+                },
+                {
+                    "name": "Kartoffelgartin a la Caspar mit Erbsen-Minz-Püree und Ofenkürbis",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Kn",
+                        "Mi"
+                    ],
+                    "dish_type": "Vegetarisch"
+                },
+                {
+                    "name": "Balinesisches Kokoshähnchen",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Kn"
+                    ],
+                    "dish_type": "Fleisch"
+                }
+            ]
+        },
+        {
+            "date": "2020-10-20",
+            "dishes": [
+                {
+                    "name": "Pasta mit Tomaten-Zucchini-Sauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ],
+                    "dish_type": "Pasta"
+                },
+                {
+                    "name": "Veganes Shakshuka a la Caspar mit Bratkartoffeln und Hummus",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Kn"
+                    ],
+                    "dish_type": "Vegetarisch"
+                },
+                {
+                    "name": "Schweineschnitzel Wiener Art",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S",
+                        "Sf",
+                        "Sl"
+                    ],
+                    "dish_type": "Fleisch"
+                }
+            ]
+        },
+        {
+            "date": "2020-10-21",
+            "dishes": [
+                {
+                    "name": "Pasta mit grünem Spargel, Petersilie und Kirschtomaten",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW"
+                    ],
+                    "dish_type": "Pasta"
+                },
+                {
+                    "name": "Hähnchenspieß vom Grill mit Paprika und Zwiebel",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": "Grill"
+                },
+                {
+                    "name": "Ofenkartoffeln a la Caspar mit grüner Sauce und Ei",
+                    "price": "N/A",
+                    "ingredients": [
+                        "5",
+                        "9",
+                        "Ei",
+                        "Gl",
+                        "GlR",
+                        "Mi",
+                        "Sf",
+                        "Sw"
+                    ],
+                    "dish_type": "Vegetarisch"
+                }
+            ]
+        },
+        {
+            "date": "2020-10-22",
+            "dishes": [
+                {
+                    "name": "Bio-Tortelloni all'arrabiata",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ],
+                    "dish_type": "Pasta"
+                },
+                {
+                    "name": "Fränkische Bratwurst",
+                    "price": "N/A",
+                    "ingredients": [
+                        "8",
+                        "R",
+                        "S"
+                    ],
+                    "dish_type": "Grill"
+                },
+                {
+                    "name": "Kartoffelpflanzerl mit gebratenen Pilzen und Zwiebeln",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "3",
+                        "Ei",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Mi",
+                        "So"
+                    ],
+                    "dish_type": "Vegetarisch"
+                }
+            ]
+        },
+        {
+            "date": "2020-10-23",
+            "dishes": [
+                {
+                    "name": "Kichererbsencurry mit Gemüse und Chili",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "Kn"
+                    ],
+                    "dish_type": "Vegan, Eintopf, Suppe"
+                },
+                {
+                    "name": "Veganer Gulaschtopf mit Kartoffeln, Wurzelgemüse und Sojacreme , dazu Baguette",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlG",
+                        "GlR",
+                        "GlW",
+                        "Sl",
+                        "So"
+                    ],
+                    "dish_type": "Vegetarisch"
+                },
+                {
+                    "name": "Forelle Müllerin Art mit Mandelbutter",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Fi",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sc",
+                        "ScM"
+                    ],
+                    "dish_type": "Fisch"
+                }
+            ]
+        }
+    ]
+}
