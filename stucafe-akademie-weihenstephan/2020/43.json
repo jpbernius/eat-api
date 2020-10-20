@@ -21,6 +21,18 @@
                         "Mi"
                     ],
                     "dish_type": "Aktionsessen 4"
+                },
+                {
+                    "name": "Pikante Chickenwings mit Barbecuesauce",
+                    "price": 2.6,
+                    "ingredients": [
+                        "10",
+                        "11",
+                        "Kn",
+                        "Sf",
+                        "Sl"
+                    ],
+                    "dish_type": "Aktionsessen 4"
                 }
             ]
         },
@@ -28,7 +40,7 @@
             "date": "2020-10-20",
             "dishes": [
                 {
-                    "name": "Veganes Shakshuka a la Caspar mit Bratkartoffeln und Hummus",
+                    "name": "Veganes Shakshuka a la Caspar mit Bratkartoffeln und Kichererbse",
                     "price": 2.6,
                     "ingredients": [
                         "Kn"

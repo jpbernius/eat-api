@@ -1,0 +1,290 @@
+{
+    "number": 45,
+    "year": 2020,
+    "days": [
+        {
+            "date": "2020-11-02",
+            "dishes": [
+                {
+                    "name": "Gnocchi mit frischem Kürbis und Kräutern",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "So"
+                    ],
+                    "dish_type": "Pasta"
+                },
+                {
+                    "name": "Putensteak mit Kräuterbutter",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Kn",
+                        "Mi"
+                    ],
+                    "dish_type": "Grill"
+                },
+                {
+                    "name": "Auberginencurry mit Kichererbsenreis",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Kn"
+                    ],
+                    "dish_type": "Vegan, Eintopf, Suppe"
+                },
+                {
+                    "name": "Tagessuppe",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Vegane Gemüselasagne",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "Gl",
+                        "GlW",
+                        "Sl",
+                        "So"
+                    ],
+                    "dish_type": "Vegetarisch"
+                }
+            ]
+        },
+        {
+            "date": "2020-11-03",
+            "dishes": [
+                {
+                    "name": "Vegane Strozzapreti Carbonara mit Räuchertofu",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Sl",
+                        "So"
+                    ],
+                    "dish_type": "Pasta"
+                },
+                {
+                    "name": "Kräuterpolenta mit Tomatenragout",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ],
+                    "dish_type": "Vegan, Eintopf, Suppe"
+                },
+                {
+                    "name": "Tagessuppe",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Veganer Kartoffel-Nuss-Gratin mit Lauch , dazu Sojajoghurtdip",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Sc",
+                        "ScM",
+                        "ScW",
+                        "So"
+                    ],
+                    "dish_type": "Vegetarisch"
+                },
+                {
+                    "name": "Jägerschnitzel vom Truthahn mit Waldpilzen",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "3",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi"
+                    ],
+                    "dish_type": "Fleisch"
+                }
+            ]
+        },
+        {
+            "date": "2020-11-04",
+            "dishes": [
+                {
+                    "name": "Limettenpasta mit Pilzen, Erbsen und Cashews",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Sc",
+                        "ScC",
+                        "ScW"
+                    ],
+                    "dish_type": "Pasta"
+                },
+                {
+                    "name": "Hähnchenbrustfilet mit Gemüsesalsa (scharf)",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Kn"
+                    ],
+                    "dish_type": "Grill"
+                },
+                {
+                    "name": "Kürbis-Linsen-Curry",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Kn",
+                        "Sf"
+                    ],
+                    "dish_type": "Vegan, Eintopf, Suppe"
+                },
+                {
+                    "name": "Tagessuppe",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Vegane Reis-Gemüse-Pflanzerl mit Fenchel-Karottensalat und Orangendressing",
+                    "price": "N/A",
+                    "ingredients": [
+                        "5",
+                        "Lu",
+                        "Sl",
+                        "So",
+                        "Sw"
+                    ],
+                    "dish_type": "Vegetarisch"
+                }
+            ]
+        },
+        {
+            "date": "2020-11-05",
+            "dishes": [
+                {
+                    "name": "Zartweizen mit Gemüse",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ],
+                    "dish_type": "Vegan, Eintopf, Suppe"
+                },
+                {
+                    "name": "Tagessuppe",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Bio-Linsen mit Bio-Spätzle",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Sl",
+                        "So"
+                    ],
+                    "dish_type": "Vegetarisch"
+                },
+                {
+                    "name": "Panierte Sellerieschnitzel mit Farmersalat und Sojajoghurt",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "5",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Sl",
+                        "So",
+                        "Sw"
+                    ],
+                    "dish_type": "Vegetarisch"
+                },
+                {
+                    "name": "Pfannengyros vom Schwein mit Tsatsiki",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "5",
+                        "Kn",
+                        "Mi",
+                        "S",
+                        "Sw"
+                    ],
+                    "dish_type": "Fleisch"
+                }
+            ]
+        },
+        {
+            "date": "2020-11-06",
+            "dishes": [
+                {
+                    "name": "Couscous mit Kürbis",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "So"
+                    ],
+                    "dish_type": "Vegan, Eintopf, Suppe"
+                },
+                {
+                    "name": "Tagessuppe",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Rougaille (Soja in würziger Tomatensauce)",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Kn",
+                        "Sf",
+                        "So"
+                    ],
+                    "dish_type": "Vegetarisch"
+                },
+                {
+                    "name": "Schweinebraten mit Biersauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "99",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S"
+                    ],
+                    "dish_type": "Fleisch"
+                },
+                {
+                    "name": "Germknödel gefüllt mit Pflaumenmus dazu Vanillesauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi"
+                    ],
+                    "dish_type": "Süßspeise"
+                }
+            ]
+        }
+    ]
+}

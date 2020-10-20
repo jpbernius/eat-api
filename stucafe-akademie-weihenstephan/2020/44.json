@@ -44,6 +44,7 @@
                     "name": "Pasta Pomodoro mit Tomaten und Basilikum",
                     "price": 1.9,
                     "ingredients": [
+                        "2",
                         "3",
                         "Gl",
                         "GlW",
@@ -103,7 +104,7 @@
             "date": "2020-10-29",
             "dishes": [
                 {
-                    "name": "Bio-Pasta mit Bio-Tomaten-Frischkäse-Sauce",
+                    "name": "Pasta mit Tomaten-Frischkäse-Sauce",
                     "price": 1.9,
                     "ingredients": [
                         "Gl",

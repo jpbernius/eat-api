@@ -16,14 +16,6 @@
                     "dish_type": "Tagesgericht 1"
                 },
                 {
-                    "name": "Balinesisches Kokoshähnchen",
-                    "price": 1.9,
-                    "ingredients": [
-                        "Kn"
-                    ],
-                    "dish_type": "Tagesgericht 3"
-                },
-                {
                     "name": "Penne Quattro Formaggi",
                     "price": 1.9,
                     "ingredients": [
@@ -38,9 +30,21 @@
                     "dish_type": "Tagesgericht 3"
                 },
                 {
+                    "name": "Balinesisches Kokoshähnchen",
+                    "price": 1.9,
+                    "ingredients": [
+                        "Kn"
+                    ],
+                    "dish_type": "Aktionsessen 2"
+                },
+                {
                     "name": "Kartoffelgartin a la Caspar mit Erbsen-Minz-Püree und Ofenkürbis",
                     "price": 2.6,
                     "ingredients": [
+                        "3",
+                        "Ei",
+                        "Gl",
+                        "GlW",
                         "Kn",
                         "Mi"
                     ],
@@ -52,22 +56,41 @@
             "date": "2020-10-20",
             "dishes": [
                 {
-                    "name": "Grüner Erbseneintopf",
+                    "name": "Feuriger Eintopf mit weißen Bohnen und Gemüse",
                     "price": 1.0,
                     "ingredients": [
-                        "Sl"
+                        "2",
+                        "Kn"
                     ],
                     "dish_type": "Tagesgericht 1"
                 },
                 {
-                    "name": "Pasta mit Tomaten-Zucchini-Sauce",
+                    "name": "Pasta Emiliana mit (Vorder-)Schinken und Erbsen",
                     "price": 1.9,
                     "ingredients": [
+                        "2",
+                        "3",
+                        "8",
                         "Gl",
                         "GlW",
-                        "Kn"
+                        "Kn",
+                        "Mi",
+                        "S"
                     ],
                     "dish_type": "Tagesgericht 3"
+                },
+                {
+                    "name": "Paniertes Truthahnschnitzel mit Bratensauce",
+                    "price": 2.4,
+                    "ingredients": [
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "Sl"
+                    ],
+                    "dish_type": "Tagesgericht 4"
                 },
                 {
                     "name": "Veganes Shakshuka a la Caspar mit Bratkartoffeln und Hummus",
@@ -76,21 +99,6 @@
                         "Kn"
                     ],
                     "dish_type": "Aktionsessen 4"
-                },
-                {
-                    "name": "Schweineschnitzel Wiener Art",
-                    "price": 3.0,
-                    "ingredients": [
-                        "Gl",
-                        "GlG",
-                        "GlW",
-                        "Kn",
-                        "Mi",
-                        "S",
-                        "Sf",
-                        "Sl"
-                    ],
-                    "dish_type": "Aktionsessen 6"
                 }
             ]
         },

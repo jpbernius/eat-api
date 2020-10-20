@@ -1,51 +1,33 @@
 {
-    "number": 43,
+    "number": 47,
     "year": 2020,
     "days": [
         {
-            "date": "2020-10-19",
+            "date": "2020-11-16",
             "dishes": [
                 {
-                    "name": "Penne Quattro Formaggi",
+                    "name": "Ravioli mit Pilzfüllung in pikanter Kräutersauce",
                     "price": "0.68€ / 100g",
                     "ingredients": [
-                        "1",
-                        "2",
                         "Ei",
                         "Gl",
                         "GlW",
                         "Kn",
-                        "Mi"
+                        "Mi",
+                        "Sl"
                     ],
                     "dish_type": "Self-Service"
                 },
                 {
-                    "name": "Schweinelachssteak mit Paprikasauce",
+                    "name": "Gulasch vom Schwein",
                     "price": "N/A",
                     "ingredients": [
                         "Gl",
+                        "GlG",
                         "GlW",
+                        "Kn",
                         "Mi",
                         "S"
-                    ],
-                    "dish_type": ""
-                },
-                {
-                    "name": "Selleriecremesuppe",
-                    "price": "N/A",
-                    "ingredients": [
-                        "Gl",
-                        "GlW",
-                        "Mi",
-                        "Sl"
-                    ],
-                    "dish_type": ""
-                },
-                {
-                    "name": "Mischgemüse",
-                    "price": "N/A",
-                    "ingredients": [
-                        "Sl"
                     ],
                     "dish_type": ""
                 },
@@ -61,10 +43,21 @@
                     "dish_type": ""
                 },
                 {
-                    "name": "Weiße Schokoladenmousse mit Mangopüree",
+                    "name": "Tagesgemüse",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Tagessuppe",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Heidelbeer- Mascarpone- Creme",
                     "price": "N/A",
                     "ingredients": [
-                        "14",
                         "Mi"
                     ],
                     "dish_type": "Dessert"
@@ -72,138 +65,58 @@
             ]
         },
         {
-            "date": "2020-10-20",
+            "date": "2020-11-17",
             "dishes": [
                 {
-                    "name": "Grüner Erbseneintopf",
+                    "name": "Mediterraner Nudel-Gemüse-Auflauf",
                     "price": "0.68€ / 100g",
                     "ingredients": [
-                        "Sl"
-                    ],
-                    "dish_type": "Self-Service"
-                },
-                {
-                    "name": "Hähnchenschnitzel mit Mango-Chili-Dip",
-                    "price": "N/A",
-                    "ingredients": [
                         "1",
-                        "11",
-                        "3",
+                        "2",
                         "Ei",
                         "Gl",
                         "GlW",
+                        "Mi"
+                    ],
+                    "dish_type": "Self-Service"
+                },
+                {
+                    "name": "Rinderbraten (GQB) mit Rotweinsauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "5",
+                        "99",
+                        "Gl",
+                        "GlG",
+                        "GlW",
                         "Kn",
                         "Mi",
-                        "Sf"
-                    ],
-                    "dish_type": ""
-                },
-                {
-                    "name": "Basmatireis",
-                    "price": "N/A",
-                    "ingredients": [],
-                    "dish_type": ""
-                },
-                {
-                    "name": "Tagessuppe",
-                    "price": "N/A",
-                    "ingredients": [],
-                    "dish_type": ""
-                },
-                {
-                    "name": "Tagesgemüse",
-                    "price": "N/A",
-                    "ingredients": [],
-                    "dish_type": ""
-                },
-                {
-                    "name": "Aktionsdessert",
-                    "price": "N/A",
-                    "ingredients": [],
-                    "dish_type": "Dessert"
-                }
-            ]
-        },
-        {
-            "date": "2020-10-21",
-            "dishes": [
-                {
-                    "name": "Hähnchenspieß mit Paprika und Zwiebel",
-                    "price": "0.68€ / 100g",
-                    "ingredients": [],
-                    "dish_type": "Self-Service"
-                },
-                {
-                    "name": "Pasta mit grünem Spargel, Petersilie und Kirschtomaten",
-                    "price": "N/A",
-                    "ingredients": [
-                        "Gl",
-                        "GlW"
-                    ],
-                    "dish_type": ""
-                },
-                {
-                    "name": "Kräuterreis",
-                    "price": "N/A",
-                    "ingredients": [],
-                    "dish_type": ""
-                },
-                {
-                    "name": "Tagessuppe",
-                    "price": "N/A",
-                    "ingredients": [],
-                    "dish_type": ""
-                },
-                {
-                    "name": "Tagesgemüse",
-                    "price": "N/A",
-                    "ingredients": [],
-                    "dish_type": ""
-                },
-                {
-                    "name": "Veganer Chiapudding mit Himbeer-Kokos",
-                    "price": "N/A",
-                    "ingredients": [
-                        "Se"
-                    ],
-                    "dish_type": "Dessert"
-                }
-            ]
-        },
-        {
-            "date": "2020-10-22",
-            "dishes": [
-                {
-                    "name": "Fränkische Bratwurst",
-                    "price": "0.68€ / 100g",
-                    "ingredients": [
-                        "8",
                         "R",
-                        "S"
-                    ],
-                    "dish_type": "Self-Service"
-                },
-                {
-                    "name": "Blumenkohl-Kartoffel-Curry",
-                    "price": "N/A",
-                    "ingredients": [
-                        "Kn",
-                        "Sl"
+                        "Sl",
+                        "Sw"
                     ],
                     "dish_type": ""
                 },
                 {
-                    "name": "Kartoffelbrei",
+                    "name": "Semmelknödel",
                     "price": "N/A",
                     "ingredients": [
+                        "1",
+                        "Ei",
+                        "Gl",
+                        "GlW",
                         "Mi"
                     ],
                     "dish_type": ""
                 },
                 {
-                    "name": "Tagessuppe",
+                    "name": "Blaukraut",
                     "price": "N/A",
-                    "ingredients": [],
+                    "ingredients": [
+                        "5",
+                        "99",
+                        "Sw"
+                    ],
                     "dish_type": ""
                 },
                 {
@@ -213,35 +126,181 @@
                     "dish_type": ""
                 },
                 {
-                    "name": "Aktionsdessert",
+                    "name": "Tagessuppe",
                     "price": "N/A",
                     "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Hirsecreme mit Nüssen und Sahne",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Mi",
+                        "Sc",
+                        "ScH"
+                    ],
                     "dish_type": "Dessert"
                 }
             ]
         },
         {
-            "date": "2020-10-23",
+            "date": "2020-11-18",
             "dishes": [
                 {
-                    "name": "Forelle Müllerin Art mit Mandelbutter",
+                    "name": "Überbackenes Hacksteak griechische Art mit Tsatsiki und Reis",
+                    "price": "0.68€ / 100g",
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "3",
+                        "5",
+                        "Ei",
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "Sf",
+                        "Sl",
+                        "Sw"
+                    ],
+                    "dish_type": "Self-Service"
+                },
+                {
+                    "name": "Knöpflepfanne mit Gemüse und Pilzen",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlD",
+                        "GlW",
+                        "Sl"
+                    ],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Tagesgemüse",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Tagessuppe",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Veganer Sojacreme-Joghurt mit Brombeeren und Minze",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "So"
+                    ],
+                    "dish_type": "Dessert"
+                }
+            ]
+        },
+        {
+            "date": "2020-11-19",
+            "dishes": [
+                {
+                    "name": "Currynudeln mit gebratenen Gemüsestreifen",
+                    "price": "0.68€ / 100g",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Se",
+                        "Sf",
+                        "Sl"
+                    ],
+                    "dish_type": "Self-Service"
+                },
+                {
+                    "name": "Surbraten vom Schweinehals mit Rosmarinjus",
+                    "price": "N/A",
+                    "ingredients": [
+                        "2",
+                        "3",
+                        "8",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S"
+                    ],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Semmelknödel",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi"
+                    ],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Kümmelkraut",
+                    "price": "N/A",
+                    "ingredients": [
+                        "5",
+                        "99",
+                        "Sw"
+                    ],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Tagesgemüse",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Tagessuppe",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Rhabarber-Erdbeer-Triffle mit Vanillecreme und Sahne",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi"
+                    ],
+                    "dish_type": "Dessert"
+                }
+            ]
+        },
+        {
+            "date": "2020-11-20",
+            "dishes": [
+                {
+                    "name": "Lachsfilet auf Blattspinat",
                     "price": "0.68€ / 100g",
                     "ingredients": [
                         "Fi",
                         "Gl",
                         "GlW",
-                        "Mi",
-                        "Sc",
-                        "ScM"
+                        "Kn",
+                        "Mi"
                     ],
                     "dish_type": "Self-Service"
                 },
                 {
-                    "name": "Kichererbsencurry mit Gemüse und Chili",
+                    "name": "Gemüsecurry mit roten Linsen, Spinat und Kokosmilch",
                     "price": "N/A",
                     "ingredients": [
                         "2",
-                        "Kn"
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "So"
                     ],
                     "dish_type": ""
                 },
@@ -252,21 +311,25 @@
                     "dish_type": ""
                 },
                 {
-                    "name": "Tagessuppe",
-                    "price": "N/A",
-                    "ingredients": [],
-                    "dish_type": ""
-                },
-                {
                     "name": "Tagesgemüse",
                     "price": "N/A",
                     "ingredients": [],
                     "dish_type": ""
                 },
                 {
-                    "name": "Aktionsdessert",
+                    "name": "Tagessuppe",
                     "price": "N/A",
                     "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Schokocreme Schwarzwälder Art",
+                    "price": "N/A",
+                    "ingredients": [
+                        "99",
+                        "Mi",
+                        "So"
+                    ],
                     "dish_type": "Dessert"
                 }
             ]

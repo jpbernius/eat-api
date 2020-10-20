@@ -30,6 +30,17 @@
                     "dish_type": "Vegan, Eintopf, Suppe"
                 },
                 {
+                    "name": "Grießnockerlsuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Sl"
+                    ],
+                    "dish_type": ""
+                },
+                {
                     "name": "Kartoffelgartin a la Caspar mit Erbsen-Minz-Püree und Ofenkürbis",
                     "price": "N/A",
                     "ingredients": [
@@ -45,6 +56,18 @@
                         "Kn"
                     ],
                     "dish_type": "Fleisch"
+                },
+                {
+                    "name": "Kaiserschmarrn mit Apfelmus",
+                    "price": "N/A",
+                    "ingredients": [
+                        "3",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Mi"
+                    ],
+                    "dish_type": "Süßspeise"
                 }
             ]
         },
@@ -70,6 +93,20 @@
                     "dish_type": "Vegan, Eintopf, Suppe"
                 },
                 {
+                    "name": "Käsesuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi"
+                    ],
+                    "dish_type": ""
+                },
+                {
                     "name": "Veganes Shakshuka a la Caspar mit Bratkartoffeln und Hummus",
                     "price": "N/A",
                     "ingredients": [
@@ -89,6 +126,14 @@
                         "S",
                         "Sf",
                         "Sl"
+                    ],
+                    "dish_type": "Fleisch"
+                },
+                {
+                    "name": "Balinesisches Kokoshähnchen",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Kn"
                     ],
                     "dish_type": "Fleisch"
                 }
@@ -134,6 +179,16 @@
                     "dish_type": "Vegan, Eintopf, Suppe"
                 },
                 {
+                    "name": "Erbsensuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Sl"
+                    ],
+                    "dish_type": ""
+                },
+                {
                     "name": "Ofenkartoffeln a la Caspar mit grüner Sauce und Ei",
                     "price": "N/A",
                     "ingredients": [
@@ -147,6 +202,21 @@
                         "Sw"
                     ],
                     "dish_type": "Vegetarisch"
+                },
+                {
+                    "name": "Schweineschnitzel Wiener Art",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "S",
+                        "Sf",
+                        "Sl"
+                    ],
+                    "dish_type": "Fleisch"
                 }
             ]
         },

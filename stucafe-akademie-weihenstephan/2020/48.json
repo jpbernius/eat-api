@@ -1,0 +1,149 @@
+{
+    "number": 48,
+    "year": 2020,
+    "days": [
+        {
+            "date": "2020-11-23",
+            "dishes": [
+                {
+                    "name": "Reispfanne mit Gemüse aus dem Wok (scharf)",
+                    "price": 2.6,
+                    "ingredients": [
+                        "Sf"
+                    ],
+                    "dish_type": "Aktionsessen 4"
+                },
+                {
+                    "name": "Rindergeschnetzeltes (GQB) Stroganoff",
+                    "price": 3.2,
+                    "ingredients": [
+                        "9",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "Sf"
+                    ],
+                    "dish_type": "Aktionsessen 7"
+                }
+            ]
+        },
+        {
+            "date": "2020-11-24",
+            "dishes": [
+                {
+                    "name": "Pilaw arabische Art",
+                    "price": 2.4,
+                    "ingredients": [
+                        "Kn",
+                        "Sf"
+                    ],
+                    "dish_type": "Aktionsessen 3"
+                },
+                {
+                    "name": "Roast beef mit Schmorzwiebelsauce",
+                    "price": 4.0,
+                    "ingredients": [
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R"
+                    ],
+                    "dish_type": "Aktionsessen 9"
+                }
+            ]
+        },
+        {
+            "date": "2020-11-25",
+            "dishes": [
+                {
+                    "name": "Pasta mit Soja-Bolognese (dazu Hartkäse)",
+                    "price": 2.4,
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "So"
+                    ],
+                    "dish_type": "Aktionsessen 3"
+                },
+                {
+                    "name": "Gebratenes Putensteak mit Kräuterdip",
+                    "price": 2.6,
+                    "ingredients": [
+                        "Kn",
+                        "Mi"
+                    ],
+                    "dish_type": "Aktionsessen 4"
+                }
+            ]
+        },
+        {
+            "date": "2020-11-26",
+            "dishes": [
+                {
+                    "name": "Tortelloni all'arrabiata",
+                    "price": 2.6,
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ],
+                    "dish_type": "Aktionsessen 4"
+                },
+                {
+                    "name": "Chili con Carne",
+                    "price": 2.8,
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "R",
+                        "S",
+                        "Sf"
+                    ],
+                    "dish_type": "Aktionsessen 5"
+                }
+            ]
+        },
+        {
+            "date": "2020-11-27",
+            "dishes": [
+                {
+                    "name": "Linsen mit Spätzle",
+                    "price": 2.4,
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Sl",
+                        "So"
+                    ],
+                    "dish_type": "Aktionsessen 3"
+                },
+                {
+                    "name": "Schollenfilet (MSC) paniert mit Remouladensauce",
+                    "price": 2.6,
+                    "ingredients": [
+                        "1",
+                        "11",
+                        "3",
+                        "9",
+                        "Ei",
+                        "Fi",
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sf"
+                    ],
+                    "dish_type": "Aktionsessen 4"
+                }
+            ]
+        }
+    ]
+}

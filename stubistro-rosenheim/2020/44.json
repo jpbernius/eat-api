@@ -38,31 +38,6 @@
                     "dish_type": ""
                 },
                 {
-                    "name": "Mexikanischer Reistopf mit Bohnen, Paprika und Mais",
-                    "price": "N/A",
-                    "ingredients": [
-                        "Kn"
-                    ],
-                    "dish_type": ""
-                },
-                {
-                    "name": "Kartoffelröstis mit Kräutersahnequark",
-                    "price": "N/A",
-                    "ingredients": [
-                        "Kn",
-                        "Mi"
-                    ],
-                    "dish_type": ""
-                },
-                {
-                    "name": "Kartoffelbrei",
-                    "price": "N/A",
-                    "ingredients": [
-                        "Mi"
-                    ],
-                    "dish_type": ""
-                },
-                {
                     "name": "Kroketten",
                     "price": "N/A",
                     "ingredients": [
@@ -81,6 +56,12 @@
                     "price": "N/A",
                     "ingredients": [],
                     "dish_type": ""
+                },
+                {
+                    "name": "Aktionsdessert",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": "Dessert"
                 }
             ]
         },
@@ -88,12 +69,14 @@
             "date": "2020-10-27",
             "dishes": [
                 {
-                    "name": "Cordon bleu vom Schwein (mit Formfleisch-Kochschinken)",
+                    "name": "Cordon bleu vom Schwein",
                     "price": "0.68€ / 100g",
                     "ingredients": [
+                        "1",
                         "2",
                         "3",
                         "8",
+                        "Ei",
                         "Gl",
                         "GlG",
                         "GlW",
@@ -104,28 +87,6 @@
                         "Sl"
                     ],
                     "dish_type": "Self-Service"
-                },
-                {
-                    "name": "Pasta Pomodoro mit Tomaten und Basilikum",
-                    "price": "N/A",
-                    "ingredients": [
-                        "3",
-                        "Gl",
-                        "GlW",
-                        "Kn"
-                    ],
-                    "dish_type": ""
-                },
-                {
-                    "name": "Linseneintopf mit Gemüse",
-                    "price": "N/A",
-                    "ingredients": [
-                        "3",
-                        "5",
-                        "Sl",
-                        "Sw"
-                    ],
-                    "dish_type": ""
                 },
                 {
                     "name": "Pikanter Reisauflauf mit Gemüse, Käse und Paprikasauce",
@@ -143,12 +104,14 @@
                     "dish_type": ""
                 },
                 {
-                    "name": "Countrykartoffeln",
+                    "name": "Kartoffelsalat",
                     "price": "N/A",
                     "ingredients": [
-                        "Gl",
-                        "GlW",
-                        "Kn"
+                        "1",
+                        "3",
+                        "5",
+                        "Sf",
+                        "Sw"
                     ],
                     "dish_type": ""
                 },
@@ -163,6 +126,12 @@
                     "price": "N/A",
                     "ingredients": [],
                     "dish_type": ""
+                },
+                {
+                    "name": "Aktionsdessert",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": "Dessert"
                 }
             ]
         },
@@ -183,16 +152,6 @@
                     "dish_type": "Self-Service"
                 },
                 {
-                    "name": "Gnocchi mit Maronen und Kürbis",
-                    "price": "N/A",
-                    "ingredients": [
-                        "Gl",
-                        "GlW",
-                        "So"
-                    ],
-                    "dish_type": ""
-                },
-                {
                     "name": "Asiatische Reis-Gemüsepfanne",
                     "price": "N/A",
                     "ingredients": [
@@ -201,20 +160,6 @@
                         "Sf",
                         "Sl",
                         "So"
-                    ],
-                    "dish_type": ""
-                },
-                {
-                    "name": "Kartoffel-Zucchini-Auflauf mit Paprikasauce",
-                    "price": "N/A",
-                    "ingredients": [
-                        "1",
-                        "2",
-                        "Ei",
-                        "Gl",
-                        "GlW",
-                        "Kn",
-                        "Mi"
                     ],
                     "dish_type": ""
                 },
@@ -240,6 +185,12 @@
                     "price": "N/A",
                     "ingredients": [],
                     "dish_type": ""
+                },
+                {
+                    "name": "Aktionsdessert",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": "Dessert"
                 }
             ]
         },
@@ -271,36 +222,6 @@
                     "dish_type": ""
                 },
                 {
-                    "name": "Couscous mit Pilzen, Tomaten und Mangold",
-                    "price": "N/A",
-                    "ingredients": [
-                        "Gl",
-                        "GlW",
-                        "Kn",
-                        "So"
-                    ],
-                    "dish_type": ""
-                },
-                {
-                    "name": "Hausgemachte Gemüsequiche mit Schnittlauchdip",
-                    "price": "N/A",
-                    "ingredients": [
-                        "1",
-                        "2",
-                        "Ei",
-                        "Gl",
-                        "GlW",
-                        "Mi"
-                    ],
-                    "dish_type": ""
-                },
-                {
-                    "name": "Röstkartoffeln",
-                    "price": "N/A",
-                    "ingredients": [],
-                    "dish_type": ""
-                },
-                {
                     "name": "Kartoffelgratin",
                     "price": "N/A",
                     "ingredients": [
@@ -321,6 +242,12 @@
                     "price": "N/A",
                     "ingredients": [],
                     "dish_type": ""
+                },
+                {
+                    "name": "Aktionsdessert",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": "Dessert"
                 }
             ]
         },
@@ -341,24 +268,33 @@
                     "dish_type": "Self-Service"
                 },
                 {
-                    "name": "Süßer Kürbisstrudel mit Vanillesauce",
+                    "name": "Salzkartoffeln",
+                    "price": "N/A",
+                    "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Apfelstrudel mit Vanillesauce",
                     "price": "N/A",
                     "ingredients": [
-                        "3",
-                        "Ei",
                         "Gl",
                         "GlW",
-                        "Mi",
-                        "Sc",
-                        "ScH",
-                        "So"
+                        "Mi"
                     ],
                     "dish_type": ""
                 },
                 {
-                    "name": "Buntes Pfannengemüse",
+                    "name": "Basmatireis",
                     "price": "N/A",
                     "ingredients": [],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Gruseldessert mit Augen (Litschi gefüllt mit Sauerkirschen auf Vanillecreme)",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Mi"
+                    ],
                     "dish_type": ""
                 },
                 {
@@ -368,12 +304,6 @@
                         "Kn",
                         "Mi"
                     ],
-                    "dish_type": ""
-                },
-                {
-                    "name": "Salzkartoffeln",
-                    "price": "N/A",
-                    "ingredients": [],
                     "dish_type": ""
                 },
                 {
@@ -389,7 +319,7 @@
                     "dish_type": ""
                 },
                 {
-                    "name": "Gruseldessert mit Augen (Litschi gefüllt mit Sauerkirschen auf Vanillecreme)",
+                    "name": "Gruseldessert mit Augen (Litschi gefüllt mit Sauerkirschen auf Vanillecreme) (2)",
                     "price": "N/A",
                     "ingredients": [
                         "Mi"

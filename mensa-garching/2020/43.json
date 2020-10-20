@@ -20,6 +20,21 @@
                     "dish_type": "Pasta"
                 },
                 {
+                    "name": "Bratwurst vom Grill",
+                    "price": "N/A",
+                    "ingredients": [
+                        "8",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "S"
+                    ],
+                    "dish_type": "Grill"
+                },
+                {
                     "name": "Bulgur mit Zucchini und Tomaten",
                     "price": "N/A",
                     "ingredients": [
@@ -28,6 +43,19 @@
                         "Kn"
                     ],
                     "dish_type": "Vegan, Eintopf, Suppe"
+                },
+                {
+                    "name": "Rindfleischsuppe mit Leberspätzle",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "R",
+                        "S",
+                        "Sl"
+                    ],
+                    "dish_type": ""
                 },
                 {
                     "name": "Kartoffelgartin a la Caspar mit Erbsen-Minz-Püree und Ofenkürbis",
@@ -42,6 +70,8 @@
                     "name": "Balinesisches Kokoshähnchen",
                     "price": "N/A",
                     "ingredients": [
+                        "Gl",
+                        "GlW",
                         "Kn"
                     ],
                     "dish_type": "Fleisch"
@@ -84,10 +114,22 @@
                     "dish_type": "Vegan, Eintopf, Suppe"
                 },
                 {
+                    "name": "Kürbis-Curry Cremesuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Sf"
+                    ],
+                    "dish_type": ""
+                },
+                {
                     "name": "Veganes Shakshuka a la Caspar mit Bratkartoffeln und Hummus",
                     "price": "N/A",
                     "ingredients": [
-                        "Kn"
+                        "Kn",
+                        "Se"
                     ],
                     "dish_type": "Vegetarisch"
                 },
@@ -105,6 +147,22 @@
                         "Sl"
                     ],
                     "dish_type": "Fleisch"
+                },
+                {
+                    "name": "Mini-Fleischpflanzerl mit Kümmelsauce",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi",
+                        "R",
+                        "S",
+                        "Sf"
+                    ],
+                    "dish_type": ""
                 }
             ]
         },
@@ -127,14 +185,24 @@
                     "dish_type": "Grill"
                 },
                 {
-                    "name": "Kokos-Pilz-Topf mit Glasnudeln",
+                    "name": "Kokos-Pilz-Gemüse-Topf mit Glasnudeln",
                     "price": "N/A",
                     "ingredients": [
                         "2",
                         "Kn",
-                        "Sf"
+                        "Sf",
+                        "Sl"
                     ],
                     "dish_type": "Vegan, Eintopf, Suppe"
+                },
+                {
+                    "name": "Erbsen-Cremesuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Mi",
+                        "Sl"
+                    ],
+                    "dish_type": ""
                 },
                 {
                     "name": "Ofenkartoffeln a la Caspar mit grüner Sauce und Ei",

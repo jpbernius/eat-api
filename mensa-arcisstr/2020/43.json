@@ -20,9 +20,16 @@
                     "dish_type": "Pasta"
                 },
                 {
-                    "name": "Pizza des Tages",
+                    "name": "Pizza Verdura mit Grillgemüse und Mozzarella",
                     "price": "N/A",
-                    "ingredients": [],
+                    "ingredients": [
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Mi",
+                        "Sl",
+                        "So"
+                    ],
                     "dish_type": "Pizza"
                 },
                 {
@@ -34,6 +41,18 @@
                         "Kn"
                     ],
                     "dish_type": "Vegan, Eintopf, Suppe"
+                },
+                {
+                    "name": "Leberspätzlesuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Ei",
+                        "Gl",
+                        "GlW",
+                        "S",
+                        "Sl"
+                    ],
+                    "dish_type": ""
                 },
                 {
                     "name": "Kartoffelgartin a la Caspar mit Erbsen-Minz-Püree und Ofenkürbis",
@@ -68,9 +87,18 @@
                     "dish_type": "Pasta"
                 },
                 {
-                    "name": "Pizza des Tages",
+                    "name": "Pizza mit Thunfisch",
                     "price": "N/A",
-                    "ingredients": [],
+                    "ingredients": [
+                        "1",
+                        "2",
+                        "Fi",
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Mi",
+                        "So"
+                    ],
                     "dish_type": "Pizza"
                 },
                 {
@@ -82,15 +110,34 @@
                     "dish_type": "Vegan, Eintopf, Suppe"
                 },
                 {
+                    "name": "Kartoffelsuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Sl"
+                    ],
+                    "dish_type": ""
+                },
+                {
+                    "name": "Bulgur mit Zucchini und Tomaten",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn"
+                    ],
+                    "dish_type": ""
+                },
+                {
                     "name": "Veganes Shakshuka a la Caspar mit Bratkartoffeln und Hummus",
                     "price": "N/A",
                     "ingredients": [
-                        "Kn"
+                        "Kn",
+                        "Se"
                     ],
                     "dish_type": "Vegetarisch"
                 },
                 {
-                    "name": "Schweineschnitzel Wiener Art",
+                    "name": "Schweineschnitzel Wiener Art mit Pomme und Bratensauce",
                     "price": "N/A",
                     "ingredients": [
                         "Gl",
@@ -119,9 +166,15 @@
                     "dish_type": "Pasta"
                 },
                 {
-                    "name": "Pizza des Tages",
+                    "name": "Pizza mit Gorgonzola",
                     "price": "N/A",
-                    "ingredients": [],
+                    "ingredients": [
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Mi",
+                        "So"
+                    ],
                     "dish_type": "Pizza"
                 },
                 {
@@ -140,6 +193,16 @@
                         "Sw"
                     ],
                     "dish_type": "Vegan, Eintopf, Suppe"
+                },
+                {
+                    "name": "Blumenkohlcremesuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Mi"
+                    ],
+                    "dish_type": ""
                 },
                 {
                     "name": "Ofenkartoffeln a la Caspar mit grüner Sauce und Ei",
