@@ -212,18 +212,6 @@
                     "dish_type": ""
                 },
                 {
-                    "name": "Bio-Linsen mit Bio-Spätzle",
-                    "price": "N/A",
-                    "ingredients": [
-                        "Gl",
-                        "GlW",
-                        "Kn",
-                        "Sl",
-                        "So"
-                    ],
-                    "dish_type": "Vegetarisch"
-                },
-                {
                     "name": "Panierte Sellerieschnitzel mit Farmersalat und Sojajoghurt",
                     "price": "N/A",
                     "ingredients": [
@@ -235,6 +223,18 @@
                         "Sl",
                         "So",
                         "Sw"
+                    ],
+                    "dish_type": "Vegetarisch"
+                },
+                {
+                    "name": "Bio-Linsen mit Bio-Spätzle",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Sl",
+                        "So"
                     ],
                     "dish_type": "Vegetarisch"
                 },

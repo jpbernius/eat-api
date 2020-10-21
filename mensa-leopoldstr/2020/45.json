@@ -188,12 +188,6 @@
                     "dish_type": ""
                 },
                 {
-                    "name": "Orange-Bomb-Detox (Eintopf mit Kürbis, Karotte, Kartoffel und Kokos)",
-                    "price": "N/A",
-                    "ingredients": [],
-                    "dish_type": "Vegetarisch"
-                },
-                {
                     "name": "Panierte Sellerieschnitzel mit Farmersalat und Sojajoghurt",
                     "price": "N/A",
                     "ingredients": [
@@ -206,6 +200,12 @@
                         "So",
                         "Sw"
                     ],
+                    "dish_type": "Vegetarisch"
+                },
+                {
+                    "name": "Orange-Bomb-Detox (Eintopf mit Kürbis, Karotte, Kartoffel und Kokos)",
+                    "price": "N/A",
+                    "ingredients": [],
                     "dish_type": "Vegetarisch"
                 },
                 {

@@ -165,6 +165,18 @@
                     "dish_type": "Pasta"
                 },
                 {
+                    "name": "Schweineschnitzel Wiener Art",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "S",
+                        "Sf",
+                        "Sl"
+                    ],
+                    "dish_type": "Grill"
+                },
+                {
                     "name": "Hähnchenspieß vom Grill mit Paprika und Zwiebel",
                     "price": "N/A",
                     "ingredients": [
@@ -255,6 +267,16 @@
                     "dish_type": "Grill"
                 },
                 {
+                    "name": "Bratwurstschnecke auf Sauerkraut",
+                    "price": "N/A",
+                    "ingredients": [
+                        "8",
+                        "S",
+                        "Sl"
+                    ],
+                    "dish_type": ""
+                },
+                {
                     "name": "Blumenkohl-Kartoffel-Curry",
                     "price": "N/A",
                     "ingredients": [
@@ -262,6 +284,17 @@
                         "Sl"
                     ],
                     "dish_type": "Vegan, Eintopf, Suppe"
+                },
+                {
+                    "name": "Gemüsecremesuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Mi",
+                        "Sl"
+                    ],
+                    "dish_type": ""
                 },
                 {
                     "name": "Kartoffelpflanzerl mit gebratenen Pilzen und Zwiebeln",

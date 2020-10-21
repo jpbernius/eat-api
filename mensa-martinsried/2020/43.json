@@ -115,6 +115,14 @@
                     "dish_type": "Vegetarisch"
                 },
                 {
+                    "name": "Balinesisches Kokoshähnchen",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Kn"
+                    ],
+                    "dish_type": "Fleisch"
+                },
+                {
                     "name": "Schweineschnitzel Wiener Art",
                     "price": "N/A",
                     "ingredients": [
@@ -126,14 +134,6 @@
                         "S",
                         "Sf",
                         "Sl"
-                    ],
-                    "dish_type": "Fleisch"
-                },
-                {
-                    "name": "Balinesisches Kokoshähnchen",
-                    "price": "N/A",
-                    "ingredients": [
-                        "Kn"
                     ],
                     "dish_type": "Fleisch"
                 }
@@ -152,9 +152,24 @@
                     "dish_type": "Pasta"
                 },
                 {
+                    "name": "Bratwurst",
+                    "price": "N/A",
+                    "ingredients": [
+                        "8",
+                        "R",
+                        "S"
+                    ],
+                    "dish_type": "Grill"
+                },
+                {
                     "name": "Hähnchenspieß vom Grill mit Paprika und Zwiebel",
                     "price": "N/A",
-                    "ingredients": [],
+                    "ingredients": [
+                        "Gl",
+                        "GlW",
+                        "Kn",
+                        "Mi"
+                    ],
                     "dish_type": "Grill"
                 },
                 {
@@ -244,13 +259,36 @@
                     "dish_type": "Grill"
                 },
                 {
+                    "name": "Bratwurst",
+                    "price": "N/A",
+                    "ingredients": [
+                        "8",
+                        "R",
+                        "S"
+                    ],
+                    "dish_type": ""
+                },
+                {
                     "name": "Blumenkohl-Kartoffel-Curry",
                     "price": "N/A",
                     "ingredients": [
+                        "Gl",
+                        "GlW",
                         "Kn",
+                        "Sf",
                         "Sl"
                     ],
                     "dish_type": "Vegan, Eintopf, Suppe"
+                },
+                {
+                    "name": "Brotsuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Gl",
+                        "GlR",
+                        "Sl"
+                    ],
+                    "dish_type": ""
                 },
                 {
                     "name": "Kartoffelpflanzerl mit gebratenen Pilzen und Zwiebeln",

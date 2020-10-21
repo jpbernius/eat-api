@@ -14,15 +14,6 @@
                     "dish_type": "Tagesgericht 3"
                 },
                 {
-                    "name": "Kartoffelgartin a la Caspar mit Erbsen-Minz-Püree und Ofenkürbis",
-                    "price": 2.6,
-                    "ingredients": [
-                        "Kn",
-                        "Mi"
-                    ],
-                    "dish_type": "Aktionsessen 4"
-                },
-                {
                     "name": "Pikante Chickenwings mit Barbecuesauce",
                     "price": 2.6,
                     "ingredients": [
@@ -31,6 +22,15 @@
                         "Kn",
                         "Sf",
                         "Sl"
+                    ],
+                    "dish_type": "Aktionsessen 4"
+                },
+                {
+                    "name": "Kartoffelgartin a la Caspar mit Erbsen-Minz-Püree und Ofenkürbis",
+                    "price": 2.6,
+                    "ingredients": [
+                        "Kn",
+                        "Mi"
                     ],
                     "dish_type": "Aktionsessen 4"
                 }
@@ -70,7 +70,13 @@
                 {
                     "name": "Hähnchenspieß vom Grill mit Paprika und Zwiebel",
                     "price": 2.4,
-                    "ingredients": [],
+                    "ingredients": [
+                        "Gl",
+                        "GlG",
+                        "GlW",
+                        "Kn",
+                        "Mi"
+                    ],
                     "dish_type": "Aktionsessen 3"
                 },
                 {

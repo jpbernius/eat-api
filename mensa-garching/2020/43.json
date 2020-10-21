@@ -271,6 +271,15 @@
                     "dish_type": "Vegan, Eintopf, Suppe"
                 },
                 {
+                    "name": "mediterrane Tomaten-Cremesuppe",
+                    "price": "N/A",
+                    "ingredients": [
+                        "Kn",
+                        "Mi"
+                    ],
+                    "dish_type": ""
+                },
+                {
                     "name": "Kartoffelpflanzerl mit gebratenen Pilzen und Zwiebeln",
                     "price": "N/A",
                     "ingredients": [
